@@ -1,0 +1,11 @@
+pdfplumber
+pandas
+numpy
+geopy
+scikit-learn
+prophet
+matplotlib
+seaborn
+jupyter
+openpyxl
+tqdm

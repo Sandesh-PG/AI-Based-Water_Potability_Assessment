@@ -1,0 +1,52 @@
+# ── Python ────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Virtual Environments ──────────────────────────
+venv/
+env/
+.env
+.venv
+
+# ── Jupyter Notebooks ─────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── ML / Data ─────────────────────────────────────
+ml/data/raw/          # PDFs are large, don't commit them
+ml/data/processed/    # Generated files, reproducible
+ml/data/geocoded/     # Generated files
+ml/models/*.pkl       # Trained model binaries
+
+# ── Environment Variables ─────────────────────────
+.env
+.env.local
+.env.*.local
+
+# ── Frontend (Node) ───────────────────────────────
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env.local
+
+# ── OS Files ──────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ───────────────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.user
+
+# ── Logs ──────────────────────────────────────────
+*.log
+logs/
