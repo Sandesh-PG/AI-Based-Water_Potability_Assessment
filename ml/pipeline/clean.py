@@ -226,15 +226,59 @@ def clean(input_path: str, output_path: str):
     return df
 
 
-# ─── CLI ──────────────────────────────────────────────────────────────────────
 
+def run_clean_for_all_years(input_dir: str, output_dir: str, exclude_years=None):
+    """
+    Automatically clean all Karnataka CSVs in processed folder.
+    """
+    from pathlib import Path
+    exclude_years = set(exclude_years or [])
+
+    input_path = Path(input_dir)
+    output_path = Path(output_dir)
+    output_path.mkdir(parents=True, exist_ok=True)
+
+    files = sorted(input_path.glob("karnataka_*.csv"))
+
+    for file in files:
+        year = int(file.stem.split("_")[1])
+
+        if year in exclude_years:
+            print(f"Skipping year {year}")
+            continue
+
+        out_file = output_path / f"karnataka_{year}_clean.csv"
+
+        print(f"\nCleaning {file.name} → {out_file.name}")
+
+        clean(str(file), str(out_file))  # your existing function
+
+        
+
+# ─── CLI ──────────────────────────────────────────────────────────────────────
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Clean extracted NWMP water quality CSV")
-    parser.add_argument("--input",  type=str,
-                        default="data/processed/karnataka_2023.csv",
-                        help="Input CSV from extract.py")
-    parser.add_argument("--output", type=str,
-                        default="data/processed/karnataka_2023_clean.csv",
-                        help="Output cleaned CSV path")
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Clean NWMP datasets")
+
+    parser.add_argument("--input", type=str, default=None,
+                        help="Single input CSV (optional)")
+
+    parser.add_argument("--output", type=str, default=None,
+                        help="Output CSV path")
+
+    parser.add_argument("--input_dir", type=str, default="data/processed",
+                        help="Directory containing yearly CSVs")
+
+    parser.add_argument("--output_dir", type=str, default="data/processed",
+                        help="Directory for cleaned outputs")
+
+    parser.add_argument("--exclude_years", nargs="*", type=int, default=[],
+                        help="Years to skip (e.g. 2023)")
+
     args = parser.parse_args()
-    clean(args.input, args.output)
+
+    if args.input:
+        clean(args.input, args.output)
+    else:
+        run_clean_for_all_years(args.input_dir, args.output_dir, args.exclude_years)

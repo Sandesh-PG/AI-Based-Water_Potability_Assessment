@@ -307,12 +307,48 @@ def run_extraction(year: int, state: str, data_dir: str, out_dir: str):
 
 # ─── CLI ──────────────────────────────────────────────────────────────────────
 
+def run_for_all_years(state: str, data_dir: str, out_dir: str, exclude_years=None):
+    """
+    Automatically run extraction for all year folders in raw data directory.
+    """
+    raw_root = Path(data_dir)
+    exclude_years = set(exclude_years or [])
+
+    year_dirs = sorted([
+        int(p.name) for p in raw_root.iterdir()
+        if p.is_dir() and p.name.isdigit()
+    ])
+
+    print(f"\nFound year folders: {year_dirs}")
+
+    for year in year_dirs:
+        if year in exclude_years:
+            print(f"Skipping excluded year: {year}")
+            continue
+
+        run_extraction(year, state, data_dir, out_dir)
+
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Extract NWMP water quality data from PDFs")
-    parser.add_argument("--year",     type=int, default=2023,           help="Year to extract (e.g. 2023)")
-    parser.add_argument("--state",    type=str, default="KARNATAKA",    help="State to filter (e.g. KARNATAKA)")
-    parser.add_argument("--data_dir", type=str, default="ml/data/raw",  help="Root raw data directory")
-    parser.add_argument("--out_dir",  type=str, default="ml/data/processed", help="Output directory for CSVs")
+    parser = argparse.ArgumentParser(description="Extract NWMP water quality data")
+
+    parser.add_argument("--year", type=int, default=None,
+                        help="Single year to extract (optional)")
+
+    parser.add_argument("--state", type=str, default="KARNATAKA",
+                        help="State to filter")
+
+    parser.add_argument("--data_dir", type=str, default="ml/data/raw",
+                        help="Root raw data directory")
+
+    parser.add_argument("--out_dir", type=str, default="ml/data/processed",
+                        help="Output directory")
+
+    parser.add_argument("--exclude_years", nargs="*", type=int, default=[],
+                        help="Years to skip (e.g. 2023)")
 
     args = parser.parse_args()
-    run_extraction(args.year, args.state, args.data_dir, args.out_dir)
+
+    if args.year:
+        run_extraction(args.year, args.state, args.data_dir, args.out_dir)
+    else:
+        run_for_all_years(args.state, args.data_dir, args.out_dir, args.exclude_years)

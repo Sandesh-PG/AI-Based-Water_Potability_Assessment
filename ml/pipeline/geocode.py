@@ -90,7 +90,6 @@ def clean_for_geocoding(location: str, state: str) -> list:
 
     return unique
 
-
 # ─── Geocoder ─────────────────────────────────────────────────────────────────
 
 def load_cache(cache_file: str) -> dict:
@@ -207,19 +206,62 @@ def run_geocoding(input_path: str, output_path: str, state: str):
 
     return df
 
+def run_geocode_for_all_years(input_dir: str, output_dir: str, state: str, exclude_years=None):
+    """
+    Automatically geocode all cleaned Karnataka datasets.
+    """
+    exclude_years = set(exclude_years or [])
+
+    input_path = Path(input_dir)
+    output_path = Path(output_dir)
+    output_path.mkdir(parents=True, exist_ok=True)
+
+    files = sorted(input_path.glob("karnataka_*_clean.csv"))
+
+    for file in files:
+        year = int(file.stem.split("_")[1])
+
+        if year in exclude_years:
+            print(f"Skipping year {year}")
+            continue
+
+        out_file = output_path / f"karnataka_{year}_geocoded.csv"
+
+        print(f"\n{'='*60}")
+        print(f"Processing year {year}")
+        print(f"{'='*60}")
+
+        run_geocoding(str(file), str(out_file), state)
 
 # ─── CLI ──────────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Geocode water quality monitoring locations")
-    parser.add_argument("--input",  type=str,
-                        default="data/processed/karnataka_2023_clean.csv",
-                        help="Input cleaned CSV")
-    parser.add_argument("--output", type=str,
-                        default="data/geocoded/karnataka_2023_geocoded.csv",
-                        help="Output geocoded CSV path")
-    parser.add_argument("--state",  type=str,
-                        default="Karnataka",
-                        help="State name for geocoding context")
+
+    parser.add_argument("--input", type=str, default=None,
+                        help="Single input CSV (optional)")
+
+    parser.add_argument("--output", type=str, default=None,
+                        help="Output CSV path")
+
+    parser.add_argument("--input_dir", type=str, default="data/processed",
+                        help="Directory containing cleaned CSVs")
+
+    parser.add_argument("--output_dir", type=str, default="data/geocoded",
+                        help="Directory for geocoded outputs")
+
+    parser.add_argument("--state", type=str, default="Karnataka",
+                        help="State name")
+
+    parser.add_argument("--exclude_years", nargs="*", type=int, default=[],
+                        help="Years to skip (e.g. 2023)")
+
     args = parser.parse_args()
-    run_geocoding(args.input, args.output, args.state)
+
+    # If single file provided → run single mode
+    if args.input:
+        run_geocoding(args.input, args.output, args.state)
+
+    # Otherwise → run automatic mode
+    else:
+        run_geocode_for_all_years(args.input_dir, args.output_dir, args.state, args.exclude_years)

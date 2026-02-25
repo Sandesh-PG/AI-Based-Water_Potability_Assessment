@@ -1,0 +1,92 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+3564,Borewell Water Near Mangalijyothi School Msw Site Vammanjoor,Unknown,KARNATAKA,2022,Unsafe,100.0,"pH Out of Range, High BOD, High Fecal Coliform",27.5,7.2,179.0,3.0,3.255,52.5,530.0,122.0,
+2780,"River Kali At U/S Of Wcpm, Dandeli",River (Medium/Minor),KARNATAKA,2022,Safe,5.63,None,25.5,7.55,7.1,77.0,2.4,0.32,53.0,117.0,27.0
+1444,River Kali At D/S West Coast Paper Mill (Wcpm),River (Medium/Minor),KARNATAKA,2022,Safe,6.15,None,26.5,7.55,7.1,92.0,2.6,0.32,67.5,139.5,45.0
+1894,River Kumaradhara U/S Of Uppinagady Town Before Confluence With Nethravathi,River (Medium/Minor),KARNATAKA,2022,Safe,4.91,None,28.5,7.3,7.5,147.5,2.0,1.51,50.5,340.0,
+3562,River Netravathi At Thumbe Water Supply Stations To Mangalore City,River (Medium/Minor),KARNATAKA,2022,Safe,5.05,None,28.0,7.15,7.35,158.0,2.0,1.895,56.5,480.0,
+3563,River Netravathi At U/S Of Uppinangadi Town,River (Medium/Minor),KARNATAKA,2022,Safe,7.24,None,28.5,7.1,7.55,148.0,3.0,1.87,57.5,435.0,
+1892,River Netravathi U/S Of Dharmastala At Water Supply Intake Point,River (Medium/Minor),KARNATAKA,2022,Safe,5.05,None,28.5,7.25,7.45,146.0,2.0,1.515,57.0,480.0,
+30051,River Godavari At Baser(Bangalore),River (Major),KARNATAKA,2022,Safe,6.68,None,,6.9,7.48,710.0,2.4,7.0,,22.0,
+1891,River Manjeera At D/S Intake Point To Bidar City,River (Major),KARNATAKA,2022,Safe,5.77,None,33.5,6.3,8.05,577.5,2.1,0.55,132.0,730.0,
+30055,River Manjeera At Janwada(Bangalore),River (Major),KARNATAKA,2022,Safe,5.94,None,28.0,8.1,7.6,532.0,2.1,4.22,140.0,900.0,
+1889,River Krishna - Ankali Bridge Along Chikkodi Kagwad Road,River (Major),KARNATAKA,2022,Unsafe,7.59,High Fecal Coliform,27.0,7.3,8.205,576.0,1.7,23.835,635.0,1600.0,390.0
+1182,River Krishna At U/S Of Ugarkhurd Barrage,River (Major),KARNATAKA,2022,Unsafe,7.43,High Fecal Coliform,28.5,7.7,8.285,546.0,1.75,23.15,635.0,1260.0,390.0
+2781,River Krishna At D/S Of Alamatti Dam,River (Major),KARNATAKA,2022,Unsafe,7.73,High Fecal Coliform,31.5,6.6,8.15,731.0,2.0,2.675,570.0,1260.0,355.0
+1028,River Krishna At Tintini Bridge,River (Major),KARNATAKA,2022,Unsafe,32.36,"High BOD, High Fecal Coliform, High Total Coliform",29.5,7.7,7.85,846.0,4.0,2.44,2335.0,17675.0,50.0
+1170,River Krishna At D/S Of Devasagar Bdg.,River (Major),KARNATAKA,2022,Unsafe,38.25,"High BOD, High Fecal Coliform, High Total Coliform",29.0,7.9,7.925,927.0,4.5,3.34,2065.0,46250.0,90.0
+2763,River Krishna At Asangi Village (Jamakandi Village),River (Major),KARNATAKA,2022,Unsafe,8.42,High Fecal Coliform,22.0,8.55,8.47,642.5,2.0,19.43,675.0,1600.0,445.0
+30056,River Krishna At Deodurga (Bangalore),River (Major),KARNATAKA,2022,Safe,7.06,None,26.0,8.9,8.325,782.0,2.0,37.0,275.0,1900.0,
+30057,River Bhima At Gangapur (Bangalore),River (Major),KARNATAKA,2022,Safe,8.69,None,27.5,8.9,7.9,1276.5,2.5,2.94,385.0,2000.0,
+1183,River Bhima At D/S Of Road Bridge At Gangapur Village,River (Major),KARNATAKA,2022,Unsafe,57.5,"High BOD, High Fecal Coliform, High Total Coliform",28.5,7.5,7.95,1506.0,11.0,5.97,4375.0,80800.0,
+1184,River Bhima At Ferozabad Village (D/S),River (Major),KARNATAKA,2022,Unsafe,51.1,"High BOD, High Fecal Coliform, High Total Coliform",28.5,7.4,7.835,1435.5,5.0,5.79,23085.0,420450.0,
+1167,River Bhima At D/S Of Bdg. Near Yadgir,River (Major),KARNATAKA,2022,Unsafe,9.73,"High Fecal Coliform, High Total Coliform",30.5,6.85,8.35,1106.5,2.5,0.35,535.0,2550.0,170.0
+1888,River Bhima At Confluence Of Jewargi Town Sewage Disposal Point,River (Major),KARNATAKA,2022,Unsafe,46.66,"High Fecal Coliform, High Total Coliform",28.5,7.6,7.97,1030.5,3.0,2.9,24620.0,2700800.0,
+1185,River Ghataprabha At D/S Of Mudhol Road Cross Bdg.,River (Major),KARNATAKA,2022,Unsafe,7.99,High Fecal Coliform,22.5,8.6,7.915,952.0,2.0,22.96,635.0,1260.0,390.0
+1163,River Ghataprabha At W.A. Point To Gokak Town,River (Major),KARNATAKA,2022,Unsafe,7.99,High Fecal Coliform,27.0,7.0,7.99,425.0,2.0,22.465,635.0,1260.0,380.0
+4104,River Ghatprabha Davalshwar Barrage Jackwell For Drinking Water Supply,River (Major),KARNATAKA,2022,Unsafe,8.37,High Fecal Coliform,22.0,7.65,8.375,674.0,2.05,24.08,635.0,1600.0,410.0
+1187,River Malprabha At D/S Of Khanapur Village,River (Major),KARNATAKA,2022,Unsafe,8.37,High Fecal Coliform,26.0,6.5,8.05,266.0,2.0,11.785,730.0,1260.0,380.0
+1164,"River Malaprabha At Water Abstraction Point To Hubli, Dharwad",River (Major),KARNATAKA,2022,Unsafe,7.04,High Fecal Coliform,25.0,6.8,8.3,370.0,1.5,9.435,675.0,1260.0,345.0
+1186,River Malaprabha At D/S Of Aihole Town,River (Major),KARNATAKA,2022,Unsafe,11.41,High Fecal Coliform,22.5,7.8,8.23,853.0,2.3,19.53,1095.0,2400.0,660.0
+2764,River Malaprabha At Badami Bridge,River (Major),KARNATAKA,2022,Unsafe,11.57,High Fecal Coliform,21.5,8.1,8.21,916.5,2.3,19.54,1135.0,2400.0,680.0
+1029,River Tungabhadra At Haralahalli Bridge,River (Major),KARNATAKA,2022,Safe,7.13,None,28.55,7.7,7.79,419.5,2.75,5.6,135.5,610.0,
+3558,River Tungabhadra At Dadesugur Bridge Gauging Station,River (Major),KARNATAKA,2022,Unsafe,17.03,"High BOD, High Total Coliform",30.0,7.5,7.85,1157.0,4.0,5.72,420.0,8085.0,40.0
+29,River Tungabhadra At Ulenoor,River (Major),KARNATAKA,2022,Unsafe,21.96,High BOD,29.5,5.4,8.165,578.5,8.5,7.64,470.5,1505.0,902.0
+38,River Tungabhadra At Honnali Bridge,River (Major),KARNATAKA,2022,Safe,6.4,None,27.0,7.15,7.75,389.0,2.55,2.1,81.5,520.0,
+2767,River Tungabhadra At U/S Of Harihar Polyfibers,River (Major),KARNATAKA,2022,Safe,6.95,None,27.05,7.35,7.625,326.0,2.5,2.6,165.5,920.0,
+2768,River Tungabhadra At D/S Of Harihar Polyfibers,River (Major),KARNATAKA,2022,Unsafe,14.1,High BOD,28.15,5.45,7.58,740.0,5.5,2.8,179.5,1465.0,
+2769,River Tungabhadra At Jackwell Point,River (Major),KARNATAKA,2022,Safe,6.87,None,28.15,6.15,7.69,392.0,2.7,2.7,100.5,591.0,
+2770,River Tungabhadra At Harihar Water Supply Intake,River (Major),KARNATAKA,2022,Unsafe,18.37,"High BOD, High Fecal Coliform, High Total Coliform",27.1,6.05,7.415,404.0,3.7,2.8,1112.0,7135.0,
+2776,River Tungabhadra At D/S Of Gangawathi,River (Major),KARNATAKA,2022,Unsafe,23.53,"High BOD, High Fecal Coliform",31.5,5.95,8.165,464.0,11.0,10.46,589.5,1470.0,1085.0
+2766,River Tungabhadra At New Bridge,River (Major),KARNATAKA,2022,Safe,6.19,None,27.6,7.1,7.63,347.5,2.2,2.6,176.5,747.0,
+30054,River Tungabhadra At Hochechalli (Bangalore),River (Major),KARNATAKA,2022,Unsafe,10.49,"High Fecal Coliform, High Total Coliform",25.5,9.05,8.3,749.0,2.5,1.78,535.0,3500.0,
+4495,River Tungabhadra At Aravi,River (Major),KARNATAKA,2022,Safe,7.12,None,28.65,7.7,7.845,408.0,2.85,7.4,93.5,520.0,
+4494,River Tungabhadra At Mylara,River (Major),KARNATAKA,2022,Safe,8.02,None,30.15,7.5,7.745,405.0,2.35,4.5,370.5,1654.5,
+1896,River Tungabhadra At Confluence Point Of Tunga And Bhadra At Kudli,River (Major),KARNATAKA,2022,Safe,5.66,None,26.0,7.25,7.53,203.0,2.05,2.3,150.0,635.0,
+1168,River Tunga At D/S Of Shimoga Town,River (Major),KARNATAKA,2022,Unsafe,12.53,"High Fecal Coliform, High Total Coliform",25.5,5.85,7.45,181.0,3.0,2.3,935.0,2660.0,
+1091,River Bhadra At Malleswaram D/S Of Kiocl,River (Major),KARNATAKA,2022,Safe,3.83,None,24.5,7.0,7.35,109.0,1.6,,27.0,215.0,
+1387,River Bhadra At D/S Of Bhadravathi,River (Major),KARNATAKA,2022,Unsafe,9.98,High Fecal Coliform,26.5,7.15,7.435,241.0,2.6,2.9,610.0,2210.0,
+1169,"River Bhadra At D/S Of Kiocl Road Bridge, Near Holehunnur",River (Major),KARNATAKA,2022,Safe,8.07,None,26.5,7.1,7.56,228.5,2.2,3.1,423.5,1860.0,
+2765,River Bhadra At U/S Of Mpm,River (Major),KARNATAKA,2022,Safe,5.64,None,25.5,6.55,7.585,190.0,1.95,3.9,163.0,820.0,
+2771,River Bhadra At U/S Of Kiocl,River (Major),KARNATAKA,2022,Safe,3.57,None,24.5,7.15,7.3,99.5,1.5,,23.0,180.0,
+1895,River Kagina D/S Of Sewage Disposal Point,River (Major),KARNATAKA,2022,Unsafe,44.88,"High Fecal Coliform, High Total Coliform",30.0,7.45,7.94,572.5,2.2,3.0,6140.0,80800.0,
+2777,River Kagina At Shahabad Bridge,River (Major),KARNATAKA,2022,Unsafe,46.66,"High Fecal Coliform, High Total Coliform",30.0,7.3,7.85,528.5,3.0,2.81,16585.0,175460.0,
+4500,"River Kagina At D/S Of Bridge Cum Barrage, Sadem",River (Major),KARNATAKA,2022,Unsafe,46.11,"High Fecal Coliform, High Total Coliform",28.0,6.75,7.65,462.5,2.75,2.29,47039.5,800270.0,
+1198,River Cauvery At Napokulu Bdg (D/S),River (Major),KARNATAKA,2022,Safe,3.86,None,22.0,7.0,7.55,105.5,1.6,0.64,28.0,245.0,
+1195,River Cauvery At Kushal Nagar U/S (Near Baichanahalli),River (Major),KARNATAKA,2022,Safe,3.95,None,22.0,6.95,7.75,104.0,1.6,0.88,36.5,320.0,
+1171,"River Cauvery At Sri Rangapattanna, D/S Of Road Bdg.",River (Major),KARNATAKA,2022,Safe,8.86,None,26.0,6.35,8.2,270.5,3.0,2.02,220.0,1650.0,
+1386,River Cauvery At D/S Of Karekuara Village,River (Major),KARNATAKA,2022,Safe,6.29,None,24.0,6.7,8.2,267.0,2.2,1.41,161.5,950.0,
+34,River Cauvery At Sathyagalam Bridge,River (Major),KARNATAKA,2022,Safe,6.2,None,24.5,6.5,8.25,344.5,2.0,1.75,190.0,1250.0,
+2773,River Cauvery At Bannur Bridge,River (Major),KARNATAKA,2022,Safe,6.75,None,27.0,6.65,8.0,341.5,2.4,1.29,150.5,1020.0,
+2774,River Cauvery At Ranganathittu,River (Major),KARNATAKA,2022,Safe,7.27,None,24.5,6.45,8.2,284.0,2.5,1.94,170.0,1300.0,
+3566,River Cauvery At Krs Dam Mandya,River (Major),KARNATAKA,2022,Safe,4.98,None,24.5,6.85,8.3,247.0,1.85,1.205,77.0,710.0,
+3568,River Cauvery At Water Supply Intake Point To Srirangapatna,River (Major),KARNATAKA,2022,Safe,8.12,None,25.5,6.4,8.25,263.5,2.9,1.92,176.0,1220.0,
+3569,River Cauvery At Water Supply Intake Point To Mandya Town,River (Major),KARNATAKA,2022,Safe,7.7,None,25.5,6.4,8.25,264.5,2.75,1.83,160.0,1200.0,
+3570,River Cauvery D/S Of Kr Nagar Bridge,River (Major),KARNATAKA,2022,Safe,6.34,None,25.0,6.5,8.15,255.5,2.25,2.3,126.5,1050.0,
+3571,River Cauvery U/S Of Kr Nagar,River (Major),KARNATAKA,2022,Safe,5.41,None,24.5,6.8,8.15,242.5,1.9,1.8,116.0,915.0,
+3573,River Cauvery D/S Of Kushalanagar Town,River (Major),KARNATAKA,2022,Safe,4.03,None,23.0,6.9,7.75,116.5,1.65,0.96,35.0,280.0,
+3576,River Cauvery At Water Supply Intake Point To Mysore,River (Major),KARNATAKA,2022,Safe,5.64,None,23.0,6.6,8.25,303.5,2.15,1.77,66.0,760.0,
+3578,River Cauvery D/S Of Maddur Water Supply Treatment Plant At Bachalli,River (Major),KARNATAKA,2022,Safe,5.65,None,23.0,6.6,8.0,339.5,2.0,1.63,130.5,865.0,
+3579,River Cauvery At Water Supply Intake Point At Kollegala Dasanapura,River (Major),KARNATAKA,2022,Safe,6.53,None,25.0,6.55,8.15,344.0,2.15,2.03,190.0,1250.0,
+3581,River Cauvery At Water Supply Intake Point At Tore Kadana Halli,River (Major),KARNATAKA,2022,Safe,5.54,None,23.5,6.75,8.25,352.0,2.0,1.9,119.0,785.0,
+4109,River Cauvery Before Confluence At Sangam,River (Major),KARNATAKA,2022,Unsafe,48.06,"High BOD, High Fecal Coliform, High Total Coliform",25.0,5.3,7.65,480.0,5.5,2.15,3961.5,46120.0,
+30052,River Cauvery At Ajjibore (Bangalore),River (Major),KARNATAKA,2022,Unsafe,46.1,"High Fecal Coliform, High Total Coliform",25.0,7.95,8.45,478.0,,0.62,13100.0,21100.0,
+4099,"River Cauvery D/S Bharachuki Falls, Sathegala, Kollegala",River (Major),KARNATAKA,2022,Safe,6.15,None,25.5,6.8,8.05,352.5,2.15,2.02,121.0,1120.0,
+4102,River Cauvery D/S At Bhagamandala Bridge,River (Major),KARNATAKA,2022,Safe,3.3,None,21.5,7.05,7.6,65.5,1.35,0.56,30.0,225.0,
+4103,"River Cauvery D/S At Kanive Ramalingeswara Temple Bridge, Kushalanagar",River (Major),KARNATAKA,2022,Safe,3.92,None,22.5,7.05,7.85,120.0,1.6,0.68,34.5,285.0,
+1893,"River Yagachi Near Pumping Station, Hassan City",River (Major),KARNATAKA,2022,Safe,6.33,None,25.0,6.4,7.6,425.0,2.05,,182.0,1310.0,12.5
+1199,River Hemavathi At D/S Of Holenarasipura Town At Ramadev Weir,River (Major),KARNATAKA,2022,Safe,5.06,None,25.0,7.0,7.5,198.0,1.9,,82.5,645.0,
+1166,"River Shimsha At D/S Of Bridge, Halagur",River (Major),KARNATAKA,2022,Unsafe,9.97,High BOD,24.0,6.1,8.25,489.5,3.4,2.25,255.0,1750.0,
+1200,"River Shimsha At D/S Of Highway Bridge, Yediyur",River (Major),KARNATAKA,2022,Unsafe,55.0,"High BOD, High Fecal Coliform, High Total Coliform",25.0,5.2,7.2,480.0,7.0,2.81,4865.0,31600.0,1757.0
+3567,River Shimsha D/S Near Madduar Town,River (Major),KARNATAKA,2022,Unsafe,9.66,High BOD,24.0,6.2,8.3,519.0,3.25,2.53,261.5,1750.0,
+3580,River Shimsha At Water Supply Intake Point At Shivansamudra,River (Major),KARNATAKA,2022,Safe,5.61,None,23.5,6.8,8.2,345.0,2.0,1.865,110.5,915.0,
+1165,River Arkavathi At D/S Of Kanakapura,River (Major),KARNATAKA,2022,Unsafe,62.42,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",25.0,3.7,7.2,966.0,25.0,9.93,4305.0,80460.0,2706.5
+4108,River Akravathi Before Confluence At Sangam,River (Major),KARNATAKA,2022,Unsafe,53.8,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",25.0,4.5,7.8,893.0,8.0,5.55,3510.5,46085.0,
+41,River Kabini At Cause Way Sattur,River (Major),KARNATAKA,2022,Safe,6.36,None,26.5,6.4,7.9,327.5,2.25,1.77,150.5,950.0,
+1197,River Kabini At Saragur Village D/S,River (Major),KARNATAKA,2022,Safe,5.74,None,24.5,6.65,8.1,239.0,2.0,1.655,115.5,1050.0,
+1445,River Kabini At Water Intake Of Kiadb At Nanjangud,River (Major),KARNATAKA,2022,Safe,6.78,None,25.5,6.45,7.95,281.0,2.2,1.53,195.5,1390.0,
+2775,"River Kabini At Bathing Ghat, Nanjanagud",River (Major),KARNATAKA,2022,Unsafe,8.92,High BOD,25.5,5.8,8.0,309.5,3.2,1.53,210.5,1220.0,
+3575,River Kabini U/S Intake Point To Nanjanagud & Gundlupet At Debur,River (Major),KARNATAKA,2022,Safe,6.08,None,26.5,6.45,8.1,255.0,2.15,2.3,126.5,1000.0,
+3577,River Kabini At Water Supply Intake Point To T. Narasipura,River (Major),KARNATAKA,2022,Safe,8.94,None,26.0,6.0,8.2,358.5,3.0,1.78,250.0,1600.0,
+1196,River Lakshmantirtha At D/S Of Hunsur Town,River (Major),KARNATAKA,2022,Unsafe,12.36,High BOD,27.0,5.6,7.9,549.5,4.0,2.53,420.0,2250.0,
+2772,River Lakshmantirtha At D/S Of Kattemalavadi,River (Major),KARNATAKA,2022,Unsafe,13.06,High BOD,25.0,5.5,7.9,543.5,4.1,3.25,500.0,2450.0,
+3572,River Lakshmantirtha At Water Supply Intake Point To Hunsur Town,River (Major),KARNATAKA,2022,Unsafe,11.0,High BOD,25.5,5.75,7.45,543.5,3.65,2.4,315.0,2050.0,
