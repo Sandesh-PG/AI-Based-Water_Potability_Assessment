@@ -9,3 +9,6 @@ seaborn
 jupyter
 openpyxl
 tqdm
+chromadb
+sentence-transformers
+transformers

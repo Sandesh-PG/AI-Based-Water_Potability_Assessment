@@ -1,0 +1,118 @@
+[
+  {
+    "station_name": "Dadesugur Bridge Gauging Station",
+    "water_body_type": "Unknown",
+    "violated_params": [
+      "High Fecal Coliform"
+    ],
+    "causes_of_pollution": [
+      "Human and animal waste",
+      "Raw vegetables contaminated with E. coli",
+      "Rainwater runoff containing cattle excreta",
+      "Inadequate treatment and protection of water during distribution",
+      "Contamination through ingress of foreign material, including soil or plants"
+    ],
+    "recommended_measures": [
+      "Protection of raw water supplies from human and animal waste",
+      "Adequate treatment and protection of water during distribution",
+      "Regular monitoring of water quality",
+      "Implementation of water safety plans",
+      "Public education on safe water handling and consumption practices"
+    ],
+    "retrieved_context_count": 5
+  },
+  {
+    "station_name": "Thumbe Water Supply Stations To Mangalore City",
+    "water_body_type": "Unknown",
+    "violated_params": [
+      "High Fecal Coliform",
+      "High Total Coliform"
+    ],
+    "causes_of_pollution": [
+      "Human waste from day-care centers, prisons, and psychiatric institutions",
+      "Poor sanitation and hygiene",
+      "Contaminated food and water",
+      "Flies as a transmission vector from contaminated faecal waste",
+      "Wastewater discharges",
+      "Geology and topography"
+    ],
+    "recommended_measures": [
+      "Protect raw water supplies from human waste",
+      "Implement adequate treatment and protection of water during distribution",
+      "Use Escherichia coli (or thermotolerant coliforms) as a reliable indicator for Shigella spp.",
+      "Monitor water quality regularly to prevent short-term peaks in pathogen concentration",
+      "Implement public health surveillance among representative communities to measure the effectiveness of water quality interventions"
+    ],
+    "retrieved_context_count": 5
+  },
+  {
+    "station_name": "D/S Shimsha Near Madduar Town",
+    "water_body_type": "Unknown",
+    "violated_params": [
+      "Low DO",
+      "High BOD",
+      "High Fecal Coliform",
+      "High Total Coliform"
+    ],
+    "causes_of_pollution": [
+      "Faecal contamination",
+      "Agricultural runoff",
+      "Agrochemicals",
+      "Manure",
+      "Poor catchment management"
+    ],
+    "recommended_measures": [
+      "Implement catchment management plan",
+      "Reduce agricultural runoff",
+      "Enforce proper waste disposal",
+      "Monitor water quality regularly",
+      "Implement effective treatment processes"
+    ],
+    "retrieved_context_count": 5
+  },
+  {
+    "station_name": "Water Supply Intake Point To T Narasipura",
+    "water_body_type": "Unknown",
+    "violated_params": [
+      "High Fecal Coliform"
+    ],
+    "causes_of_pollution": [
+      "Human or animal faeces",
+      "Wastewater discharges",
+      "Geology",
+      "Topography",
+      "Agricultural land use",
+      "Industrial activities"
+    ],
+    "recommended_measures": [
+      "Protect raw water supplies from human and animal waste",
+      "Adequate treatment and protection of water during distribution",
+      "Regular monitoring and surveillance of water quality",
+      "Implementation of water safety plan",
+      "Public education and awareness about waterborne diseases"
+    ],
+    "retrieved_context_count": 5
+  },
+  {
+    "station_name": "Water Supply Intake Point At Kollegala Dasanapura",
+    "water_body_type": "Unknown",
+    "violated_params": [
+      "High Fecal Coliform"
+    ],
+    "causes_of_pollution": [
+      "Human or animal faeces",
+      "Wastewater discharges",
+      "Geology",
+      "Topography",
+      "Agricultural land use"
+    ],
+    "recommended_measures": [
+      "Improve water treatment processes",
+      "Enhance disinfection processes",
+      "Regularly monitor water quality",
+      "Implement proper waste management practices",
+      "Conduct sanitary surveys"
+    ],
+    "retrieved_context_count": 5
+  }
+]
