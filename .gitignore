@@ -50,3 +50,13 @@ desktop.ini
 # ── Logs ──────────────────────────────────────────
 *.log
 logs/
+
+# ── RAG / ChromaDB ────────────────────────────────
+chroma_db/
+ml/analysis/chroma_db/
+
+# ── Large files ───────────────────────────────────
+*.pdf
+
+# ── Insights cache ────────────────────────────────
+ml/data/insights/
