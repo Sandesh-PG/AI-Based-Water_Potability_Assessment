@@ -1,14 +1,14 @@
 stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
 3564,Borewell Water Near Mangalijyothi School Msw Site Vammanjoor,Pond/Tank,KARNATAKA,2021,Safe,11.59,None,27.5,,7.0,158.5,3.0,5.77,466.0,940.0,
-1444,"River Kali At D/S West Coast Paper Mill (Wcpm) ,",Canal,KARNATAKA,2021,Safe,6.08,None,27.0,7.6,7.4,85.5,2.6,0.92,48.5,142.5,
-2780,"River Kali At U/S Of Wcpm, Dandeli,",Canal,KARNATAKA,2021,Safe,5.57,None,26.5,7.5,7.25,85.0,2.4,0.17,37.0,117.5,
-1894,River Kumaradhara - U/S Of Uppinagady Town Before Confluence With Nethravathi,Canal,KARNATAKA,2021,Unsafe,8.41,High Fecal Coliform,28.5,7.35,7.15,133.0,2.0,2.45,820.0,865.0,
+1444,"River Kali At D/S West Coast Paper Mill (Wcpm) ,",River,KARNATAKA,2021,Safe,6.08,None,27.0,7.6,7.4,85.5,2.6,0.92,48.5,142.5,
+2780,"River Kali At U/S Of Wcpm, Dandeli,",River,KARNATAKA,2021,Safe,5.57,None,26.5,7.5,7.25,85.0,2.4,0.17,37.0,117.5,
+1894,River Kumaradhara - U/S Of Uppinagady Town Before Confluence With Nethravathi,River,KARNATAKA,2021,Unsafe,8.41,High Fecal Coliform,28.5,7.35,7.15,133.0,2.0,2.45,820.0,865.0,
 3562,River Netravathi At Thumbe Water Supply Stations To Mangalore City,River,KARNATAKA,2021,Unsafe,8.38,High Fecal Coliform,28.5,7.35,7.15,142.0,2.0,3.15,808.5,880.0,
 3563,River Netravathi At U/S Of Upiingady Town,River,KARNATAKA,2021,Unsafe,9.57,High Fecal Coliform,28.5,7.6,7.05,151.0,2.5,2.5,816.5,940.0,
 1892,River Netravathi U/S Of Dharmastala At Water Supply Intake Point,River,KARNATAKA,2021,Unsafe,8.39,High Fecal Coliform,28.5,7.1,7.05,133.0,2.0,2.35,810.5,880.0,
 30051,River Godavari At Baser(Bangalore),River,KARNATAKA,2021,Safe,4.04,None,,6.8,7.4,680.0,1.8,7.12,6.0,26.0,
 1891,River Manjeera At D/S In Intake Point To Bidar City,River,KARNATAKA,2021,Safe,9.16,None,27.0,6.5,7.95,500.0,2.5,0.34,460.0,2210.0,
-30055,River Manjeera At Janwada(Bangalore),Pond/Tank,KARNATAKA,2021,Safe,8.71,None,,,8.4,498.0,2.5,0.32,170.0,920.0,
+30055,River Manjeera At Janwada(Bangalore),River,KARNATAKA,2021,Safe,8.71,None,,,8.4,498.0,2.5,0.32,170.0,920.0,
 1889,River Krishna - Ankali Bridge Along Chikkodi Kagwad Road,River,KARNATAKA,2021,Unsafe,8.15,High Fecal Coliform,26.5,6.45,8.15,518.0,1.9,4.6,730.0,1270.0,410.0
 1182,"River Krishna At U/S Of Ugarkhurd Barrage,",River,KARNATAKA,2021,Unsafe,9.22,High Fecal Coliform,27.5,6.65,8.05,520.0,1.9,4.305,930.0,1600.0,410.0
 2781,"River Krishna At D/S Of Alamatti Dam,",River,KARNATAKA,2021,Unsafe,8.15,High Fecal Coliform,28.5,6.9,8.15,1138.0,1.9,3.93,730.0,1260.0,445.0
@@ -74,9 +74,9 @@ stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_s
 4102,River Cauvery D/S At Bhagamandala Bridge,River,KARNATAKA,2021,Unsafe,6.22,Low DO,21.0,4.3,7.5,71.0,1.4,0.525,30.0,245.0,
 4103,"River Cauvery D/S At Kanive Ramalingeswara Temple Bridge, Kushalnagar",River,KARNATAKA,2021,Safe,3.79,None,23.5,6.8,7.75,107.5,1.55,1.05,28.5,295.0,
 30052,River Cauvery At Ajjibore (Bangalore),River,KARNATAKA,2021,Unsafe,14.03,"High Fecal Coliform, High Total Coliform",24.0,9.65,8.45,359.0,1.4,0.57,1666.5,5315.0,
-1893,River Yagachi Near Pumping Station. Hassan City,Canal,KARNATAKA,2021,Safe,8.35,None,24.0,5.15,7.4,385.0,2.3,0.3,320.0,2450.0,
-1199,River Hemavati At D/S Of Holenarasipura Town At Ramadevala Weir,Canal,KARNATAKA,2021,Safe,4.55,None,25.5,6.5,7.2,150.0,1.5,0.3,124.0,900.0,
-1166,"River Shimsha At D/S Of Bridge, Halagur,",Canal,KARNATAKA,2021,Unsafe,10.51,High BOD,24.5,5.7,8.45,542.5,3.4,2.95,350.0,1950.0,
+1893,River Yagachi Near Pumping Station. Hassan City,River,KARNATAKA,2021,Safe,8.35,None,24.0,5.15,7.4,385.0,2.3,0.3,320.0,2450.0,
+1199,River Hemavati At D/S Of Holenarasipura Town At Ramadevala Weir,River,KARNATAKA,2021,Safe,4.55,None,25.5,6.5,7.2,150.0,1.5,0.3,124.0,900.0,
+1166,"River Shimsha At D/S Of Bridge, Halagur,",River,KARNATAKA,2021,Unsafe,10.51,High BOD,24.5,5.7,8.45,542.5,3.4,2.95,350.0,1950.0,
 1200,"River Shimsha At D/S Of Highway Bridge, Yediyar,",River,KARNATAKA,2021,Unsafe,49.99,"High BOD, High Fecal Coliform, High Total Coliform",25.0,6.6,7.0,349.5,4.5,0.9,8100.0,88000.0,91.5
 3567,River Shimsha D/S Near Madduar Town,River,KARNATAKA,2021,Safe,8.96,None,25.5,5.9,7.8,449.0,3.0,1.9,255.0,1600.0,
 3580,River Shimsha At Water Supply Intake Point At Madduar,River,KARNATAKA,2021,Safe,5.88,None,24.0,6.5,8.05,280.0,2.0,2.35,151.0,1045.0,

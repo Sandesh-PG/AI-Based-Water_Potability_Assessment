@@ -86,15 +86,6 @@ FILE_TO_WATER_BODY = {
     "tank":          WATER_BODY_POND_TANK,
 }
 
-WATER_BODY_TEXT_RULES = [
-    (WATER_BODY_DRAIN, [r"\bdrain\b", r"\bstp\b", r"\bwtp\b"]),
-    (WATER_BODY_COASTAL, [r"\bmarine\b", r"\bsea\b", r"\bcoastal\b", r"\bbeach\b", r"\bcreek\b"]),
-    (WATER_BODY_CANAL, [r"\bcanal\b"]),
-    (WATER_BODY_POND_TANK, [r"\bpond\b", r"\btank\b", r"\btanks\b"]),
-    (WATER_BODY_RIVER, [r"\briver\b"]),
-]
-
-
 RIVER_PARAMETER_NAMES = [
     "temperature_avg",
     "do_avg",
@@ -154,36 +145,40 @@ def avg(a, b) -> float | None:
     return round((fa + fb) / 2, 4)
 
 
-def _detect_water_body_from_text(text: str) -> str | None:
-    """Detect water body type from free text using keyword rules."""
-    lowered = (text or "").lower()
-    if not lowered.strip():
-        return None
+def detect_water_body_type(pdf_path: str, page_text: str | None = None, schema: str | None = None) -> str:
+    """Detect water body type using page text first, then schema, then filename fallback."""
+    text_rules = [
+        (WATER_BODY_RIVER, ["river"]),
+        (WATER_BODY_CANAL, ["canal"]),
+        (WATER_BODY_POND_TANK, ["pond", "tank"]),
+        (WATER_BODY_COASTAL, ["marine", "sea", "coastal", "beach"]),
+        (WATER_BODY_DRAIN, ["drain", "stp", "wtp"]),
+    ]
+    detected = _match_water_body_keywords(page_text or "", text_rules)
+    if detected:
+        return detected
 
-    for label, patterns in WATER_BODY_TEXT_RULES:
-        if any(re.search(pattern, lowered, flags=re.IGNORECASE) for pattern in patterns):
-            return label
+    if schema == "river":
+        return WATER_BODY_RIVER
+    if schema == "groundwater":
+        return "Groundwater"
+    if schema == "coastal":
+        return WATER_BODY_COASTAL
 
-    return None
+    name = pdf_path.lower()
+    filename_rules = [
+        (WATER_BODY_RIVER, ["river"]),
+        (WATER_BODY_CANAL, ["canal"]),
+        (WATER_BODY_POND_TANK, ["pond", "tank"]),
+        (WATER_BODY_COASTAL, ["marine", "sea"]),
+        (WATER_BODY_DRAIN, ["drain"]),
+    ]
+    detected = _match_water_body_keywords(name, filename_rules)
+    if detected:
+        return detected
 
-
-def detect_water_body_type(pdf_path: str, page_text: str | None = None) -> str:
-    """Detect water body type using page text first, then filename fallback."""
-    text_type = _detect_water_body_from_text(page_text or "")
-    if text_type:
-        return text_type
-
-    file_name = os.path.basename(pdf_path).lower()
-
-    # Improved fallback: run keyword detection on normalized filename text.
-    normalized_name = file_name.replace("_", " ").replace("-", " ")
-    filename_type = _detect_water_body_from_text(normalized_name)
-    if filename_type:
-        return filename_type
-
-    # Legacy mapping compatibility for irregular names.
     for key, label in FILE_TO_WATER_BODY.items():
-        if key in file_name:
+        if key in name:
             return label
 
     return WATER_BODY_OTHER
@@ -194,6 +189,19 @@ def clean_location(text: str) -> str:
     if not text:
         return ""
     return " ".join(str(text).split()).strip()
+
+
+def _match_water_body_keywords(text: str, rules: list[tuple[str, list[str]]]) -> str | None:
+    """Return the first matching water-body label for the given text."""
+    lowered = (text or "").lower()
+    if not lowered.strip():
+        return None
+
+    for label, keywords in rules:
+        if any(keyword in lowered for keyword in keywords):
+            return label
+
+    return None
 
 
 def _pairwise_parameter_averages(values: list, parameter_names: list[str]) -> dict:
@@ -426,10 +434,10 @@ def extract_from_pdf(pdf_path: str, state_filter: str, year: int) -> pd.DataFram
             if state_filter.upper() not in text.upper():
                 continue  # Skip pages that don't mention the state at all
 
-            water_body_type = detect_water_body_type(pdf_path, text)
+            schema = detect_schema(text, has_type_col)
+            water_body_type = detect_water_body_type(pdf_path, text, schema)
             pdf_name = os.path.basename(pdf_path)
             print(f"    {pdf_name} -> detected water body: {water_body_type}")
-            schema = detect_schema(text, has_type_col)
             print(f"    Page {page_number}: Detected schema = {schema}")
             rows = extract_rows_from_page(page, state_filter, water_body_type, schema)
             all_rows.extend(rows)
