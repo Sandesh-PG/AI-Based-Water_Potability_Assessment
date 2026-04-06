@@ -14,11 +14,11 @@ stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_s
 4497,River Kengre Hole (Sirsi),River,KARNATAKA,2020,Safe,5.33,None,25.0,7.4,7.1,86.5,2.35,0.405,17.5,52.0,
 4499,"Benniothora Reservoir,Benniothora Dam, Kurkota Village",River,KARNATAKA,2020,Unsafe,10.31,"High Fecal Coliform, High Total Coliform",27.5,7.0,8.2,496.5,2.5,1.37,597.0,2970.0,
 4500,"River Kagina At D/S Of Bridge Cum Barrage, Sadem Tq",River,KARNATAKA,2020,Safe,9.06,None,28.5,7.1,8.2,449.0,2.5,0.45,435.0,2210.0,
-1182,"Krishna At U/S Of Ugarkhurd Barrage,",Drain/STP/WTP,KARNATAKA,2020,Unsafe,9.09,High Fecal Coliform,27.0,7.6,8.05,575.0,2.5,2.325,635.0,1250.0,335.0
-2781,"Krishna At D/S Of Alamatti Dam,",Drain/STP/WTP,KARNATAKA,2020,Unsafe,11.09,"High BOD, High Fecal Coliform",30.5,7.55,7.75,617.5,3.4,1.365,635.0,1250.0,410.0
-1181,"Krishna At D/S Of Narayanpura Dam,",Drain/STP/WTP,KARNATAKA,2020,Unsafe,10.2,High Fecal Coliform,30.5,7.7,7.75,699.5,3.0,2.91,635.0,1250.0,380.0
-1028,"Krishna At Tintini Bridge,",Drain/STP/WTP,KARNATAKA,2020,Safe,6.93,None,28.0,7.4,8.15,756.5,2.0,0.54,310.0,1560.0,
-1170,Krishna At D/S Of Devasagar Bldg.,Drain/STP/WTP,KARNATAKA,2020,Safe,8.18,None,29.0,7.4,8.15,1096.5,2.5,0.62,345.0,1560.0,
+1182,"Krishna At U/S Of Ugarkhurd Barrage,",River,KARNATAKA,2020,Unsafe,9.09,High Fecal Coliform,27.0,7.6,8.05,575.0,2.5,2.325,635.0,1250.0,335.0
+2781,"Krishna At D/S Of Alamatti Dam,",River,KARNATAKA,2020,Unsafe,11.09,"High BOD, High Fecal Coliform",30.5,7.55,7.75,617.5,3.4,1.365,635.0,1250.0,410.0
+1181,"Krishna At D/S Of Narayanpura Dam,",River,KARNATAKA,2020,Unsafe,10.2,High Fecal Coliform,30.5,7.7,7.75,699.5,3.0,2.91,635.0,1250.0,380.0
+1028,"Krishna At Tintini Bridge,",River,KARNATAKA,2020,Safe,6.93,None,28.0,7.4,8.15,756.5,2.0,0.54,310.0,1560.0,
+1170,Krishna At D/S Of Devasagar Bldg.,River,KARNATAKA,2020,Safe,8.18,None,29.0,7.4,8.15,1096.5,2.5,0.62,345.0,1560.0,
 1185,"Ghatprabha At D/S Of Mudhol Rd. Cross Bdg.,",River,KARNATAKA,2020,Unsafe,7.4,High Fecal Coliform,19.5,7.6,8.25,647.0,1.8,3.095,600.0,1250.0,355.0
 1163,"Ghatprabha At W.A. Point To Gokak Town,",River,KARNATAKA,2020,Unsafe,7.9,High Fecal Coliform,27.0,7.35,7.85,513.0,2.1,2.5,560.0,1250.0,305.0
 1187,"Malprabha At D/S Of Khanapur Village,",River,KARNATAKA,2020,Unsafe,10.24,High Fecal Coliform,25.0,8.15,7.8,197.0,2.9,1.3,700.0,1250.0,360.0
