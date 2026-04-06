@@ -1,6 +1,6 @@
 stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
-3564,Borewell Water Near Mangalijyothi School Msw Site Vammanjoor,Other,KARNATAKA,2019,Unsafe,33.85,"pH Out of Range, High BOD",27.5,,4.2,7.05,169.0,3.0,1.15,2.0,
-4093,"M/S Sugureshwara Ind, 196 (P), Kiadb Ind Growth Centre, Chika Sugar, Raichur",Other,KARNATAKA,2019,Unsafe,61.54,"pH Out of Range, High BOD",30.0,,5.0,7.4,500.0,8.8,,,
+3564,Borewell Water Near Mangalijyothi School Msw Site Vammanjoor,Groundwater,KARNATAKA,2019,Unsafe,11.81,pH Out of Range,27.5,,4.2,7.05,,3.0,1.15,2.0,
+4093,"M/S Sugureshwara Ind, 196 (P), Kiadb Ind Growth Centre, Chika Sugar, Raichur",Groundwater,KARNATAKA,2019,Unsafe,23.08,pH Out of Range,30.0,,5.0,7.4,,8.8,,,
 4499,"Benniothora Dam, Kurkota Village",River,KARNATAKA,2019,Safe,7.37,None,28.5,7.15,8.1,539.0,2.4,0.31,260.0,1250.0,
 4500,"Kagina River At D/S Of Bridge Cum Barrage, Sadem Tq",River,KARNATAKA,2019,Safe,6.51,None,27.5,6.9,8.15,517.5,2.3,0.34,205.0,730.0,
 1444,"Kali At D/S West Coast Paper Mill (Wcpm) ,",River,KARNATAKA,2019,Unsafe,21.45,High BOD,26.0,7.7,7.25,80.0,14.3,0.115,192.5,847.5,
@@ -10,12 +10,12 @@ stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_s
 1892,Netravathi U/S Of Dharmastala At Water Supply Intake Point,River,KARNATAKA,2019,Unsafe,9.31,High BOD,28.5,6.35,7.1,157.0,4.0,0.785,63.5,220.0,
 3562,Netravathi At Thumbe Water Supply Stations To Mangalore City,River,KARNATAKA,2019,Safe,5.22,None,28.0,6.5,7.15,153.0,2.0,1.0,96.0,495.0,
 3563,Netravathi At U/S Of Upiingady Town,River,KARNATAKA,2019,Safe,5.24,None,27.5,6.5,7.05,155.0,2.0,1.08,87.0,560.0,
-1889,Krishna - Ankali Bridge Along Chikkodi Kagwad Road,Drain/STP/WTP,KARNATAKA,2019,Unsafe,9.96,High Fecal Coliform,26.0,7.55,7.8,765.5,1.55,6.7,1150.0,2400.0,253.0
-1182,"Krishna At U/S Of Ugarkhurd Barrage,",Drain/STP/WTP,KARNATAKA,2019,Unsafe,10.79,High Fecal Coliform,25.0,7.8,7.95,634.0,2.3,5.95,1010.0,2050.0,253.0
-2781,"Krishna At D/S Of Alamatti Dam,",Drain/STP/WTP,KARNATAKA,2019,Unsafe,8.7,High Fecal Coliform,31.0,7.7,8.4,1876.0,2.45,23.4,585.0,1150.0,148.0
-1181,"Krishna At D/S Of Narayanpura Dam,",Drain/STP/WTP,KARNATAKA,2019,Unsafe,10.41,High Fecal Coliform,30.0,7.7,8.5,1845.0,2.25,22.6,985.0,1850.0,148.0
-1028,"Krishna At Tintini Bridge,",Drain/STP/WTP,KARNATAKA,2019,Safe,6.88,None,28.0,7.1,8.25,638.0,2.3,0.285,230.0,1070.0,
-1170,"Krishna At D/S Of Devasagar Bdg.,",Drain/STP/WTP,KARNATAKA,2019,Unsafe,22.63,High BOD,28.5,7.4,8.35,1235.0,33.25,0.25,345.0,1560.0,
+1889,Krishna - Ankali Bridge Along Chikkodi Kagwad Road,River,KARNATAKA,2019,Unsafe,9.96,High Fecal Coliform,26.0,7.55,7.8,765.5,1.55,6.7,1150.0,2400.0,253.0
+1182,"Krishna At U/S Of Ugarkhurd Barrage,",River,KARNATAKA,2019,Unsafe,10.79,High Fecal Coliform,25.0,7.8,7.95,634.0,2.3,5.95,1010.0,2050.0,253.0
+2781,"Krishna At D/S Of Alamatti Dam,",River,KARNATAKA,2019,Unsafe,8.7,High Fecal Coliform,31.0,7.7,8.4,1876.0,2.45,23.4,585.0,1150.0,148.0
+1181,"Krishna At D/S Of Narayanpura Dam,",River,KARNATAKA,2019,Unsafe,10.41,High Fecal Coliform,30.0,7.7,8.5,1845.0,2.25,22.6,985.0,1850.0,148.0
+1028,"Krishna At Tintini Bridge,",River,KARNATAKA,2019,Safe,6.88,None,28.0,7.1,8.25,638.0,2.3,0.285,230.0,1070.0,
+1170,"Krishna At D/S Of Devasagar Bdg.,",River,KARNATAKA,2019,Unsafe,22.63,High BOD,28.5,7.4,8.35,1235.0,33.25,0.25,345.0,1560.0,
 1183,"Bhima At D/S Of Road Bridge At Gangapur Village,",River,KARNATAKA,2019,Unsafe,10.32,High Fecal Coliform,28.0,6.6,8.05,660.0,3.0,0.35,545.0,1850.0,
 1184,"Bhima At Ferozabad Village (D/S),",River,KARNATAKA,2019,Safe,8.74,None,29.5,7.05,8.45,702.5,3.0,0.3,305.0,1070.0,
 1167,"Bhima At D/S Of Bdg. Near Yadgir,",River,KARNATAKA,2019,Unsafe,10.97,High BOD,31.0,7.0,8.4,947.0,3.25,0.25,500.0,2200.0,
