@@ -27,6 +27,13 @@ from pathlib import Path
 
 # ─── Constants ────────────────────────────────────────────────────────────────
 
+WATER_BODY_RIVER = "River"
+WATER_BODY_CANAL = "Canal"
+WATER_BODY_POND_TANK = "Pond/Tank"
+WATER_BODY_COASTAL = "Coastal"
+WATER_BODY_DRAIN = "Drain/STP/WTP"
+WATER_BODY_OTHER = "Other"
+
 # Final column names after averaging min/max
 FINAL_COLUMNS = [
     "stn_code",
@@ -43,6 +50,9 @@ FINAL_COLUMNS = [
     "fecal_coliform_avg",
     "total_coliform_avg",
     "fecal_streptococci_avg",
+    "total_dissolved_solids_avg",
+    "fluoride_avg",
+    "arsenic_avg",
 ]
 
 # Rows to skip — these are header/criteria rows embedded in the PDFs
@@ -59,13 +69,56 @@ SKIP_PATTERNS = [
 
 # Map PDF file name patterns to water body type labels
 FILE_TO_WATER_BODY = {
-    "med_min_river": "River (Medium/Minor)",
-    "river-data":    "River (Major)",
-    "creek_marine":  "Coastal/Marine/Beach",
-    "canals":        "Canal",
-    "drains":        "Drain/STP/WTP",
-    "pond":          "Pond/Tank",
+    "med_min_river": WATER_BODY_RIVER,
+    "river-data":    WATER_BODY_RIVER,
+    "river":         WATER_BODY_RIVER,
+    "creek_marine":  WATER_BODY_COASTAL,
+    "marine":        WATER_BODY_COASTAL,
+    "sea":           WATER_BODY_COASTAL,
+    "coastal":       WATER_BODY_COASTAL,
+    "beach":         WATER_BODY_COASTAL,
+    "canals":        WATER_BODY_CANAL,
+    "canal":         WATER_BODY_CANAL,
+    "drains":        WATER_BODY_DRAIN,
+    "stp":           WATER_BODY_DRAIN,
+    "wtp":           WATER_BODY_DRAIN,
+    "pond":          WATER_BODY_POND_TANK,
+    "tank":          WATER_BODY_POND_TANK,
 }
+
+WATER_BODY_TEXT_RULES = [
+    (WATER_BODY_DRAIN, [r"\bdrain\b", r"\bstp\b", r"\bwtp\b"]),
+    (WATER_BODY_COASTAL, [r"\bmarine\b", r"\bsea\b", r"\bcoastal\b", r"\bbeach\b", r"\bcreek\b"]),
+    (WATER_BODY_CANAL, [r"\bcanal\b"]),
+    (WATER_BODY_POND_TANK, [r"\bpond\b", r"\btank\b", r"\btanks\b"]),
+    (WATER_BODY_RIVER, [r"\briver\b"]),
+]
+
+
+RIVER_PARAMETER_NAMES = [
+    "temperature_avg",
+    "do_avg",
+    "ph_avg",
+    "conductivity_avg",
+    "bod_avg",
+    "nitrate_avg",
+    "fecal_coliform_avg",
+    "total_coliform_avg",
+    "fecal_streptococci_avg",
+]
+
+GROUNDWATER_PARAMETER_NAMES = [
+    "temperature_avg",
+    "ph_avg",
+    "conductivity_avg",
+    "bod_avg",
+    "nitrate_avg",
+    "fecal_coliform_avg",
+    "total_coliform_avg",
+    "total_dissolved_solids_avg",
+    "fluoride_avg",
+    "arsenic_avg",
+]
 
 
 # ─── Helpers ──────────────────────────────────────────────────────────────────
@@ -101,13 +154,39 @@ def avg(a, b) -> float | None:
     return round((fa + fb) / 2, 4)
 
 
-def detect_water_body_type(pdf_path: str) -> str:
-    """Guess water body type from filename."""
-    name = os.path.basename(pdf_path).lower()
-    for key, label in FILE_TO_WATER_BODY.items():
-        if key in name:
+def _detect_water_body_from_text(text: str) -> str | None:
+    """Detect water body type from free text using keyword rules."""
+    lowered = (text or "").lower()
+    if not lowered.strip():
+        return None
+
+    for label, patterns in WATER_BODY_TEXT_RULES:
+        if any(re.search(pattern, lowered, flags=re.IGNORECASE) for pattern in patterns):
             return label
-    return "Unknown"
+
+    return None
+
+
+def detect_water_body_type(pdf_path: str, page_text: str | None = None) -> str:
+    """Detect water body type using page text first, then filename fallback."""
+    text_type = _detect_water_body_from_text(page_text or "")
+    if text_type:
+        return text_type
+
+    file_name = os.path.basename(pdf_path).lower()
+
+    # Improved fallback: run keyword detection on normalized filename text.
+    normalized_name = file_name.replace("_", " ").replace("-", " ")
+    filename_type = _detect_water_body_from_text(normalized_name)
+    if filename_type:
+        return filename_type
+
+    # Legacy mapping compatibility for irregular names.
+    for key, label in FILE_TO_WATER_BODY.items():
+        if key in file_name:
+            return label
+
+    return WATER_BODY_OTHER
 
 
 def clean_location(text: str) -> str:
@@ -117,116 +196,242 @@ def clean_location(text: str) -> str:
     return " ".join(str(text).split()).strip()
 
 
+def _pairwise_parameter_averages(values: list, parameter_names: list[str]) -> dict:
+    """Convert a flat min/max value list into parameter averages."""
+    row_data = {}
+    expected_values = len(parameter_names) * 2
+
+    if len(values) < expected_values:
+        values = values + [None] * (expected_values - len(values))
+
+    for index, parameter_name in enumerate(parameter_names):
+        left = values[index * 2] if index * 2 < len(values) else None
+        right = values[index * 2 + 1] if index * 2 + 1 < len(values) else None
+        row_data[parameter_name] = avg(left, right)
+
+    return row_data
+
+
+def detect_schema(page_text: str, has_type_col: bool) -> str:
+    """Detect the schema for a page using the page text.
+
+    Page content drives the choice. File-name hints are only used as a fallback
+    when the page text is too noisy to classify.
+    """
+    upper_text = (page_text or "").upper()
+
+    if "TYPE WATER BODY" in upper_text:
+        return "coastal"
+
+    groundwater_markers = [
+        "ARSENIC",
+        "FLUORIDE",
+        "TDS",
+        "TOTAL DISSOLVED SOLIDS",
+        "GROUND WATER",
+        "GROUNDWATER",
+        "BOREWELL",
+    ]
+    if any(marker in upper_text for marker in groundwater_markers):
+        return "groundwater"
+
+    river_markers = ["DISSOLVED OXYGEN", "WATER QUALITY", "RIVER"]
+    if any(marker in upper_text for marker in river_markers):
+        return "river"
+
+    if has_type_col:
+        return "coastal"
+
+    return "river"
+
+
+def river_schema_parser(row: list, water_body_type: str) -> dict | None:
+    """Parse the standard river schema.
+
+    River tables are expected to contain stn_code, location, state, followed by
+    min/max pairs for the nine core parameters.
+    """
+    values = [c for c in row if c is not None]
+    if len(values) < 5:
+        return None
+
+    stn_code = str(values[0]).strip()
+    location = clean_location(values[1])
+    state = str(values[2]).strip()
+    params = values[3:]
+
+    # Standard river tables store every parameter as (min, max) pairs in order.
+    # Keep this mapping explicit to prevent index drift and column shifting.
+    temperature_avg = avg(params[0], params[1]) if len(params) > 1 else None
+    do_avg = avg(params[2], params[3]) if len(params) > 3 else None
+    ph_avg = avg(params[4], params[5]) if len(params) > 5 else None
+    conductivity_avg = avg(params[6], params[7]) if len(params) > 7 else None
+    bod_avg = avg(params[8], params[9]) if len(params) > 9 else None
+    nitrate_avg = avg(params[10], params[11]) if len(params) > 11 else None
+    fecal_coliform_avg = avg(params[12], params[13]) if len(params) > 13 else None
+    total_coliform_avg = avg(params[14], params[15]) if len(params) > 15 else None
+    fecal_streptococci_avg = avg(params[16], params[17]) if len(params) > 17 else None
+
+    row_data = {
+        "stn_code": stn_code,
+        "monitoring_location": location,
+        "water_body_type": water_body_type,
+        "state": state,
+        "temperature_avg": temperature_avg,
+        "do_avg": do_avg,
+        "ph_avg": ph_avg,
+        "conductivity_avg": conductivity_avg,
+        "bod_avg": bod_avg,
+        "nitrate_avg": nitrate_avg,
+        "fecal_coliform_avg": fecal_coliform_avg,
+        "total_coliform_avg": total_coliform_avg,
+        "fecal_streptococci_avg": fecal_streptococci_avg,
+    }
+    return row_data
+
+
+def groundwater_schema_parser(row: list, water_body_type: str) -> dict | None:
+    """Parse the groundwater schema.
+
+    Groundwater pages add extra parameters such as TDS, Fluoride, and Arsenic.
+    The parser preserves the page order and maps parameter pairs sequentially so
+    the later columns do not shift into the river schema positions.
+    """
+    values = [c for c in row if c is not None]
+    if len(values) < 6:
+        return None
+
+    stn_code = str(values[0]).strip()
+    location = clean_location(values[1])
+    state = str(values[2]).strip()
+    params = values[3:]
+
+    row_data = {
+        "stn_code": stn_code,
+        "monitoring_location": location,
+        "water_body_type": water_body_type,
+        "state": state,
+    }
+    row_data.update(_pairwise_parameter_averages(params, GROUNDWATER_PARAMETER_NAMES))
+    return row_data
+
+
+def coastal_schema_parser(row: list, water_body_type: str) -> dict | None:
+    """Parse the coastal schema, which includes an explicit water-body column."""
+    values = [c for c in row if c is not None]
+    if len(values) < 6:
+        return None
+
+    stn_code = str(values[0]).strip()
+    location = clean_location(values[1])
+    wbt = str(values[2]).strip()
+    state = str(values[3]).strip()
+    params = values[4:]
+
+    row_data = {
+        "stn_code": stn_code,
+        "monitoring_location": location,
+        "water_body_type": wbt if wbt else water_body_type,
+        "state": state,
+    }
+    row_data.update(_pairwise_parameter_averages(params, RIVER_PARAMETER_NAMES))
+    return row_data
+
+
+def _row_contains_state(row: list, state_filter: str) -> bool:
+    """Return True when the extracted row text contains the requested state."""
+    row_text = " ".join(str(c).upper() for c in row if c)
+    return state_filter.upper() in row_text
+
+
+def parse_row_by_schema(schema: str, row: list, water_body_type: str) -> dict | None:
+    """Dispatch a table row to the parser that matches the detected schema."""
+    if schema == "coastal":
+        return coastal_schema_parser(row, water_body_type)
+    if schema == "groundwater":
+        return groundwater_schema_parser(row, water_body_type)
+    return river_schema_parser(row, water_body_type)
+
+
+def _parse_valid_row(row: list, state_filter: str, schema: str, water_body_type: str) -> dict | None:
+    """Return a parsed row only when it passes the shared row filters."""
+    if not row or should_skip_row(row):
+        return None
+    if not _row_contains_state(row, state_filter):
+        return None
+
+    row_data = parse_row_by_schema(schema, row, water_body_type)
+    if row_data is None:
+        return None
+    if not row_data["monitoring_location"]:
+        return None
+    if state_filter.upper() not in row_data["state"].upper():
+        return None
+
+    ph_value = row_data.get("ph_avg")
+    if ph_value is not None and ph_value > 14:
+        print(
+            f"      Skipping invalid row {row_data.get('stn_code', 'UNKNOWN')} "
+            f"({schema}): pH={ph_value}"
+        )
+        return None
+
+    return row_data
+
+
+def _extract_rows_from_table(table: list, state_filter: str, schema: str, water_body_type: str) -> list[dict]:
+    """Parse all valid rows from a single extracted table."""
+    rows_out: list[dict] = []
+
+    for row in table:
+        try:
+            row_data = _parse_valid_row(row, state_filter, schema, water_body_type)
+            if row_data is not None:
+                rows_out.append(row_data)
+        except (IndexError, TypeError, ValueError):
+            # Skip malformed rows silently.
+            continue
+
+    return rows_out
+
+
 # ─── Core Extractor ───────────────────────────────────────────────────────────
 
-def extract_rows_from_page(page, state_filter: str, water_body_type: str, has_type_col: bool) -> list[dict]:
+def extract_rows_from_page(page, state_filter: str, water_body_type: str, schema: str) -> list[dict]:
     """
     Extract data rows from a single PDF page.
-
-    has_type_col: True for coastal PDF which has an extra 'Type Water Body' column.
     """
     tables = page.extract_tables()
     rows_out = []
 
     for table in tables:
-        for row in table:
-            if not row or should_skip_row(row):
-                continue
-
-            # Filter to only the requested state
-            row_text = " ".join(str(c).upper() for c in row if c)
-            if state_filter.upper() not in row_text:
-                continue
-
-            try:
-                if has_type_col:
-                    # Coastal PDF: stn_code, location, type, state, T_min, T_max, DO_min, DO_max...
-                    # Row has 3 None gaps between each pair (min, None, None, max pattern)
-                    # Filter out None values to get actual data values
-                    values = [c for c in row if c is not None]
-                    if len(values) < 6:
-                        continue
-
-                    stn_code        = str(values[0]).strip()
-                    location        = clean_location(values[1])
-                    wbt             = str(values[2]).strip()   # e.g. SEA, BEACH, CREEK
-                    state           = str(values[3]).strip()
-
-                    # Parameters are in pairs after state: T_min, T_max, DO_min, DO_max ...
-                    params = values[4:]
-
-                    row_data = {
-                        "stn_code":             stn_code,
-                        "monitoring_location":  location,
-                        "water_body_type":      wbt if wbt else water_body_type,
-                        "state":                state,
-                        "temperature_avg":      avg(params[0],  params[1])  if len(params) > 1  else None,
-                        "do_avg":               avg(params[2],  params[3])  if len(params) > 3  else None,
-                        "ph_avg":               avg(params[4],  params[5])  if len(params) > 5  else None,
-                        "conductivity_avg":     avg(params[6],  params[7])  if len(params) > 7  else None,
-                        "bod_avg":              avg(params[8],  params[9])  if len(params) > 9  else None,
-                        "nitrate_avg":          avg(params[10], params[11]) if len(params) > 11 else None,
-                        "fecal_coliform_avg":   avg(params[12], params[13]) if len(params) > 13 else None,
-                        "total_coliform_avg":   avg(params[14], params[15]) if len(params) > 15 else None,
-                        "fecal_streptococci_avg": avg(params[16], params[17]) if len(params) > 17 else None,
-                    }
-
-                else:
-                    # Standard PDFs: stn_code, location, state, T_min, T_max, DO_min, DO_max...
-                    values = [c for c in row if c is not None]
-                    if len(values) < 5:
-                        continue
-
-                    stn_code = str(values[0]).strip()
-                    location = clean_location(values[1])
-                    state    = str(values[2]).strip()
-                    params   = values[3:]
-
-                    row_data = {
-                        "stn_code":             stn_code,
-                        "monitoring_location":  location,
-                        "water_body_type":      water_body_type,
-                        "state":                state,
-                        "temperature_avg":      avg(params[0],  params[1])  if len(params) > 1  else None,
-                        "do_avg":               avg(params[2],  params[3])  if len(params) > 3  else None,
-                        "ph_avg":               avg(params[4],  params[5])  if len(params) > 5  else None,
-                        "conductivity_avg":     avg(params[6],  params[7])  if len(params) > 7  else None,
-                        "bod_avg":              avg(params[8],  params[9])  if len(params) > 9  else None,
-                        "nitrate_avg":          avg(params[10], params[11]) if len(params) > 11 else None,
-                        "fecal_coliform_avg":   avg(params[12], params[13]) if len(params) > 13 else None,
-                        "total_coliform_avg":   avg(params[14], params[15]) if len(params) > 15 else None,
-                        "fecal_streptococci_avg": avg(params[16], params[17]) if len(params) > 17 else None,
-                    }
-
-                # Skip rows where location or state is clearly wrong
-                if not location or state_filter.upper() not in row_data["state"].upper():
-                    continue
-
-                rows_out.append(row_data)
-
-            except (IndexError, Exception) as e:
-                # Skip malformed rows silently
-                continue
+        rows_out.extend(_extract_rows_from_table(table, state_filter, schema, water_body_type))
 
     return rows_out
 
 
 def extract_from_pdf(pdf_path: str, state_filter: str, year: int) -> pd.DataFrame:
     """Extract all matching rows from a single PDF file."""
-    water_body_type = detect_water_body_type(pdf_path)
+    default_water_body_type = detect_water_body_type(pdf_path)
 
-    # Coastal PDF has an extra 'Type Water Body' column
+    # Filename hints are kept only as a fallback for noisy pages.
     has_type_col = "creek_marine" in os.path.basename(pdf_path).lower()
 
-    print(f"  Processing: {os.path.basename(pdf_path)} [{water_body_type}]")
+    print(f"  Processing: {os.path.basename(pdf_path)} [{default_water_body_type}]")
 
     all_rows = []
     with pdfplumber.open(pdf_path) as pdf:
-        for page in pdf.pages:
+        for page_number, page in enumerate(pdf.pages, start=1):
             text = page.extract_text() or ""
             if state_filter.upper() not in text.upper():
                 continue  # Skip pages that don't mention the state at all
-            rows = extract_rows_from_page(page, state_filter, water_body_type, has_type_col)
+
+            water_body_type = detect_water_body_type(pdf_path, text)
+            pdf_name = os.path.basename(pdf_path)
+            print(f"    {pdf_name} -> detected water body: {water_body_type}")
+            schema = detect_schema(text, has_type_col)
+            print(f"    Page {page_number}: Detected schema = {schema}")
+            rows = extract_rows_from_page(page, state_filter, water_body_type, schema)
             all_rows.extend(rows)
 
     if not all_rows:

@@ -1,6 +1,6 @@
 stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg,latitude,longitude,geocode_query,geocoded
-3564,Borewell Water Near Mangalijyothi School Msw Site Vammanjoor,Unknown,KARNATAKA,2020,Unsafe,100.0,pH Out of Range,28.0,7.2,171.0,3.0,1.19,2.0,6.5,,116.0,,,"borewell water mangalijyothi school msw site vammanjoor, Karnataka, India",False
-1444,"River Kali At D/S West Coast Paper Mill (Wcpm) ,",Unknown,KARNATAKA,2020,Safe,6.53,,27.0,7.45,7.15,96.0,2.65,0.045,100.0,307.0,,,,,False
+3564,Borewell Water Near Mangalijyothi School Msw Site Vammanjoor,Unknown,KARNATAKA,2020,Safe,8.34,,28.0,,7.2,171.0,3.0,1.19,2.0,6.5,,,,"borewell water mangalijyothi school msw site vammanjoor, Karnataka, India",False
+1444,"River Kali At D/S West Coast Paper Mill (Wcpm) ,",Unknown,KARNATAKA,2020,Safe,6.53,,27.0,7.45,7.15,96.0,2.65,0.045,100.0,307.0,,,,"kali west coast paper mill wcpm, Karnataka, India",False
 1892,River Netravathi U/S Of Dharmastala At Water Supply Intake Point,Unknown,KARNATAKA,2020,Unsafe,8.28,High Fecal Coliform,29.0,7.1,7.05,144.0,2.0,0.94,801.0,801.0,,12.9519571,75.3813122,"dharmastala, Karnataka, India",True
 1894,River Kumaradhara - U/S Of Uppinagady Town Before Confluence With Nethravathi,Unknown,KARNATAKA,2020,Unsafe,8.28,High Fecal Coliform,28.0,7.2,7.0,143.5,2.0,0.955,801.0,801.0,,13.0898321,77.5424946,"nethravathi, Karnataka, India",True
 2780,"River Kali At U/S Of Wcpm, Dandeli,",Unknown,KARNATAKA,2020,Safe,5.91,,26.5,7.35,7.0,88.5,2.4,0.03,90.0,276.0,,15.2490284,74.6236037,"dandeli, Karnataka, India",True
@@ -8,12 +8,12 @@ stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_s
 3563,River Netravathi At U/S Of Upiingady Town,Unknown,KARNATAKA,2020,Unsafe,9.39,High Fecal Coliform,28.0,6.65,7.15,140.0,2.5,0.925,801.0,801.0,,13.1016789,77.5756532,"town, Karnataka, India",True
 4087,"River Gangavali River, Nr Bridge, Ankola",Unknown,KARNATAKA,2020,Safe,5.52,,27.0,7.5,7.4,124.5,2.45,0.275,12.5,42.0,,14.6453588,74.3319253,"ankola, Karnataka, India",True
 4088,"River Aghanashini River, Nr Bridge, Kumata",Unknown,KARNATAKA,2020,Safe,5.32,,26.0,7.5,7.35,106.5,2.35,0.205,15.0,48.0,,14.4271622,74.4117058,"kumata, Karnataka, India",True
-4089,River Gundabai At Hadinabai Bridge,Unknown,KARNATAKA,2020,Safe,5.31,,27.5,7.55,7.15,80.5,2.35,0.26,13.0,47.5,,,,,False
+4089,River Gundabai At Hadinabai Bridge,Unknown,KARNATAKA,2020,Safe,5.31,,27.5,7.55,7.15,80.5,2.35,0.26,13.0,47.5,,,,"gundabai hadinabai, Karnataka, India",False
 4090,River Sharavathi Nr Bridge At Honnavara,Unknown,KARNATAKA,2020,Safe,5.21,,27.0,7.85,7.35,86.0,2.3,0.24,16.5,49.0,,14.2810827,74.4446716,"honnavara, Karnataka, India",True
-4091,River Venkatpur Nr Kadivinakatte Dam,Unknown,KARNATAKA,2020,Safe,4.97,,26.5,7.6,7.3,63.5,2.2,0.18,12.5,39.0,,,,,False
+4091,River Venkatpur Nr Kadivinakatte Dam,Unknown,KARNATAKA,2020,Safe,4.97,,26.5,7.6,7.3,63.5,2.2,0.18,12.5,39.0,,,,"venkatpur nr kadivinakatte, Karnataka, India",False
 4497,River Kengre Hole (Sirsi),Unknown,KARNATAKA,2020,Safe,5.33,,25.0,7.4,7.1,86.5,2.35,0.405,17.5,52.0,,14.6192362,74.8388611,"sirsi, Karnataka, India",True
 4499,"Benniothora Reservoir,Benniothora Dam, Kurkota Village",Unknown,KARNATAKA,2020,Unsafe,10.31,"High Fecal Coliform, High Total Coliform",27.5,7.0,8.2,496.5,2.5,1.37,597.0,2970.0,,12.9423718,77.6251542,"village, Karnataka, India",True
-4500,"River Kagina At D/S Of Bridge Cum Barrage, Sadem Tq",Unknown,KARNATAKA,2020,Safe,9.06,,28.5,7.1,8.2,449.0,2.5,0.45,435.0,2210.0,,,,,False
+4500,"River Kagina At D/S Of Bridge Cum Barrage, Sadem Tq",Unknown,KARNATAKA,2020,Safe,9.06,,28.5,7.1,8.2,449.0,2.5,0.45,435.0,2210.0,,,,"kagina cum sadem tq, Karnataka, India",False
 1182,"Krishna At U/S Of Ugarkhurd Barrage,",River (Major),KARNATAKA,2020,Unsafe,9.09,High Fecal Coliform,27.0,7.6,8.05,575.0,2.5,2.325,635.0,1250.0,335.0,,,"krishna ugarkhurd, Karnataka, India",False
 2781,"Krishna At D/S Of Alamatti Dam,",River (Major),KARNATAKA,2020,Unsafe,11.09,"High BOD, High Fecal Coliform",30.5,7.55,7.75,617.5,3.4,1.365,635.0,1250.0,410.0,16.3451718,75.8923516,"alamatti, Karnataka, India",True
 1181,"Krishna At D/S Of Narayanpura Dam,",River (Major),KARNATAKA,2020,Unsafe,10.2,High Fecal Coliform,30.5,7.7,7.75,699.5,3.0,2.91,635.0,1250.0,380.0,15.4559068,74.9922057,"krishna narayanpura, Karnataka, India",True
@@ -30,7 +30,7 @@ stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_s
 2768,Tungabhadra At D/S Of Hpf,River (Major),KARNATAKA,2020,Unsafe,22.07,"High BOD, High Fecal Coliform, High Total Coliform",28.5,6.25,7.55,460.0,4.05,1.98,2150.0,5600.0,,15.9648343,77.366508,"tungabhadra, Karnataka, India",True
 2769,Tungabhadra At Jackwell Point,River (Major),KARNATAKA,2020,Unsafe,12.06,High Fecal Coliform,28.0,6.45,7.55,313.0,2.75,1.66,1100.0,1950.0,,15.9648343,77.366508,"tungabhadra, Karnataka, India",True
 2770,Tungabhadra At Harihar Water Supply Intake,River (Major),KARNATAKA,2020,Unsafe,29.46,"High BOD, High Fecal Coliform, High Total Coliform",27.5,6.75,7.65,310.0,3.9,1.17,3900.0,6500.0,,14.5153541,75.8110476,"harihar, Karnataka, India",True
-2776,Tungabhadra At D/S Of Gangawathi,River (Major),KARNATAKA,2020,Safe,7.54,,27.0,7.3,8.1,389.0,2.5,0.15,245.0,1260.0,,,,,False
+2776,Tungabhadra At D/S Of Gangawathi,River (Major),KARNATAKA,2020,Safe,7.54,,27.0,7.3,8.1,389.0,2.5,0.15,245.0,1260.0,,,,"tungabhadra gangawathi, Karnataka, India",False
 2766,Tungabhadra At New Bridge,River (Major),KARNATAKA,2020,Unsafe,10.26,High Fecal Coliform,27.0,7.4,7.65,238.0,2.8,0.56,700.0,1550.0,,15.9648343,77.366508,"tungabhadra, Karnataka, India",True
 1168,Tunga At D/S Of Shimoga Town,River (Major),KARNATAKA,2020,Unsafe,36.35,"High BOD, High Fecal Coliform, High Total Coliform",27.5,6.85,7.55,215.0,3.4,0.62,7000.0,11000.0,,13.1016789,77.5756532,"town, Karnataka, India",True
 1091,Bhadra At Malleswaram D/S Of Kiocl,River (Major),KARNATAKA,2020,Safe,4.33,,22.0,6.75,7.05,90.0,1.8,0.1,31.5,260.0,,13.2097913,75.2503201,"kiocl, Karnataka, India",True
@@ -39,7 +39,7 @@ stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_s
 2771,Bhadra At U/S Of Kiocl,River (Major),KARNATAKA,2020,Safe,4.09,,21.0,6.95,6.95,83.0,1.7,0.1,29.5,245.0,,13.2097913,75.2503201,"kiocl, Karnataka, India",True
 1895,Kagina D/S Of Sewage Disposal Point,River (Major),KARNATAKA,2020,Unsafe,10.45,"High Fecal Coliform, High Total Coliform",29.0,7.0,8.4,547.5,2.5,0.6,715.0,2550.0,,13.3067379,77.6125389,"disposal, Karnataka, India",True
 2777,Kagina At Shahabad Bridge,River (Major),KARNATAKA,2020,Unsafe,11.27,"High Fecal Coliform, High Total Coliform",28.5,6.85,8.25,473.0,2.5,0.61,780.0,3250.0,,17.220367,77.3708457,"kagina shahabad, Karnataka, India",True
-1198,Cauvery At Napokulu Bdg (D/S),River (Major),KARNATAKA,2020,Safe,3.56,,23.5,7.35,7.65,109.5,1.4,0.5,51.5,310.0,,,,,False
+1198,Cauvery At Napokulu Bdg (D/S),River (Major),KARNATAKA,2020,Safe,3.56,,23.5,7.35,7.65,109.5,1.4,0.5,51.5,310.0,,,,"cauvery napokulu, Karnataka, India",False
 33,"Cauvery At Krs Dam, Balamurikshetra",River (Major),KARNATAKA,2020,Safe,4.77,,26.0,7.15,8.0,206.5,1.35,1.01,235.0,1045.0,,,,"cauvery krs balamurikshetra, Karnataka, India",False
 1386,Cauvery At D/S Of Karekuara Village,River (Major),KARNATAKA,2020,Safe,5.31,,25.0,7.0,7.9,209.5,1.5,2.1,295.0,1000.0,,12.9423718,77.6251542,"village, Karnataka, India",True
 34,Cauvery At Sathyagalam Bridge,River (Major),KARNATAKA,2020,Safe,5.69,,24.5,7.1,8.2,260.5,1.55,1.26,330.0,1160.0,,,,"cauvery sathyagalam, Karnataka, India",False
@@ -51,8 +51,8 @@ stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_s
 3573,Cauvery D/S Of Kushalanagar Town,River (Major),KARNATAKA,2020,Safe,3.55,,22.5,7.1,7.65,168.0,1.35,5.0,63.0,380.0,,13.1016789,77.5756532,"town, Karnataka, India",True
 4109,Cauvery River Before Confluence At Sangam,River (Major),KARNATAKA,2020,Unsafe,49.1,"High BOD, High Fecal Coliform, High Total Coliform",25.0,6.25,7.5,716.0,4.1,8.75,5510.5,80175.0,58.5,12.9118138,77.6412174,"sangam, Karnataka, India",True
 4102,D/S Of Cauvery At Bhagamandala Bridge,River (Major),KARNATAKA,2020,Safe,3.95,,23.0,6.9,7.75,89.0,1.55,0.3,62.0,330.0,,12.3813118,75.5157832,"cauvery bhagamandala, Karnataka, India",True
-1166,"Shimsha At D/S Of Bridge, Halagur",River (Major),KARNATAKA,2020,Unsafe,10.84,High BOD,26.5,5.8,8.0,708.0,3.2,3.855,485.0,2250.0,,,,,False
-1200,"Shimsha At D/S Of Highway Bridge, Yediyar",River (Major),KARNATAKA,2020,Unsafe,33.67,"High BOD, High Fecal Coliform, High Total Coliform",28.0,6.2,7.4,327.5,4.5,2.06,2329.0,17960.0,47.5,,,,False
+1166,"Shimsha At D/S Of Bridge, Halagur",River (Major),KARNATAKA,2020,Unsafe,10.84,High BOD,26.5,5.8,8.0,708.0,3.2,3.855,485.0,2250.0,,,,"shimsha halagur, Karnataka, India",False
+1200,"Shimsha At D/S Of Highway Bridge, Yediyar",River (Major),KARNATAKA,2020,Unsafe,33.67,"High BOD, High Fecal Coliform, High Total Coliform",28.0,6.2,7.4,327.5,4.5,2.06,2329.0,17960.0,47.5,,,"shimsha yediyar, Karnataka, India",False
 3567,Shimsha D/S Near Madduar Town,River (Major),KARNATAKA,2020,Safe,7.77,,25.0,6.4,7.9,448.0,2.15,5.8,380.0,1850.0,,13.1016789,77.5756532,"town, Karnataka, India",True
 1165,Arkavathi At D/S Of Kanakapura Town,River (Major),KARNATAKA,2020,Unsafe,60.0,"High BOD, High Fecal Coliform, High Total Coliform",26.0,5.25,7.2,1081.0,9.5,14.315,31740.0,271750.0,816.5,13.1016789,77.5756532,"town, Karnataka, India",True
 2778,Arkavathi At T.G. Halli Reservoir,River (Major),KARNATAKA,2020,Unsafe,49.29,"High BOD, High Fecal Coliform, High Total Coliform",28.85,8.55,7.3,1154.0,11.0,5.015,2321.5,27270.0,22.0,12.9392713,77.5722595,"reservoir, Karnataka, India",True

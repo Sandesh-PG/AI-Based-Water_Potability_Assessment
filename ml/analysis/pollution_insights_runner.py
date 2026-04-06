@@ -1,121 +1,79 @@
-"""Run pollution insights generation for unsafe stations."""
+"""Pre-generate pollution insights for unique violated_params + water_body_type combos."""
 
 from __future__ import annotations
 
-import argparse
 import json
+import time
 from pathlib import Path
 
 import pandas as pd
-import re
-import time
+from dotenv import load_dotenv
 
-time.sleep(30) 
+load_dotenv()
 
 try:
     from .pollution_insights import generate_pollution_insights
 except ImportError:
     from pollution_insights import generate_pollution_insights
 
-
-DEFAULT_INPUT_RELATIVE_PATH = "data/geocoded/karnataka_train_2016_2022.csv"
-DEFAULT_OUTPUT_RELATIVE_PATH = "data/insights/pollution_insights_results.json"
-
-
-def _ml_root() -> Path:
-    # This file is under ml/analysis, so the ml root is one level up.
-    return Path(__file__).resolve().parents[1]
-
-
-def _to_string(value: object, fallback: str = "") -> str:
-    if pd.isna(value):
-        return fallback
-    return str(value).strip()
+ML_ROOT = Path(__file__).resolve().parents[1]
+INPUT_CSV = ML_ROOT / "data/geocoded/karnataka_train_2016_2022.csv"
+OUTPUT_JSON = ML_ROOT / "data/insights/combo_insights_cache.json"
+SLEEP_SECONDS = 32
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(
-        description="Generate pollution insights for unsafe water quality stations."
+    df = pd.read_csv(INPUT_CSV)
+    unsafe_df = df[df["safety_label"] == "Unsafe"]
+
+    combos = (
+        unsafe_df.groupby(["violated_params", "water_body_type"])
+        .size()
+        .reset_index()[["violated_params", "water_body_type"]]
     )
-    parser.add_argument(
-        "--top_n",
-        type=int,
-        default=10,
-        help="Maximum number of unsafe stations to process (default: 10)",
-    )
-    args = parser.parse_args()
 
-    if args.top_n <= 0:
-        raise ValueError("--top_n must be a positive integer")
+    print(f"Total unique combos: {len(combos)}")
 
-    ml_root = _ml_root()
-    input_csv = ml_root / DEFAULT_INPUT_RELATIVE_PATH
-    output_json = ml_root / DEFAULT_OUTPUT_RELATIVE_PATH
+    # Load existing cache if any (allows resume on interruption)
+    OUTPUT_JSON.parent.mkdir(parents=True, exist_ok=True)
+    if OUTPUT_JSON.exists():
+        with OUTPUT_JSON.open() as f:
+            cache: dict = json.load(f)
+        print(f"Resuming — {len(cache)} combos already cached")
+    else:
+        cache = {}
 
-    if not input_csv.exists():
-        raise FileNotFoundError(f"Input CSV not found: {input_csv}")
+    for i, row in enumerate(combos.itertuples(index=False), start=1):
+        violated_params = str(row.violated_params).strip()
+        water_body_type = str(row.water_body_type).strip()
+        cache_key = f"{violated_params}__{water_body_type}"
 
-    df = pd.read_csv(input_csv)
+        if cache_key in cache:
+            print(f"[{i}/{len(combos)}] Skipping (cached): {cache_key}")
+            continue
 
-    unsafe_df = df[df["safety_label"].astype(str).str.lower() == "unsafe"].copy()
-    unsafe_df = unsafe_df.head(args.top_n)
-
-    total = len(unsafe_df)
-    print(f"Unsafe stations selected: {total}")
-
-    results: list[dict] = []
-
-    for index, row in enumerate(unsafe_df.itertuples(index=False), start=1):
-        station_name = _to_string(getattr(row, "monitoring_location", ""), fallback="Unknown Station")
-        water_body_type = _to_string(getattr(row, "water_body_type", ""), fallback="Unknown")
-        violated_params = _to_string(getattr(row, "violated_params", ""), fallback="")
-
-        print(f"[{index}/{total}] Processing station: {station_name}")
+        print(f"[{i}/{len(combos)}] Generating: {cache_key}")
 
         try:
             insight = generate_pollution_insights(
                 violated_params=violated_params,
                 water_body_type=water_body_type,
-                station_name=station_name,
+                station_name=water_body_type,
             )
-            results.append(insight)
+            cache[cache_key] = insight
+
+            # Save after every successful call
+            with OUTPUT_JSON.open("w") as f:
+                json.dump(cache, f, indent=2, ensure_ascii=False)
+
+            print(f"[{i}/{len(combos)}] Done. Waiting {SLEEP_SECONDS}s...")
+            time.sleep(SLEEP_SECONDS)
+
         except Exception as exc:
-            wait_match = re.search(r"try again in (\d+\.?\d*)s", str(exc))
-            if wait_match:
-                wait_time = float(wait_match.group(1)) + 2
-                print(f"Rate limited. Waiting {wait_time:.0f}s...")
-                time.sleep(wait_time)
-                # Retry once
-                try:
-                    insight = generate_pollution_insights(
-                        violated_params=violated_params,
-                        water_body_type=water_body_type,
-                        station_name=station_name,
-                    )
-                    results.append(insight)
-                    continue
-                except Exception as retry_exc:
-                    exc = retry_exc
-            results.append(
-                {
-                    "station_name": station_name,
-                    "water_body_type": water_body_type,
-                    "violated_params": [
-                        item.strip() for item in violated_params.split(",") if item.strip()
-                    ],
-                    "causes_of_pollution": [],
-                    "recommended_measures": [],
-                    "retrieved_context_count": 0,
-                    "error": str(exc),
-                }
-            )
-            print(f"[{index}/{total}] Failed: {exc}")
+            print(f"[{i}/{len(combos)}] Failed: {exc}")
 
-    output_json.parent.mkdir(parents=True, exist_ok=True)
-    with output_json.open("w", encoding="utf-8") as handle:
-        json.dump(results, handle, indent=2, ensure_ascii=False)
-
-    print(f"Saved {len(results)} insight records to {output_json}")
+    print(f"\nCache saved to: {OUTPUT_JSON}")
+    print(f"Total cached: {len(cache)}/{len(combos)}")
 
 
 if __name__ == "__main__":
