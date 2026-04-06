@@ -1,9 +1,9 @@
 stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg,latitude,longitude,geocode_query,geocoded
-3564,Borewell Water Near Mangalijyothi School Msw Site Vammanjoor,Unknown,KARNATAKA,2019,Unsafe,9.87,Low DO,27.5,4.2,7.05,169.0,3.0,1.15,2.0,5.5,,,,,False
-4093,"M/S Sugureshwara Ind, 196 (P), Kiadb Ind Growth Centre, Chika Sugar, Raichur",Unknown,KARNATAKA,2019,Unsafe,32.56,High BOD,30.0,5.0,7.4,4363.0,8.8,,,,,16.0547194,76.9003647,"raichur, Karnataka, India",True
+3564,Borewell Water Near Mangalijyothi School Msw Site Vammanjoor,Unknown,KARNATAKA,2019,Unsafe,33.85,"pH Out of Range, High BOD",27.5,,4.2,7.05,169.0,3.0,1.15,2.0,,,,"borewell water mangalijyothi school msw site vammanjoor, Karnataka, India",False
+4093,"M/S Sugureshwara Ind, 196 (P), Kiadb Ind Growth Centre, Chika Sugar, Raichur",Unknown,KARNATAKA,2019,Unsafe,61.54,"pH Out of Range, High BOD",30.0,,5.0,7.4,500.0,8.8,,,,16.0547194,76.9003647,"raichur, Karnataka, India",True
 4499,"Benniothora Dam, Kurkota Village",Unknown,KARNATAKA,2019,Safe,7.37,,28.5,7.15,8.1,539.0,2.4,0.31,260.0,1250.0,,12.9617214,77.6366258,"village, Karnataka, India",True
-4500,"Kagina River At D/S Of Bridge Cum Barrage, Sadem Tq",Unknown,KARNATAKA,2019,Safe,6.51,,27.5,6.9,8.15,517.5,2.3,0.34,205.0,730.0,,,,,False
-1444,"Kali At D/S West Coast Paper Mill (Wcpm) ,",Unknown,KARNATAKA,2019,Unsafe,21.45,High BOD,26.0,7.7,7.25,80.0,14.3,0.115,192.5,847.5,,,,,False
+4500,"Kagina River At D/S Of Bridge Cum Barrage, Sadem Tq",Unknown,KARNATAKA,2019,Safe,6.51,,27.5,6.9,8.15,517.5,2.3,0.34,205.0,730.0,,,,"kagina river cum sadem tq, Karnataka, India",False
+1444,"Kali At D/S West Coast Paper Mill (Wcpm) ,",Unknown,KARNATAKA,2019,Unsafe,21.45,High BOD,26.0,7.7,7.25,80.0,14.3,0.115,192.5,847.5,,,,"kali west coast paper mill wcpm, Karnataka, India",False
 2780,"Kali At U/S Of Wcpm, Dandeli,",Unknown,KARNATAKA,2019,Safe,8.02,,24.5,7.85,7.2,77.5,2.45,0.1,458.5,935.0,,15.2490284,74.6236037,"dandeli, Karnataka, India",True
 4497,Kengre Hole (Sirsi),Unknown,KARNATAKA,2019,Safe,6.17,,26.0,7.35,7.35,89.0,2.2,0.195,137.5,920.0,,14.6192362,74.8388611,"sirsi, Karnataka, India",True
 1894,Kumaradhara - U/S Of Uppinagady Town Before Confluence With River Nethravathi,Unknown,KARNATAKA,2019,Safe,5.86,,28.0,6.6,7.05,157.0,2.0,1.05,257.0,495.0,,13.0898321,77.5424946,"nethravathi, Karnataka, India",True
@@ -15,7 +15,7 @@ stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_s
 2781,"Krishna At D/S Of Alamatti Dam,",River (Major),KARNATAKA,2019,Unsafe,8.7,High Fecal Coliform,31.0,7.7,8.4,1876.0,2.45,23.4,585.0,1150.0,148.0,16.3451718,75.8923516,"alamatti, Karnataka, India",True
 1181,"Krishna At D/S Of Narayanpura Dam,",River (Major),KARNATAKA,2019,Unsafe,10.41,High Fecal Coliform,30.0,7.7,8.5,1845.0,2.25,22.6,985.0,1850.0,148.0,15.4559068,74.9922057,"krishna narayanpura, Karnataka, India",True
 1028,"Krishna At Tintini Bridge,",River (Major),KARNATAKA,2019,Safe,6.88,,28.0,7.1,8.25,638.0,2.3,0.285,230.0,1070.0,,,,"krishna tintini, Karnataka, India",False
-1170,"Krishna At D/S Of Devasagar Bdg.,",River (Major),KARNATAKA,2019,Unsafe,22.63,High BOD,28.5,7.4,8.35,1235.0,33.25,0.25,345.0,1560.0,,,,,False
+1170,"Krishna At D/S Of Devasagar Bdg.,",River (Major),KARNATAKA,2019,Unsafe,22.63,High BOD,28.5,7.4,8.35,1235.0,33.25,0.25,345.0,1560.0,,,,"krishna devasagar ., Karnataka, India",False
 1183,"Bhima At D/S Of Road Bridge At Gangapur Village,",River (Major),KARNATAKA,2019,Unsafe,10.32,High Fecal Coliform,28.0,6.6,8.05,660.0,3.0,0.35,545.0,1850.0,,12.9423718,77.6251542,"village, Karnataka, India",True
 1184,"Bhima At Ferozabad Village (D/S),",River (Major),KARNATAKA,2019,Safe,8.74,,29.5,7.05,8.45,702.5,3.0,0.3,305.0,1070.0,,12.9423718,77.6251542,"village, Karnataka, India",True
 1167,"Bhima At D/S Of Bdg. Near Yadgir,",River (Major),KARNATAKA,2019,Unsafe,10.97,High BOD,31.0,7.0,8.4,947.0,3.25,0.25,500.0,2200.0,,16.5744123,76.9254434,"yadgir, Karnataka, India",True
