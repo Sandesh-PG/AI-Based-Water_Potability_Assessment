@@ -31,7 +31,7 @@ stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_s
 1888,Bhima At Confluence Of Jewargi Town Sewage Disposal Point,River,KARNATAKA,2016,Unsafe,10.22,High BOD,29.0,6.35,8.25,574.0,3.4,0.0,490.0,885.0,
 1167,Bhima D/S Of Bdg. Near Yadgir,River,KARNATAKA,2016,Unsafe,12.59,"High Fecal Coliform, High Total Coliform",30.0,7.15,8.1,1042.5,2.5,0.15,870.0,4450.0,
 1185,Ghatprabha D/S Of Mudhol Rd. Cross Bdg,River,KARNATAKA,2016,Unsafe,24.08,"High BOD, High Fecal Coliform",29.5,6.55,7.9,790.0,17.8,1.95,820.0,1000.0,
-1163,Ghatprabha At W.A. Point To Gokak Town,River,KARNATAKA,2016,Unsafe,22.87,"High BOD, High Fecal Coliform",26.5,6.7,7.2,835.0,130.1,1.25,535.0,910.0,
+1163,Ghatprabha At W.A. Point To Gokak Town,River,KARNATAKA,2016,Unsafe,3.58,High Fecal Coliform,26.5,6.7,7.2,835.0,,1.25,535.0,910.0,
 1187,Malprabha D/S Of Khanapur Village,River,KARNATAKA,2016,Unsafe,22.0,"High BOD, High Fecal Coliform",26.5,7.65,7.6,365.0,8.65,0.65,515.0,925.0,
 1164,"Malprabha At Water Abstr. Pt. To Hubli, Dharwar",River,KARNATAKA,2016,Unsafe,7.93,High Fecal Coliform,31.0,8.7,7.95,390.0,1.55,1.0,890.0,1165.0,
 1186,Malprabha D/S Of Aihole Town,River,KARNATAKA,2016,Unsafe,12.82,"High BOD, High Fecal Coliform",28.0,7.4,7.75,850.0,4.5,1.4,520.0,940.0,
