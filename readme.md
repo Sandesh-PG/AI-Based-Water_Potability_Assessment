@@ -1,96 +1,57 @@
 # 💧 AI-Based Water Quality Monitoring & Potability Assessment
 
-## 🧠 Project Overview
+## 🧠 Overview
 
-A data-driven system that processes government water quality reports (NWMP), evaluates drinking water safety, identifies pollution causes, and provides insights with explainable AI.
+A data-driven system that processes government water quality datasets (NWMP) to evaluate drinking water safety, identify pollution causes, and generate actionable insights using explainable AI.
 
 ---
 
 ## 🚨 Problem Statement
 
-Water quality data is collected but underutilized. There is no unified system to:
+Water quality data is collected at scale but not effectively utilized. There is a lack of systems that can:
 
 * Evaluate water safety using standard thresholds
-* Identify pollution causes
-* Provide actionable insights for authorities
+* Identify key pollution factors
+* Provide data-driven insights for decision-making
 
 ---
 
-## 🎯 What This System Does
+## 🎯 Core Features
 
-* Extracts data from raw PDFs (2016–2023)
-* Cleans and standardizes datasets
-* Calculates:
-
-  * Safety label (Safe / Unsafe)
-  * Pollution score (0–100)
-  * Violated parameters
-* Converts locations → latitude/longitude
-* Generates insights using RAG + WHO guidelines
-* Prepares dataset for visualization and forecasting
+* Water safety classification (Safe / Unsafe)
+* Pollution score calculation (0–100)
+* Detection of violated parameters
+* Location mapping using geocoding
+* Explainable insights (rule-based + RAG using WHO guidelines)
+* Time-series forecasting of pollution trends
 
 ---
 
-## 📁 Project Structure
+## ⚙️ Setup
 
-```
-ml/
-├── data/
-│   ├── raw/           # Year-wise PDFs (2016–2023)
-│   ├── processed/     # Extracted + cleaned CSVs
-│   ├── geocoded/      # CSVs with lat/long
-│   ├── insights/      # Cached AI insights
-│
-├── pipeline/
-│   ├── extract.py
-│   ├── clean.py
-│   ├── geocode.py
-│   ├── merge_script.py
-│
-├── analysis/
-│   ├── current_status.py
-│   ├── pollution_insights.py
-│   ├── pollution_insights_runner.py
-│   ├── rag_pipeline.py
-│   ├── ingest.py
-│
-backend/
-frontend/
-```
-
----
-
-## ⚙️ Setup Instructions
-
-### 1️⃣ Clone Repo
+### Clone Repository
 
 ```bash
 git clone <your-repo-url>
 cd AI-Based-Water_Potability_Assessment
 ```
 
----
-
-### 2️⃣ Create Virtual Environment
+### Create Virtual Environment
 
 ```bash
 python -m venv .venv
-.venv\Scripts\activate   # Windows
+.venv\Scripts\activate
 ```
 
----
-
-### 3️⃣ Install Dependencies
+### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
----
+### Environment Variables
 
-### 4️⃣ Set Environment Variables
-
-Create `.env` file inside `ml/analysis/`:
+Create `.env`:
 
 ```
 GROQ_API_KEY=your_api_key_here
@@ -98,123 +59,83 @@ GROQ_API_KEY=your_api_key_here
 
 ---
 
-## 🚀 How to Run (Step-by-Step)
-
-### 🔹 Step 1: Go to ML folder
+## 🚀 Pipeline Execution
 
 ```bash
 cd ml
 ```
 
----
-
-### 🔹 Step 2: Extract Data from PDFs
+### 1. Extract Data
 
 ```bash
 python pipeline/extract.py --state KARNATAKA --exclude_years 2023 --data_dir data/raw --out_dir data/processed
 ```
 
----
-
-### 🔹 Step 3: Clean Data
+### 2. Clean Data
 
 ```bash
 python pipeline/clean.py --input_dir data/processed --output_dir data/processed --exclude_years 2023
 ```
 
----
-
-### 🔹 Step 4: Geocode Locations
+### 3. Geocode Locations
 
 ```bash
 python pipeline/geocode.py --input_dir data/processed --output_dir data/geocoded --state Karnataka --exclude_years 2023
 ```
 
----
-
-### 🔹 Step 5: Merge Dataset (2016–2022)
+### 4. Merge Dataset
 
 ```bash
 python pipeline/merge_script.py
 ```
 
-📄 Output:
-
-```
-data/geocoded/karnataka_train_2016_2022.csv
-```
-
 ---
 
-## 🤖 Generate AI Insights (Optional)
+## 🤖 AI Insights (Optional)
 
-### Ingest WHO Guidelines into RAG
+### Ingest Knowledge Base
 
 ```bash
 python analysis/ingest.py
 ```
 
----
-
-### Generate Pollution Insights
+### Generate Insights
 
 ```bash
 python analysis/pollution_insights_runner.py
 ```
 
-📄 Output:
-
-```
-data/insights/combo_insights_cache.json
-```
-
 ---
 
-## 📊 Key Concepts Used
+## 📊 Output
 
-* PDF Parsing → `pdfplumber`
-* Data Processing → `pandas`
-* Geocoding → `geopy (Nominatim)`
-* Pollution Scoring → Domain-based logic
-* Explainable AI → RAG + LLM (Groq)
-* Vector DB → ChromaDB
-* Embeddings → Sentence Transformers
+The system produces structured data including:
 
----
-
-## 📈 Output Features
-
-* Safe / Unsafe classification
-* Pollution score (0–100)
+* Pollution score
+* Safety label
 * Violated parameters
-* Geo-mapped water bodies
-* AI-generated pollution causes & solutions
+* Geo-coordinates
+* AI-generated insights (causes, impacts, measures)
 
 ---
 
 ## ⚠️ Notes
 
-* 2023 dataset is reserved for testing
-* Geocoding uses free API → slow (cached after first run)
-* RAG requires internet (Groq API)
+* 2023 data is reserved for testing
+* Geocoding may be slow on first run
+* RAG requires internet access
 
 ---
 
-## 🎯 Current Status
+## 🎯 Status
 
-✅ Data extraction (multi-schema support)
-✅ Cleaning & feature engineering
-✅ Geocoding
-✅ Dataset merging
-✅ AI insights (RAG + caching)
-
-🚧 Forecasting module (next step)
-🚧 Backend + frontend integration
+* Data pipeline complete
+* Explainable AI implemented
+* Forecasting module in progress
+* Backend & frontend integration upcoming
 
 ---
 
-## 💬 One-Line Summary
+## 💬 Summary
 
-A system that converts raw water quality reports into actionable insights, safety evaluation, and explainable analysis for better environmental decision-making.
-
----
+A system that transforms raw water quality data into meaningful insights, enabling better monitoring, analysis, and decision-making.
