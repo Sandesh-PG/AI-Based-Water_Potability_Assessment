@@ -12,7 +12,9 @@ def forecast_pollution(df: pd.DataFrame, location: str, periods: int = 5):
     Returns a dataframe with columns: ds, yhat.
     Returns None when there is not enough data to train.
     """
-    df_loc = df[df["monitoring_location"] == location].copy()
+    # The API layer already filters rows for the target station.
+    # Do not re-filter by location here to avoid dropping valid yearly records.
+    df_loc = df.copy()
 
     if df_loc.empty:
         return None
@@ -43,8 +45,6 @@ def forecast_pollution(df: pd.DataFrame, location: str, periods: int = 5):
     last_actual = df_loc["y"].iloc[-1]
     
     last_pred = forecast["yhat"].iloc[-1]
-    last_year = df_loc["ds"].iloc[-1].year
-
     trend = "Stable"
     if last_pred > last_actual:
         trend = "Worsening"
@@ -54,5 +54,4 @@ def forecast_pollution(df: pd.DataFrame, location: str, periods: int = 5):
     return {
         "forecast": forecast[["ds", "yhat", "yhat_lower", "yhat_upper"]],
         "trend": trend,
-        "last_actual_year": last_year,
     }
