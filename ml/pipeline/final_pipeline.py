@@ -24,7 +24,7 @@ from tqdm import tqdm
 
 from pipeline.explanations import generate_explanation
 from pipeline.pollution import compute_pollution_score, compute_safety_and_violations
-from models.forecast import forecast_pollution
+from ml.models.forecast import forecast_pollution
 
 
 def _serialize_list(value: object) -> str:

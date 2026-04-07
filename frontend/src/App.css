@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Syne:wght@400;600;700;800&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+.app-layout {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  background: #f0f4f8;
+  gap: 12px;
+  padding: 12px;
+  font-family: 'Syne', sans-serif;
+}
+
+/* ── Sidebar ── */
+.app-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 100%;
+  background: #ffffff;
+  border-radius: 14px;
+  padding: 20px 16px;
+  overflow: hidden;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+}
+
+.sidebar-brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #e8ecf0;
+}
+
+.brand-mark {
+  font-size: 28px;
+  color: #0ea5e9;
+  line-height: 1;
+}
+
+.brand-name {
+  font-size: 16px;
+  font-weight: 800;
+  color: #0f172a;
+  letter-spacing: -0.02em;
+}
+
+.brand-sub {
+  font-size: 10px;
+  color: #94a3b8;
+  font-family: 'DM Mono', monospace;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.sidebar-stats {
+  margin-top: auto;
+  padding-top: 16px;
+  border-top: 1px solid #e8ecf0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.stat-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+}
+
+.stat-row-label {
+  color: #64748b;
+  font-family: 'DM Mono', monospace;
+}
+
+.stat-row-label.safe-label { color: #16a34a; }
+.stat-row-label.unsafe-label { color: #dc2626; }
+
+.stat-row-val {
+  font-weight: 700;
+  color: #0f172a;
+  font-family: 'DM Mono', monospace;
+}
+
+/* ── Main ── */
+.app-main {
+  display: grid;
+  grid-template-rows: 44px 1fr 28%;
+  height: 100%;
+  gap: 10px;
+  min-width: 0;
+  overflow: hidden;
+}
+
+/* Top bar */
+.dashboard-topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 0 16px;
+  border: 1px solid #e2e8f0;
+}
+
+.topbar-title {
+  font-size: 13px;
+  font-weight: 700;
+  color: #0f172a;
+  letter-spacing: 0.01em;
+}
+
+.topbar-selected {
+  font-weight: 500;
+  color: #0ea5e9;
+  margin-left: 4px;
+}
+
+.topbar-pills {
+  display: flex;
+  gap: 6px;
+}
+
+.topbar-pill {
+  font-size: 11px;
+  font-weight: 600;
+  font-family: 'DM Mono', monospace;
+  padding: 3px 10px;
+  background: #f0f9ff;
+  color: #0284c7;
+  border-radius: 20px;
+  border: 1px solid #bae6fd;
+}
+
+.topbar-pill.pulsing {
+  animation: pulse 1.2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+/* Map */
+.map-wrapper {
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+  min-height: 0;
+}
+
+/* Forecast bottom panel */
+.forecast-bottom {
+  background: #ffffff;
+  border-radius: 14px;
+  padding: 16px;
+  border: 1px solid #e2e8f0;
+  overflow: hidden;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+  min-height: 0;
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .app-layout {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 1fr;
+    height: auto;
+    min-height: 100vh;
+    overflow: auto;
+  }
+
+  .app-sidebar {
+    height: auto;
+  }
+
+  .app-main {
+    grid-template-rows: 44px 400px 280px;
+    height: auto;
+  }
+}
