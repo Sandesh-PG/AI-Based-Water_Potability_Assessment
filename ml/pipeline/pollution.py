@@ -101,3 +101,51 @@ def compute_pollution_score(df: pd.DataFrame) -> pd.DataFrame:
     df["pollution_score"] = pd.to_numeric(df["pollution_score"], errors="coerce")
 
     return df
+
+
+def _row_safety_and_violations(row: pd.Series) -> tuple[str, str]:
+    """Return (violated_params, safety_label) for a single sample row."""
+    violations: list[str] = []
+
+    ph = row.get("ph_avg")
+    if not pd.isna(ph) and (ph < SAFE_LIMITS["ph_min"] or ph > SAFE_LIMITS["ph_max"]):
+        violations.append("pH")
+
+    do = row.get("do_avg")
+    if not pd.isna(do) and do < SAFE_LIMITS["do_min"]:
+        violations.append("DO")
+
+    bod = row.get("bod_avg")
+    if not pd.isna(bod) and bod > SAFE_LIMITS["bod_max"]:
+        violations.append("BOD")
+
+    nitrate = row.get("nitrate_avg")
+    if not pd.isna(nitrate) and nitrate > SAFE_LIMITS["nitrate_max"]:
+        violations.append("Nitrate")
+
+    fecal_coliform = row.get("fecal_coliform_avg")
+    if not pd.isna(fecal_coliform) and fecal_coliform > SAFE_LIMITS["fecal_coliform_max"]:
+        violations.append("Fecal Coliform")
+
+    if not violations:
+        return "", "Safe"
+
+    return ", ".join(violations), "Unsafe"
+
+
+def compute_safety_and_violations(df: pd.DataFrame) -> pd.DataFrame:
+    """Add violated_params and safety_label columns using SAFE_LIMITS rules."""
+    missing_columns = [col for col in REQUIRED_COLUMNS if col not in df.columns]
+    if missing_columns:
+        missing = ", ".join(missing_columns)
+        raise ValueError(f"Missing required columns: {missing}")
+
+    # Ensure numeric comparisons are deterministic and NaN-safe.
+    for col in REQUIRED_COLUMNS:
+        df[col] = pd.to_numeric(df[col], errors="coerce")
+
+    results = df.apply(_row_safety_and_violations, axis=1)
+    df["violated_params"] = results.str[0]
+    df["safety_label"] = results.str[1]
+
+    return df
