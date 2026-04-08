@@ -1,7 +1,6 @@
 import { useMemo, useState } from 'react';
-import WaterQualityMap from './components/Map/Map.jsx';
-import Filters from './components/Filters/Filters.jsx';
-import Forecast from './components/Forecast/Forecast.jsx';
+import Sidebar from './components/Sidebar/Sidebar.jsx';
+import Dashboard from './components/Dashboard/Dashboard.jsx';
 import './App.css';
 
 const DEFAULT_FILTERS = {
@@ -32,74 +31,26 @@ function App() {
 
   return (
     <div className="app-layout" data-theme={theme}>
-      {/* Left Sidebar */}
-      <aside className="app-sidebar">
-        <div className="sidebar-brand">
-          <span className="brand-mark">≋</span>
-          <div>
-            <div className="brand-name">AquaWatch</div>
-            <div className="brand-sub">Water Quality Monitor</div>
-          </div>
-        </div>
+      <Sidebar
+        filters={filters}
+        onChange={handleFilterChange}
+        setLocations={setLocations}
+        setLocationsLoading={setLocationsLoading}
+        loading={locationsLoading}
+        locations={locations}
+        theme={theme}
+        onThemeToggle={handleThemeToggle}
+      />
 
-        <Filters
-          filters={filters}
-          onChange={handleFilterChange}
-          setLocations={setLocations}
-          setLocationsLoading={setLocationsLoading}
-          loading={locationsLoading}
-        />
-
-        <div className="sidebar-stats">
-          <div className="stat-row">
-            <span className="stat-row-label">Stations</span>
-            <span className="stat-row-val">{locations.length}</span>
-          </div>
-          <div className="stat-row">
-            <span className="stat-row-label safe-label">Safe</span>
-            <span className="stat-row-val">{locations.filter(l => l.safety_label === 'Safe').length}</span>
-          </div>
-          <div className="stat-row">
-            <span className="stat-row-label unsafe-label">Unsafe</span>
-            <span className="stat-row-val">{locations.filter(l => l.safety_label === 'Unsafe').length}</span>
-          </div>
-        </div>
-      </aside>
-
-      {/* Main dashboard area */}
-      <main className="app-main">
-        {/* Top stats bar */}
-        <div className="dashboard-topbar">
-          <div className="topbar-title">
-            Water Quality Map
-            {selectedLocation && (
-              <span className="topbar-selected">— {selectedLocation.location}</span>
-            )}
-          </div>
-          <div className="topbar-actions">
-            <div className="topbar-pills">
-              <span className={`topbar-pill ${locationsLoading ? 'pulsing' : ''}`}>
-                {locationsLoading ? 'Updating…' : `${locations.length} Stations`}
-              </span>
-            </div>
-            <button type="button" className="theme-toggle" onClick={handleThemeToggle}>
-              {theme === 'light' ? 'Dark' : 'Light'} Mode
-            </button>
-          </div>
-        </div>
-
-        <div className="map-container">
-          <WaterQualityMap
-            locations={locations}
-            selectedLocationId={selectedLocationId}
-            onLocationSelect={setSelectedLocationId}
-          />
-        </div>
-
-        <div className="forecast-container">
-          <Forecast selectedLocationId={selectedLocationId} />
-        </div>
-      </main>
+      <Dashboard
+        locations={locations}
+        selectedLocationId={selectedLocationId}
+        onLocationSelect={setSelectedLocationId}
+        locationsLoading={locationsLoading}
+        selectedLocation={selectedLocation}
+        theme={theme}
+        onThemeToggle={handleThemeToggle}
+      />
     </div>
   );
 }
