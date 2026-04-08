@@ -1,8 +1,7 @@
-import { useState, useEffect, useCallback } from 'react';
+import { useMemo, useState } from 'react';
 import WaterQualityMap from './components/Map/Map.jsx';
 import Filters from './components/Filters/Filters.jsx';
 import Forecast from './components/Forecast/Forecast.jsx';
-import { fetchLocations, fetchForecast } from './services/api.js';
 import './App.css';
 
 const DEFAULT_FILTERS = {
@@ -14,54 +13,25 @@ const DEFAULT_FILTERS = {
 function App() {
   const [filters, setFilters] = useState(DEFAULT_FILTERS);
   const [locations, setLocations] = useState([]);
-  const [selectedLocation, setSelectedLocation] = useState(null);
-  const [forecastData, setForecastData] = useState(null);
-  const [forecastLoading, setForecastLoading] = useState(false);
-  const [forecastError, setForecastError] = useState(false);
+  const [selectedLocationId, setSelectedLocationId] = useState(null);
   const [locationsLoading, setLocationsLoading] = useState(false);
-
-  const loadLocations = useCallback(async (activeFilters) => {
-    setLocationsLoading(true);
-    try {
-      const data = await fetchLocations(activeFilters);
-      setLocations(data);
-    } catch (e) {
-      console.error('Failed to load locations:', e);
-    } finally {
-      setLocationsLoading(false);
-    }
-  }, []);
-
-  useEffect(() => {
-    loadLocations({});
-  }, [loadLocations]);
+  const [theme, setTheme] = useState('light');
 
   const handleFilterChange = (key, value) => {
     setFilters(prev => ({ ...prev, [key]: value }));
   };
 
-  const handleApplyFilters = () => {
-    loadLocations(filters);
-  };
+  const selectedLocation = useMemo(
+    () => locations.find((location) => String(location.id) === String(selectedLocationId)) || null,
+    [locations, selectedLocationId],
+  );
 
-  const handleMarkerClick = async (loc) => {
-    setSelectedLocation(loc);
-    setForecastData(null);
-    setForecastError(false);
-    setForecastLoading(true);
-    try {
-      const data = await fetchForecast(loc.id, 5);
-      setForecastData(data);
-    } catch (e) {
-      console.error('Forecast error:', e);
-      setForecastError(true);
-    } finally {
-      setForecastLoading(false);
-    }
+  const handleThemeToggle = () => {
+    setTheme((currentTheme) => (currentTheme === 'light' ? 'dark' : 'light'));
   };
 
   return (
-    <div className="app-layout">
+    <div className="app-layout" data-theme={theme}>
       {/* Left Sidebar */}
       <aside className="app-sidebar">
         <div className="sidebar-brand">
@@ -75,7 +45,8 @@ function App() {
         <Filters
           filters={filters}
           onChange={handleFilterChange}
-          onApply={handleApplyFilters}
+          setLocations={setLocations}
+          setLocationsLoading={setLocationsLoading}
           loading={locationsLoading}
         />
 
@@ -105,29 +76,28 @@ function App() {
               <span className="topbar-selected">— {selectedLocation.location}</span>
             )}
           </div>
-          <div className="topbar-pills">
-            <span className={`topbar-pill ${locationsLoading ? 'pulsing' : ''}`}>
-              {locationsLoading ? 'Updating…' : `${locations.length} Stations`}
-            </span>
+          <div className="topbar-actions">
+            <div className="topbar-pills">
+              <span className={`topbar-pill ${locationsLoading ? 'pulsing' : ''}`}>
+                {locationsLoading ? 'Updating…' : `${locations.length} Stations`}
+              </span>
+            </div>
+            <button type="button" className="theme-toggle" onClick={handleThemeToggle}>
+              {theme === 'light' ? 'Dark' : 'Light'} Mode
+            </button>
           </div>
         </div>
 
-        {/* Map */}
-        <div className="map-wrapper">
+        <div className="map-container">
           <WaterQualityMap
             locations={locations}
-            onMarkerClick={handleMarkerClick}
-            selectedId={selectedLocation?.id}
+            selectedLocationId={selectedLocationId}
+            onLocationSelect={setSelectedLocationId}
           />
         </div>
 
-        {/* Bottom forecast panel */}
-        <div className="forecast-bottom">
-          <Forecast
-            data={forecastData}
-            loading={forecastLoading}
-            error={forecastError}
-          />
+        <div className="forecast-container">
+          <Forecast selectedLocationId={selectedLocationId} />
         </div>
       </main>
     </div>
