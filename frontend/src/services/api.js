@@ -1,4 +1,46 @@
-const BASE_URL = 'http://127.0.0.1:8000';
+const ENV_BASE_URL = import.meta.env.VITE_API_URL;
+
+const BASE_URL_CANDIDATES = [
+  ENV_BASE_URL,
+  'http://127.0.0.1:8000',
+  'http://localhost:8000',
+].filter(Boolean);
+
+async function requestJson(path) {
+  let lastError = null;
+
+  for (const baseUrl of BASE_URL_CANDIDATES) {
+    try {
+      const response = await fetch(`${baseUrl}${path}`, {
+        headers: {
+          Accept: 'application/json',
+        },
+      });
+
+      if (!response.ok) {
+        let message = `Request failed (${response.status})`;
+        try {
+          const payload = await response.json();
+          message = payload?.detail || payload?.message || message;
+        } catch {
+          // Keep fallback message when response body is not JSON.
+        }
+        throw new Error(message);
+      }
+
+      return response.json();
+    } catch (error) {
+      lastError = error;
+      if (!(error instanceof TypeError)) {
+        throw error;
+      }
+    }
+  }
+
+  throw new Error(
+    `Unable to reach backend API. Start FastAPI with: uvicorn backend.main:app --reload. Last error: ${lastError?.message || 'Unknown network error'}`,
+  );
+}
 
 export async function fetchLocations(filters = {}) {
   const params = new URLSearchParams();
@@ -6,14 +48,14 @@ export async function fetchLocations(filters = {}) {
   if (filters.water_body_type) params.append('water_body_type', filters.water_body_type);
   if (filters.safety_label) params.append('safety_label', filters.safety_label);
 
-  const url = `${BASE_URL}/locations${params.toString() ? '?' + params.toString() : ''}`;
-  const res = await fetch(url);
-  if (!res.ok) throw new Error('Failed to fetch locations');
-  return res.json();
+  const query = params.toString() ? `?${params.toString()}` : '';
+  return requestJson(`/locations/${query}`);
 }
 
+export const getLocations = fetchLocations;
+
 export async function fetchForecast(id, years = 5) {
-  const res = await fetch(`${BASE_URL}/forecast/${id}?years=${years}`);
-  if (!res.ok) throw new Error('Failed to fetch forecast');
-  return res.json();
+  return requestJson(`/forecast/${id}?years=${years}`);
 }
+
+export const getForecast = fetchForecast;
