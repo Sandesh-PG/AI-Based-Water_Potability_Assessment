@@ -75,6 +75,17 @@
   font-family: 'DM Mono', monospace;
 }
 
+.module-placeholder-content {
+  margin-top: 16px;
+  padding: 12px;
+  border-radius: 10px;
+  border: 1px dashed var(--border);
+  background: var(--panel-soft);
+  color: var(--text-h);
+  font-size: 13px;
+  font-weight: 600;
+}
+
 @media (max-width: 900px) {
   .app-sidebar {
     height: auto;

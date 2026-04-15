@@ -19,8 +19,8 @@ function Sidebar({
       <div className="sidebar-brand">
         <span className="brand-mark">≋</span>
         <div>
-          <div className="brand-name">AquaWatch</div>
-          <div className="brand-sub">Water Quality Monitor</div>
+          <div className="brand-name">Station Map</div>
+          <div className="brand-sub">Water Quality Layer</div>
         </div>
       </div>
 
