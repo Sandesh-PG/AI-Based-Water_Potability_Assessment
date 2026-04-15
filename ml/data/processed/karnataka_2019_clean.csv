@@ -1,6 +1,6 @@
 stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
-3564,Borewell Water Near Mangalijyothi School Msw Site Vammanjoor,Groundwater,KARNATAKA,2019,Unsafe,33.85,"pH Out of Range, High BOD",27.5,,4.2,7.05,169.0,3.0,1.15,2.0,
-4093,"M/S Sugureshwara Ind, 196 (P), Kiadb Ind Growth Centre, Chika Sugar, Raichur",Groundwater,KARNATAKA,2019,Unsafe,61.54,"pH Out of Range, High BOD",30.0,,5.0,7.4,500.0,8.8,,,
+3564,Borewell Water Near Mangalijyothi School Msw Site Vammanjoor,Groundwater,KARNATAKA,2019,Unsafe,11.81,pH Out of Range,27.5,,4.2,7.05,,3.0,1.15,2.0,
+4093,"M/S Sugureshwara Ind, 196 (P), Kiadb Ind Growth Centre, Chika Sugar, Raichur",Groundwater,KARNATAKA,2019,Unsafe,23.08,pH Out of Range,30.0,,5.0,7.4,,8.8,,,
 4499,"Benniothora Dam, Kurkota Village",River,KARNATAKA,2019,Safe,7.37,None,28.5,7.15,8.1,539.0,2.4,0.31,260.0,1250.0,
 4500,"Kagina River At D/S Of Bridge Cum Barrage, Sadem Tq",River,KARNATAKA,2019,Safe,6.51,None,27.5,6.9,8.15,517.5,2.3,0.34,205.0,730.0,
 1444,"Kali At D/S West Coast Paper Mill (Wcpm) ,",River,KARNATAKA,2019,Unsafe,21.45,High BOD,26.0,7.7,7.25,80.0,14.3,0.115,192.5,847.5,
