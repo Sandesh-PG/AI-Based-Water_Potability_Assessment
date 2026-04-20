@@ -60,11 +60,21 @@ export async function fetchForecast(id, years = 5) {
 
 export const getForecast = fetchForecast;
 
-export async function sendChatMessage(message, stationId = null) {
+export async function fetchStationTrends(stationId) {
+  const res = await fetch(`http://127.0.0.1:8000/stations/${stationId}/trends`);
+  if (!res.ok) return null;
+  return res.json();
+}
+
+export async function sendChatMessage(message, stationId = null, history = []) {
   const res = await fetch('http://127.0.0.1:8000/chat/', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ message, station_id: stationId }),
+    body: JSON.stringify({
+      message,
+      station_id: stationId,
+      history,
+    }),
   });
   if (!res.ok) throw new Error('Chat request failed');
   return res.json();
