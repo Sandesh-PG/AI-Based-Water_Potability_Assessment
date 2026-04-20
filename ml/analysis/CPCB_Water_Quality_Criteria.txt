@@ -1,0 +1,55 @@
+CPCB Water Quality Criteria - Designated Best Use Classification
+Source: Central Pollution Control Board, India (IS 2296:1992)
+
+CLASS A - Drinking Water Source without conventional treatment but after disinfection
+- Total Coliforms: MPN/100ml shall be 50 or less
+- pH: between 6.5 and 8.5
+- Dissolved Oxygen (DO): 6 mg/l or more
+- Biochemical Oxygen Demand (BOD) 5 days 20C: 2 mg/l or less
+
+CLASS B - Outdoor Bathing (Organised)
+- Total Coliforms: MPN/100ml shall be 500 or less
+- pH: between 6.5 and 8.5
+- Dissolved Oxygen (DO): 5 mg/l or more
+- Biochemical Oxygen Demand (BOD) 5 days 20C: 3 mg/l or less
+
+CLASS C - Drinking Water Source after conventional treatment and disinfection
+- Total Coliforms: MPN/100ml shall be 5000 or less
+- pH: between 6.0 and 9.0
+- Dissolved Oxygen (DO): 4 mg/l or more
+- Biochemical Oxygen Demand (BOD) 5 days 20C: 3 mg/l or less
+
+CLASS D - Propagation of Wild life and Fisheries
+- pH: between 6.5 and 8.5
+- Dissolved Oxygen (DO): 4 mg/l or more
+- Free Ammonia (as N): 1.2 mg/l or less
+
+CLASS E - Irrigation, Industrial Cooling, Controlled Waste Disposal
+- pH: between 6.0 and 8.5
+- Electrical Conductivity at 25C: max 2250 micro mhos/cm
+- Sodium Absorption Ratio (SAR): max 26
+- Boron: max 2 mg/l
+
+CLASS Below-E - Not Meeting A, B, C, D or E Criteria
+- Water body does not meet any of the above designated use criteria
+- Requires immediate remediation and pollution control action
+
+PARAMETER VIOLATION THRESHOLDS SUMMARY (CPCB):
+- BOD > 6 mg/l: Water body classified as polluted, action plan required
+- DO < 4 mg/l: Critical oxygen depletion, harmful to aquatic life
+- Total Coliforms > 5000 MPN/100ml: Unsafe for any drinking use
+- Fecal Coliforms > 500 MPN/100ml: High health risk, indicates sewage contamination
+- pH < 6.0 or > 9.0: Unsuitable for most uses
+
+CAUSES OF PARAMETER VIOLATIONS:
+- High BOD: Discharge of untreated sewage, industrial organic effluents, agricultural runoff
+- Low DO: Excessive organic load, eutrophication, thermal pollution
+- High Coliforms: Open defecation, untreated sewage discharge, poor sanitation infrastructure
+- High Nitrates: Agricultural fertilizer runoff, sewage discharge, animal waste
+- pH violations: Industrial chemical discharge, acid mine drainage, alkaline effluents
+
+RECOMMENDED MEASURES:
+- High BOD/Low DO: Establish sewage treatment plants (STPs), enforce industrial effluent standards
+- High Coliforms: Improve sanitation infrastructure, enforce no-discharge zones, chlorination
+- High Nitrates: Regulate fertilizer use, establish riparian buffer zones
+- pH violations: Neutralization of industrial effluents before discharge, regular monitoring

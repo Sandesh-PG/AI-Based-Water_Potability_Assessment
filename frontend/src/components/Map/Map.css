@@ -186,3 +186,34 @@
   color: var(--text-h) !important;
   font-size: 16px !important;
 }
+
+.popup-pin-btn {
+  width: 100%;
+  padding: 6px;
+  margin-top: 4px;
+  border-radius: 7px;
+  border: 1.5px solid var(--border);
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  background: var(--panel);
+  color: var(--text-h);
+  transition: all 0.15s;
+}
+
+.popup-pin-btn:hover:not(:disabled) {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.popup-pin-btn.pinned {
+  background: #dcfce7;
+  color: #15803d;
+  border-color: #15803d;
+  cursor: default;
+}
+
+.popup-pin-btn.maxed {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
