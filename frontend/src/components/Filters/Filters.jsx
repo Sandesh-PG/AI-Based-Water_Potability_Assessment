@@ -33,7 +33,7 @@ function Filters({ filters, onChange, setLocations, setLocationsLoading, loading
     <div className="filters-wrapper">
       <div className="filters-header">
         <span className="filters-icon">⟁</span>
-        <h2 className="filters-title">Filters</h2>
+        <h2 className="filters-title" style={{"color": "white"}}>Filters</h2>
       </div>
 
       <div className="filters-body">

@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import L from 'leaflet';
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
+import { usePinnedStations } from '../../contexts/PinnedStationsContext.jsx';
 import './Map.css';
 
 const INDIA_CENTER = [22.5937, 78.9629];
@@ -29,6 +30,35 @@ function createMarkerIcon(isSelected) {
 
 function WaterQualityMap({ locations = [], selectedLocationId, onLocationSelect }) {
   const [mapInstance, setMapInstance] = useState(null);
+  const { pinStation, isPinned, pinnedStations } = usePinnedStations();
+
+  const renderPinButton = (location) => {
+    if (isPinned(location.id)) {
+      return (
+        <button type="button" className="popup-pin-btn pinned" disabled>
+          ✓ Pinned
+        </button>
+      );
+    }
+
+    if (pinnedStations.length >= 5) {
+      return (
+        <button type="button" className="popup-pin-btn maxed" disabled>
+          📍 Max 5 reached
+        </button>
+      );
+    }
+
+    return (
+      <button
+        type="button"
+        className="popup-pin-btn"
+        onClick={() => pinStation(location)}
+      >
+        📍 Pin Station
+      </button>
+    );
+  };
 
   const uniqueLocations = useMemo(() => {
     const normalized = locations
@@ -88,6 +118,7 @@ function WaterQualityMap({ locations = [], selectedLocationId, onLocationSelect 
                 <div><strong>{location.location || 'Unknown location'}</strong></div>
                 <div>Pollution Score: {location.pollution_score ?? 'N/A'}</div>
                 <div>Safety Label: {location.safety_label || 'N/A'}</div>
+                {renderPinButton(location)}
               </div>
             </Popup>
           </Marker>

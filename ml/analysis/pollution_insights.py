@@ -70,7 +70,11 @@ def _extract_json_object(text: str) -> dict[str, Any]:
     raise ValueError("Model response does not contain valid JSON")
 
 
-def _call_groq(messages: list[dict[str, str]], temperature: float = 0.2) -> str:
+def _call_groq(
+    messages: list[dict[str, str]],
+    temperature: float = 0.2,
+    use_json_format: bool = True,
+) -> str:
     api_key = os.getenv("GROQ_API_KEY")
     if not api_key:
         raise EnvironmentError("GROQ_API_KEY is not set")
@@ -79,8 +83,10 @@ def _call_groq(messages: list[dict[str, str]], temperature: float = 0.2) -> str:
         "model": GROQ_MODEL,
         "messages": messages,
         "temperature": temperature,
-        "response_format": {"type": "json_object"},
     }
+
+    if use_json_format:
+        payload["response_format"] = {"type": "json_object"}
 
     req = urllib.request.Request(
         GROQ_API_URL,

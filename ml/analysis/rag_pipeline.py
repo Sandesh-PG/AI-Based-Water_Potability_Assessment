@@ -152,6 +152,53 @@ def ingest_pdf_to_knowledge_base(
     return len(chunks)
 
 
+def ingest_text_to_knowledge_base(
+    text_path: str,
+    collection_name: str = DEFAULT_COLLECTION_NAME,
+    persist_directory: str = DEFAULT_PERSIST_DIR,
+) -> int:
+    """Read, chunk, embed, and store a text file into local ChromaDB.
+
+    Returns number of chunks indexed.
+    """
+    path = Path(text_path)
+    if not path.exists():
+        raise FileNotFoundError(f"Text file not found: {text_path}")
+
+    raw_text = path.read_text(encoding="utf-8")
+    chunks = chunk_text(raw_text)
+
+    if not chunks:
+        return 0
+
+    collection = _get_collection(collection_name, persist_directory)
+
+    # Replace existing chunks from the same source file to avoid duplicates.
+    collection.delete(where={"source": str(path.resolve())})
+
+    model = _get_model()
+    embeddings = model.encode(chunks, convert_to_numpy=True).tolist()
+
+    source_hash = hashlib.sha1(str(path.resolve()).encode("utf-8")).hexdigest()[:12]
+    ids = [f"{source_hash}_{i}" for i in range(len(chunks))]
+    metadatas = [
+        {
+            "source": str(path.resolve()),
+            "chunk_index": i,
+        }
+        for i in range(len(chunks))
+    ]
+
+    collection.add(
+        ids=ids,
+        documents=chunks,
+        embeddings=embeddings,
+        metadatas=metadatas,
+    )
+
+    return len(chunks)
+
+
 def query_knowledge_base(
     query: str,
     n_results: int,
