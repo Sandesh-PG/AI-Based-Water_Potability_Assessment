@@ -17,7 +17,7 @@ import { PinnedStationsProvider } from './contexts/PinnedStationsContext.jsx';
 import './App.css';
 
 const DEFAULT_FILTERS = {
-  year: '',
+  year: '2022',
   water_body_type: '',
   safety_label: '',
 };

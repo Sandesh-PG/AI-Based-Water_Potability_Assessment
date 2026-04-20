@@ -19,12 +19,25 @@ function isValidCoordinate(lat, lon) {
   return latitude >= -90 && latitude <= 90 && longitude >= -180 && longitude <= 180;
 }
 
-function createMarkerIcon(isSelected) {
+function createMarkerIcon(isSelected, safetyLabel) {
+  const isSafe = safetyLabel === 'Safe';
+  const color = isSafe ? '#22c55e' : '#ef4444';
+  const glowColor = isSafe
+    ? 'rgba(34,197,94,0.25)'
+    : 'rgba(239,68,68,0.25)';
+  const size = isSelected ? 20 : 12;
+  const anchor = isSelected ? 10 : 6;
+
   return L.divIcon({
     className: `station-marker ${isSelected ? 'station-marker-selected' : ''}`,
-    html: '<span class="station-marker-dot"></span>',
-    iconSize: isSelected ? [20, 20] : [14, 14],
-    iconAnchor: isSelected ? [10, 10] : [7, 7],
+    html: `<span class="station-marker-dot"
+             style="background:${color};
+                    box-shadow:0 0 0 3px ${glowColor};
+                    width:${size}px;height:${size}px;
+                    border-radius:50%;display:block;">
+           </span>`,
+    iconSize: [size, size],
+    iconAnchor: [anchor, anchor],
   });
 }
 
@@ -104,7 +117,10 @@ function WaterQualityMap({ locations = [], selectedLocationId, onLocationSelect 
           <Marker
             key={location.id}
             position={[location.lat, location.lon]}
-            icon={createMarkerIcon(String(location.id) === String(selectedLocationId))}
+            icon={createMarkerIcon(
+              String(location.id) === String(selectedLocationId),
+              location.safety_label,
+            )}
             eventHandlers={
               onLocationSelect
                 ? {

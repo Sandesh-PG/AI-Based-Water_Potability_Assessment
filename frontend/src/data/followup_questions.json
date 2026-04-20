@@ -1,0 +1,41 @@
+{
+  "unsafe": {
+    "BOD": [
+      "What causes high BOD in rivers?",
+      "How does BOD affect aquatic life?"
+    ],
+    "Fecal Coliform": [
+      "What are the health effects of fecal coliform?",
+      "How does sewage contamination spread?"
+    ],
+    "Nitrate": [
+      "How does nitrate contamination affect health?",
+      "What is the WHO limit for nitrates?"
+    ],
+    "DO": [
+      "What causes low dissolved oxygen?",
+      "How does low DO affect fish and aquatic life?"
+    ],
+    "pH": [
+      "What causes abnormal pH in water?",
+      "How does pH affect water treatment?"
+    ],
+    "default": [
+      "What are the recommended treatment methods?",
+      "Which WHO guidelines are being violated?",
+      "How is pollution score calculated?"
+    ]
+  },
+  "safe": [
+    "What parameters should be monitored regularly?",
+    "What are WHO guidelines for safe drinking water?",
+    "How is pollution score calculated?",
+    "What is CPCB Class A water standard?"
+  ],
+  "general": [
+    "What is the safe limit for BOD?",
+    "What causes low dissolved oxygen in rivers?",
+    "How can water quality be improved?",
+    "What is fecal coliform and why is it dangerous?"
+  ]
+}

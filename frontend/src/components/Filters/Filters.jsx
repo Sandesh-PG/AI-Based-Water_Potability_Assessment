@@ -22,7 +22,7 @@ function Filters({ filters, onChange, setLocations, setLocationsLoading, loading
   }, [setLocations, setLocationsLoading]);
 
   useEffect(() => {
-    loadLocations({});
+    loadLocations({ year: 2022 });
   }, [loadLocations]);
 
   const handleApply = () => {
