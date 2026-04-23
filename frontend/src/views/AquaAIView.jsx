@@ -1,8 +1,10 @@
 import PropTypes from 'prop-types';
 import { useEffect, useMemo, useRef, useState } from 'react';
-import { fetchStationTrends, sendChatMessage } from '../services/api.js';
+import { pdf } from '@react-pdf/renderer';
+import { fetchStationComparison, fetchStationTrends, fetchYearComparison, sendChatMessage } from '../services/api.js';
 import { usePinnedStations } from '../contexts/PinnedStationsContext.jsx';
 import followUpQuestions from '../data/followup_questions.json';
+import AquaAIPDF from '../components/AquaAIPDFExport.jsx';
 import './AquaAIView.css';
 
 const SUGGESTED_QUESTIONS = [
@@ -11,6 +13,8 @@ const SUGGESTED_QUESTIONS = [
   'Explain this station risk using WHO and BIS standards.',
   'What actions can reduce nitrate pollution at this station?',
 ];
+
+const AVAILABLE_YEARS = [2016, 2017, 2018, 2019, 2020, 2021, 2022];
 
 const STATION_CONTEXT_KEYWORDS = [
   'this station',
@@ -84,6 +88,166 @@ TrendsPanel.propTypes = {
   trends: PropTypes.shape({
     station_name: PropTypes.oneOfType([PropTypes.string, PropTypes.oneOf([null])]),
     summary: PropTypes.object,
+  }),
+};
+
+function ComparePanel({ comparison }) {
+  if (!comparison) return null;
+
+  return (
+    <div className="ai-compare-panel">
+      <div className="ai-compare-header">
+        <span className="ai-compare-title">⚖ Station Comparison</span>
+        <span className="ai-compare-winner">
+          ✓ Cleaner: {
+            comparison.winner === comparison.station_a.station_id
+              ? comparison.station_a.station_name
+              : comparison.station_b.station_name
+          }
+        </span>
+      </div>
+
+      <div className="ai-compare-table">
+        <div className="ai-compare-row ai-compare-head">
+          <span>Parameter</span>
+          <span>{comparison.station_a.station_name}</span>
+          <span>{comparison.station_b.station_name}</span>
+          <span>Limit</span>
+        </div>
+
+        {comparison.parameter_comparison.map((row) => (
+          <div key={row.param} className="ai-compare-row">
+            <span className="ai-compare-param">{row.label}</span>
+            <span className={`ai-compare-val ${row.a_status}`}>
+              {row.a_value ?? 'N/A'} {row.unit}
+            </span>
+            <span className={`ai-compare-val ${row.b_status}`}>
+              {row.b_value ?? 'N/A'} {row.unit}
+            </span>
+            <span className="ai-compare-limit">
+              {row.limit ?? '—'}
+            </span>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+ComparePanel.propTypes = {
+  comparison: PropTypes.shape({
+    winner: PropTypes.string.isRequired,
+    station_a: PropTypes.shape({
+      station_id: PropTypes.string.isRequired,
+      station_name: PropTypes.oneOfType([PropTypes.string, PropTypes.oneOf([null])]),
+    }).isRequired,
+    station_b: PropTypes.shape({
+      station_id: PropTypes.string.isRequired,
+      station_name: PropTypes.oneOfType([PropTypes.string, PropTypes.oneOf([null])]),
+    }).isRequired,
+    parameter_comparison: PropTypes.arrayOf(PropTypes.shape({
+      label: PropTypes.string.isRequired,
+      unit: PropTypes.string,
+      a_value: PropTypes.oneOfType([PropTypes.number, PropTypes.oneOf([null])]),
+      b_value: PropTypes.oneOfType([PropTypes.number, PropTypes.oneOf([null])]),
+      limit: PropTypes.oneOfType([PropTypes.number, PropTypes.oneOf([null])]),
+      a_status: PropTypes.string.isRequired,
+      b_status: PropTypes.string.isRequired,
+    })).isRequired,
+  }),
+};
+
+function YearComparePanel({ data }) {
+  if (!data) return null;
+
+  const CHANGE_COLOR = {
+    Improved: '#22c55e',
+    Worsened: '#ef4444',
+    Stable: '#0ea5e9',
+    'N/A': '#94a3b8',
+  };
+
+  const CHANGE_ICON = {
+    Improved: '↘',
+    Worsened: '↗',
+    Stable: '→',
+    'N/A': '—',
+  };
+
+  return (
+    <div className="ai-compare-panel">
+      <div className="ai-compare-header">
+        <span className="ai-compare-title">
+          📅 {data.year_a} vs {data.year_b} — {data.station_name}
+        </span>
+      </div>
+
+      <div className="ai-compare-table">
+        <div className="ai-compare-row ai-compare-head">
+          <span>Parameter</span>
+          <span>{data.year_a}</span>
+          <span>{data.year_b}</span>
+          <span>Change</span>
+        </div>
+
+        {data.parameter_comparison.map((row) => (
+          <div key={row.param} className="ai-compare-row">
+            <span className="ai-compare-param">{row.label}</span>
+            <span className={`ai-compare-val ${row.a_status}`}>
+              {row.a_value ?? 'N/A'} {row.unit}
+            </span>
+            <span className={`ai-compare-val ${row.b_status}`}>
+              {row.b_value ?? 'N/A'} {row.unit}
+            </span>
+            <span style={{ color: CHANGE_COLOR[row.change], fontFamily: 'DM Mono', fontSize: 12 }}>
+              {CHANGE_ICON[row.change]} {row.change}
+            </span>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+YearComparePanel.propTypes = {
+  data: PropTypes.shape({
+    station_name: PropTypes.oneOfType([PropTypes.string, PropTypes.oneOf([null])]),
+    year_a: PropTypes.number.isRequired,
+    year_b: PropTypes.number.isRequired,
+    parameter_comparison: PropTypes.arrayOf(PropTypes.shape({
+      param: PropTypes.string.isRequired,
+      label: PropTypes.string.isRequired,
+      unit: PropTypes.string,
+      a_value: PropTypes.oneOfType([PropTypes.number, PropTypes.oneOf([null])]),
+      b_value: PropTypes.oneOfType([PropTypes.number, PropTypes.oneOf([null])]),
+      limit: PropTypes.oneOfType([PropTypes.number, PropTypes.oneOf([null])]),
+      a_status: PropTypes.string.isRequired,
+      b_status: PropTypes.string.isRequired,
+      change: PropTypes.string.isRequired,
+    })).isRequired,
+  }),
+};
+
+ComparePanel.propTypes = {
+  comparison: PropTypes.shape({
+    winner: PropTypes.string.isRequired,
+    station_a: PropTypes.shape({
+      station_id: PropTypes.string.isRequired,
+      station_name: PropTypes.oneOfType([PropTypes.string, PropTypes.oneOf([null])]),
+    }).isRequired,
+    station_b: PropTypes.shape({
+      station_id: PropTypes.string.isRequired,
+      station_name: PropTypes.oneOfType([PropTypes.string, PropTypes.oneOf([null])]),
+    }).isRequired,
+    parameter_comparison: PropTypes.arrayOf(PropTypes.shape({
+      label: PropTypes.string.isRequired,
+      unit: PropTypes.string,
+      a_value: PropTypes.oneOfType([PropTypes.number, PropTypes.oneOf([null])]),
+      b_value: PropTypes.oneOfType([PropTypes.number, PropTypes.oneOf([null])]),
+      limit: PropTypes.oneOfType([PropTypes.number, PropTypes.oneOf([null])]),
+      a_status: PropTypes.string.isRequired,
+      b_status: PropTypes.string.isRequired,
+    })).isRequired,
   }),
 };
 
@@ -272,7 +436,12 @@ function AquaAIView() {
   const [input, setInput] = useState('');
   const [loading, setLoading] = useState(false);
   const [selectedStationId, setSelectedStationId] = useState('');
+  const [compareStationId, setCompareStationId] = useState('');
+  const [selectedYear, setSelectedYear] = useState('');
   const [trends, setTrends] = useState(null);
+  const [comparison, setComparison] = useState(null);
+  const [yearCompare, setYearCompare] = useState({ a: '', b: '' });
+  const [yearComparison, setYearComparison] = useState(null);
   const messagesEndRef = useRef(null);
 
   const stationOptions = useMemo(
@@ -291,8 +460,54 @@ function AquaAIView() {
 
   useEffect(() => {
     if (!selectedStationId) { setTrends(null); return; }
-    fetchStationTrends(selectedStationId).then(setTrends).catch(() => setTrends(null));
-  }, [selectedStationId]);
+    fetchStationTrends(selectedStationId, selectedYear || null).then(setTrends).catch(() => setTrends(null));
+  }, [selectedStationId, selectedYear]);
+
+  useEffect(() => {
+    if (!selectedStationId || !compareStationId) {
+      setComparison(null);
+      return;
+    }
+    fetchStationComparison(
+      selectedStationId,
+      compareStationId,
+      selectedYear || null,
+    ).then(setComparison).catch(() => setComparison(null));
+  }, [selectedStationId, compareStationId, selectedYear]);
+
+  useEffect(() => {
+    if (!selectedStationId || !yearCompare.a || !yearCompare.b
+      || yearCompare.a === yearCompare.b) {
+      setYearComparison(null);
+      return;
+    }
+    fetchYearComparison(selectedStationId, yearCompare.a, yearCompare.b)
+      .then(setYearComparison)
+      .catch(() => setYearComparison(null));
+  }, [selectedStationId, yearCompare]);
+
+  const handleExport = async () => {
+    const exportDate = new Date().toLocaleDateString('en-IN', {
+      year: 'numeric', month: 'long', day: 'numeric',
+    });
+    const doc = (
+      <AquaAIPDF
+        messages={messages}
+        trends={trends}
+        comparison={comparison}
+        yearComparison={yearComparison}
+        stationName={stationOptions.find(s => String(s.id) === String(selectedStationId))?.label || null}
+        exportDate={exportDate}
+      />
+    );
+    const blob = await pdf(doc).toBlob();
+    const url = URL.createObjectURL(blob);
+    const anchor = document.createElement('a');
+    anchor.href = url;
+    anchor.download = `aquaai-report-${Date.now()}.pdf`;
+    anchor.click();
+    URL.revokeObjectURL(url);
+  };
 
   const submitMessage = async (questionText) => {
     const messageText = questionText.trim();
@@ -343,7 +558,12 @@ function AquaAIView() {
           : m.content,
       })).filter(m => m.content);
 
-      const data = await sendChatMessage(messageText, selectedStationId || null, history);
+      const data = await sendChatMessage(
+        messageText,
+        selectedStationId || null,
+        history,
+        selectedYear ? Number.parseInt(selectedYear, 10) : null,
+      );
 
       setMessages(prev => [
         ...prev,
@@ -414,9 +634,75 @@ function AquaAIView() {
             ))}
           </select>
         </div>
+
+        {selectedStationId && (
+          <div className="ai-station-selector">
+            <label htmlFor="ai-compare-station-context">Compare With</label>
+            <select
+              id="ai-compare-station-context"
+              value={compareStationId}
+              onChange={(event) => setCompareStationId(event.target.value)}
+            >
+              <option value="">None</option>
+              {stationOptions
+                .filter((station) => String(station.id) !== String(selectedStationId))
+                .map((station) => (
+                  <option key={station.id} value={station.id}>{station.label}</option>
+                ))}
+            </select>
+          </div>
+        )}
+
+        <div className="ai-year-selector">
+          <label htmlFor="ai-year-context">Year</label>
+          <select
+            id="ai-year-context"
+            value={selectedYear}
+            onChange={e => setSelectedYear(e.target.value)}
+          >
+            <option value="">Latest</option>
+            {AVAILABLE_YEARS.map(y => (
+              <option key={y} value={y}>{y}</option>
+            ))}
+          </select>
+        </div>
+
+        <button
+          className="ai-export-btn"
+          onClick={handleExport}
+          disabled={messages.length === 0 && !trends}
+        >
+          ↓ Export PDF
+        </button>
       </div>
 
       <TrendsPanel trends={trends} />
+      {selectedStationId && !compareStationId && (
+        <div className="ai-year-compare-controls">
+          <span className="ai-year-compare-label">COMPARE YEARS</span>
+          <select
+            value={yearCompare.a}
+            onChange={e => setYearCompare(prev => ({ ...prev, a: e.target.value }))}
+          >
+            <option value="">From</option>
+            {AVAILABLE_YEARS.map(y => (
+              <option key={y} value={y}>{y}</option>
+            ))}
+          </select>
+          <span className="ai-year-compare-vs">vs</span>
+          <select
+            value={yearCompare.b}
+            onChange={e => setYearCompare(prev => ({ ...prev, b: e.target.value }))}
+          >
+            <option value="">To</option>
+            {AVAILABLE_YEARS.map(y => (
+              <option key={y} value={y}>{y}</option>
+            ))}
+          </select>
+        </div>
+      )}
+      <YearComparePanel data={yearComparison} />
+      <ComparePanel comparison={comparison} />
 
       <div className="ai-messages" ref={messagesEndRef}>
         {messages.map((msg, i) => (
