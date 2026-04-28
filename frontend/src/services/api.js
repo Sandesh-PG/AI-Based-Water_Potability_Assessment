@@ -98,3 +98,17 @@ export async function sendChatMessage(message, stationId = null, history = [], y
   if (!res.ok) throw new Error('Chat request failed');
   return res.json();
 }
+
+export async function fetchOverviewStats(year = null) {
+  const query = year ? `?year=${year}` : '';
+  return requestJson(`/stats/overview${query}`);
+}
+
+export async function fetchParameterStats(year = null, waterBodyType = null) {
+  const params = new URLSearchParams();
+  if (year) params.append('year', year);
+  if (waterBodyType) params.append('water_body_type', waterBodyType);
+
+  const query = params.toString() ? `?${params.toString()}` : '';
+  return requestJson(`/stats/parameters${query}`);
+}
