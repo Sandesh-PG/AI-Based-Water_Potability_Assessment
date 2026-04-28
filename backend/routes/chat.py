@@ -23,6 +23,7 @@ class ChatRequest(BaseModel):
     message: str
     station_id: int | str | None = None
     history: list[dict] | None = []
+    year: int | None = None
 
 
 class ViolationDetail(BaseModel):
@@ -136,6 +137,7 @@ def _compute_violations(row: pd.Series) -> list[dict]:
 
 def _get_station_context_data(
     station_id: int | str | None,
+    year: int | None = None,
 ) -> tuple[str, str, str | None, list[str], bool, list[dict]]:
     station_context = ""
     station_safety_label = "Unknown"
@@ -159,11 +161,21 @@ def _get_station_context_data(
         station_mask = df["stn_code"].astype(str).str.strip() == str(station_id).strip()
         station_rows = df.loc[station_mask].copy()
 
+        if year is not None and not station_rows.empty:
+            year_values = pd.to_numeric(station_rows["year"], errors="coerce")
+            station_rows = station_rows.loc[year_values == year].copy()
+
         if not station_rows.empty:
             station_rows["_year_numeric"] = pd.to_numeric(station_rows["year"], errors="coerce")
             station_rows = station_rows.sort_values("_year_numeric", ascending=False, na_position="last")
             latest_row = station_rows.iloc[0]
             station_context, station_name, violated_params, station_safety_label = _format_station_context(latest_row)
+            if year is not None and pd.notna(latest_row.get("year")) and int(latest_row.get("year")) == year:
+                station_context = station_context.replace(
+                    f"Year: {int(latest_row.get('year'))},",
+                    f"Year: {int(latest_row.get('year'))} (selected),",
+                    1,
+                )
             server_violations = _compute_violations(latest_row)
             station_safety_label = str(latest_row.get("safety_label", "Unknown") or "Unknown")
             has_station_context = True
@@ -256,7 +268,7 @@ def chat(request: ChatRequest) -> ChatResponse:
             violated_params,
             has_station_context,
             server_violations,
-        ) = _get_station_context_data(request.station_id)
+        ) = _get_station_context_data(request.station_id, request.year)
 
         retrieval_query = (
             f"{request.message}. Context: {station_context}" if station_context else request.message
