@@ -112,3 +112,44 @@ export async function fetchParameterStats(year = null, waterBodyType = null) {
   const query = params.toString() ? `?${params.toString()}` : '';
   return requestJson(`/stats/parameters${query}`);
 }
+
+export async function sendBatchPredict(file) {
+  if (!file) {
+    throw new Error('Please select a CSV file before running batch prediction.');
+  }
+
+  const formData = new FormData();
+  formData.append('file', file);
+
+  let lastError = null;
+  for (const baseUrl of BASE_URL_CANDIDATES) {
+    try {
+      const response = await fetch(`${baseUrl}/batch/predict`, {
+        method: 'POST',
+        body: formData,
+      });
+
+      if (!response.ok) {
+        let message = `Batch request failed (${response.status})`;
+        try {
+          const payload = await response.json();
+          message = payload?.detail || payload?.message || message;
+        } catch {
+          // Keep fallback message when response body is not JSON.
+        }
+        throw new Error(message);
+      }
+
+      return response.json();
+    } catch (error) {
+      lastError = error;
+      if (!(error instanceof TypeError)) {
+        throw error;
+      }
+    }
+  }
+
+  throw new Error(
+    `Unable to reach backend API for batch prediction. Last error: ${lastError?.message || 'Unknown network error'}`,
+  );
+}

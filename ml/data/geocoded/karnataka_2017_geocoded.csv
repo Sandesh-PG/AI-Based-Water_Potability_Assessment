@@ -1,44 +1,44 @@
 stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg,latitude,longitude,geocode_query,geocoded
-1182,"Krishna At U/S Of Ugarkhurd Barrage,",River,KARNATAKA,2017,Unsafe,6.57,High Fecal Coliform,27.0,6.25,7.425,700.0,1.5,3.26,600.0,1050.0,,,,"krishna ugarkhurd, Karnataka, India",False
+1182,"Krishna At U/S Of Ugarkhurd Barrage,",River,KARNATAKA,2017,Unsafe,6.57,High Fecal Coliform,27.0,6.25,7.425,700.0,1.5,3.26,600.0,1050.0,,,,,False
 1889,Krishna Ankali Bridge Along Chikkodi Kagwad Road,River,KARNATAKA,2017,Unsafe,7.28,High Fecal Coliform,27.5,6.55,7.6,665.0,1.75,2.3,600.0,1250.0,,16.6960786,74.7187223,"kagwad, Karnataka, India",True
 1181,"Krishna At D/S Of Narayanpura Dam,",River,KARNATAKA,2017,Unsafe,6.55,High Fecal Coliform,32.0,8.85,7.74,1140.0,1.71,10.89,505.0,920.0,,15.4559068,74.9922057,"krishna narayanpura, Karnataka, India",True
-1170,Krishna At D/S Of Devasagar Bdg.,River,KARNATAKA,2017,Unsafe,7.15,High Fecal Coliform,28.5,7.1,7.975,889.0,,0.255,1020.0,2050.0,,,,"krishna devasagar ., Karnataka, India",False
-1028,"Krishna At Tintini Bridge,",River,KARNATAKA,2017,Unsafe,4.15,High Fecal Coliform,28.0,7.1,7.975,648.0,,0.29,560.0,1350.0,,,,"krishna tintini, Karnataka, India",False
+1170,Krishna At D/S Of Devasagar Bdg.,River,KARNATAKA,2017,Unsafe,7.15,High Fecal Coliform,28.5,7.1,7.975,889.0,,0.255,1020.0,2050.0,,,,,False
+1028,"Krishna At Tintini Bridge,",River,KARNATAKA,2017,Unsafe,4.15,High Fecal Coliform,28.0,7.1,7.975,648.0,,0.29,560.0,1350.0,,,,,False
 2781,"Krishna At D/S Of Alamatti Dam,",River,KARNATAKA,2017,Safe,6.21,,32.0,9.2,7.9,850.0,1.5,12.35,490.0,1155.0,,16.3451718,75.8923516,"alamatti, Karnataka, India",True
-1183,"Bhima At D/S Of Road Bridge At Gangapur Village,",River,KARNATAKA,2017,Unsafe,9.14,High Fecal Coliform,28.0,6.75,8.38,555.5,1.9,,750.0,2400.0,,12.9423718,77.6251542,"village, Karnataka, India",True
-1184,"Bhima At Ferozabad Village (D/S),",River,KARNATAKA,2017,Safe,7.51,,28.0,6.9,8.39,574.5,2.4,,295.0,1250.0,,12.9423718,77.6251542,"village, Karnataka, India",True
+1183,"Bhima At D/S Of Road Bridge At Gangapur Village,",River,KARNATAKA,2017,Unsafe,9.14,High Fecal Coliform,28.0,6.75,8.38,555.5,1.9,,750.0,2400.0,,12.9305838,77.6920571,"village, Karnataka, India",True
+1184,"Bhima At Ferozabad Village (D/S),",River,KARNATAKA,2017,Safe,7.51,,28.0,6.9,8.39,574.5,2.4,,295.0,1250.0,,12.9305838,77.6920571,"village, Karnataka, India",True
 1167,"Bhima At D/S Of Bdg. Near Yadgir,",River,KARNATAKA,2017,Unsafe,18.5,"High BOD, High Fecal Coliform, High Total Coliform",31.5,7.15,8.095,761.0,4.11,,1600.0,3720.0,,16.5744123,76.9254434,"yadgir, Karnataka, India",True
 1888,Bhima River At Confluence Of Jewargi Town Sewage Disposal Point,River,KARNATAKA,2017,Safe,5.59,,29.0,6.75,8.45,569.5,1.4,,370.0,1250.0,,13.3067379,77.6125389,"disposal, Karnataka, India",True
-1185,Ghatprabha At D/S Of Mudhol Rd. Cross Bdg.,River,KARNATAKA,2017,Unsafe,6.57,High Fecal Coliform,28.0,7.75,7.995,880.0,1.5,2.94,600.0,1050.0,,12.9529035,77.5158003,"cross, Karnataka, India",True
+1185,Ghatprabha At D/S Of Mudhol Rd. Cross Bdg.,River,KARNATAKA,2017,Unsafe,6.57,High Fecal Coliform,28.0,7.75,7.995,880.0,1.5,2.94,600.0,1050.0,,12.9366883,77.5488033,"cross, Karnataka, India",True
 1163,"Ghatprabha At W.A. Point To Gokak Town,",River,KARNATAKA,2017,Safe,4.43,,30.5,7.35,7.46,440.0,0.84,1.56,475.0,835.0,,13.1016789,77.5756532,"town, Karnataka, India",True
-1187,"Malprabha At D/S Of Khanapur Village,",River,KARNATAKA,2017,Unsafe,11.05,High Fecal Coliform,26.5,7.95,7.39,240.0,2.04,1.1,1150.0,2400.0,,12.9423718,77.6251542,"village, Karnataka, India",True
+1187,"Malprabha At D/S Of Khanapur Village,",River,KARNATAKA,2017,Unsafe,11.05,High Fecal Coliform,26.5,7.95,7.39,240.0,2.04,1.1,1150.0,2400.0,,12.9305838,77.6920571,"village, Karnataka, India",True
 1164,"Malprabha At Water Abstr. Pt. To Hubli, Dharwar,",River,KARNATAKA,2017,Unsafe,5.38,High Fecal Coliform,31.5,8.25,7.705,300.0,1.2,0.78,505.0,870.0,,15.4540505,75.0066516,"dharwar, Karnataka, India",True
 1186,"Malprabha At D/S Of Aihole Town,",River,KARNATAKA,2017,Unsafe,7.1,High Fecal Coliform,28.0,8.0,7.625,790.0,1.6,1.51,550.0,1685.0,,13.1016789,77.5756532,"town, Karnataka, India",True
 2764,"Malprabha At Badami Bridge,",River,KARNATAKA,2017,Unsafe,7.32,High Fecal Coliform,27.0,8.3,7.65,785.0,1.7,1.4,555.0,1656.0,,15.9203874,75.6807865,"badami, Karnataka, India",True
 1029,"Tungabhadra At Haralahalli Bridge,",River,KARNATAKA,2017,Unsafe,10.41,High Fecal Coliform,27.0,7.35,7.875,341.0,2.5,0.95,815.0,2000.0,,13.0236469,76.0551085,"haralahalli, Karnataka, India",True
-29,Tungabhadra At Ullanur,River,KARNATAKA,2017,Unsafe,5.68,High Fecal Coliform,24.0,7.1,7.7,334.0,0.0,0.215,1010.0,2050.0,,,,"tungabhadra ullanur, Karnataka, India",False
+29,Tungabhadra At Ullanur,River,KARNATAKA,2017,Unsafe,5.68,High Fecal Coliform,24.0,7.1,7.7,334.0,0.0,0.215,1010.0,2050.0,,,,,False
 2767,"Tungabhadra At U/S Of Hpf,",River,KARNATAKA,2017,Unsafe,9.66,High Fecal Coliform,26.0,7.2,7.8,229.0,2.0,0.7,920.0,1925.0,,15.9648343,77.366508,"tungabhadra, Karnataka, India",True
 2768,"Tungabhadra At D/S Of Hpf,",River,KARNATAKA,2017,Unsafe,30.28,"High BOD, High Fecal Coliform, High Total Coliform",28.0,5.75,7.65,1490.0,9.3,0.7,1900.0,3350.0,,15.9648343,77.366508,"tungabhadra, Karnataka, India",True
 2769,"Tungabhadra At Jackwell Point,",River,KARNATAKA,2017,Unsafe,24.57,"High BOD, High Fecal Coliform, High Total Coliform",28.0,5.75,7.55,1432.0,7.25,0.65,1450.0,3350.0,,15.9648343,77.366508,"tungabhadra, Karnataka, India",True
-2770,"Tungabhadra At Harihar Water Supply Intake,",River,KARNATAKA,2017,Unsafe,49.99,"High BOD, High Fecal Coliform, High Total Coliform",26.5,6.7,7.75,240.0,4.5,0.9,48000.0,87000.0,,14.5153541,75.8110476,"harihar, Karnataka, India",True
-2776,"Tungabhadra At D/S Of Gangawathi,",River,KARNATAKA,2017,Unsafe,6.3,High Fecal Coliform,27.0,7.1,7.65,436.0,1.0,0.25,610.0,2050.0,,,,"tungabhadra gangawathi, Karnataka, India",False
+2770,"Tungabhadra At Harihar Water Supply Intake,",River,KARNATAKA,2017,Unsafe,49.99,"High BOD, High Fecal Coliform, High Total Coliform",26.5,6.7,7.75,240.0,4.5,0.9,48000.0,87000.0,,14.5116874,75.809288,"harihar, Karnataka, India",True
+2776,"Tungabhadra At D/S Of Gangawathi,",River,KARNATAKA,2017,Unsafe,6.3,High Fecal Coliform,27.0,7.1,7.65,436.0,1.0,0.25,610.0,2050.0,,,,,False
 2766,"Tungabhadra At New Bridge,",River,KARNATAKA,2017,Unsafe,8.68,High Fecal Coliform,26.5,7.3,7.85,225.0,2.0,0.7,660.0,2000.0,,15.9648343,77.366508,"tungabhadra, Karnataka, India",True
 2766,Tungabhadra At Honnali Bridge,River,KARNATAKA,2017,Unsafe,16.3,"High Fecal Coliform, High Total Coliform",26.5,7.25,7.7,190.0,2.9,0.75,1515.0,4750.0,,14.2389785,75.6457434,"honnali, Karnataka, India",True
 1168,"Tunga At D/S Of Shimoga Town,",River,KARNATAKA,2017,Unsafe,46.77,"High BOD, High Fecal Coliform, High Total Coliform",25.5,7.0,7.87,207.5,3.05,0.73,50700.0,91750.0,,13.1016789,77.5756532,"town, Karnataka, India",True
 1896,Tungabhadra At Confluence Point Of Tunga And Bhadra At Kudli,River,KARNATAKA,2017,Unsafe,41.34,"High Fecal Coliform, High Total Coliform",27.0,7.0,7.7,145.5,3.0,0.75,8850.0,18350.0,,18.1124192,77.3351885,"kudli, Karnataka, India",True
 1091,Bhadra At Malleswaram D/S Of Kiocl,River,KARNATAKA,2017,Safe,5.02,,23.5,5.67,7.45,159.0,1.5,0.35,218.0,1025.0,,13.2097913,75.2503201,"kiocl, Karnataka, India",True
-1387,"Bhadra At D/S Of Bhadravathi,",River,KARNATAKA,2017,Unsafe,48.44,"High BOD, High Fecal Coliform, High Total Coliform",26.0,6.7,7.55,225.0,3.8,1.05,52500.0,94500.0,,13.8363715,75.6447514,"bhadra bhadravathi, Karnataka, India",True
-1169,"Bhadra At D/S Of Kiocl Road Bridge, Near Holehunnur,",River,KARNATAKA,2017,Unsafe,46.88,"High BOD, High Fecal Coliform, High Total Coliform",26.0,7.3,7.57,225.0,3.1,0.575,15450.0,46100.0,,,,"bhadra kiocl holehunnur, Karnataka, India",False
+1387,"Bhadra At D/S Of Bhadravathi,",River,KARNATAKA,2017,Unsafe,48.44,"High BOD, High Fecal Coliform, High Total Coliform",26.0,6.7,7.55,225.0,3.8,1.05,52500.0,94500.0,,13.8482445,75.7085346,"bhadra bhadravathi, Karnataka, India",True
+1169,"Bhadra At D/S Of Kiocl Road Bridge, Near Holehunnur,",River,KARNATAKA,2017,Unsafe,46.88,"High BOD, High Fecal Coliform, High Total Coliform",26.0,7.3,7.57,225.0,3.1,0.575,15450.0,46100.0,,,,,False
 2765,"Bhadra At U/S Of Mpm,",River,KARNATAKA,2017,Safe,8.01,,26.0,7.1,7.7,164.0,2.5,0.35,430.0,920.0,,13.4893942,75.5273902,"bhadra, Karnataka, India",True
 2771,"Bhadra At U/S Of Kiocl,",River,KARNATAKA,2017,Safe,4.46,,23.0,5.75,7.35,132.0,1.35,0.15,172.0,975.0,,13.2097913,75.2503201,"kiocl, Karnataka, India",True
 2777,Kagina D/S Of Sewage Disposal Point,River,KARNATAKA,2017,Unsafe,8.31,High Fecal Coliform,27.0,7.0,8.3,466.5,2.4,,535.0,1050.0,,13.3067379,77.6125389,"disposal, Karnataka, India",True
 2777,"Kagina At Shahabad Bridge,",River,KARNATAKA,2017,Unsafe,14.05,"High BOD, High Fecal Coliform",27.5,6.35,8.3,453.0,4.85,,570.0,1250.0,,17.220367,77.3708457,"kagina shahabad, Karnataka, India",True
-2763,"Asangi Nalla At Asangi Village,",River,KARNATAKA,2017,Safe,5.76,,28.5,7.65,7.6,840.0,1.7,1.5,315.0,910.0,,12.9423718,77.6251542,"village, Karnataka, India",True
-1198,"Cauvery At Napokulu Bdg (D/S),",River,KARNATAKA,2017,Unsafe,9.42,High BOD,24.0,6.85,7.6,73.0,3.85,0.35,115.5,510.0,,,,"cauvery napokulu, Karnataka, India",False
+2763,"Asangi Nalla At Asangi Village,",River,KARNATAKA,2017,Safe,5.76,,28.5,7.65,7.6,840.0,1.7,1.5,315.0,910.0,,12.9305838,77.6920571,"village, Karnataka, India",True
+1198,"Cauvery At Napokulu Bdg (D/S),",River,KARNATAKA,2017,Unsafe,9.42,High BOD,24.0,6.85,7.6,73.0,3.85,0.35,115.5,510.0,,,,,False
 1195,"Cauvery At Kushal Nagar U/S (Near Baichanahalli),",River,KARNATAKA,2017,Safe,5.73,,25.5,6.75,7.65,94.0,1.9,0.1,194.0,915.0,,12.4540512,75.9538266,"baichanahalli, Karnataka, India",True
 33,"Cauvery At Krs Dam, Balamurikshetra",River,KARNATAKA,2017,Safe,6.71,,25.5,6.15,7.8,214.0,2.0,0.22,310.0,1290.0,,,,"cauvery krs balamurikshetra, Karnataka, India",False
-1386,"Cauvery At D/S Of Karekuara Village,",River,KARNATAKA,2017,Safe,5.64,,25.5,6.9,7.9,233.0,1.75,0.35,205.5,1170.0,,12.9423718,77.6251542,"village, Karnataka, India",True
-1171,"Cauvery At Sri Rangapattanna, D/S Of Road Bdg.,",River,KARNATAKA,2017,Unsafe,9.34,High Fecal Coliform,26.5,5.8,7.7,234.0,2.4,0.075,535.0,2345.0,,,,"cauvery sri rangapattanna ., Karnataka, India",False
+1386,"Cauvery At D/S Of Karekuara Village,",River,KARNATAKA,2017,Safe,5.64,,25.5,6.9,7.9,233.0,1.75,0.35,205.5,1170.0,,12.9305838,77.6920571,"village, Karnataka, India",True
+1171,"Cauvery At Sri Rangapattanna, D/S Of Road Bdg.,",River,KARNATAKA,2017,Unsafe,9.34,High Fecal Coliform,26.5,5.8,7.7,234.0,2.4,0.075,535.0,2345.0,,,,,False
 34,Cauvery At Sathyagalam Bridge,River,KARNATAKA,2017,Safe,6.6,,27.0,6.35,7.8,268.0,2.04,0.11,305.0,1065.0,,,,"cauvery sathyagalam, Karnataka, India",False
 2773,"Cauvery At Bannur Bridge,",River,KARNATAKA,2017,Safe,6.87,,28.0,6.2,7.75,304.0,2.15,0.2,245.0,1400.0,,12.3053048,76.6959064,"cauvery bannur, Karnataka, India",True
 2774,"Cauvery At Ranganathittu,",River,KARNATAKA,2017,Safe,8.29,,24.5,6.05,7.75,467.0,2.3,0.25,405.0,1950.0,,12.4280703,76.653645,"ranganathittu, Karnataka, India",True
@@ -49,22 +49,22 @@ stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_s
 1322,Cauvery U/S Of Kr Nagar,River,KARNATAKA,2017,Safe,7.34,,26.0,6.1,7.65,230.0,2.2,0.2,285.0,1650.0,,12.9730088,77.5804711,"nagar, Karnataka, India",True
 51,Cauvery D/S Of Kushalanagar Town,River,KARNATAKA,2017,Safe,5.21,,25.0,6.9,7.6,102.0,1.65,0.1,206.5,895.0,,13.1016789,77.5756532,"town, Karnataka, India",True
 1320,Cauvery At Water Supply Intake Point To Madikeri Town,River,KARNATAKA,2017,Safe,4.1,,24.0,7.05,7.5,62.0,1.6,0.1,75.0,305.0,,13.1016789,77.5756532,"town, Karnataka, India",True
-1323,Cauvery At Water Supply Intake Point To Mysore Pump House,River,KARNATAKA,2017,Safe,5.9,,23.0,6.95,7.75,242.0,1.6,0.15,285.0,1505.0,,12.9630135,77.7177141,"house, Karnataka, India",True
+1323,Cauvery At Water Supply Intake Point To Mysore Pump House,River,KARNATAKA,2017,Safe,5.9,,23.0,6.95,7.75,242.0,1.6,0.15,285.0,1505.0,,12.967488,77.7143126,"house, Karnataka, India",True
 3015,Cauvery D/S Of Maddur Water Supply Treatment Plant At Bachalli,River,KARNATAKA,2017,Safe,6.32,,25.5,6.6,7.9,397.0,1.95,0.3,255.0,1220.0,,12.6720777,75.7562095,"bachalli, Karnataka, India",True
 1324,Cauvery At Water Supply Intake Point At Kollegala Dasanapura,River,KARNATAKA,2017,Safe,7.41,,26.0,6.2,7.75,272.0,2.25,0.15,275.0,1650.0,,12.7467724,77.7742876,"dasanapura, Karnataka, India",True
 1451,Cauvery At Water Supply Intake Point At T K Halli,River,KARNATAKA,2017,Safe,6.84,,24.5,6.0,8.05,397.0,2.0,0.25,280.0,1600.0,,17.8401056,76.8684901,"halli, Karnataka, India",True
-1199,Hemavati At D/S Of Holenarasipura Town At Ramadevala Weir,Canal,KARNATAKA,2017,Safe,5.59,,26.0,6.05,7.75,236.5,1.5,0.15,216.0,1750.0,,16.2163383,74.7515981,"weir, Karnataka, India",True
-1200,"Shimsha At D/S Of Highway Bridge, Yediyar,",Canal,KARNATAKA,2017,Unsafe,20.0,"High Fecal Coliform, High Total Coliform",25.5,6.0,7.2,205.0,3.0,0.8,1815.0,7605.0,,,,"shimsha yediyar, Karnataka, India",False
-1166,"Shimsha At D/S Of Bridge, Halagur,",Canal,KARNATAKA,2017,Safe,9.78,,23.0,5.35,7.8,519.0,2.91,0.24,440.0,1950.0,,,,"shimsha halagur, Karnataka, India",False
+1199,Hemavati At D/S Of Holenarasipura Town At Ramadevala Weir,Canal,KARNATAKA,2017,Safe,5.59,,26.0,6.05,7.75,236.5,1.5,0.15,216.0,1750.0,,13.4143896,74.7645804,"weir, Karnataka, India",True
+1200,"Shimsha At D/S Of Highway Bridge, Yediyar,",Canal,KARNATAKA,2017,Unsafe,20.0,"High Fecal Coliform, High Total Coliform",25.5,6.0,7.2,205.0,3.0,0.8,1815.0,7605.0,,,,,False
+1166,"Shimsha At D/S Of Bridge, Halagur,",Canal,KARNATAKA,2017,Safe,9.78,,23.0,5.35,7.8,519.0,2.91,0.24,440.0,1950.0,,,,,False
 3567,Shimsha D/S Near Madduar Town,Canal,KARNATAKA,2017,Safe,7.33,,25.0,6.15,7.65,521.0,2.25,0.3,295.0,1450.0,,13.1016789,77.5756532,"town, Karnataka, India",True
-3580,Shimsha At Water Supply Intake Point At Madduar,Canal,KARNATAKA,2017,Safe,6.66,,25.5,6.1,7.85,404.0,2.0,0.25,241.5,1570.0,,,,"shimsha madduar, Karnataka, India",False
+3580,Shimsha At Water Supply Intake Point At Madduar,Canal,KARNATAKA,2017,Safe,6.66,,25.5,6.1,7.85,404.0,2.0,0.25,241.5,1570.0,,,,,False
 1165,"Arkavathi At D/S Of Kanakapura Town,",Canal,KARNATAKA,2017,Unsafe,65.0,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",29.0,3.55,7.05,1170.5,8.65,19.5,1000000.0,5000000.0,,13.1016789,77.5756532,"town, Karnataka, India",True
 2778,"Arkavathi At T.G. Halli Reservoir, ,",Canal,KARNATAKA,2017,Unsafe,54.7,"High BOD, High Fecal Coliform, High Total Coliform",28.6,7.1,7.8,1326.5,8.5,3.1,3958.5,27186.0,,12.9392713,77.5722595,"reservoir, Karnataka, India",True
-1197,"Kabini At Saragur Village D/S,",Canal,KARNATAKA,2017,Safe,7.93,,27.5,6.25,7.5,176.0,2.3,0.15,375.0,1650.0,,12.9423718,77.6251542,"village, Karnataka, India",True
+1197,"Kabini At Saragur Village D/S,",Canal,KARNATAKA,2017,Safe,7.93,,27.5,6.25,7.5,176.0,2.3,0.15,375.0,1650.0,,12.9305838,77.6920571,"village, Karnataka, India",True
 41,Kabini At Cause Way Sattur,Canal,KARNATAKA,2017,Safe,8.29,,25.0,5.95,7.75,389.0,2.39,0.3,395.0,1750.0,,15.4105056,75.0456504,"sattur, Karnataka, India",True
 1445,"Kabini At Water Intake Of Kiadb At Nanjangud,",Canal,KARNATAKA,2017,Safe,7.0,,26.0,6.25,8.05,195.0,2.1,0.4,265.0,1600.0,,12.1220681,76.6843409,"nanjangud, Karnataka, India",True
-2775,"Kabini At Bathing Ghat, Nanjanagud,",Canal,KARNATAKA,2017,Unsafe,15.28,"High BOD, High Fecal Coliform, High Total Coliform",28.0,5.1,7.5,248.0,4.45,0.35,710.0,3200.0,,,,"kabini bathing ghat nanjanagud, Karnataka, India",False
-3575,Kabini U/S Intake Point To Nanjanagud & Gundlupet At Debur,Canal,KARNATAKA,2017,Safe,7.07,,26.5,6.25,7.65,192.0,2.05,0.1,330.0,1500.0,,,,"kabini to nanjanagud & gundlupet debur, Karnataka, India",False
+2775,"Kabini At Bathing Ghat, Nanjanagud,",Canal,KARNATAKA,2017,Unsafe,15.28,"High BOD, High Fecal Coliform, High Total Coliform",28.0,5.1,7.5,248.0,4.45,0.35,710.0,3200.0,,,,,False
+3575,Kabini U/S Intake Point To Nanjanagud & Gundlupet At Debur,Canal,KARNATAKA,2017,Safe,7.07,,26.5,6.25,7.65,192.0,2.05,0.1,330.0,1500.0,,,,,False
 3577,Kabini At Water Supply Intake Point To T. Narasipura,Canal,KARNATAKA,2017,Safe,7.49,,30.0,6.25,7.75,386.0,2.05,0.25,445.0,1450.0,,13.2702874,77.2346786,"narasipura, Karnataka, India",True
 1196,"Lakshmantirtha At D/S Of Hunsur Town,",River,KARNATAKA,2017,Unsafe,24.95,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",29.5,4.2,7.55,524.0,7.3,1.75,745.0,3200.0,,13.1016789,77.5756532,"town, Karnataka, India",True
-2772,"Lakshmantirtha At D/S Of Kattemalavadi,",River,KARNATAKA,2017,Unsafe,14.57,"High BOD, High Fecal Coliform",28.5,5.35,7.45,451.0,4.6,0.25,590.0,2500.0,,12.3518289,76.2890432,"kattemalavadi, Karnataka, India",True
+2772,"Lakshmantirtha At D/S Of Kattemalavadi,",River,KARNATAKA,2017,Unsafe,14.57,"High BOD, High Fecal Coliform",28.5,5.35,7.45,451.0,4.6,0.25,590.0,2500.0,,12.351829,76.2890432,"kattemalavadi, Karnataka, India",True

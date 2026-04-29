@@ -67,7 +67,7 @@ def _compute_latest_stats(latest_per_station: pd.DataFrame) -> tuple[int, int, i
 
     avg_pollution_score = None
     if not latest_per_station["pollution_score"].dropna().empty:
-        avg_pollution_score = float(round(latest_per_station["pollution_score"].dropna().mean(), 4))
+        avg_pollution_score = float(round(latest_per_station["pollution_score"].dropna().mean(), 2))
 
     row_max = latest_per_station.loc[latest_per_station["pollution_score"].idxmax()]
     row_min = latest_per_station.loc[latest_per_station["pollution_score"].idxmin()]
