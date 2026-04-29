@@ -60,13 +60,31 @@ export async function fetchForecast(id, years = 5) {
 
 export const getForecast = fetchForecast;
 
-export async function fetchStationTrends(stationId) {
-  const res = await fetch(`http://127.0.0.1:8000/stations/${stationId}/trends`);
+export async function fetchStationTrends(stationId, year = null) {
+  const url = year
+    ? `http://127.0.0.1:8000/stations/${stationId}/trends?year=${year}`
+    : `http://127.0.0.1:8000/stations/${stationId}/trends`;
+  const res = await fetch(url);
   if (!res.ok) return null;
   return res.json();
 }
 
-export async function sendChatMessage(message, stationId = null, history = []) {
+export async function fetchStationComparison(stationAId, stationBId, year = null) {
+  const params = new URLSearchParams({ station_a: stationAId, station_b: stationBId });
+  if (year) params.append('year', year);
+  const res = await fetch(`http://127.0.0.1:8000/stations/compare?${params}`);
+  if (!res.ok) return null;
+  return res.json();
+}
+export async function fetchYearComparison(stationId, yearA, yearB) {
+  const res = await fetch(
+    `http://127.0.0.1:8000/stations/${stationId}/compare-years?year_a=${yearA}&year_b=${yearB}`,
+  );
+  if (!res.ok) return null;
+  return res.json();
+}
+
+export async function sendChatMessage(message, stationId = null, history = [], year = null) {
   const res = await fetch('http://127.0.0.1:8000/chat/', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
@@ -74,8 +92,64 @@ export async function sendChatMessage(message, stationId = null, history = []) {
       message,
       station_id: stationId,
       history,
+      year,
     }),
   });
   if (!res.ok) throw new Error('Chat request failed');
   return res.json();
+}
+
+export async function fetchOverviewStats(year = null) {
+  const query = year ? `?year=${year}` : '';
+  return requestJson(`/stats/overview${query}`);
+}
+
+export async function fetchParameterStats(year = null, waterBodyType = null) {
+  const params = new URLSearchParams();
+  if (year) params.append('year', year);
+  if (waterBodyType) params.append('water_body_type', waterBodyType);
+
+  const query = params.toString() ? `?${params.toString()}` : '';
+  return requestJson(`/stats/parameters${query}`);
+}
+
+export async function sendBatchPredict(file) {
+  if (!file) {
+    throw new Error('Please select a CSV file before running batch prediction.');
+  }
+
+  const formData = new FormData();
+  formData.append('file', file);
+
+  let lastError = null;
+  for (const baseUrl of BASE_URL_CANDIDATES) {
+    try {
+      const response = await fetch(`${baseUrl}/batch/predict`, {
+        method: 'POST',
+        body: formData,
+      });
+
+      if (!response.ok) {
+        let message = `Batch request failed (${response.status})`;
+        try {
+          const payload = await response.json();
+          message = payload?.detail || payload?.message || message;
+        } catch {
+          // Keep fallback message when response body is not JSON.
+        }
+        throw new Error(message);
+      }
+
+      return response.json();
+    } catch (error) {
+      lastError = error;
+      if (!(error instanceof TypeError)) {
+        throw error;
+      }
+    }
+  }
+
+  throw new Error(
+    `Unable to reach backend API for batch prediction. Last error: ${lastError?.message || 'Unknown network error'}`,
+  );
 }
