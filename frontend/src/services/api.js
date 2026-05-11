@@ -113,43 +113,25 @@ export async function fetchParameterStats(year = null, waterBodyType = null) {
   return requestJson(`/stats/parameters${query}`);
 }
 
-export async function sendBatchPredict(file) {
-  if (!file) {
-    throw new Error('Please select a CSV file before running batch prediction.');
-  }
-
+export async function sendBatchPredict(files, year) {
   const formData = new FormData();
-  formData.append('file', file);
+  (files || []).forEach((file) => formData.append('files', file));
+  formData.append('year', year);
 
-  let lastError = null;
-  for (const baseUrl of BASE_URL_CANDIDATES) {
-    try {
-      const response = await fetch(`${baseUrl}/batch/predict`, {
-        method: 'POST',
-        body: formData,
-      });
+  const response = await fetch('http://127.0.0.1:8000/batch/predict', {
+    method: 'POST',
+    body: formData,
+  });
 
-      if (!response.ok) {
-        let message = `Batch request failed (${response.status})`;
-        try {
-          const payload = await response.json();
-          message = payload?.detail || payload?.message || message;
-        } catch {
-          // Keep fallback message when response body is not JSON.
-        }
-        throw new Error(message);
-      }
-
-      return response.json();
-    } catch (error) {
-      lastError = error;
-      if (!(error instanceof TypeError)) {
-        throw error;
-      }
-    }
+  if (!response.ok) {
+    const errorPayload = await response.json().catch(() => ({}));
+    const invalidList = errorPayload?.detail?.invalid_filenames;
+    const invalidMessage = Array.isArray(invalidList) && invalidList.length
+      ? ` Invalid filenames: ${invalidList.join(', ')}`
+      : '';
+    const message = errorPayload?.detail?.message || errorPayload?.detail || 'Batch prediction failed';
+    throw new Error(`${message}${invalidMessage}`.trim());
   }
 
-  throw new Error(
-    `Unable to reach backend API for batch prediction. Last error: ${lastError?.message || 'Unknown network error'}`,
-  );
+  return response.json();
 }

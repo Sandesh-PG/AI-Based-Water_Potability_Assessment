@@ -77,7 +77,7 @@ def _format_station_context(row: pd.Series) -> tuple[str, str | None, list[str],
         f"Safety: {safety_label}, "
         f"DO: {row.get('do_avg', 'N/A')}, BOD: {row.get('bod_avg', 'N/A')}, pH: {row.get('ph_avg', 'N/A')}, "
         f"Nitrate: {row.get('nitrate_avg', 'N/A')}, Fecal Coliform: {row.get('fecal_coliform_avg', 'N/A')}, "
-        f"Pollution Score: {row.get('pollution_score', 'N/A')}, Violations: {violated_params_text}"
+        f"Pollution Score: {row.get('pollution_score', 'N/A')}/10, Violations: {violated_params_text}"
     )
 
     return station_context, station_name, violated_params, safety_label
@@ -291,7 +291,8 @@ def chat(request: ChatRequest) -> ChatResponse:
             "You are AquaAI, a water quality expert for Karnataka, India. "
             "Always respond with valid JSON only. No markdown, no extra text. "
             "Use provided station data and guidelines context. "
-            "Be specific about parameter values and WHO/CPCB/BIS standards."
+            "Be specific about parameter values and WHO/CPCB/BIS standards. "
+            "Pollution scores are on a 0-10 scale where: 0-2 = Clean, 2-4 = Moderate, 4-7 = Polluted, 7-10 = Severely Polluted."
         )
 
         user_prompt = _build_user_prompt(

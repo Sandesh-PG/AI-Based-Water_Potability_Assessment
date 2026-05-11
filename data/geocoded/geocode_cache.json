@@ -78,8 +78,8 @@
     "success": false
   },
   "Water Supply Intake Point To Mysore Pump House|Karnataka": {
-    "lat": 12.967488,
-    "lng": 77.7143126,
+    "lat": 12.9630135,
+    "lng": 77.7177141,
     "query": "house, Karnataka, India",
     "success": true
   },
@@ -270,7 +270,7 @@
     "success": true
   },
   "Tungha D/S Of Shimoga Town|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
@@ -288,14 +288,14 @@
     "success": true
   },
   "Bhadra D/S Malleswaram Of Kiocl|Karnataka": {
-    "lat": 13.2097913,
+    "lat": 13.2097914,
     "lng": 75.2503201,
     "query": "kiocl, Karnataka, India",
     "success": true
   },
   "Bhadra D/S Of Bhadravathi|Karnataka": {
-    "lat": 13.8482445,
-    "lng": 75.7085346,
+    "lat": 13.8363715,
+    "lng": 75.6447514,
     "query": "bhadra bhadravathi, Karnataka, India",
     "success": true
   },
@@ -312,7 +312,7 @@
     "success": true
   },
   "Bhadra U/S Of Kiocl|Karnataka": {
-    "lat": 13.2097913,
+    "lat": 13.2097914,
     "lng": 75.2503201,
     "query": "kiocl, Karnataka, India",
     "success": true
@@ -324,8 +324,8 @@
     "success": true
   },
   "Asangi Nalla At Asangi Village|Karnataka": {
-    "lat": 12.9305838,
-    "lng": 77.6920571,
+    "lat": 12.9422696,
+    "lng": 77.6253883,
     "query": "village, Karnataka, India",
     "success": true
   },
@@ -366,8 +366,8 @@
     "success": false
   },
   "Cauvery D/S Of Karekuara Village|Karnataka": {
-    "lat": 12.9305838,
-    "lng": 77.6920571,
+    "lat": 12.9422696,
+    "lng": 77.6253883,
     "query": "village, Karnataka, India",
     "success": true
   },
@@ -396,7 +396,7 @@
     "success": true
   },
   "Hemavati D/S Of Holenarasipura Town At Ramadevala Weir|Karnataka": {
-    "lat": 13.4143896,
+    "lat": 13.4143895,
     "lng": 74.7645804,
     "query": "weir, Karnataka, India",
     "success": true
@@ -414,7 +414,7 @@
     "success": false
   },
   "Arkavathi D/S Of Kanakapura Town|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
@@ -426,20 +426,20 @@
     "success": true
   },
   "Lakshmantirtha D/S Of Hunsur Town|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
   },
   "Lakshmantirtha D/S Of Kattemalavadi|Karnataka": {
-    "lat": 12.351829,
+    "lat": 12.3518289,
     "lng": 76.2890432,
     "query": "kattemalavadi, Karnataka, India",
     "success": true
   },
   "Kabbani D/S Saragur Village|Karnataka": {
-    "lat": 12.9305838,
-    "lng": 77.6920571,
+    "lat": 12.9422696,
+    "lng": 77.6253883,
     "query": "village, Karnataka, India",
     "success": true
   },
@@ -498,14 +498,14 @@
     "success": true
   },
   "Bhima At D/S Of Road Bridge At Gangapur Village,|Karnataka": {
-    "lat": 12.9305838,
-    "lng": 77.6920571,
+    "lat": 12.9422696,
+    "lng": 77.6253883,
     "query": "village, Karnataka, India",
     "success": true
   },
   "Bhima At Ferozabad Village (D/S),|Karnataka": {
-    "lat": 12.9305838,
-    "lng": 77.6920571,
+    "lat": 12.9422696,
+    "lng": 77.6253883,
     "query": "village, Karnataka, India",
     "success": true
   },
@@ -522,20 +522,20 @@
     "success": true
   },
   "Ghatprabha At D/S Of Mudhol Rd. Cross Bdg.|Karnataka": {
-    "lat": 12.9366883,
-    "lng": 77.5488033,
+    "lat": 12.9529035,
+    "lng": 77.5158003,
     "query": "cross, Karnataka, India",
     "success": true
   },
   "Ghatprabha At W.A. Point To Gokak Town,|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
   },
   "Malprabha At D/S Of Khanapur Village,|Karnataka": {
-    "lat": 12.9305838,
-    "lng": 77.6920571,
+    "lat": 12.9422696,
+    "lng": 77.6253883,
     "query": "village, Karnataka, India",
     "success": true
   },
@@ -546,7 +546,7 @@
     "success": true
   },
   "Malprabha At D/S Of Aihole Town,|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
@@ -612,7 +612,7 @@
     "success": true
   },
   "Tunga At D/S Of Shimoga Town,|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
@@ -624,14 +624,14 @@
     "success": true
   },
   "Bhadra At Malleswaram D/S Of Kiocl|Karnataka": {
-    "lat": 13.2097913,
+    "lat": 13.2097914,
     "lng": 75.2503201,
     "query": "kiocl, Karnataka, India",
     "success": true
   },
   "Bhadra At D/S Of Bhadravathi,|Karnataka": {
-    "lat": 13.8482445,
-    "lng": 75.7085346,
+    "lat": 13.8363715,
+    "lng": 75.6447514,
     "query": "bhadra bhadravathi, Karnataka, India",
     "success": true
   },
@@ -648,7 +648,7 @@
     "success": true
   },
   "Bhadra At U/S Of Kiocl,|Karnataka": {
-    "lat": 13.2097913,
+    "lat": 13.2097914,
     "lng": 75.2503201,
     "query": "kiocl, Karnataka, India",
     "success": true
@@ -660,8 +660,8 @@
     "success": true
   },
   "Asangi Nalla At Asangi Village,|Karnataka": {
-    "lat": 12.9305838,
-    "lng": 77.6920571,
+    "lat": 12.9422696,
+    "lng": 77.6253883,
     "query": "village, Karnataka, India",
     "success": true
   },
@@ -678,8 +678,8 @@
     "success": true
   },
   "Cauvery At D/S Of Karekuara Village,|Karnataka": {
-    "lat": 12.9305838,
-    "lng": 77.6920571,
+    "lat": 12.9422696,
+    "lng": 77.6253883,
     "query": "village, Karnataka, India",
     "success": true
   },
@@ -708,13 +708,13 @@
     "success": true
   },
   "Cauvery At Water Supply Intake Point To Srirangapatna Town|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
   },
   "Cauvery At Water Supply Intake Point To Mandya Town|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
@@ -732,20 +732,20 @@
     "success": true
   },
   "Cauvery D/S Of Kushalanagar Town|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
   },
   "Cauvery At Water Supply Intake Point To Madikeri Town|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
   },
   "Cauvery At Water Supply Intake Point To Mysore Pump House|Karnataka": {
-    "lat": 12.967488,
-    "lng": 77.7143126,
+    "lat": 12.9630135,
+    "lng": 77.7177141,
     "query": "house, Karnataka, India",
     "success": true
   },
@@ -768,7 +768,7 @@
     "success": true
   },
   "Hemavati At D/S Of Holenarasipura Town At Ramadevala Weir|Karnataka": {
-    "lat": 13.4143896,
+    "lat": 13.4143895,
     "lng": 74.7645804,
     "query": "weir, Karnataka, India",
     "success": true
@@ -786,7 +786,7 @@
     "success": false
   },
   "Shimsha D/S Near Madduar Town|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
@@ -798,7 +798,7 @@
     "success": false
   },
   "Arkavathi At D/S Of Kanakapura Town,|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
@@ -810,8 +810,8 @@
     "success": true
   },
   "Kabini At Saragur Village D/S,|Karnataka": {
-    "lat": 12.9305838,
-    "lng": 77.6920571,
+    "lat": 12.9422696,
+    "lng": 77.6253883,
     "query": "village, Karnataka, India",
     "success": true
   },
@@ -846,13 +846,13 @@
     "success": true
   },
   "Lakshmantirtha At D/S Of Hunsur Town,|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
   },
   "Lakshmantirtha At D/S Of Kattemalavadi,|Karnataka": {
-    "lat": 12.351829,
+    "lat": 12.3518289,
     "lng": 76.2890432,
     "query": "kattemalavadi, Karnataka, India",
     "success": true
@@ -924,7 +924,7 @@
     "success": true
   },
   "Netravathi At U/S Of Upiingady Town|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
@@ -936,8 +936,8 @@
     "success": false
   },
   "Ghatprabha At D/S Of Mudhol Rd. Cross Bdg.,|Karnataka": {
-    "lat": 12.9366883,
-    "lng": 77.5488033,
+    "lat": 12.9529035,
+    "lng": 77.5158003,
     "query": "cross, Karnataka, India",
     "success": true
   },
@@ -972,7 +972,7 @@
     "success": true
   },
   "Lakshmantirtha At Water Supply Intake Point To Hunsur Town|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
@@ -1008,7 +1008,7 @@
     "success": true
   },
   "River Netravathi At U/S Of Upiingady Town|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
@@ -1062,8 +1062,8 @@
     "success": false
   },
   "Krishna At D/S Of Devasagar Bldg.|Karnataka": {
-    "lat": 12.9728448,
-    "lng": 77.7108631,
+    "lat": 12.9733358,
+    "lng": 77.7100944,
     "query": "bldg., Karnataka, India",
     "success": true
   },
@@ -1086,14 +1086,14 @@
     "success": false
   },
   "Tunga At D/S Of Shimoga Town|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
   },
   "Bhadra At D/S Of Bhadravathi|Karnataka": {
-    "lat": 13.8482445,
-    "lng": 75.7085346,
+    "lat": 13.8363715,
+    "lng": 75.6447514,
     "query": "bhadra bhadravathi, Karnataka, India",
     "success": true
   },
@@ -1104,7 +1104,7 @@
     "success": true
   },
   "Bhadra At U/S Of Kiocl|Karnataka": {
-    "lat": 13.2097913,
+    "lat": 13.2097914,
     "lng": 75.2503201,
     "query": "kiocl, Karnataka, India",
     "success": true
@@ -1140,7 +1140,7 @@
     "success": false
   },
   "Arkavathi At D/S Of Kanakapura Town|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
@@ -1152,7 +1152,7 @@
     "success": true
   },
   "Lakshmantirtha At D/S Of Hunsur Town|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
@@ -1248,14 +1248,14 @@
     "success": true
   },
   "River Ghatprabha At W.A. Point To Gokak Town,|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
   },
   "River Ghatprabha At D/S Of Mudhol Rd. Cross Bdg.,|Karnataka": {
-    "lat": 12.9366883,
-    "lng": 77.5488033,
+    "lat": 12.9529035,
+    "lng": 77.5158003,
     "query": "cross, Karnataka, India",
     "success": true
   },
@@ -1272,7 +1272,7 @@
     "success": true
   },
   "River Malprabha At D/S Of Aihole Town,|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
@@ -1362,7 +1362,7 @@
     "success": true
   },
   "River Tunga At D/S Of Shimoga Town,|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
@@ -1374,14 +1374,14 @@
     "success": true
   },
   "River Bhadra At Malleswaram D/S Of Kiocl|Karnataka": {
-    "lat": 13.2097913,
+    "lat": 13.2097914,
     "lng": 75.2503201,
     "query": "kiocl, Karnataka, India",
     "success": true
   },
   "River Bhadra At D/S Of Bhadravathi,|Karnataka": {
-    "lat": 13.8482445,
-    "lng": 75.7085346,
+    "lat": 13.8363715,
+    "lng": 75.6447514,
     "query": "bhadra bhadravathi, Karnataka, India",
     "success": true
   },
@@ -1398,7 +1398,7 @@
     "success": true
   },
   "River Bhadra At U/S Of Kiocl,|Karnataka": {
-    "lat": 13.2097913,
+    "lat": 13.2097914,
     "lng": 75.2503201,
     "query": "kiocl, Karnataka, India",
     "success": true
@@ -1470,13 +1470,13 @@
     "success": true
   },
   "River Cauvery At Water Supply Intake Point To Srirangapatna Town|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
   },
   "River Cauvery At Water Supply Intake Point To Mandya Town|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
@@ -1494,13 +1494,13 @@
     "success": true
   },
   "River Cauvery D/S Of Kushalanagar Town|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
   },
   "River Cauvery At Water Supply Intake Point To Madikeri Town|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
@@ -1590,7 +1590,7 @@
     "success": false
   },
   "River Shimsha D/S Near Madduar Town|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
@@ -1602,7 +1602,7 @@
     "success": false
   },
   "River Arkavathi At D/S Of Kanakapura Town,|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
@@ -1662,19 +1662,19 @@
     "success": true
   },
   "River Lakshmantirtha At D/S Of Hunsur Town,|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
   },
   "River Lakshmantirtha At D/S Of Kattemalavadi|Karnataka": {
-    "lat": 12.351829,
+    "lat": 12.3518289,
     "lng": 76.2890432,
     "query": "kattemalavadi, Karnataka, India",
     "success": true
   },
   "River Lakshmantirtha At Water Supply Intake Point To Hunsur Town|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
@@ -1710,7 +1710,7 @@
     "success": true
   },
   "River Netravathi At U/S Of Uppinangadi Town|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
@@ -1770,13 +1770,13 @@
     "success": true
   },
   "River Ghataprabha At D/S Of Mudhol Road Cross Bdg.|Karnataka": {
-    "lat": 12.9366883,
-    "lng": 77.5488033,
+    "lat": 12.9529035,
+    "lng": 77.5158003,
     "query": "cross, Karnataka, India",
     "success": true
   },
   "River Ghataprabha At W.A. Point To Gokak Town|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
@@ -1800,7 +1800,7 @@
     "success": true
   },
   "River Malaprabha At D/S Of Aihole Town|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
@@ -1860,14 +1860,14 @@
     "success": true
   },
   "River Tunga At D/S Of Shimoga Town|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
   },
   "River Bhadra At D/S Of Bhadravathi|Karnataka": {
-    "lat": 13.8482445,
-    "lng": 75.7085346,
+    "lat": 13.8363715,
+    "lng": 75.6447514,
     "query": "bhadra bhadravathi, Karnataka, India",
     "success": true
   },
@@ -1884,7 +1884,7 @@
     "success": true
   },
   "River Bhadra At U/S Of Kiocl|Karnataka": {
-    "lat": 13.2097913,
+    "lat": 13.2097914,
     "lng": 75.2503201,
     "query": "kiocl, Karnataka, India",
     "success": true
@@ -2016,213 +2016,9 @@
     "success": true
   },
   "River Lakshmantirtha At D/S Of Hunsur Town|Karnataka": {
-    "lat": 13.1016789,
+    "lat": 13.1016788,
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
-    "success": true
-  },
-  "River Aghanashini Marigadde (Sirsi)|Karnataka": {
-    "lat": 14.6192362,
-    "lng": 74.8388611,
-    "query": "sirsi, Karnataka, India",
-    "success": true
-  },
-  "River Gangavali River, Near Bridge, Ankola|Karnataka": {
-    "lat": 14.6453588,
-    "lng": 74.3319253,
-    "query": "ankola, Karnataka, India",
-    "success": true
-  },
-  "River Aghanashini , Near Bridge, Kumata|Karnataka": {
-    "lat": 14.4929598,
-    "lng": 74.4000564,
-    "query": "aghanashini kumata, Karnataka, India",
-    "success": true
-  },
-  "River Sharavathi Near Bridge At Honnavara|Karnataka": {
-    "lat": 14.2810827,
-    "lng": 74.4446716,
-    "query": "honnavara, Karnataka, India",
-    "success": true
-  },
-  "River Venkatpur Near Kadivinakatte Dam|Karnataka": {
-    "lat": null,
-    "lng": null,
-    "query": "venkatpur kadivinakatte, Karnataka, India",
-    "success": false
-  },
-  "River Krishna At Almatti Dam Haveli , Old Jackwell Point, Bagalkote|Karnataka": {
-    "lat": 16.2903648,
-    "lng": 75.5915819,
-    "query": "bagalkote, Karnataka, India",
-    "success": true
-  },
-  "River Krishna At D/S Of Narayanpura Dam|Karnataka": {
-    "lat": 15.4559068,
-    "lng": 74.9922057,
-    "query": "krishna narayanpura, Karnataka, India",
-    "success": true
-  },
-  "River Bhima Downstream, Dhulked Vill|Karnataka": {
-    "lat": 12.9305838,
-    "lng": 77.6920571,
-    "query": "vill, Karnataka, India",
-    "success": true
-  },
-  "River Bhadra D/S Mysore Paper Mill (Mpm), Bhadrawati, Shivamogga|Karnataka": {
-    "lat": 13.9326093,
-    "lng": 75.574978,
-    "query": "shivamogga, Karnataka, India",
-    "success": true
-  },
-  "River Ghataprabha Davalshwar Barrage Jackwell For Drinking Water Supply|Karnataka": {
-    "lat": 12.0093072,
-    "lng": 76.4070907,
-    "query": "drinking, Karnataka, India",
-    "success": true
-  },
-  "River Markandeya At Rakkasakoppa Resrvoir|Karnataka": {
-    "lat": null,
-    "lng": null,
-    "query": "markandeya rakkasakoppa resrvoir, Karnataka, India",
-    "success": false
-  },
-  "River Tunga U/S Shivamogga City|Karnataka": {
-    "lat": 13.0222347,
-    "lng": 77.5671832,
-    "query": "city, Karnataka, India",
-    "success": true
-  },
-  "River Tungabhadra At Nadiharalahalli|Karnataka": {
-    "lat": 14.5511708,
-    "lng": 75.7764583,
-    "query": "nadiharalahalli, Karnataka, India",
-    "success": true
-  },
-  "River Tungabhadra At Airani|Karnataka": {
-    "lat": 14.6076899,
-    "lng": 75.8000811,
-    "query": "airani, Karnataka, India",
-    "success": true
-  },
-  "River Tungabhadra At Hirebidari|Karnataka": {
-    "lat": 14.6398434,
-    "lng": 75.8072629,
-    "query": "hirebidari, Karnataka, India",
-    "success": true
-  },
-  "River Tungabhadra At Konanathambige|Karnataka": {
-    "lat": null,
-    "lng": null,
-    "query": "tungabhadra konanathambige, Karnataka, India",
-    "success": false
-  },
-  "River Tungabhadra At Somalapura|Karnataka": {
-    "lat": 12.9338902,
-    "lng": 76.4446775,
-    "query": "somalapura, Karnataka, India",
-    "success": true
-  },
-  "River Tungabhadra At Kuruvathi|Karnataka": {
-    "lat": null,
-    "lng": null,
-    "query": "tungabhadra kuruvathi, Karnataka, India",
-    "success": false
-  },
-  "River Cauvery At Water Supply Intake Point At Shivansamudra|Karnataka": {
-    "lat": null,
-    "lng": null,
-    "query": "cauvery shivansamudra, Karnataka, India",
-    "success": false
-  },
-  "River Cauvery At Balmavati Bridge To Thandra Hole Tributary|Karnataka": {
-    "lat": null,
-    "lng": null,
-    "query": "cauvery balmavati to thandra hole tributary, Karnataka, India",
-    "success": false
-  },
-  "River Cauvery D/S At Kondanagiri Bridge|Karnataka": {
-    "lat": null,
-    "lng": null,
-    "query": "cauvery kondanagiri, Karnataka, India",
-    "success": false
-  },
-  "River Cauvery D/S Of At Bethri Bridge , Murnad|Karnataka": {
-    "lat": 12.3162044,
-    "lng": 75.7528859,
-    "query": "murnad, Karnataka, India",
-    "success": true
-  },
-  "River Cauvery D/S Of At Nellu Dikeri Bridge, Siddapura|Karnataka": {
-    "lat": 14.3409562,
-    "lng": 74.8924253,
-    "query": "siddapura, Karnataka, India",
-    "success": true
-  },
-  "River Cauvery D/S Of At Dubare, Hanging Bridge (Theppa Da Kindi)|Karnataka": {
-    "lat": 12.4767157,
-    "lng": 77.2633632,
-    "query": "kindi, Karnataka, India",
-    "success": true
-  },
-  "River Cauvery At Ganjam Water Supply Intake Point Near Gosai Ghat, Srirangapatna|Karnataka": {
-    "lat": 12.4226442,
-    "lng": 76.6849312,
-    "query": "srirangapatna, Karnataka, India",
-    "success": true
-  },
-  "River Cauvery Atganjam Water Supply Intake Point Near Gosai Ghat, Srirangapatna,Maydya|Karnataka": {
-    "lat": null,
-    "lng": null,
-    "query": "cauvery atganjam gosai ghat srirangapatna maydya, Karnataka, India",
-    "success": false
-  },
-  "River Cauvery At Karighatta Nimishamba Temple Road Bridge Srirangapatna,Maydya|Karnataka": {
-    "lat": null,
-    "lng": null,
-    "query": "cauvery karighatta nimishamba temple srirangapatna maydya, Karnataka, India",
-    "success": false
-  },
-  "River Cauvery At Mahadevpura Road Bridge,Maydya|Karnataka": {
-    "lat": null,
-    "lng": null,
-    "query": "cauvery mahadevpura maydya, Karnataka, India",
-    "success": false
-  },
-  "River Arkavathi At D/S Of Kanakapura Town|Karnataka": {
-    "lat": 13.1016789,
-    "lng": 77.5756532,
-    "query": "town, Karnataka, India",
-    "success": true
-  },
-  "River Arkavathi At Tippagondanahalli Reservoir|Karnataka": {
-    "lat": 12.9392713,
-    "lng": 77.5722595,
-    "query": "reservoir, Karnataka, India",
-    "success": true
-  },
-  "River Arkavathi At Hesaraghatta Reservoir|Karnataka": {
-    "lat": 12.9392713,
-    "lng": 77.5722595,
-    "query": "reservoir, Karnataka, India",
-    "success": true
-  },
-  "River Shimsha Downstream Of Maddur Near Vydyanatheswara Temple Road Bridge,Maydya|Karnataka": {
-    "lat": null,
-    "lng": null,
-    "query": "shimsha maddur vydyanatheswara temple maydya, Karnataka, India",
-    "success": false
-  },
-  "River Arkavathi At Manchanbele Reservoir, Manchanabale Dam|Karnataka": {
-    "lat": 13.4573369,
-    "lng": 77.7539148,
-    "query": "manchanabale, Karnataka, India",
-    "success": true
-  },
-  "River Thenpennaiyar At Chokkarasanahalli Bridge (Bangalore)|Karnataka": {
-    "lat": 12.9767936,
-    "lng": 77.590082,
-    "query": "bangalore, Karnataka, India",
     "success": true
   }
 }

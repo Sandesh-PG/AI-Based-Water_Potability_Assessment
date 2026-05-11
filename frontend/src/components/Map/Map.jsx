@@ -132,8 +132,19 @@ function WaterQualityMap({ locations = [], selectedLocationId, onLocationSelect 
             <Popup>
               <div>
                 <div><strong>{location.location || 'Unknown location'}</strong></div>
-                <div>Pollution Score: {location.pollution_score ?? 'N/A'}</div>
-                <div>Safety Label: {location.safety_label || 'N/A'}</div>
+                <div>Type: {location.water_body_type || 'N/A'}</div>
+                <div>Pollution Score: {location.pollution_score ?? 'N/A'}/10</div>
+                <div>Safety: {location.safety_label || 'N/A'}</div>
+                {location.available_years && location.available_years.length > 0 && (
+                  <>
+                    <div style={{ fontSize: '0.85em', marginTop: '0.5em', color: '#666' }}>
+                      <strong>Latest Year:</strong> {location.year}
+                    </div>
+                    <div style={{ fontSize: '0.85em', color: '#666' }}>
+                      <strong>Data Available:</strong> {location.available_years.join(', ')}
+                    </div>
+                  </>
+                )}
                 {renderPinButton(location)}
               </div>
             </Popup>
@@ -151,8 +162,11 @@ WaterQualityMap.propTypes = {
       lat: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
       lon: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
       location: PropTypes.string,
+      year: PropTypes.number,
+      water_body_type: PropTypes.string,
       pollution_score: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
       safety_label: PropTypes.string,
+      available_years: PropTypes.arrayOf(PropTypes.number),
     }),
   ),
   onLocationSelect: PropTypes.func,

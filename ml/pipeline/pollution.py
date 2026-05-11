@@ -18,6 +18,16 @@ SAFE_LIMITS = {
     "fecal_coliform_max": 500.0,
 }
 
+# CPCB Class-A safe limits (https://cpcb.nic.in/uploads/Water_Quality_Standards.pdf)
+# SAFE_LIMITS = {
+#     "ph_min": 6.5,
+#     "ph_max": 8.5,
+#     "do_min": 6.0,
+#     "bod_max": 2.0,
+#     "nitrate_max": 10.0,
+#     "fecal_coliform_max": 50.0,
+# }
+
 REQUIRED_COLUMNS = [
     "ph_avg",
     "do_avg",
@@ -25,6 +35,14 @@ REQUIRED_COLUMNS = [
     "nitrate_avg",
     "fecal_coliform_avg",
 ]
+
+WEIGHTS = {
+    "ph": 0.10,
+    "do": 0.20,
+    "bod": 0.25,
+    "nitrate": 0.15,
+    "fecal_coliform": 0.30,
+}
 
 
 def _ph_contribution(value: float | int | None) -> float | None:
@@ -60,28 +78,53 @@ def _max_threshold_contribution(value: float | int | None, max_value: float) -> 
     return float(min((value - max_value) / max_value, 1.0))
 
 
-def _row_pollution_score(row: pd.Series) -> float:
-    """Compute pollution score for one row on a 0-100 scale."""
-    contributions = [
-        _ph_contribution(row.get("ph_avg")),
-        _min_threshold_contribution(row.get("do_avg"), SAFE_LIMITS["do_min"]),
-        _max_threshold_contribution(row.get("bod_avg"), SAFE_LIMITS["bod_max"]),
-        _max_threshold_contribution(row.get("nitrate_avg"), SAFE_LIMITS["nitrate_max"]),
-        _max_threshold_contribution(
-            row.get("fecal_coliform_avg"),
-            SAFE_LIMITS["fecal_coliform_max"],
-        ),
-    ]
+def _log_threshold_contribution(value: float | int | None, max_value: float) -> float | None:
+    if pd.isna(value):
+        return None
+    if value <= max_value:
+        return 0.0
+    import math
 
-    valid = [score for score in contributions if score is not None]
+    ratio = value / max_value
+    raw = math.log2(ratio)
+    # log2 scale, normalize by log2(100) ≈ 6.64
+    # This means 100x above limit = contribution of 1.0 (max)
+    # FC=520 → ratio=1.04 → log2=0.057 → /6.64 = 0.009 → sqrt = 0.09
+    # FC=1515 → ratio=3.03 → log2=1.60 → /6.64 = 0.24 → sqrt = 0.49
+    # FC=48000 → ratio=96 → log2=6.58 → /6.64 = 0.99 → sqrt = 0.995
+    normalized = min(raw / math.log2(100), 1.0)
+    return float(normalized ** 0.5)
+
+
+def _row_pollution_score(row: pd.Series) -> float:
+    """Compute dominant-parameter pollution score for one row on a 0-10 scale."""
+    param_contributions = {
+        "ph": (_ph_contribution(row.get("ph_avg")), WEIGHTS["ph"]),
+        "do": (_min_threshold_contribution(row.get("do_avg"), SAFE_LIMITS["do_min"]), WEIGHTS["do"]),
+        "bod": (_max_threshold_contribution(row.get("bod_avg"), SAFE_LIMITS["bod_max"]), WEIGHTS["bod"]),
+        "nitrate": (_max_threshold_contribution(row.get("nitrate_avg"), SAFE_LIMITS["nitrate_max"]), WEIGHTS["nitrate"]),
+        "fecal_coliform": (_log_threshold_contribution(row.get("fecal_coliform_avg"), SAFE_LIMITS["fecal_coliform_max"]), WEIGHTS["fecal_coliform"]),
+    }
+
+    valid = {k: (c, w) for k, (c, w) in param_contributions.items() if c is not None}
     if not valid:
         return np.nan
 
-    return float(np.mean(valid) * 100.0)
+    # Normalize weights of available parameters
+    total_weight = sum(w for _, w in valid.values())
+    weighted_sum = sum(c * (w / total_weight) for c, w in valid.values())
+
+    # Dominant parameter: max single contribution
+    max_contribution = max(c for c, _ in valid.values())
+
+    # Final score: blend of dominant + weighted
+    score = (max_contribution * 0.6) + (weighted_sum * 0.4)
+
+    return round(float(score * 10.0), 3)
 
 
 def compute_pollution_score(df: pd.DataFrame) -> pd.DataFrame:
-    """Add pollution_score (0-100) to a dataframe and return the same dataframe.
+    """Add pollution_score (0-10) to a dataframe and return the same dataframe.
 
     Requirements:
     - Input dataframe should contain columns in REQUIRED_COLUMNS.

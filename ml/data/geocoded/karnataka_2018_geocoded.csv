@@ -1,5 +1,5 @@
 stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg,latitude,longitude,geocode_query,geocoded
-1444,"Kali At D/S West Coast Paper Mill, Karnataka",River,KARNATAKA,2018,Safe,8.02,,28.85,7.55,7.25,85.0,2.8,0.92,215.0,1175.0,,13.0222347,77.5671832,"karnataka, Karnataka, India",True
-2780,"Kali At U/S Of Wcpm, Dandeli, Karnataka",River,KARNATAKA,2018,Unsafe,8.96,High Fecal Coliform,27.0,7.0,7.3,72.0,2.65,0.45,535.0,1175.0,,13.0222347,77.5671832,"karnataka, Karnataka, India",True
-3562,Thumbe Water Supply Stations To Mangalore City,River,KARNATAKA,2018,Safe,6.45,,28.5,7.0,7.05,137.0,2.5,0.895,118.5,535.0,,13.0222347,77.5671832,"city, Karnataka, India",True
-3563,U/S Of Upiingady Town,River,KARNATAKA,2018,Safe,4.15,,30.0,6.95,7.0,139.0,1.5,0.755,92.0,570.0,,13.1016788,77.5756532,"town, Karnataka, India",True
+1444,"Kali At D/S West Coast Paper Mill, Karnataka",River,KARNATAKA,2018,Unsafe,4.452,"BOD, Fecal Coliform",28.85,7.55,7.25,85.0,2.8,0.92,215.0,1175.0,,13.0222347,77.5671832,"karnataka, Karnataka, India",True
+2780,"Kali At U/S Of Wcpm, Dandeli, Karnataka",River,KARNATAKA,2018,Unsafe,5.49,"BOD, Fecal Coliform",27.0,7.0,7.3,72.0,2.65,0.45,535.0,1175.0,,13.0222347,77.5671832,"karnataka, Karnataka, India",True
+3562,Thumbe Water Supply Stations To Mangalore City,River,KARNATAKA,2018,Unsafe,3.367,"BOD, Fecal Coliform",28.5,7.0,7.05,137.0,2.5,0.895,118.5,535.0,,13.0222347,77.5671832,"city, Karnataka, India",True
+3563,U/S Of Upiingady Town,River,KARNATAKA,2018,Unsafe,2.62,Fecal Coliform,30.0,6.95,7.0,139.0,1.5,0.755,92.0,570.0,,13.1016788,77.5756532,"town, Karnataka, India",True

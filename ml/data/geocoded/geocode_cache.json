@@ -2020,5 +2020,161 @@
     "lng": 77.5756532,
     "query": "town, Karnataka, India",
     "success": true
+  },
+  "Hejamdi End Point Near Blue Flog Beach Padubidri, Kaup Tq, Udupi , District|Karnataka": {
+    "lat": 13.0222347,
+    "lng": 77.5671832,
+    "query": "district, Karnataka, India",
+    "success": true
+  },
+  "Gujjarbettu, Kemmanu Asare Beach, Udupi Tq,|Karnataka": {
+    "lat": 13.5269784,
+    "lng": 74.8731879,
+    "query": "udupi, Karnataka, India",
+    "success": true
+  },
+  "Kota Padukere, Brahmavara Tq, Udupi Dist|Karnataka": {
+    "lat": 13.0222347,
+    "lng": 77.5671832,
+    "query": "dist, Karnataka, India",
+    "success": true
+  },
+  "Gangoli Harbour Kundapura, Udupi Dist|Karnataka": {
+    "lat": 13.0222347,
+    "lng": 77.5671832,
+    "query": "dist, Karnataka, India",
+    "success": true
+  },
+  "Someshwara Beach Byndoor Tq, Udupi|Karnataka": {
+    "lat": 13.5269784,
+    "lng": 74.8731879,
+    "query": "udupi, Karnataka, India",
+    "success": true
+  },
+  "River Krishna At D/S Of Narayanpura Dam|Karnataka": {
+    "lat": 15.4559068,
+    "lng": 74.9922057,
+    "query": "krishna narayanpura, Karnataka, India",
+    "success": true
+  },
+  "River Bhima Downstream, Dhulked Vill|Karnataka": {
+    "lat": 12.9305838,
+    "lng": 77.6920571,
+    "query": "vill, Karnataka, India",
+    "success": true
+  },
+  "River Ghataprabha Davalshwar Barrage Jackwell For Drinking Water Supply|Karnataka": {
+    "lat": 12.0093072,
+    "lng": 76.4070907,
+    "query": "drinking, Karnataka, India",
+    "success": true
+  },
+  "River Markandeya At Rakkasakoppa Resrvoir|Karnataka": {
+    "lat": null,
+    "lng": null,
+    "query": "markandeya rakkasakoppa resrvoir, Karnataka, India",
+    "success": false
+  },
+  "River Tunga U/S Shivamogga City|Karnataka": {
+    "lat": 13.0222347,
+    "lng": 77.5671832,
+    "query": "city, Karnataka, India",
+    "success": true
+  },
+  "River Tungabhadra At Nadiharalahalli|Karnataka": {
+    "lat": 14.5511708,
+    "lng": 75.7764583,
+    "query": "nadiharalahalli, Karnataka, India",
+    "success": true
+  },
+  "River Tungabhadra At\u00e2 Airani|Karnataka": {
+    "lat": 14.6076899,
+    "lng": 75.8000811,
+    "query": "airani, Karnataka, India",
+    "success": true
+  },
+  "River Tungabhadra At\u00e2 Hirebidari|Karnataka": {
+    "lat": 14.6398434,
+    "lng": 75.8072629,
+    "query": "hirebidari, Karnataka, India",
+    "success": true
+  },
+  "River Tungabhadra At\u00e2 Konanathambige|Karnataka": {
+    "lat": null,
+    "lng": null,
+    "query": "tungabhadra at\u00e2 konanathambige, Karnataka, India",
+    "success": false
+  },
+  "River Tungabhadra At Somalapura|Karnataka": {
+    "lat": 12.9338902,
+    "lng": 76.4446775,
+    "query": "somalapura, Karnataka, India",
+    "success": true
+  },
+  "River Tungabhadra At\u00e2 Kuruvathi|Karnataka": {
+    "lat": null,
+    "lng": null,
+    "query": "tungabhadra at\u00e2 kuruvathi, Karnataka, India",
+    "success": false
+  },
+  "River Cauvery D/S At Kondanagiri Bridge|Karnataka": {
+    "lat": null,
+    "lng": null,
+    "query": "cauvery kondanagiri, Karnataka, India",
+    "success": false
+  },
+  "River Cauvery D/S Of At Bethri Bridge , Murnad|Karnataka": {
+    "lat": 12.3162044,
+    "lng": 75.7528859,
+    "query": "murnad, Karnataka, India",
+    "success": true
+  },
+  "River Cauvery D/S Of At Nellu Dikeri Bridge, Siddapura|Karnataka": {
+    "lat": 14.3409562,
+    "lng": 74.8924253,
+    "query": "siddapura, Karnataka, India",
+    "success": true
+  },
+  "River Cauvery D/S Of At Dubare, Hanging Bridge (Theppa Da Kindi)|Karnataka": {
+    "lat": 12.4767157,
+    "lng": 77.2633632,
+    "query": "kindi, Karnataka, India",
+    "success": true
+  },
+  "River \u00c2 Cauvery At Ganjam Water Supply Intake Point Near Gosai Ghat, Srirangapatna|Karnataka": {
+    "lat": 12.4226442,
+    "lng": 76.6849312,
+    "query": "srirangapatna, Karnataka, India",
+    "success": true
+  },
+  "River Cauvery\u00e2 Atganjam Water Supply Intake Point Near Gosai Ghat, Srirangapatna,Maydya|Karnataka": {
+    "lat": null,
+    "lng": null,
+    "query": "cauvery\u00e2 atganjam gosai ghat srirangapatna maydya, Karnataka, India",
+    "success": false
+  },
+  "River Cauvery\u00e2 At Mahadevpura Road Bridge,Maydya|Karnataka": {
+    "lat": null,
+    "lng": null,
+    "query": "cauvery\u00e2 mahadevpura maydya, Karnataka, India",
+    "success": false
+  },
+  "River Arkavathi At D/S Of Kanakapura Town|Karnataka": {
+    "lat": 13.1016788,
+    "lng": 77.5756532,
+    "query": "town, Karnataka, India",
+    "success": true
+  },
+  "River Arkavathi At Tippagondanahalli Reservoir|Karnataka": {
+    "lat": 12.9392713,
+    "lng": 77.5722595,
+    "query": "reservoir, Karnataka, India",
+    "success": true
+  },
+  "River Shimsha Downstream Of\u00e2 Maddur Near Vydyanatheswara Temple Road Bridge,Maydya|Karnataka": {
+    "lat": null,
+    "lng": null,
+    "query": "shimsha of\u00e2 maddur vydyanatheswara temple maydya, Karnataka, India",
+    "success": false
   }
 }

@@ -1,169 +1,196 @@
-import { useMemo, useRef, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import { sendBatchPredict } from '../services/api.js';
 import './BatchView.css';
 
-const SAMPLE_HEADERS = [
-  'monitoring_location',
-  'do_avg',
-  'ph_avg',
-  'bod_avg',
-  'nitrate_avg',
-  'fecal_coliform_avg',
-  'conductivity_avg',
-  'water_body_type',
+const YEAR_MIN = 2016;
+const YEAR_MAX = 2030;
+const FILE_PATTERNS = [
+  /^WQuality_River-Data-(\d{4})\.pdf$/i,
+  /^Water_Quality_data_of_Med_Min_River_(\d{4})\.pdf$/i,
+  /^Water_creek_marine_seawater_beach_(\d{4})\.pdf$/i,
+  /^Water_Quality_Canals_(\d{4})\.pdf$/i,
+  /^Water_Quality_Drains_STPs_WTPs_(\d{4})\.pdf$/i,
+  /^Water_pond_tanks_(\d{4})\.pdf$/i,
+  /^NWMP_DATA_(\d{4})\.pdf$/i,
 ];
 
-const SAMPLE_ROW = [
-  'Hebbal Lake Inlet',
-  '6.4',
-  '7.2',
-  '2.8',
-  '7.1',
-  '180',
-  '540',
-  'Lake',
+const GUIDE_ITEMS = [
+  'WQuality_River-Data-{year}.pdf',
+  'Water_Quality_data_of_Med_Min_River_{year}.pdf',
+  'Water_creek_marine_seawater_beach_{year}.pdf',
+  'Water_Quality_Canals_{year}.pdf',
+  'Water_Quality_Drains_STPs_WTPs_{year}.pdf',
+  'Water_pond_tanks_{year}.pdf',
+  'NWMP_DATA_{year}.pdf',
 ];
 
-const DISPLAY_COLUMNS = [
-  'monitoring_location',
-  'safety_label',
-  'pollution_score',
-  'violated_params',
-  'do_avg',
-  'ph_avg',
-  'bod_avg',
-  'nitrate_avg',
-  'fecal_coliform_avg',
-  'conductivity_avg',
-  'water_body_type',
+const RESULT_COLUMNS = [
+  { key: 'stn_code', label: 'Station' },
+  { key: 'monitoring_location', label: 'Station Name' },
+  { key: 'water_body_type', label: 'Water Body' },
+  { key: 'safety_label', label: 'Safety' },
+  { key: 'pollution_score', label: 'Score' },
+  { key: 'violated_params', label: 'Violations' },
+  { key: 'bod_avg', label: 'BOD' },
+  { key: 'do_avg', label: 'DO' },
+  { key: 'fecal_coliform_avg', label: 'Fecal Coliform' },
 ];
 
-function downloadTextFile(filename, content, mimeType) {
-  const blob = new Blob([content], { type: mimeType });
-  const url = URL.createObjectURL(blob);
-  const anchor = document.createElement('a');
-  anchor.href = url;
-  anchor.download = filename;
-  document.body.appendChild(anchor);
-  anchor.click();
-  anchor.remove();
-  URL.revokeObjectURL(url);
+function isValidFilename(filename, year) {
+  return FILE_PATTERNS.some((pattern) => {
+    const match = pattern.exec(filename);
+    return Boolean(match && String(match[1]) === String(year));
+  });
 }
 
-function formatCell(value) {
-  if (value === null || value === undefined || value === '') {
-    return '-';
+function escapeCsvValue(value) {
+  if (value === null || value === undefined) {
+    return '';
   }
-  return String(value);
+
+  const text = String(value);
+  if (text.includes(',') || text.includes('"') || text.includes('\n')) {
+    return `"${text.replaceAll('"', '""')}"`;
+  }
+  return text;
 }
 
-function toCsv(rows) {
+function buildCsv(rows) {
   if (!rows.length) {
     return '';
   }
 
-  const keys = Array.from(
-    rows.reduce((acc, row) => {
-      Object.keys(row || {}).forEach((key) => acc.add(key));
-      return acc;
+  const headers = Array.from(
+    rows.reduce((set, row) => {
+      Object.keys(row || {}).forEach((key) => set.add(key));
+      return set;
     }, new Set()),
   );
 
-  const escape = (value) => {
-    if (value === null || value === undefined) {
-      return '';
-    }
-    const raw = String(value);
-    if (raw.includes(',') || raw.includes('"') || raw.includes('\n')) {
-      return `"${raw.replaceAll('"', '""')}"`;
-    }
-    return raw;
-  };
-
-  const lines = [
-    keys.join(','),
-    ...rows.map((row) => keys.map((key) => escape(row[key])).join(',')),
-  ];
-
-  return `${lines.join('\n')}\n`;
+  return [
+    headers.join(','),
+    ...rows.map((row) => headers.map((header) => escapeCsvValue(row[header])).join(',')),
+  ].join('\n');
 }
 
 function BatchView() {
   const fileInputRef = useRef(null);
-  const [selectedFile, setSelectedFile] = useState(null);
-  const [isDragOver, setIsDragOver] = useState(false);
+  const [year, setYear] = useState('2022');
+  const [files, setFiles] = useState([]);
+  const [warning, setWarning] = useState('');
   const [loading, setLoading] = useState(false);
+  const [stageIndex, setStageIndex] = useState(0);
   const [error, setError] = useState('');
   const [results, setResults] = useState([]);
+  const [summary, setSummary] = useState({ totalRows: 0, safeCount: 0, unsafeCount: 0, geocodedCount: 0 });
+  const [guideOpen, setGuideOpen] = useState(false);
 
-  const summary = useMemo(() => {
-    const total = results.length;
-    const safe = results.filter((row) => String(row.safety_label || '').toLowerCase() === 'safe').length;
-    const unsafe = results.filter((row) => String(row.safety_label || '').toLowerCase() === 'unsafe').length;
-    return { total, safe, unsafe };
-  }, [results]);
+  const stageMessages = useMemo(
+    () => ['Extracting data from PDFs...', 'Computing pollution scores...', 'Geocoding locations...'],
+    [],
+  );
 
-  const visibleColumns = useMemo(() => {
-    if (!results.length) {
-      return DISPLAY_COLUMNS;
+  const validFiles = useMemo(() => files.filter((entry) => entry.valid).map((entry) => entry.file), [files]);
+  const canRun = Boolean(year) && validFiles.length > 0 && !loading;
+
+  useEffect(() => {
+    if (!loading) {
+      setStageIndex(0);
+      return undefined;
     }
 
-    const available = new Set();
-    results.forEach((row) => {
-      Object.keys(row || {}).forEach((key) => available.add(key));
+    const timer = globalThis.setInterval(() => {
+      setStageIndex((current) => (current + 1) % stageMessages.length);
+    }, 1800);
+
+    return () => globalThis.clearInterval(timer);
+  }, [loading, stageMessages.length]);
+
+  const addFiles = (incomingFiles) => {
+    const nextEntries = incomingFiles.map((file) => {
+      const valid = isValidFilename(file.name, year);
+      return {
+        file,
+        valid,
+        warning: valid
+          ? ''
+          : `Invalid filename: ${file.name}. Must match the NWMP naming convention for year ${year}.`,
+      };
     });
 
-    const preferred = DISPLAY_COLUMNS.filter((column) => available.has(column));
-    const remaining = Array.from(available).filter((column) => !preferred.includes(column));
-    return [...preferred, ...remaining];
-  }, [results]);
+    setFiles((current) => {
+      const existingNames = new Set(current.map((entry) => entry.file.name));
+      const uniqueNewEntries = nextEntries.filter((entry) => !existingNames.has(entry.file.name));
+      return [...current, ...uniqueNewEntries];
+    });
 
-  const handleFilePick = (file) => {
-    if (!file) {
-      return;
-    }
-
-    setSelectedFile(file);
+    const invalid = nextEntries.filter((entry) => !entry.valid);
+    setWarning(invalid.length > 0 ? 'One or more uploaded files do not match the required naming convention.' : '');
     setError('');
-    setResults([]);
+  };
+
+  const handleFileChange = (event) => {
+    const selected = Array.from(event.target.files || []);
+    if (selected.length > 0) {
+      addFiles(selected);
+    }
+    event.target.value = '';
   };
 
   const handleDrop = (event) => {
     event.preventDefault();
     event.stopPropagation();
-    setIsDragOver(false);
-
-    const file = event.dataTransfer?.files?.[0] || null;
-    handleFilePick(file);
+    const selected = Array.from(event.dataTransfer?.files || []).filter((file) => file.type === 'application/pdf' || file.name.toLowerCase().endsWith('.pdf'));
+    if (selected.length > 0) {
+      addFiles(selected);
+    }
   };
 
-  const handleRunPrediction = async () => {
-    if (!selectedFile) {
+  const handleRemoveFile = (fileName) => {
+    setFiles((current) => current.filter((entry) => entry.file.name !== fileName));
+    setWarning('');
+    setError('');
+  };
+
+  const handleRunPipeline = async () => {
+    if (!canRun) {
       return;
     }
 
     setLoading(true);
     setError('');
+    setResults([]);
+    setSummary({ totalRows: 0, safeCount: 0, unsafeCount: 0, geocodedCount: 0 });
 
     try {
-      const payload = await sendBatchPredict(selectedFile);
-      setResults(Array.isArray(payload) ? payload : []);
+      const payload = await sendBatchPredict(validFiles, Number(year));
+      const normalizedResults = Array.isArray(payload?.results) ? payload.results : [];
+      setResults(normalizedResults);
+      setSummary({
+        totalRows: payload?.total_rows ?? normalizedResults.length,
+        safeCount: payload?.safe_count ?? normalizedResults.filter((row) => row.safety_label === 'Safe').length,
+        unsafeCount: payload?.unsafe_count ?? normalizedResults.filter((row) => row.safety_label === 'Unsafe').length,
+        geocodedCount: payload?.geocoded_count ?? normalizedResults.filter((row) => row.latitude !== null && row.longitude !== null).length,
+      });
     } catch (err) {
-      setError(err instanceof Error ? err.message : 'Batch prediction failed.');
-      setResults([]);
+      setError(err instanceof Error ? err.message : 'Batch pipeline failed.');
     } finally {
       setLoading(false);
     }
   };
 
-  const handleSampleDownload = () => {
-    const sampleCsv = `${SAMPLE_HEADERS.join(',')}\n${SAMPLE_ROW.join(',')}\n`;
-    downloadTextFile('batch_sample_template.csv', sampleCsv, 'text/csv;charset=utf-8;');
-  };
-
-  const handleExportResults = () => {
-    const csv = toCsv(results);
-    downloadTextFile('batch_prediction_results.csv', csv, 'text/csv;charset=utf-8;');
+  const handleExportCsv = () => {
+    const timestamp = new Date().toISOString().replaceAll(':', '-').replaceAll('.', '-');
+    const csv = buildCsv(results);
+    const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+    const url = URL.createObjectURL(blob);
+    const anchor = document.createElement('a');
+    anchor.href = url;
+    anchor.download = `batch-results-${year}-${timestamp}.csv`;
+    document.body.appendChild(anchor);
+    anchor.click();
+    anchor.remove();
+    URL.revokeObjectURL(url);
   };
 
   return (
@@ -171,82 +198,116 @@ function BatchView() {
       <header className="batch-header">
         <p className="batch-kicker">Batch Processing</p>
         <h1 className="batch-title">Batch Analysis</h1>
-        <p className="batch-desc">
-          Upload a CSV of water quality readings to predict pollution score, safety label, and violated parameters for each row.
-        </p>
+        <p className="batch-subtitle">Upload NWMP PDFs to run full extraction, cleaning and prediction pipeline</p>
       </header>
 
-      <div className="batch-actions-row">
-        <button type="button" className="batch-btn secondary" onClick={handleSampleDownload}>
-          Download Sample CSV
-        </button>
-      </div>
+      <div className="batch-panel">
+        <div className="batch-field-row">
+          <label className="batch-field">
+            <span>Year</span>
+            <input
+              type="number"
+              min={YEAR_MIN}
+              max={YEAR_MAX}
+              required
+              value={year}
+              onChange={(event) => setYear(event.target.value)}
+            />
+          </label>
+        </div>
 
-      <button
-        type="button"
-        className={`batch-upload-zone ${isDragOver ? 'drag-over' : ''}`}
-        onClick={() => fileInputRef.current?.click()}
-        onDragOver={(event) => {
-          event.preventDefault();
-          setIsDragOver(true);
-        }}
-        onDragLeave={(event) => {
-          event.preventDefault();
-          setIsDragOver(false);
-        }}
-        onDrop={handleDrop}
-        aria-label="Upload batch CSV"
-      >
-        <span className="batch-upload-icon" aria-hidden="true">📄</span>
-        <span className="batch-upload-title">Drag and drop a CSV file here</span>
-        <span className="batch-upload-subtitle">or click to select a file</span>
-        <span className="batch-upload-filename">
-          {selectedFile ? `Selected: ${selectedFile.name}` : 'No file selected'}
-        </span>
-      </button>
-
-      <input
-        ref={fileInputRef}
-        type="file"
-        accept=".csv,text/csv"
-        className="batch-hidden-input"
-        onChange={(event) => handleFilePick(event.target.files?.[0] || null)}
-      />
-
-      <div className="batch-run-row">
         <button
           type="button"
-          className="batch-btn primary"
-          onClick={handleRunPrediction}
-          disabled={!selectedFile || loading}
+          className={`batch-dropzone ${files.length > 0 ? 'has-files' : ''}`}
+          onClick={() => fileInputRef.current?.click()}
+          onDragOver={(event) => event.preventDefault()}
+          onDrop={handleDrop}
+          aria-label="Upload PDF files"
         >
-          {loading ? 'Processing...' : 'Run Prediction'}
+          <span className="batch-dropzone-icon" aria-hidden="true">📄</span>
+          <span className="batch-dropzone-title">Drop PDFs here or click to browse</span>
+          <span className="batch-dropzone-note">PDF only. Filenames are validated against the NWMP naming convention.</span>
         </button>
+
+        <input
+          ref={fileInputRef}
+          type="file"
+          accept="application/pdf,.pdf"
+          multiple
+          className="batch-hidden-input"
+          onChange={handleFileChange}
+        />
+
+        <details className="batch-guide" open={guideOpen} onToggle={(event) => setGuideOpen(event.currentTarget.open)}>
+          <summary className="batch-guide-summary">Naming convention guide</summary>
+          <div className="batch-guide-body">
+            <p>Expected filenames:</p>
+            <ul>
+              {GUIDE_ITEMS.map((item) => (
+                <li key={item}><code>{item}</code></li>
+              ))}
+            </ul>
+          </div>
+        </details>
+
+        <div className="batch-file-list">
+          {files.length === 0 ? (
+            <p className="batch-empty-state">No files uploaded yet.</p>
+          ) : (
+            files.map((entry) => (
+              <div key={entry.file.name} className={`batch-file-item ${entry.valid ? 'valid' : 'invalid'}`}>
+                <div className="batch-file-meta">
+                  <span className="batch-file-name">{entry.file.name}</span>
+                  <span className={`batch-file-state ${entry.valid ? 'valid' : 'invalid'}`}>
+                    {entry.valid ? 'Valid' : 'Invalid'}
+                  </span>
+                </div>
+                {!entry.valid && <p className="batch-file-warning">{entry.warning}</p>}
+                <button type="button" className="batch-remove-btn" onClick={() => handleRemoveFile(entry.file.name)}>
+                  Remove
+                </button>
+              </div>
+            ))
+          )}
+        </div>
+
+        {warning && <div className="batch-warning">{warning}</div>}
+        {error && <div className="batch-error">{error}</div>}
+
+        <div className="batch-actions">
+          <button type="button" className="batch-primary-btn" disabled={!canRun} onClick={handleRunPipeline}>
+            Run Pipeline
+          </button>
+        </div>
+
+        {loading && <div className="batch-stage">{stageMessages[stageIndex]}</div>}
       </div>
 
-      {error && <div className="batch-error">{error}</div>}
-
       {results.length > 0 && (
-        <section className="batch-results">
+        <section className="batch-results-section">
           <div className="batch-results-header">
-            <h2 className="batch-results-title">Prediction Results</h2>
-            <button type="button" className="batch-btn secondary" onClick={handleExportResults}>
-              Export Results as CSV
+            <h2 className="batch-results-title">Results</h2>
+            <button type="button" className="batch-secondary-btn" onClick={handleExportCsv}>
+              Export CSV
             </button>
           </div>
 
-          <div className="batch-summary">
+          <div className="batch-summary-grid">
             <div className="batch-summary-card">
-              <span className="batch-summary-label">Total Rows</span>
-              <span className="batch-summary-value">{summary.total}</span>
+              <span>Total Rows</span>
+              <strong>{summary.totalRows}</strong>
             </div>
             <div className="batch-summary-card safe">
-              <span className="batch-summary-label">Safe</span>
-              <span className="batch-summary-value">{summary.safe}</span>
+              <span>Safe</span>
+              <strong>{summary.safeCount}</strong>
             </div>
             <div className="batch-summary-card unsafe">
-              <span className="batch-summary-label">Unsafe</span>
-              <span className="batch-summary-value">{summary.unsafe}</span>
+              <span>Unsafe</span>
+              <strong>{summary.unsafeCount}</strong>
+            </div>
+            <div className="batch-summary-card">
+              <span>Geocoded</span>
+              <strong>{summary.geocodedCount}</strong>
             </div>
           </div>
 
@@ -254,61 +315,57 @@ function BatchView() {
             <table className="batch-table">
               <thead>
                 <tr>
-                  {visibleColumns.map((column) => (
-                    <th key={column}>{column}</th>
+                  {RESULT_COLUMNS.map((column) => (
+                    <th key={column.key}>{column.label}</th>
                   ))}
                 </tr>
               </thead>
               <tbody>
                 {results.map((row, index) => {
-                  const label = String(row.safety_label || '').toLowerCase();
-                  const violations = String(row.violated_params || '')
-                    .split(',')
-                    .map((item) => item.trim())
-                    .filter(Boolean);
+                  const score = Number(row.pollution_score);
+                  let scoreClass = 'low';
+                  if (Number.isFinite(score)) {
+                    if (score >= 5) {
+                      scoreClass = 'high';
+                    } else if (score >= 2) {
+                      scoreClass = 'medium';
+                    }
+                  }
+                  const violations = String(row.violated_params || '');
+                  const violationsDisplay = violations.length > 35 ? `${violations.slice(0, 35)}...` : violations || '-';
 
                   return (
-                    <tr key={`${row.monitoring_location || 'row'}-${index}`}>
-                      {visibleColumns.map((column) => {
-                        if (column === 'safety_label') {
+                    <tr key={`${row.stn_code || row.monitoring_location || 'row'}-${index}`}>
+                      {RESULT_COLUMNS.map((column) => {
+                        if (column.key === 'safety_label') {
                           return (
-                            <td key={column}>
-                              <span className={`batch-badge ${label === 'safe' ? 'safe' : 'unsafe'}`}>
-                                {formatCell(row[column])}
+                            <td key={column.key}>
+                              <span className={`batch-pill ${String(row.safety_label) === 'Safe' ? 'safe' : 'unsafe'}`}>
+                                {row.safety_label || '-'}
                               </span>
                             </td>
                           );
                         }
 
-                        if (column === 'violated_params') {
+                        if (column.key === 'pollution_score') {
                           return (
-                            <td key={column}>
-                              <div className="batch-chip-list">
-                                {violations.length ? (
-                                  violations.map((item) => (
-                                    <span key={`${index}-${item}`} className="batch-chip">{item}</span>
-                                  ))
-                                ) : (
-                                  <span className="batch-chip muted">None</span>
-                                )}
-                              </div>
+                            <td key={column.key} className={`mono batch-score ${scoreClass}`}>
+                              {Number.isFinite(score) ? score.toFixed(2) : '-'}
                             </td>
                           );
                         }
 
-                        const isMetricColumn =
-                          column.endsWith('_avg') ||
-                          column === 'pollution_score' ||
-                          column === 'do_avg' ||
-                          column === 'ph_avg' ||
-                          column === 'bod_avg' ||
-                          column === 'nitrate_avg' ||
-                          column === 'fecal_coliform_avg' ||
-                          column === 'conductivity_avg';
+                        if (column.key === 'violated_params') {
+                          return (
+                            <td key={column.key} title={violations || 'No violations'}>
+                              <span className="batch-violations">{violationsDisplay}</span>
+                            </td>
+                          );
+                        }
 
                         return (
-                          <td key={column} className={isMetricColumn ? 'mono' : ''}>
-                            {formatCell(row[column])}
+                          <td key={column.key} className={column.key === 'stn_code' || column.key.endsWith('_avg') ? 'mono' : ''}>
+                            {row[column.key] ?? '-'}
                           </td>
                         );
                       })}

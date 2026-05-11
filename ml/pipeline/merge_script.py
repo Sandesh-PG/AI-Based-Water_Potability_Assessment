@@ -2,15 +2,14 @@ import pandas as pd
 from pathlib import Path
 
 def merge_train_datasets():
-    geo_dir = Path("data/geocoded")
+    geo_dir = Path(__file__).resolve().parents[1] / "data" / "geocoded"
 
     files = sorted(geo_dir.glob("karnataka_*_geocoded.csv"))
 
     dfs = []
 
     for f in files:
-        # Skip 2023 (test data)
-        if "2023" in f.name:
+        if "2023" in f.name or "2024" in f.name:
             continue
 
         print("Adding:", f.name)
