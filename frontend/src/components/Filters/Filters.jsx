@@ -4,7 +4,7 @@ import { getLocations } from '../../services/api.js';
 import './Filters.css';
 
 const YEARS = [2016, 2017, 2018, 2019, 2020, 2021, 2022];
-const WATER_BODY_TYPES = ['River', 'Lake', 'Groundwater'];
+const WATER_BODY_TYPES = ['River', 'Canal', 'Groundwater', 'Pond/Tank'];
 const SAFETY_LABELS = ['Safe', 'Unsafe'];
 
 function Filters({ filters, onChange, setLocations, setLocationsLoading, loading }) {
@@ -22,11 +22,23 @@ function Filters({ filters, onChange, setLocations, setLocationsLoading, loading
   }, [setLocations, setLocationsLoading]);
 
   useEffect(() => {
-    loadLocations({ year: 2022 });
+    // Load with no year filter by default (show all years)
+    loadLocations({
+      water_body_type: filters.water_body_type,
+      safety_label: filters.safety_label,
+    });
   }, [loadLocations]);
 
   const handleApply = () => {
-    loadLocations(filters);
+    const activeFilters = {
+      water_body_type: filters.water_body_type,
+      safety_label: filters.safety_label,
+    };
+    // Only include year if it's not empty (i.e., not "All Years")
+    if (filters.year) {
+      activeFilters.year = parseInt(filters.year, 10);
+    }
+    loadLocations(activeFilters);
   };
 
   return (
@@ -44,11 +56,11 @@ function Filters({ filters, onChange, setLocations, setLocationsLoading, loading
               id="filters-year"
               className="filter-select"
               value={filters.year}
-              onChange={e => onChange('year', e.target.value)}
+              onChange={(e) => onChange('year', e.target.value)}
             >
               <option value="">All Years</option>
-              {YEARS.map(y => (
-                <option key={y} value={y}>{y}</option>
+              {YEARS.map((year) => (
+                <option key={year} value={year}>{year}</option>
               ))}
             </select>
           </div>

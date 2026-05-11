@@ -325,9 +325,9 @@ function BatchView() {
                   const score = Number(row.pollution_score);
                   let scoreClass = 'low';
                   if (Number.isFinite(score)) {
-                    if (score > 50) {
+                    if (score >= 5) {
                       scoreClass = 'high';
-                    } else if (score >= 20) {
+                    } else if (score >= 2) {
                       scoreClass = 'medium';
                     }
                   }

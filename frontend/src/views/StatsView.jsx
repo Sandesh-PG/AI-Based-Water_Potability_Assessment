@@ -85,7 +85,12 @@ export default function StatsView() {
         </div>
         <div className="stats-card accent">
           <span className="stats-card-label">Avg Pollution Score</span>
-          <span className="stats-card-value">{overview?.avg_pollution_score ?? '—'}</span>
+          <span className="stats-card-value">
+            {overview?.avg_pollution_score != null && Number.isFinite(Number(overview.avg_pollution_score))
+              ? Number(overview.avg_pollution_score).toFixed(2)
+              : (overview?.avg_pollution_score ?? '—')}
+          </span>
+          <span className="stats-card-subtitle">out of 10</span>
         </div>
         <div className="stats-card">
           <span className="stats-card-label">Top Violation</span>

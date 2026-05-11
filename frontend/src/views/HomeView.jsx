@@ -7,7 +7,7 @@ import OverviewCard from '../components/Dashboard/OverviewCard.jsx';
 import TrackedStations from '../components/Dashboard/TrackedStations.jsx';
 import TrendChart from '../components/Dashboard/TrendChart.jsx';
 import { usePinnedStations } from '../contexts/PinnedStationsContext.jsx';
-import { getLocations } from '../services/api.js';
+import { fetchOverviewStats, getLocations } from '../services/api.js';
 import '../components/Dashboard/HomeDashboard.css';
 import './HomeView.css';
 
@@ -122,6 +122,8 @@ function HomeView({
       setLoading(true);
 
       try {
+        const overview = await fetchOverviewStats(null);
+
         const yearlyRows = await Promise.all(
           YEARS.map(async (year) => {
             const rows = await getLocations({ year });
@@ -136,15 +138,14 @@ function HomeView({
           return;
         }
 
-        const populatedYears = yearlyRows.filter((entry) => entry.rows.length > 0);
-        const latestRows = populatedYears.at(-1)?.rows ?? [];
+        const summaryFromOverview = {
+          totalStations: overview?.total_stations ?? totalStations,
+          safeCount: overview?.safe_count ?? safeCount,
+          unsafeCount: overview?.unsafe_count ?? unsafeCount,
+          averagePollutionScore: Number(overview?.avg_pollution_score ?? 0),
+        };
 
-        setSummary({
-          totalStations: latestRows.length || totalStations,
-          safeCount: latestRows.filter((row) => row.safety_label === 'Safe').length || safeCount,
-          unsafeCount: latestRows.filter((row) => row.safety_label === 'Unsafe').length || unsafeCount,
-          averagePollutionScore: averageScore(latestRows),
-        });
+        setSummary(summaryFromOverview);
 
         setTrendData(
           yearlyRows
