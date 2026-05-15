@@ -51,8 +51,8 @@ stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_s
 3573,Cauvery D/S Of Kushalanagar Town,River,KARNATAKA,2020,Unsafe,1.613,Fecal Coliform,22.5,7.1,7.65,168.0,1.35,5.0,63.0,380.0,,13.1016788,77.5756532,"town, Karnataka, India",True
 4109,Cauvery River Before Confluence At Sangam,River,KARNATAKA,2020,Unsafe,8.2,"BOD, Fecal Coliform",25.0,6.25,7.5,716.0,4.1,8.75,5510.5,80175.0,58.5,13.0059246,77.5789838,"sangam, Karnataka, India",True
 4102,D/S Of Cauvery At Bhagamandala Bridge,River,KARNATAKA,2020,Unsafe,1.556,Fecal Coliform,23.0,6.9,7.75,89.0,1.55,0.3,62.0,330.0,,12.3813118,75.5157832,"cauvery bhagamandala, Karnataka, India",True
-1166,"Shimsha At D/S Of Bridge, Halagur",River,KARNATAKA,2020,Unsafe,5.684,"DO, BOD, Fecal Coliform",26.5,5.8,8.0,708.0,3.2,3.855,485.0,2250.0,,,,,False
-1200,"Shimsha At D/S Of Highway Bridge, Yediyar",River,KARNATAKA,2020,Unsafe,8.096,"BOD, Fecal Coliform",28.0,6.2,7.4,327.5,4.5,2.06,2329.0,17960.0,47.5,,,,False
+1166,"Shimsha At D/S Of Bridge, Halagur",River,KARNATAKA,2020,Unsafe,5.684,"DO, BOD, Fecal Coliform",26.5,5.8,8.0,708.0,3.2,3.855,485.0,2250.0,,12.8027322,76.972542,"Shimsha, Karnataka, India",True
+1200,"Shimsha At D/S Of Highway Bridge, Yediyar",River,KARNATAKA,2020,Unsafe,8.096,"BOD, Fecal Coliform",28.0,6.2,7.4,327.5,4.5,2.06,2329.0,17960.0,47.5,12.8027322,76.972542,"Shimsha, Karnataka, India",True
 3567,Shimsha D/S Near Madduar Town,River,KARNATAKA,2020,Unsafe,4.853,"BOD, Fecal Coliform",25.0,6.4,7.9,448.0,2.15,5.8,380.0,1850.0,,13.1016788,77.5756532,"town, Karnataka, India",True
 1165,Arkavathi At D/S Of Kanakapura Town,River,KARNATAKA,2020,Unsafe,8.559,"DO, BOD, Nitrate, Fecal Coliform",26.0,5.25,7.2,1081.0,9.5,14.315,31740.0,271750.0,816.5,13.1016788,77.5756532,"town, Karnataka, India",True
 2778,Arkavathi At T.G. Halli Reservoir,River,KARNATAKA,2020,Unsafe,8.095,"BOD, Fecal Coliform",28.85,8.55,7.3,1154.0,11.0,5.015,2321.5,27270.0,22.0,12.9392713,77.5722595,"reservoir, Karnataka, India",True
@@ -60,6 +60,6 @@ stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_s
 41,Kabini At Cause Way Sattur,River,KARNATAKA,2020,Unsafe,4.256,Fecal Coliform,25.0,6.65,7.85,346.0,1.85,2.8,250.0,1095.0,,15.4105056,75.0456504,"sattur, Karnataka, India",True
 1197,"Kabini At Saragur Village D/S,",River,KARNATAKA,2020,Unsafe,4.23,Fecal Coliform,24.0,6.85,7.8,250.0,1.85,1.9,245.0,1120.0,,12.9422696,77.6253883,"village, Karnataka, India",True
 1445,Kabini At Water Intake Of Kiadb At Nanjangud,River,KARNATAKA,2020,Unsafe,4.21,Fecal Coliform,24.0,6.95,7.7,285.0,1.8,1.2,241.5,1050.0,,12.1220681,76.6843409,"nanjangud, Karnataka, India",True
-2775,"Kabini At Bathing Ghat, Nanjanagud",River,KARNATAKA,2020,Unsafe,5.345,"BOD, Fecal Coliform",24.0,6.15,7.75,306.5,2.4,2.1,525.0,1870.0,,,,"kabini bathing ghat nanjanagud, Karnataka, India",False
+2775,"Kabini At Bathing Ghat, Nanjanagud",River,KARNATAKA,2020,Unsafe,5.345,"BOD, Fecal Coliform",24.0,6.15,7.75,306.5,2.4,2.1,525.0,1870.0,,12.0140065,76.4152088,"Kabini, Karnataka, India",True
 1196,Lakshmantirtha At D/S Of Hunsur Town,River,KARNATAKA,2020,Unsafe,5.647,"BOD, Fecal Coliform",24.5,6.4,7.85,393.5,2.5,1.55,665.0,3050.0,,13.1016788,77.5756532,"town, Karnataka, India",True
 2772,"Lakshmantirtha At D/S Of Kattemalavadi,",River,KARNATAKA,2020,Unsafe,6.203,"BOD, Fecal Coliform",25.5,6.15,7.8,424.0,2.6,1.66,1105.0,3150.0,,12.3518289,76.2890432,"kattemalavadi, Karnataka, India",True

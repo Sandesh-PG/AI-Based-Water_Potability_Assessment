@@ -9,24 +9,24 @@ from __future__ import annotations
 import numpy as np
 import pandas as pd
 
-SAFE_LIMITS = {
-    "ph_min": 6.5,
-    "ph_max": 8.5,
-    "do_min": 5.0,
-    "bod_max": 3.0,
-    "nitrate_max": 10.0,
-    "fecal_coliform_max": 500.0,
-}
-
-# CPCB Class-A safe limits (https://cpcb.nic.in/uploads/Water_Quality_Standards.pdf)
 # SAFE_LIMITS = {
 #     "ph_min": 6.5,
 #     "ph_max": 8.5,
-#     "do_min": 6.0,
-#     "bod_max": 2.0,
+#     "do_min": 5.0,
+#     "bod_max": 3.0,
 #     "nitrate_max": 10.0,
-#     "fecal_coliform_max": 50.0,
+#     "fecal_coliform_max": 500.0,
 # }
+
+# CPCB Class-A safe limits (https://cpcb.nic.in/uploads/Water_Quality_Standards.pdf)
+SAFE_LIMITS = {
+    "ph_min": 6.5,
+    "ph_max": 8.5,
+    "do_min": 6.0,
+    "bod_max": 2.0,
+    "nitrate_max": 10.0,
+    "fecal_coliform_max": 50.0,
+}
 
 REQUIRED_COLUMNS = [
     "ph_avg",

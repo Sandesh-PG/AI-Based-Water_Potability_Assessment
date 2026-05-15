@@ -46,10 +46,65 @@ def location_forecast(
 
         usable_points = (df_loc["year"].notna() & df_loc["pollution_score"].notna()).sum()
         if usable_points < 3:
-            raise HTTPException(
-                status_code=400,
-                detail="Not enough historical data points to generate a forecast",
-            )
+            # Provide a safe fallback for stations with sparse history:
+            # - 1 point: repeat the last observed value forward with wide uncertainty
+            # - 2 points: simple linear extrapolation with residual-based uncertainty
+            valid_rows = df_loc[df_loc["pollution_score"].notna()].copy()
+            if valid_rows.empty:
+                raise HTTPException(
+                    status_code=400,
+                    detail="Not enough historical data points to generate a forecast",
+                )
+
+            # determine last observed year and value
+            valid_years = pd.to_numeric(valid_rows["year"], errors="coerce").dropna()
+            last_observed_year = int(valid_years.max())
+            last_val = float(valid_rows.loc[valid_rows["year"] == valid_years.max(), "pollution_score"].iloc[-1])
+
+            import numpy as np
+
+            periods = int(years)
+            future_years = [last_observed_year + i for i in range(1, periods + 1)]
+            ds = pd.to_datetime([f"{y}-01-01" for y in future_years])
+
+            if usable_points == 1:
+                yhat = np.array([last_val] * periods, dtype=float)
+                yhat_lower = yhat - abs(last_val) * 0.5
+                yhat_upper = yhat + abs(last_val) * 0.5
+                trend = "Fallback (last_value)"
+            else:
+                yrs = pd.to_numeric(valid_rows["year"], errors="coerce").astype(float)
+                vals = pd.to_numeric(valid_rows["pollution_score"], errors="coerce").astype(float)
+                # linear fit
+                slope, intercept = np.polyfit(yrs, vals, 1)
+                yhat = intercept + slope * np.array(future_years, dtype=float)
+                # residual-based uncertainty (conservative)
+                preds_train = intercept + slope * yrs
+                resid = vals - preds_train
+                std = float(np.nanstd(resid)) if len(resid) > 0 else 0.0
+                yhat_lower = yhat - 2.0 * std
+                yhat_upper = yhat + 2.0 * std
+                trend = "Fallback (linear)"
+
+            forecast_df = pd.DataFrame({
+                "ds": ds,
+                "yhat": yhat,
+                "yhat_lower": yhat_lower,
+                "yhat_upper": yhat_upper,
+            })
+            forecast_df["ds"] = pd.to_datetime(forecast_df["ds"]).dt.strftime("%Y-%m-%d")
+            # round values
+            for col in ["yhat", "yhat_lower", "yhat_upper"]:
+                forecast_df[col] = forecast_df[col].astype(float).round(2)
+
+            records = forecast_df.to_dict(orient="records")
+            return {
+                "id": station_id,
+                "location": str(df_loc["monitoring_location"].iloc[0]),
+                "forecast": records,
+                "trend": trend,
+                "fallback": True,
+            }
 
         valid_years = pd.to_numeric(df_loc["year"], errors="coerce").dropna()
         if valid_years.empty:

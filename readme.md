@@ -139,3 +139,36 @@ The system produces structured data including:
 ## 💬 Summary
 
 A system that transforms raw water quality data into meaningful insights, enabling better monitoring, analysis, and decision-making.
+ 
+---
+
+## 🧩 Quick Dev / Run
+
+- Run backend API (FastAPI):
+
+```bash
+cd backend
+uvicorn app.main:app --reload --port 8000
+```
+
+- Run frontend (Vite/React):
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+## Contributing
+
+- Open issues for bugs or feature requests.
+- Send a PR with a clear description and tests for code changes.
+
+## License
+
+- MIT (or change as appropriate).
+
+## Contact
+
+- Maintainer: Project team (add email or GitHub handle)
+

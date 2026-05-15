@@ -404,13 +404,13 @@
   "Shimsha D/S Of Highway Bridge, Yediyar|Karnataka": {
     "lat": null,
     "lng": null,
-    "query": "shimsha yediyar, Karnataka, India",
+    "query": "Yediyar, Karnataka, India",
     "success": false
   },
   "Shimsha D/S Of Bridge, Halagur|Karnataka": {
     "lat": null,
     "lng": null,
-    "query": "shimsha halagur, Karnataka, India",
+    "query": "Halagur, Karnataka, India",
     "success": false
   },
   "Arkavathi D/S Of Kanakapura Town|Karnataka": {
@@ -456,10 +456,10 @@
     "success": true
   },
   "Kabini At Bathing Ghat, Nanjanagud|Karnataka": {
-    "lat": null,
-    "lng": null,
-    "query": "kabini bathing ghat nanjanagud, Karnataka, India",
-    "success": false
+    "lat": 12.0140065,
+    "lng": 76.4152088,
+    "query": "Kabini, Karnataka, India",
+    "success": true
   },
   "Krishna At U/S Of Ugarkhurd Barrage,|Karnataka": {
     "lat": null,
@@ -774,16 +774,16 @@
     "success": true
   },
   "Shimsha At D/S Of Highway Bridge, Yediyar,|Karnataka": {
-    "lat": null,
-    "lng": null,
-    "query": "shimsha yediyar, Karnataka, India",
-    "success": false
+    "lat": 12.8027322,
+    "lng": 76.972542,
+    "query": "Shimsha, Karnataka, India",
+    "success": true
   },
   "Shimsha At D/S Of Bridge, Halagur,|Karnataka": {
-    "lat": null,
-    "lng": null,
-    "query": "shimsha halagur, Karnataka, India",
-    "success": false
+    "lat": 12.8027322,
+    "lng": 76.972542,
+    "query": "Shimsha, Karnataka, India",
+    "success": true
   },
   "Shimsha D/S Near Madduar Town|Karnataka": {
     "lat": 13.1016789,
@@ -792,10 +792,10 @@
     "success": true
   },
   "Shimsha At Water Supply Intake Point At Madduar|Karnataka": {
-    "lat": null,
-    "lng": null,
-    "query": "shimsha madduar, Karnataka, India",
-    "success": false
+    "lat": 12.8027322,
+    "lng": 76.972542,
+    "query": "Shimsha, Karnataka, India",
+    "success": true
   },
   "Arkavathi At D/S Of Kanakapura Town,|Karnataka": {
     "lat": 13.1016789,
@@ -828,16 +828,16 @@
     "success": true
   },
   "Kabini At Bathing Ghat, Nanjanagud,|Karnataka": {
-    "lat": null,
-    "lng": null,
-    "query": "kabini bathing ghat nanjanagud, Karnataka, India",
-    "success": false
+    "lat": 12.0140065,
+    "lng": 76.4152088,
+    "query": "Kabini, Karnataka, India",
+    "success": true
   },
   "Kabini U/S Intake Point To Nanjanagud & Gundlupet At Debur|Karnataka": {
-    "lat": null,
-    "lng": null,
-    "query": "kabini to nanjanagud & gundlupet debur, Karnataka, India",
-    "success": false
+    "lat": 12.7955792,
+    "lng": 77.6989396,
+    "query": "Kabini U, Karnataka, India",
+    "success": true
   },
   "Kabini At Water Supply Intake Point To T. Narasipura|Karnataka": {
     "lat": 13.2702874,

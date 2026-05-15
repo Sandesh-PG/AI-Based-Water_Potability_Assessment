@@ -1,0 +1,579 @@
+{
+  "2016/Water_canals_2016.pdf": {
+    "file": "ml\\data\\raw\\2016\\Water_canals_2016.pdf",
+    "found": {},
+    "pages_searched": 19
+  },
+  "2016/Water_Ground_Water_2016.pdf": {
+    "file": "ml\\data\\raw\\2016\\Water_Ground_Water_2016.pdf",
+    "found": {
+      "do": {
+        "value": 20.0
+      },
+      "ph": {
+        "min": 100.0,
+        "max": 100.0
+      }
+    },
+    "pages_searched": 47
+  },
+  "2016/Water_karnataka_2016.pdf": {
+    "file": "ml\\data\\raw\\2016\\Water_karnataka_2016.pdf",
+    "found": {},
+    "pages_searched": 2
+  },
+  "2016/Water_Minor_River_2016.pdf": {
+    "file": "ml\\data\\raw\\2016\\Water_Minor_River_2016.pdf",
+    "found": {
+      "ph": {
+        "min": 100.0,
+        "max": 100.0
+      },
+      "do": {
+        "value": 14.0
+      }
+    },
+    "pages_searched": 30
+  },
+  "2016/Water_pond_tanks_2016.pdf": {
+    "file": "ml\\data\\raw\\2016\\Water_pond_tanks_2016.pdf",
+    "found": {},
+    "pages_searched": 44
+  },
+  "2016/Water_Quality_data_of_River_2016.pdf": {
+    "file": "ml\\data\\raw\\2016\\Water_Quality_data_of_River_2016.pdf",
+    "found": {},
+    "pages_searched": 70
+  },
+  "2017/Water_Ground_Water_2017.pdf": {
+    "file": "ml\\data\\raw\\2017\\Water_Ground_Water_2017.pdf",
+    "found": {
+      "do": {
+        "value": 22.0
+      }
+    },
+    "pages_searched": 46
+  },
+  "2017/Water_pond_tanks_2017.pdf": {
+    "file": "ml\\data\\raw\\2017\\Water_pond_tanks_2017.pdf",
+    "found": {},
+    "pages_searched": 20
+  },
+  "2017/Water_Quality_Canals_Sea_Water_Drains_STPs_2017.pdf": {
+    "file": "ml\\data\\raw\\2017\\Water_Quality_Canals_Sea_Water_Drains_STPs_2017.pdf",
+    "found": {
+      "do": {
+        "value": 2267.0
+      },
+      "bod": {
+        "value": 100.0
+      }
+    },
+    "pages_searched": 10
+  },
+  "2017/Water_Quality_data_of_River_2017.pdf": {
+    "file": "ml\\data\\raw\\2017\\Water_Quality_data_of_River_2017.pdf",
+    "found": {},
+    "pages_searched": 12
+  },
+  "2017/Water_Quality_Rivers_2017.pdf": {
+    "file": "ml\\data\\raw\\2017\\Water_Quality_Rivers_2017.pdf",
+    "found": {
+      "ph": {
+        "min": 100.0,
+        "max": 100.0
+      },
+      "nitrate": {
+        "value": 100.0
+      }
+    },
+    "pages_searched": 81
+  },
+  "2018/NWMP_DATA_2018.pdf": {
+    "file": "ml\\data\\raw\\2018\\NWMP_DATA_2018.pdf",
+    "found": {
+      "do": {
+        "value": 2243.0
+      }
+    },
+    "pages_searched": 56
+  },
+  "2018/Water_pond_tanks_2018.pdf": {
+    "file": "ml\\data\\raw\\2018\\Water_pond_tanks_2018.pdf",
+    "found": {},
+    "pages_searched": 27
+  },
+  "2018/Water_Quality_data_of_River_2018.pdf": {
+    "file": "ml\\data\\raw\\2018\\Water_Quality_data_of_River_2018.pdf",
+    "found": {},
+    "pages_searched": 24
+  },
+  "2018/WQuality-Canals-Creek-Marine-SeaWater-Drains-STPs-2018.pdf": {
+    "file": "ml\\data\\raw\\2018\\WQuality-Canals-Creek-Marine-SeaWater-Drains-STPs-2018.pdf",
+    "found": {
+      "do": {
+        "value": 25.3
+      }
+    },
+    "pages_searched": 15
+  },
+  "2018/WQuality_River-Data-2018.pdf": {
+    "file": "ml\\data\\raw\\2018\\WQuality_River-Data-2018.pdf",
+    "found": {
+      "ph": {
+        "min": 0.0,
+        "max": 0.0
+      },
+      "nitrate": {
+        "value": 0.0
+      }
+    },
+    "pages_searched": 103
+  },
+  "2019/NWMP_DATA_2019.pdf": {
+    "file": "ml\\data\\raw\\2019\\NWMP_DATA_2019.pdf",
+    "found": {
+      "do": {
+        "value": 2243.0
+      }
+    },
+    "pages_searched": 78
+  },
+  "2019/Water_pond_tanks_2019.pdf": {
+    "file": "ml\\data\\raw\\2019\\Water_pond_tanks_2019.pdf",
+    "found": {
+      "bod": {
+        "value": 100.0
+      }
+    },
+    "pages_searched": 40
+  },
+  "2019/Water_Quality_Canals_Sea_Water_Drains_STPs_2019.pdf": {
+    "file": "ml\\data\\raw\\2019\\Water_Quality_Canals_Sea_Water_Drains_STPs_2019.pdf",
+    "found": {
+      "do": {
+        "value": 2267.0
+      }
+    },
+    "pages_searched": 19
+  },
+  "2019/Water_Quality_data_of_River_2019.pdf": {
+    "file": "ml\\data\\raw\\2019\\Water_Quality_data_of_River_2019.pdf",
+    "found": {
+      "bod": {
+        "value": 100.0
+      }
+    },
+    "pages_searched": 19
+  },
+  "2019/WQuality_River-Data-2019.pdf": {
+    "file": "ml\\data\\raw\\2019\\WQuality_River-Data-2019.pdf",
+    "found": {
+      "ph": {
+        "min": 0.0,
+        "max": 0.0
+      }
+    },
+    "pages_searched": 66
+  },
+  "2020/NWMP_DATA_2020.pdf": {
+    "file": "ml\\data\\raw\\2020\\NWMP_DATA_2020.pdf",
+    "found": {
+      "do": {
+        "value": 3479.0
+      },
+      "bod": {
+        "value": 1.0
+      },
+      "nitrate": {
+        "value": 0.3
+      }
+    },
+    "pages_searched": 76
+  },
+  "2020/Water_creek_marine_seawater_beach_2020.pdf": {
+    "file": "ml\\data\\raw\\2020\\Water_creek_marine_seawater_beach_2020.pdf",
+    "found": {
+      "do": {
+        "value": 23.0
+      },
+      "bod": {
+        "value": 1.0
+      },
+      "nitrate": {
+        "value": 0.3
+      }
+    },
+    "pages_searched": 2
+  },
+  "2020/Water_pond_tanks_2020.pdf": {
+    "file": "ml\\data\\raw\\2020\\Water_pond_tanks_2020.pdf",
+    "found": {},
+    "pages_searched": 29
+  },
+  "2020/Water_Quality_Canals_2020.pdf": {
+    "file": "ml\\data\\raw\\2020\\Water_Quality_Canals_2020.pdf",
+    "found": {
+      "bod": {
+        "value": 1.0
+      },
+      "nitrate": {
+        "value": 0.3
+      }
+    },
+    "pages_searched": 4
+  },
+  "2020/Water_Quality_data_of_River_2020.pdf": {
+    "file": "ml\\data\\raw\\2020\\Water_Quality_data_of_River_2020.pdf",
+    "found": {
+      "ph": {
+        "min": 2.0,
+        "max": 2.0
+      },
+      "do": {
+        "value": 0.0
+      },
+      "bod": {
+        "value": 1.0
+      },
+      "nitrate": {
+        "value": 0.32
+      },
+      "fecal_coliform": {
+        "value": 100.0
+      }
+    },
+    "pages_searched": 20
+  },
+  "2020/Water_Quality_Drains_STPs__WTPs_2020.pdf": {
+    "file": "ml\\data\\raw\\2020\\Water_Quality_Drains_STPs__WTPs_2020.pdf",
+    "found": {
+      "do": {
+        "value": 0.3
+      },
+      "bod": {
+        "value": 1.0
+      },
+      "nitrate": {
+        "value": 0.3
+      },
+      "fecal_coliform": {
+        "value": 1.8
+      }
+    },
+    "pages_searched": 7
+  },
+  "2020/WQuality_River-Data-2020.pdf": {
+    "file": "ml\\data\\raw\\2020\\WQuality_River-Data-2020.pdf",
+    "found": {
+      "ph": {
+        "min": 0.0,
+        "max": 0.0
+      },
+      "do": {
+        "value": 0.3
+      },
+      "bod": {
+        "value": 1.0
+      },
+      "nitrate": {
+        "value": 0.3
+      }
+    },
+    "pages_searched": 56
+  },
+  "2021/NWMP_DATA_2021.pdf": {
+    "file": "ml\\data\\raw\\2021\\NWMP_DATA_2021.pdf",
+    "found": {
+      "bod": {
+        "value": 1.0
+      },
+      "do": {
+        "value": 2243.0
+      },
+      "ph": {
+        "min": 2.0,
+        "max": 2.0
+      },
+      "nitrate": {
+        "value": 0.32
+      },
+      "fecal_coliform": {
+        "value": 100.0
+      }
+    },
+    "pages_searched": 70
+  },
+  "2021/Water_creek_marine_seawater_beach_2021.pdf": {
+    "file": "ml\\data\\raw\\2021\\Water_creek_marine_seawater_beach_2021.pdf",
+    "found": {
+      "do": {
+        "value": 21.0
+      },
+      "bod": {
+        "value": 1.0
+      },
+      "nitrate": {
+        "value": 0.3
+      },
+      "fecal_coliform": {
+        "value": 1.8
+      }
+    },
+    "pages_searched": 7
+  },
+  "2021/Water_pond_tanks_2021.pdf": {
+    "file": "ml\\data\\raw\\2021\\Water_pond_tanks_2021.pdf",
+    "found": {},
+    "pages_searched": 32
+  },
+  "2021/Water_Quality_Canals_2021.pdf": {
+    "file": "ml\\data\\raw\\2021\\Water_Quality_Canals_2021.pdf",
+    "found": {
+      "bod": {
+        "value": 1.0
+      },
+      "nitrate": {
+        "value": 0.3
+      }
+    },
+    "pages_searched": 4
+  },
+  "2021/Water_Quality_data_of_River_2021.pdf": {
+    "file": "ml\\data\\raw\\2021\\Water_Quality_data_of_River_2021.pdf",
+    "found": {},
+    "pages_searched": 16
+  },
+  "2021/Water_Quality_Drains_STPs__WTPs_2021.pdf": {
+    "file": "ml\\data\\raw\\2021\\Water_Quality_Drains_STPs__WTPs_2021.pdf",
+    "found": {},
+    "pages_searched": 12
+  },
+  "2021/WQuality_River-Data-2021.pdf": {
+    "file": "ml\\data\\raw\\2021\\WQuality_River-Data-2021.pdf",
+    "found": {
+      "do": {
+        "value": 3374.0
+      },
+      "bod": {
+        "value": 1.0
+      },
+      "nitrate": {
+        "value": 0.3
+      }
+    },
+    "pages_searched": 127
+  },
+  "2022/NWMP_DATA_2022.pdf": {
+    "file": "ml\\data\\raw\\2022\\NWMP_DATA_2022.pdf",
+    "found": {
+      "do": {
+        "value": 2243.0
+      },
+      "ph": {
+        "min": 2.0,
+        "max": 2.0
+      },
+      "bod": {
+        "value": 1.0
+      },
+      "nitrate": {
+        "value": 0.32
+      },
+      "fecal_coliform": {
+        "value": 100.0
+      }
+    },
+    "pages_searched": 70
+  },
+  "2022/Water_creek_marine_seawater_beach_2022.pdf": {
+    "file": "ml\\data\\raw\\2022\\Water_creek_marine_seawater_beach_2022.pdf",
+    "found": {
+      "fecal_coliform": {
+        "value": 2.0
+      },
+      "do": {
+        "value": 2267.0
+      }
+    },
+    "pages_searched": 9
+  },
+  "2022/Water_pond_tanks_2022.pdf": {
+    "file": "ml\\data\\raw\\2022\\Water_pond_tanks_2022.pdf",
+    "found": {
+      "fecal_coliform": {
+        "value": 2.0
+      }
+    },
+    "pages_searched": 55
+  },
+  "2022/Water_Quality_data_of_Med_Min_River_2022.pdf": {
+    "file": "ml\\data\\raw\\2022\\Water_Quality_data_of_Med_Min_River_2022.pdf",
+    "found": {
+      "fecal_coliform": {
+        "value": 2.0
+      }
+    },
+    "pages_searched": 29
+  },
+  "2022/Water_Quality_Drains_STPs__WTPs_2022.pdf": {
+    "file": "ml\\data\\raw\\2022\\Water_Quality_Drains_STPs__WTPs_2022.pdf",
+    "found": {
+      "fecal_coliform": {
+        "value": 2.0
+      }
+    },
+    "pages_searched": 14
+  },
+  "2022/WQuality_River-Data-2022.pdf": {
+    "file": "ml\\data\\raw\\2022\\WQuality_River-Data-2022.pdf",
+    "found": {
+      "do": {
+        "value": 3374.0
+      }
+    },
+    "pages_searched": 161
+  },
+  "2023/Water_creek_marine_seawater_beach_2023.pdf": {
+    "file": "ml\\data\\raw\\2023\\Water_creek_marine_seawater_beach_2023.pdf",
+    "found": {
+      "do": {
+        "value": 27.0
+      }
+    },
+    "pages_searched": 16
+  },
+  "2023/Water_pond_tanks_2023.pdf": {
+    "file": "ml\\data\\raw\\2023\\Water_pond_tanks_2023.pdf",
+    "found": {
+      "ph": {
+        "min": 100.0,
+        "max": 100.0
+      }
+    },
+    "pages_searched": 43
+  },
+  "2023/Water_Quality_Canals_2023.pdf": {
+    "file": "ml\\data\\raw\\2023\\Water_Quality_Canals_2023.pdf",
+    "found": {},
+    "pages_searched": 5
+  },
+  "2023/Water_Quality_data_of_Med_Min_River_2023.pdf": {
+    "file": "ml\\data\\raw\\2023\\Water_Quality_data_of_Med_Min_River_2023.pdf",
+    "found": {
+      "ph": {
+        "min": 100.0,
+        "max": 100.0
+      },
+      "bod": {
+        "value": 100.0
+      }
+    },
+    "pages_searched": 22
+  },
+  "2023/Water_Quality_Drains_STPs__WTPs_2023.pdf": {
+    "file": "ml\\data\\raw\\2023\\Water_Quality_Drains_STPs__WTPs_2023.pdf",
+    "found": {},
+    "pages_searched": 14
+  },
+  "2023/WQuality_River-Data-2023.pdf": {
+    "file": "ml\\data\\raw\\2023\\WQuality_River-Data-2023.pdf",
+    "found": {
+      "ph": {
+        "min": 100.0,
+        "max": 100.0
+      },
+      "do": {
+        "value": 14.6
+      }
+    },
+    "pages_searched": 82
+  },
+  "2024/NWMP_DATA_2024.pdf": {
+    "file": "ml\\data\\raw\\2024\\NWMP_DATA_2024.pdf",
+    "found": {
+      "do": {
+        "value": 2243.0
+      }
+    },
+    "pages_searched": 63
+  },
+  "2024/Water_creek_marine_seawater_beach_2024.pdf": {
+    "file": "ml\\data\\raw\\2024\\Water_creek_marine_seawater_beach_2024.pdf",
+    "found": {
+      "do": {
+        "value": 2267.0
+      }
+    },
+    "pages_searched": 11
+  },
+  "2024/Water_pond_tanks_2024.pdf": {
+    "file": "ml\\data\\raw\\2024\\Water_pond_tanks_2024.pdf",
+    "found": {
+      "bod": {
+        "value": 100.0
+      },
+      "fecal_coliform": {
+        "value": 2.0
+      }
+    },
+    "pages_searched": 38
+  },
+  "2024/Water_Quality_Canals_2024.pdf": {
+    "file": "ml\\data\\raw\\2024\\Water_Quality_Canals_2024.pdf",
+    "found": {},
+    "pages_searched": 5
+  },
+  "2024/Water_Quality_data_of_Med_Min_River_2024 - Copy.pdf": {
+    "file": "ml\\data\\raw\\2024\\Water_Quality_data_of_Med_Min_River_2024 - Copy.pdf",
+    "found": {},
+    "pages_searched": 10
+  },
+  "2024/Water_Quality_data_of_Med_Min_River_2024.pdf": {
+    "file": "ml\\data\\raw\\2024\\Water_Quality_data_of_Med_Min_River_2024.pdf",
+    "found": {},
+    "pages_searched": 10
+  },
+  "2024/Water_Quality_Drains_STPs__WTPs_2024 - Copy.pdf": {
+    "file": "ml\\data\\raw\\2024\\Water_Quality_Drains_STPs__WTPs_2024 - Copy.pdf",
+    "found": {
+      "fecal_coliform": {
+        "value": 2.0
+      }
+    },
+    "pages_searched": 8
+  },
+  "2024/Water_Quality_Drains_STPs__WTPs_2024.pdf": {
+    "file": "ml\\data\\raw\\2024\\Water_Quality_Drains_STPs__WTPs_2024.pdf",
+    "found": {
+      "fecal_coliform": {
+        "value": 2.0
+      }
+    },
+    "pages_searched": 8
+  },
+  "2024/WQuality_River-Data-2024 - Copy.pdf": {
+    "file": "ml\\data\\raw\\2024\\WQuality_River-Data-2024 - Copy.pdf",
+    "found": {
+      "bod": {
+        "value": 100.0
+      },
+      "do": {
+        "value": 15.0
+      }
+    },
+    "pages_searched": 115
+  },
+  "2024/WQuality_River-Data-2024.pdf": {
+    "file": "ml\\data\\raw\\2024\\WQuality_River-Data-2024.pdf",
+    "found": {
+      "bod": {
+        "value": 100.0
+      },
+      "do": {
+        "value": 15.0
+      }
+    },
+    "pages_searched": 115
+  }
+}
