@@ -79,6 +79,9 @@ FILE_TO_WATER_BODY = {
     "beach":         WATER_BODY_COASTAL,
     "canals":        WATER_BODY_CANAL,
     "canal":         WATER_BODY_CANAL,
+    "ground":        "Groundwater",
+    "groundwater":   "Groundwater",
+    "borewell":      "Groundwater",
     "drains":        WATER_BODY_DRAIN,
     "stp":           WATER_BODY_DRAIN,
     "wtp":           WATER_BODY_DRAIN,
@@ -146,7 +149,13 @@ def avg(a, b) -> float | None:
 
 
 def detect_water_body_type(pdf_path: str, page_text: str | None = None, schema: str | None = None) -> str:
-    """Detect water body type using page text first, then schema, then filename fallback."""
+    """Detect water body type using schema first, then content hints, then filename fallback."""
+
+    if schema == "groundwater":
+        return "Groundwater"
+    if schema == "coastal":
+        return WATER_BODY_COASTAL
+
     text_rules = [
         (WATER_BODY_RIVER, ["river"]),
         (WATER_BODY_CANAL, ["canal"]),
@@ -154,16 +163,13 @@ def detect_water_body_type(pdf_path: str, page_text: str | None = None, schema: 
         (WATER_BODY_COASTAL, ["marine", "sea", "coastal", "beach"]),
         (WATER_BODY_DRAIN, ["drain", "stp", "wtp"]),
     ]
-    detected = _match_water_body_keywords(page_text or "", text_rules)
-    if detected:
-        return detected
 
-    if schema == "river":
-        return WATER_BODY_RIVER
-    if schema == "groundwater":
-        return "Groundwater"
-    if schema == "coastal":
-        return WATER_BODY_COASTAL
+    # River schema pages can still represent canal / pond / drain variants in the
+    # dataset, so keep content and filename hints active for this case.
+    if schema == "river" or schema is None:
+        detected = _match_water_body_keywords(page_text or "", text_rules)
+        if detected:
+            return detected
 
     name = pdf_path.lower()
     filename_rules = [
@@ -176,6 +182,9 @@ def detect_water_body_type(pdf_path: str, page_text: str | None = None, schema: 
     detected = _match_water_body_keywords(name, filename_rules)
     if detected:
         return detected
+
+    if schema == "river":
+        return WATER_BODY_RIVER
 
     for key, label in FILE_TO_WATER_BODY.items():
         if key in name:
@@ -226,11 +235,13 @@ def detect_schema(page_text: str, has_type_col: bool) -> str:
     Page content drives the choice. File-name hints are only used as a fallback
     when the page text is too noisy to classify.
     """
-    upper_text = (page_text or "").upper()
+    text = (page_text or "").upper()
 
-    if "TYPE WATER BODY" in upper_text:
+    # Prefer explicit 'TYPE WATER BODY' indicator as coastal-style tables
+    if "TYPE WATER BODY" in text:
         return "coastal"
 
+    # Groundwater indicators (TDS, Arsenic, Fluoride, Borewell)
     groundwater_markers = [
         "ARSENIC",
         "FLUORIDE",
@@ -240,16 +251,35 @@ def detect_schema(page_text: str, has_type_col: bool) -> str:
         "GROUNDWATER",
         "BOREWELL",
     ]
-    if any(marker in upper_text for marker in groundwater_markers):
+    if any(marker in text for marker in groundwater_markers):
         return "groundwater"
 
-    river_markers = ["DISSOLVED OXYGEN", "WATER QUALITY", "RIVER"]
-    if any(marker in upper_text for marker in river_markers):
+    # Coastal / creek markers
+    coastal_markers = ["MARINE", "SEA", "COASTAL", "BEACH", "CREEK"]
+    if any(marker in text for marker in coastal_markers):
+        return "coastal"
+
+    # Canal markers
+    canal_markers = ["CANAL", "CANALS", "IRRIGATION", "BARRAGE"]
+    if any(marker in text for marker in canal_markers):
+        # Canal pages usually reuse river-style columns, so prefer river schema
         return "river"
 
+    # Drain/STP markers
+    drain_markers = ["DRAIN", "STP", "WTP", "SEWAGE", "EFFLUENT"]
+    if any(marker in text for marker in drain_markers):
+        return "coastal" if has_type_col else "river"
+
+    # River markers (DO/BOD frequently present)
+    river_markers = ["DISSOLVED OXYGEN", "WATER QUALITY", "RIVER", "BOD", "NITRATE"]
+    if any(marker in text for marker in river_markers):
+        return "river"
+
+    # If a type column exists (coastal style tables), prefer coastal
     if has_type_col:
         return "coastal"
 
+    # Default to river schema as the most common table layout
     return "river"
 
 
