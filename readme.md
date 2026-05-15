@@ -164,11 +164,5 @@ npm run dev
 - Open issues for bugs or feature requests.
 - Send a PR with a clear description and tests for code changes.
 
-## License
 
-- MIT (or change as appropriate).
-
-## Contact
-
-- Maintainer: Project team (add email or GitHub handle)
 
