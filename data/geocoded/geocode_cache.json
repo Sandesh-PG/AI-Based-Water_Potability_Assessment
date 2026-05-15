@@ -1,0 +1,56 @@
+{
+  "Shimsha D/S Of Highway Bridge, Yediyar|Karnataka": {
+    "lat": null,
+    "lng": null,
+    "query": "shimsha yediyar, Karnataka, India",
+    "success": false
+  },
+  "Shimsha D/S Of Bridge, Halagur|Karnataka": {
+    "lat": null,
+    "lng": null,
+    "query": "shimsha halagur, Karnataka, India",
+    "success": false
+  },
+  "Kabini At Bathing Ghat, Nanjanagud|Karnataka": {
+    "lat": null,
+    "lng": null,
+    "query": "kabini bathing ghat nanjanagud, Karnataka, India",
+    "success": false
+  },
+  "Shimsha At D/S Of Highway Bridge, Yediyar,|Karnataka": {
+    "lat": null,
+    "lng": null,
+    "query": "shimsha yediyar, Karnataka, India",
+    "success": false
+  },
+  "Shimsha At D/S Of Bridge, Halagur,|Karnataka": {
+    "lat": null,
+    "lng": null,
+    "query": "shimsha halagur, Karnataka, India",
+    "success": false
+  },
+  "Shimsha At Water Supply Intake Point At Madduar|Karnataka": {
+    "lat": null,
+    "lng": null,
+    "query": "shimsha madduar, Karnataka, India",
+    "success": false
+  },
+  "Kabini At Bathing Ghat, Nanjanagud,|Karnataka": {
+    "lat": null,
+    "lng": null,
+    "query": "kabini bathing ghat nanjanagud, Karnataka, India",
+    "success": false
+  },
+  "Kabini U/S Intake Point To Nanjanagud & Gundlupet At Debur|Karnataka": {
+    "lat": null,
+    "lng": null,
+    "query": "kabini to nanjanagud & gundlupet debur, Karnataka, India",
+    "success": false
+  },
+  "Borewell Water Near Mangalijyothi School Msw Site Vammanjoor|Karnataka": {
+    "lat": 12.9169819,
+    "lng": 74.9005045,
+    "query": "vamanjoor, Karnataka, India",
+    "success": true
+  }
+}

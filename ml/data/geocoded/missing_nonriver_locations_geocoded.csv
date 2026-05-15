@@ -1,0 +1,10 @@
+stn_code,monitoring_location,year,water_body_type,latitude,longitude,geocode_query,geocoded
+1200,"Shimsha D/S Of Highway Bridge, Yediyar",2016,Canal,,,,False
+1166,"Shimsha D/S Of Bridge, Halagur",2016,Canal,,,,False
+2775,"Kabini At Bathing Ghat, Nanjanagud",2016,Canal,12.0140065,76.4152088,"Kabini, Karnataka, India",True
+1200,"Shimsha At D/S Of Highway Bridge, Yediyar,",2017,Canal,12.8027322,76.972542,"Shimsha, Karnataka, India",True
+1166,"Shimsha At D/S Of Bridge, Halagur,",2017,Canal,12.8027322,76.972542,"Shimsha, Karnataka, India",True
+3580,Shimsha At Water Supply Intake Point At Madduar,2017,Canal,12.8027322,76.972542,"Shimsha, Karnataka, India",True
+2775,"Kabini At Bathing Ghat, Nanjanagud,",2017,Canal,12.0140065,76.4152088,"Kabini, Karnataka, India",True
+3575,Kabini U/S Intake Point To Nanjanagud & Gundlupet At Debur,2017,Canal,12.7955792,77.6989396,"Kabini U, Karnataka, India",True
+3564,Borewell Water Near Mangalijyothi School Msw Site Vammanjoor,2019,Groundwater,12.9169819,74.9005045,"vamanjoor, Karnataka, India",True
