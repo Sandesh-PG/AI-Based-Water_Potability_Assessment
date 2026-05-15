@@ -39,6 +39,10 @@ REQUEST_DELAY = 1.1   # seconds between requests (Nominatim limit = 1/sec)
 MAX_RETRIES   = 3
 TIMEOUT       = 10
 
+GEOCODE_TOKEN_REPLACEMENTS = {
+    "vammanjoor": "vamanjoor",
+}
+
 
 # ─── Location String Cleaner ──────────────────────────────────────────────────
 
@@ -49,7 +53,7 @@ def clean_for_geocoding(location: str, state: str) -> list:
     """
     location = str(location).strip()
 
-    # Remove common prefixes that confuse geocoders
+    # Remove common prefixes that confuse geocoders.
     simplified = location.lower()
     simplified = re.sub(
         r"^(river|r\.|rsvr|reservoir|lake|canal|drain|nallah|nala|creek)\s+",
@@ -60,13 +64,22 @@ def clean_for_geocoding(location: str, state: str) -> list:
     simplified = re.sub(
         r"\b(u/s|d/s|upstream|downstream|near|at|of|before|after|"
         r"confluence|bridge|barrage|dam|intake|point|jackwell|"
-        r"water supply|water works|pumping station|road|highway|"
+        r"water supply|water works|water|pumping station|road|highway|"
         r"national highway|nh-?\d+|sh-?\d+|bdg\.?|brdg\.?)\b",
+        "", simplified, flags=re.IGNORECASE
+    )
+
+    # Remove non-location descriptors often embedded in station names.
+    simplified = re.sub(
+        r"\b(borewell|school|msw|site|college|plant|unit|ward|village|layout|area)\b",
         "", simplified, flags=re.IGNORECASE
     )
 
     simplified = re.sub(r"[,\-\(\)]+", " ", simplified)
     simplified = re.sub(r"\s+", " ", simplified).strip()
+
+    for old, new in GEOCODE_TOKEN_REPLACEMENTS.items():
+        simplified = re.sub(rf"\b{re.escape(old)}\b", new, simplified, flags=re.IGNORECASE)
 
     attempts = []
 
@@ -75,7 +88,14 @@ def clean_for_geocoding(location: str, state: str) -> list:
 
     attempts.append(f"{location}, {state}, India")
 
-    words = [w for w in simplified.split() if len(w) > 3]
+    # If a locality is embedded at the tail of the station name, try just the
+    # last few significant tokens as progressively simpler fallbacks.
+    tail_tokens = [w for w in simplified.split() if len(w) > 3]
+    for size in range(3, 0, -1):
+        if len(tail_tokens) >= size:
+            attempts.append(f"{' '.join(tail_tokens[-size:])}, {state}, India")
+
+    words = tail_tokens
     if words:
         attempts.append(f"{words[-1]}, {state}, India")
         if len(words) >= 2:

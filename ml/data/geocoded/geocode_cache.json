@@ -870,10 +870,10 @@
     "success": true
   },
   "Borewell Water Near Mangalijyothi School Msw Site Vammanjoor|Karnataka": {
-    "lat": null,
-    "lng": null,
-    "query": "borewell water mangalijyothi school msw site vammanjoor, Karnataka, India",
-    "success": false
+    "lat": 12.9169819,
+    "lng": 74.9005045,
+    "query": "vamanjoor, Karnataka, India",
+    "success": true
   },
   "M/S Sugureshwara Ind, 196 (P), Kiadb Ind Growth Centre, Chika Sugar, Raichur|Karnataka": {
     "lat": 16.0547194,

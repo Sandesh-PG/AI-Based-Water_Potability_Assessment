@@ -1,0 +1,110 @@
+water_body_type,stn_code,monitoring_location,years,lat,lon
+Canal,41,Kabbani At Cause Way Sattur,"2016,2017",15.4105056,75.0456504
+Canal,1165,Arkavathi D/S Of Kanakapura Town,"2016,2017",13.1016788,77.5756532
+Canal,1196,Lakshmantirtha D/S Of Hunsur Town,2016,13.1016788,77.5756532
+Canal,1197,Kabbani D/S Saragur Village,"2016,2017",12.9422696,77.6253883
+Canal,1199,Hemavati D/S Of Holenarasipura Town At Ramadevala Weir,"2016,2017",13.4143895,74.7645804
+Canal,1200,"Shimsha D/S Of Highway Bridge, Yediyar","2016,2017",,
+Canal,1445,Kabbani At Water Intake Of Kiadb At Nanjangud,"2016,2017",12.1220681,76.6843409
+Canal,1892,Netravathi U/S Of Dharmastala At Water Supply Intake Point,2016,12.9519571,75.3813122
+Canal,1893,Yagachi Near Pumping Station. Hassan City,2016,13.0222347,77.5671832
+Canal,2772,Lakshmantirtha D/S Of Kattemalavadi,2016,12.3518289,76.2890432
+Canal,2778,Arkavathi At T.G. Halli Reservoir,"2016,2017",12.9392713,77.5722595
+Canal,3567,Shimsha D/S Near Madduar Town,2017,13.1016788,77.5756532
+Canal,3577,Kabini At Water Supply Intake Point To T. Narasipura,2017,13.2702874,77.2346786
+Groundwater,4093,"M/S Sugureshwara Ind, 196 (P), Kiadb Ind Growth Centre, Chika Sugar, Raichur",2019,16.0547194,76.9003647
+River,38,Tunghabhadra At Honnali Bridge,"2016,2021,2022",14.2389785,75.6457434
+River,41,Kabini At Cause Way Sattur,"2019,2020,2021,2022",15.4105056,75.0456504
+River,51,Cauvery D/S Of Kushalanagar Town,2017,13.1016788,77.5756532
+River,1029,Tunghabhadra At Haralahalli Bridge,"2016,2017,2019,2020,2021,2022",13.0236469,76.0551085
+River,1091,Bhadra D/S Malleswaram Of Kiocl,"2016,2017,2019,2020,2021,2022",13.2097914,75.2503201
+River,1163,Ghatprabha At W.A. Point To Gokak Town,"2016,2017,2019,2020,2021,2022",13.1016788,77.5756532
+River,1164,"Malprabha At Water Abstr. Pt. To Hubli, Dharwar","2016,2017,2019,2021,2022",15.4540505,75.0066516
+River,1165,"Arkavathi At D/S Of Kanakapura Town,","2019,2020,2021,2022",13.1016788,77.5756532
+River,1167,Bhima D/S Of Bdg. Near Yadgir,"2016,2017,2019,2021,2022",16.5744123,76.9254434
+River,1168,Tungha D/S Of Shimoga Town,"2016,2017,2019,2020,2021,2022",13.1016788,77.5756532
+River,1170,Krishnad/S Of Devasagar Bdg.,"2016,2017,2019,2020,2021,2022",12.9733358,77.7100944
+River,1181,Krishna D/S Of Narayanpura Dam,"2016,2017,2019,2020,2021",15.4559068,74.9922057
+River,1183,Bhima D/S Of Road Bridge At Gangapur Village,"2016,2017,2019,2021,2022",12.9422696,77.6253883
+River,1184,Bhima D/S Ferozabad Village,"2016,2017,2019,2021,2022",12.9422696,77.6253883
+River,1185,Ghatprabha D/S Of Mudhol Rd. Cross Bdg,"2016,2017,2019,2020,2021,2022",12.9529035,77.5158003
+River,1186,Malprabha D/S Of Aihole Town,"2016,2017,2019,2020,2021,2022",13.1016788,77.5756532
+River,1187,Malprabha D/S Of Khanapur Village,"2016,2017,2019,2020,2021,2022",12.9422696,77.6253883
+River,1195,Cauvery U/Skushal Nagar (Near Baichanahalli),"2016,2017,2019,2021,2022",12.4540512,75.9538266
+River,1196,"Lakshmantirtha At D/S Of Hunsur Town,","2017,2019,2020,2021,2022",13.1016788,77.5756532
+River,1197,"Kabini At Saragur Village D/S,","2019,2020,2021,2022",12.9422696,77.6253883
+River,1199,Hemavati At D/S Of Holenarasipura Town At Ramadevala Weir,"2019,2021,2022",13.4143895,74.7645804
+River,1200,"Shimsha At D/S Of Highway Bridge, Yediyar,","2019,2020,2021,2022",13.1312237,77.6957681
+River,1320,Cauvery At Water Supply Intake Point To Madikeri Town,2017,13.1016788,77.5756532
+River,1322,Cauvery U/S Of Kr Nagar,2017,12.9730088,77.5804711
+River,1323,Cauvery At Water Supply Intake Point To Mysore Pump House,2017,12.9630135,77.7177141
+River,1324,Cauvery At Water Supply Intake Point At Kollegala Dasanapura,2017,12.7467724,77.7742876
+River,1386,Cauvery D/S Of Karekuara Village,"2016,2017,2019,2020,2021,2022",12.9422696,77.6253883
+River,1387,Bhadra D/S Of Bhadravathi,"2016,2017,2019,2020,2021,2022",13.8363715,75.6447514
+River,1444,Kali D/S West Coast Paper Mill,"2016,2018,2019,2020,2021,2022",13.102259,77.5769737
+River,1445,"Kabini At Water Intake Of Kiadb At Nanjangud,","2019,2020,2021,2022",12.1220681,76.6843409
+River,1451,Cauvery At Water Supply Intake Point At T K Halli,2017,17.8401056,76.8684901
+River,1888,Bhima At Confluence Of Jewargi Town Sewage Disposal Point,"2016,2017,2019,2021,2022",13.3067379,77.6125389
+River,1889,Krishna - Ankali Bridge Along Chikkodi Kagwad Road,"2016,2017,2019,2021,2022",16.6960786,74.7187223
+River,1891,River Manjeera At D/S In Intake Point To Bidar City,"2021,2022",13.0222347,77.5671832
+River,1892,Netravathi U/S Of Dharmastala At Water Supply Intake Point,"2019,2020,2021,2022",12.9519571,75.3813122
+River,1893,Yagachi River Near Pumping Station. Hassan City,"2019,2021,2022",13.0222347,77.5671832
+River,1894,Kumaradhara - U/S Of Uppinagady Town Before Confluence With River Nethravathi,"2019,2020,2021,2022",13.0898321,77.5424946
+River,1895,Kagina D/S Of Sewage Disposal Point,"2016,2019,2020,2021,2022",13.3067379,77.6125389
+River,1896,Confluence Point Of Tunga And Bhadra At Kudli,"2016,2017,2019,2021,2022",18.1124192,77.3351885
+River,2763,Asangi Nalla At Asangi Village,"2016,2017,2022",12.9422696,77.6253883
+River,2764,Malprabha At Badami Bridge,"2016,2017,2019,2020,2021,2022",15.9203874,75.6807865
+River,2765,"Bhadra U/S Of Mpm,","2016,2017,2019,2020,2021,2022",13.4893942,75.5273902
+River,2766,Tungabhadra At New Bridge,"2016,2017,2019,2020,2021,2022",15.9648343,77.366508
+River,2767,Tungabhadra U/S Of Hpf,"2016,2017,2019,2020,2021,2022",15.9648343,77.366508
+River,2768,Tungabhadra D/S Of Hpf,"2016,2017,2019,2020,2021,2022",15.9648343,77.366508
+River,2769,Tungabhadra At Jackwell Point,"2016,2017,2019,2020,2021,2022",15.9648343,77.366508
+River,2770,Tungabhadra At Harihar Water Supply Intake,"2016,2017,2019,2020,2021,2022",14.5116874,75.809288
+River,2771,Bhadra U/S Of Kiocl,"2016,2017,2019,2020,2021,2022",13.2097914,75.2503201
+River,2772,"Lakshmantirtha At D/S Of Kattemalavadi,","2017,2019,2020,2021,2022",12.3518289,76.2890432
+River,2773,Cauvery At Bannur Bridge,"2016,2017,2019,2020,2021,2022",12.3053048,76.6959064
+River,2774,Cauvery At Ranganathittu,"2016,2017,2019,2020,2021,2022",12.4280703,76.653645
+River,2777,Kagina At Shahabad Bridge,"2016,2017,2019,2020,2021,2022",17.220367,77.3708457
+River,2778,"Arkavathi At T.G. Halli Reservoir, ,","2019,2020,2021",12.9392713,77.5722595
+River,2779,"Arkavathi At Hesaraghatta Reservoir,","2019,2020,2021",12.9392713,77.5722595
+River,2780,"Kali U/S Of Wcpm, Dandeli","2016,2018,2019,2020,2021,2022",15.2490284,74.6236037
+River,2781,Krishna D/S Of Alamatti Dam,"2016,2017,2019,2020,2021,2022",16.3451718,75.8923516
+River,3015,Cauvery D/S Of Maddur Water Supply Treatment Plant At Bachalli,2017,12.6720777,75.7562095
+River,3558,Dadesugur Bridge Gauging Station,"2016,2021,2022",12.4235961,76.683307
+River,3562,Thumbe Water Supply Stations To Mangalore City,"2016,2018,2019,2020,2021,2022",13.0222347,77.5671832
+River,3563,U/S Of Upiingady Town,"2016,2018,2019,2020,2021,2022",13.1016788,77.5756532
+River,3566,Krs Dam Mandya,"2016,2019,2020,2021,2022",12.4241993,76.572052
+River,3567,D/S Shimsha Near Madduar Town,"2016,2019,2020,2021,2022",13.1016788,77.5756532
+River,3568,Water Supply Intake Point To Srirangapatna Town,"2016,2019,2021,2022",13.1016788,77.5756532
+River,3569,Water Supply Intake Point To Mandya Town,"2016,2019,2021,2022",13.1016788,77.5756532
+River,3570,D/S Of Kr Nagar Bridge,"2016,2019,2020,2021,2022",12.9549835,77.6532944
+River,3571,U/S Of Kr Nagar,"2016,2019,2020,2021,2022",12.9549835,77.6532944
+River,3572,Water Supply Intake Point To Hunsur Town,"2016,2019,2021,2022",13.1016788,77.5756532
+River,3573,D/S Of Kushalanagar Town,"2016,2019,2020,2021,2022",12.4585525,75.961437
+River,3574,Water Supply Intake Point To Madikeri Town,"2016,2021",13.1016788,77.5756532
+River,3576,Water Supply Intake Point To Mysore Pump House,"2016,2017,2019,2021,2022",12.9630135,77.7177141
+River,3577,Water Supply Intake Point To T Narasipura,"2016,2021,2022",12.2134628,76.9027763
+River,3578,D/S Of Cauvery Maddur Water Supply Treatment Plant At Bachalli,"2016,2017,2019,2021,2022",12.6720777,75.7562095
+River,3579,Water Supply Intake Point At Kollegala Dasanapura,"2016,2017,2019,2021,2022",12.7467724,77.7742876
+River,3581,Water Supply Intake Point At T K Halli,"2016,2017,2019,2021,2022",14.4451753,75.9186182
+River,4087,"River Gangavali River, Nr Bridge, Ankola",2020,14.6453588,74.3319253
+River,4088,"River Aghanashini River, Nr Bridge, Kumata",2020,14.4271622,74.4117058
+River,4090,River Sharavathi Nr Bridge At Honnavara,2020,14.2810827,74.4446716
+River,4099,"Cauvery River D/S Barachuki Falls, Sathegala, Kollegala","2019,2021,2022",12.170079,77.1462741
+River,4100,"River Suvaranvathi Reservoir, Attigullipura Chamarajanagar",2021,11.9544201,77.1069086
+River,4101,"River Gundal At Gundal Reservoir, Kollegala Tq & Chamarajanagara Dist",2021,12.5947183,75.4415106
+River,4102,D/S Of Cauvery At Bhagamandala Bridge,"2020,2021,2022",12.3813118,75.5157832
+River,4103,"River Cauvery D/S At Kanive Ramalingeswara Temple Bridge, Kushalnagar","2021,2022",12.4585525,75.961437
+River,4104,River Ghatprabha Davalshwar Barrage Jackwell For Drinking Water Supply,2022,12.0093072,76.4070907
+River,4107,"River Dakshina Pinakini Near Mugalur Bridge Mugalur, Bengaluru",2021,12.9767936,77.590082
+River,4108,River Akravathi Before Confluence At Sangam,"2021,2022",13.0059246,77.5789838
+River,4109,Cauvery River Before Confluence At Sangam,"2019,2020,2021,2022",13.0059246,77.5789838
+River,4494,River Tungabhadra At Mylara,"2021,2022",12.9746645,77.5324339
+River,4497,Kengre Hole (Sirsi),"2019,2020",14.6192362,74.8388611
+River,4499,"Benniothora Dam, Kurkota Village","2019,2020",12.9305838,77.6920571
+River,30051,River Godavari At Baser(Bangalore),"2021,2022",12.9767936,77.590082
+River,30052,Cauvery At Ajjibore (Bangalore),"2019,2021,2022",12.9767936,77.590082
+River,30054,River Tungabhadra At Hochechalli (Bangalore),"2021,2022",12.9767936,77.590082
+River,30055,River Manjeera At Janwada(Bangalore),"2021,2022",12.9767936,77.590082
+River,30056,River Krishna At Deodurga (Bangalore),"2021,2022",12.9767936,77.590082
+River,30057,River Bhima At Gangapur (Bangalore),"2021,2022",12.9767936,77.590082

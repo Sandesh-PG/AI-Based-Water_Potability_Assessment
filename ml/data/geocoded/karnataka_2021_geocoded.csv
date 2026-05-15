@@ -1,5 +1,5 @@
 stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg,latitude,longitude,geocode_query,geocoded
-3564,Borewell Water Near Mangalijyothi School Msw Site Vammanjoor,Pond/Tank,KARNATAKA,2021,Unsafe,5.847,"BOD, Fecal Coliform",27.5,,7.0,158.5,3.0,5.77,466.0,940.0,,,,"borewell water mangalijyothi school msw site vammanjoor, Karnataka, India",False
+3564,Borewell Water Near Mangalijyothi School Msw Site Vammanjoor,Pond/Tank,KARNATAKA,2021,Unsafe,5.847,"BOD, Fecal Coliform",27.5,,7.0,158.5,3.0,5.77,466.0,940.0,,12.9169819,74.9005045,"vamanjoor, Karnataka, India",True
 1444,"River Kali At D/S West Coast Paper Mill (Wcpm) ,",River,KARNATAKA,2021,Unsafe,2.1,BOD,27.0,7.6,7.4,85.5,2.6,0.92,48.5,142.5,,,,"kali west coast paper mill wcpm, Karnataka, India",False
 2780,"River Kali At U/S Of Wcpm, Dandeli,",River,KARNATAKA,2021,Unsafe,1.4,BOD,26.5,7.5,7.25,85.0,2.4,0.17,37.0,117.5,,15.2490284,74.6236037,"dandeli, Karnataka, India",True
 1894,River Kumaradhara - U/S Of Uppinagady Town Before Confluence With Nethravathi,River,KARNATAKA,2021,Unsafe,5.611,Fecal Coliform,28.5,7.35,7.15,133.0,2.0,2.45,820.0,865.0,,13.0898321,77.5424946,"nethravathi, Karnataka, India",True
