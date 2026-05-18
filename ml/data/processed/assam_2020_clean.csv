@@ -1,0 +1,165 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1533,"Ground Water At Digboi, Tinsukia Distt., Assam",Groundwater,ASSAM,2020,Safe,8.32,None,25.0,,7.15,227.5,1.5,0.75,,,
+1534,"Ground Water At Karbi Anglong Distt., Assam",Groundwater,ASSAM,2020,Safe,8.88,None,25.0,,7.3,120.0,1.6,0.8,,,
+1535,"Ground Water At Sibsagar Govt Me School Ward 6, Red Cross Road , Assam",Groundwater,ASSAM,2020,Safe,8.32,None,24.5,,7.15,272.0,1.5,1.05,,,
+1536,Ground Water Near Bpms H.S. School Sonari Town Dist Charaideo,Groundwater,ASSAM,2020,Safe,8.05,None,26.0,,6.9,299.0,1.45,0.7,,,
+1537,"Ground Water At (Jorhat, Assam)",Groundwater,ASSAM,2020,Safe,6.66,None,26.0,,7.6,294.0,1.2,1.25,,,
+1538,"Ground Water At Silchar, Assam",Groundwater,ASSAM,2020,Safe,8.32,None,23.0,,6.8,153.0,1.5,0.55,,,
+1539,"Ground Water At Barpeta, Assam",Groundwater,ASSAM,2020,Safe,10.54,None,28.0,,7.15,334.0,1.9,0.6,,,
+1540,"Ground Water At Bonaigaon, Assam",Groundwater,ASSAM,2020,Safe,7.77,None,30.0,,7.4,283.5,1.4,0.5,,,
+1541,"Ground Water At Noonmati Guwahati, Assam",Groundwater,ASSAM,2020,Safe,7.49,None,26.5,,7.15,292.0,1.35,0.7,,,
+1542,"Ground Water At Sijubari Mazar, Natboma Hatigaon",Groundwater,ASSAM,2020,Safe,9.43,None,28.0,,7.1,283.5,1.7,0.7,,,
+2243,"Ground Water From Ledo, Margherita, Assam",Groundwater,ASSAM,2020,Safe,9.43,None,25.0,,7.1,302.5,1.7,0.7,,,
+2244,"Ground Water From Nazira, Assam",Groundwater,ASSAM,2020,Safe,8.32,None,27.0,,7.0,289.0,1.5,0.75,,,
+2245,"Ground Water From Numaligarh (Near Nrl Te Labor Colony), Assam",Groundwater,ASSAM,2020,Safe,8.05,None,26.5,,7.0,254.5,1.45,0.7,,,
+2246,"Ground Water From Semenchapari, Assam",Groundwater,ASSAM,2020,Safe,9.43,None,24.0,,7.15,266.5,1.7,0.5,,,
+2247,"Ground Water From Silapathar, Assam",Groundwater,ASSAM,2020,Safe,8.32,None,24.0,,7.1,224.5,1.5,0.5,,,
+2248,"Ground Water From Lakhimpur Town, Assam",Groundwater,ASSAM,2020,Safe,8.05,None,28.0,,7.35,198.5,1.45,0.55,,,
+2249,"Ground Water From Tezpur (Mission Chariali), Assam",Groundwater,ASSAM,2020,Safe,8.32,None,28.0,,7.05,259.5,1.5,0.55,,,
+2250,"Ground Water From Nagaon (Panigaon), Assam",Groundwater,ASSAM,2020,Safe,8.6,None,28.5,,7.05,260.0,1.55,0.75,,,
+2251,"Ground Water From Jagiroad Near Hpc Effluent Discharge Point, Assam",Groundwater,ASSAM,2020,Safe,10.27,None,28.0,,7.15,309.5,1.85,0.85,,,
+2252,"Ground Water Near Msw Dumping Site At Garchuk- Guwahati, Assam",Groundwater,ASSAM,2020,Safe,9.16,None,27.5,,7.2,342.5,1.65,0.8,,,
+2253,"Ground Water From Nalbari, Assam",Groundwater,ASSAM,2020,Safe,7.21,None,29.5,,7.4,211.5,1.3,0.6,,,
+2254,"Ground Water From Barpeta Road(Rly Station), Assam",Groundwater,ASSAM,2020,Safe,10.82,None,27.5,,7.3,326.0,1.95,0.7,,,
+2255,"Ground Water Near Bprl, Dhaligaon, Assam",Groundwater,ASSAM,2020,Safe,8.05,None,29.0,,7.25,261.5,1.45,0.6,,,
+2256,"Ground Water From Kokrajhar District (Hs School ), Assam",Groundwater,ASSAM,2020,Safe,8.05,None,28.0,,7.35,273.5,1.45,0.65,,,
+2257,"Ground Water From Dhubri District (College Nagar ), Assam",Groundwater,ASSAM,2020,Safe,10.54,None,34.0,,6.8,209.0,1.9,0.7,,,
+2259,"Ground Water From Diphu (Govt. College), Assam",Groundwater,ASSAM,2020,Safe,8.32,None,24.0,,7.5,119.0,1.5,0.6,,,
+2260,"Ground Water From Hamren, Assam",Groundwater,ASSAM,2020,Safe,9.43,None,26.0,,6.8,157.0,1.7,0.7,,,
+2261,"Ground Water From Haflong, Assam",Groundwater,ASSAM,2020,Safe,8.88,None,20.0,,7.0,120.0,1.6,0.5,,,
+2262,"Ground Water From Karimganj (College), Assam",Groundwater,ASSAM,2020,Safe,8.32,None,24.0,,7.05,132.0,1.5,0.75,,,
+2263,"Ground Water From Hialakandi (Near Astc Bus Stand ), Assam",Groundwater,ASSAM,2020,Safe,8.6,None,24.0,,6.8,191.0,1.55,0.6,,,
+2264,"Ground Water In Panchgram Market Near Cachar Paper Mill, Assam",Groundwater,ASSAM,2020,Safe,9.71,None,23.5,,6.9,248.5,1.75,0.65,,,
+3761,Ground Water From Biswanath Chariali Town,Groundwater,ASSAM,2020,Safe,8.05,None,28.0,,7.4,207.5,1.45,0.5,,,
+3762,"Ground Water Near Municipal Waste Processing Facility, Morabharli, Tezpur",Groundwater,ASSAM,2020,Safe,8.05,None,29.0,,7.45,235.5,1.45,0.65,,,
+3766,Ground Water From Mangaldoi Town,Groundwater,ASSAM,2020,Safe,8.05,None,28.0,,7.35,222.5,1.45,0.7,,,
+3770,"Ground Water Near Garmur Recreation Ground, Jorhat",Groundwater,ASSAM,2020,Safe,7.21,None,25.5,,6.9,233.0,1.3,1.2,,,
+3771,"Ground Water From Titabar Urban Water Supply, Titabar",Groundwater,ASSAM,2020,Safe,9.71,None,25.5,,7.8,354.5,1.75,1.05,,,
+3779,"Ground Water From Garmur, Majuli",Groundwater,ASSAM,2020,Safe,7.21,None,25.0,,7.2,223.0,1.3,0.5,,,
+3790,"Ground Water Near Gogamukh Public Water Supply Scheme, Gogamukh, Dhemaji",Groundwater,ASSAM,2020,Safe,7.77,None,25.0,,7.0,188.0,1.4,0.6,,,
+3793,"Tube Well At R/O Sri Tankeswar Das, Rupjyoti Colony (Nagabali) Municipality Dumping Site, Golaghat",Groundwater,ASSAM,2020,Safe,8.05,None,26.0,,6.95,248.0,1.45,0.6,,,
+3794,"Tube Well At R/O Sri Anil Baora At Bosagaon Near By The Athkhalia, Namghar, Po: Pulikaitoni",Groundwater,ASSAM,2020,Safe,8.6,None,25.0,,7.15,267.0,1.55,0.65,,,
+3795,"Tube Well Of Wokha Goronga Girls Me School, Gorounga Tiniali, Furkating",Groundwater,ASSAM,2020,Safe,6.94,None,25.0,,7.15,219.0,1.25,0.65,,,
+3801,"Ground Water From Mehepur Trenching Ground, Meherpur, Cachar",Groundwater,ASSAM,2020,Safe,8.32,None,23.5,,6.8,324.0,1.5,0.55,,,
+3802,"Ground Water From Mehepur Near A Cluster Of Nursing Home & Diagnostic Centre, Meherpur, Cachar",Groundwater,ASSAM,2020,Safe,8.6,None,24.0,,6.85,230.5,1.55,0.65,,,
+3805,"Ground Water Near Badarpur Industrial Area At Badarpur Ghat, Karimganj",Groundwater,ASSAM,2020,Safe,8.88,None,24.0,,6.85,130.0,1.6,0.8,,,
+3813,"Ground Water From Bonda, Guwahati",Groundwater,ASSAM,2020,Safe,8.6,None,27.5,,7.1,313.0,1.55,0.8,,,
+3815,"Ground Water From Khanapara, Guwahati",Groundwater,ASSAM,2020,Safe,8.6,None,28.0,,6.95,242.0,1.55,0.7,,,
+3816,"Ground Water From Basistha, Guwahati",Groundwater,ASSAM,2020,Safe,8.05,None,27.5,,7.2,233.0,1.45,0.7,,,
+3817,"Ground Water From Kahilipara, Guwahati",Groundwater,ASSAM,2020,Safe,8.32,None,28.5,,7.25,302.5,1.5,0.7,,,
+3818,"Ground Water From Maligaon, Guwahati",Groundwater,ASSAM,2020,Safe,7.77,None,29.0,,7.4,230.0,1.4,0.6,,,
+4001,Ground Water From Panjabari,Groundwater,ASSAM,2020,Safe,8.32,None,30.0,,7.4,213.0,1.5,0.6,,,
+4002,Ground Water From Santipur,Groundwater,ASSAM,2020,Safe,8.6,None,29.0,,7.25,224.0,1.55,0.55,,,
+4003,Ground Water From Tezpur Collegiate High School,Groundwater,ASSAM,2020,Safe,7.21,None,29.0,,7.25,235.5,1.3,0.4,,,
+4007,Ground Water From Lakwah,Groundwater,ASSAM,2020,Safe,7.49,None,25.0,,7.1,278.0,1.35,0.65,,,
+4008,Ground Water From Geleky,Groundwater,ASSAM,2020,Safe,7.77,None,22.0,,7.15,272.0,1.4,0.7,,,
+4303,Ground Water From Satgaon,Groundwater,ASSAM,2020,Safe,8.88,None,27.0,,7.2,66.0,1.6,0.5,,,
+4327,"Ground Water From Railway Station Road, Rowta",Groundwater,ASSAM,2020,Safe,8.32,None,26.0,,7.2,57.0,1.5,0.6,,,
+4328,"Ground Water Beside Msw Dumping Site, Dhekiajuli",Groundwater,ASSAM,2020,Safe,9.99,None,26.0,,7.2,57.0,1.8,0.6,,,
+4330,Ground Water Near Pangram Stone Crasher Cluster,Groundwater,ASSAM,2020,Safe,9.99,None,23.0,,6.9,129.0,1.8,0.5,,,
+4333,Ground Water From Demow Water Supply Demow Town,Groundwater,ASSAM,2020,Safe,6.58,None,25.5,,7.55,258.5,1.45,0.7,,910.0,
+4335,"Ground Water From Amguri, Amguri Town",Groundwater,ASSAM,2020,Safe,8.32,None,25.5,,6.9,222.0,1.5,0.6,,,
+4338,Ground Water Form Tenga Pukhuri Kukurachowa Water Supply Tenga Pukhuri,Groundwater,ASSAM,2020,Safe,9.71,None,22.5,,7.3,148.5,1.75,0.7,,,
+4340,"Ground Water From Nagaon College, Nagaon",Groundwater,ASSAM,2020,Safe,9.99,None,20.0,,7.2,47.0,1.8,0.6,,,
+4856,"Tubewell At Assam Oil Petrol Pump, Near Rohtak Road Bypass, Panipat",Groundwater,ASSAM,2020,Safe,0.0,None,28.0,,8.2,1424.0,,,,,
+3970,"Near Panthanivas, Sambalpur",Groundwater,ASSAM,2020,Safe,0.0,None,27.5,,7.25,293.0,,5.118,,,
+1529,"Deepar Beel, Assam",River,ASSAM,2020,Unsafe,20.96,"pH Out of Range, High BOD",,26.5,8.7,7.65,214.0,2.95,1.4,605.0,1110.0
+2205,"Mer Beel At Madhabpur, Assam",River,ASSAM,2020,Unsafe,23.34,"pH Out of Range, High BOD",,24.0,5.5,7.2,82.5,1.75,0.8,330.0,1060.0
+2206,"Daloni Beel Near Jogighopa, Assam",River,ASSAM,2020,Unsafe,25.53,"pH Out of Range, High BOD",,28.0,4.75,7.55,55.0,1.75,0.75,181.0,605.0
+2218,"Deepar Beel At Boragaon Near Iasst, Guwahati, Assam",River,ASSAM,2020,Unsafe,20.42,High BOD,,25.0,7.85,7.55,216.5,3.35,1.6,515.0,930.0
+3785,"Borbeel No. 1 , Ram Nagar, Digboi, Public Water Supply, Tinsukia",River,ASSAM,2020,Unsafe,39.08,"pH Out of Range, High BOD",,24.5,0.3,7.35,225.0,1.7,0.7,2.0,2.0
+3787,"Holudunga Beel Near Gai Nadi/ River At Somarajan, Dhema Ji",River,ASSAM,2020,Unsafe,20.41,High BOD,,23.5,7.0,7.45,81.0,2.1,0.7,515.0,1350.0
+3789,"Bordoibam Beelmukh Bird Sanctuary, Dhemaji",River,ASSAM,2020,Unsafe,21.03,"pH Out of Range, High BOD",,22.5,6.3,7.5,203.5,1.95,1.05,515.0,1350.0
+3798,Samaguri Beel In Nagaon District,River,ASSAM,2020,Unsafe,25.19,"pH Out of Range, High BOD",,26.0,4.95,7.3,102.5,2.05,0.95,515.0,930.0
+3800,Malini Beel Near Indutrial Area At Ramnagar,River,ASSAM,2020,Unsafe,27.19,"pH Out of Range, High BOD",,22.5,4.25,6.8,139.0,2.35,0.9,330.0,930.0
+3804,Son Beel Water At Karimganj,River,ASSAM,2020,Unsafe,25.18,"pH Out of Range, High BOD",,23.0,4.95,7.05,128.0,1.8,0.95,510.0,1360.0
+3808,Parashali Beel At Demoria,River,ASSAM,2020,Unsafe,21.26,"pH Out of Range, High BOD",,28.5,6.25,7.05,122.0,2.15,1.35,605.0,1410.0
+3812,"Kamalpur Beel, Kamalpur",River,ASSAM,2020,Unsafe,29.83,"pH Out of Range, High BOD",,26.5,3.5,7.35,500.0,25.85,3.1,730.0,2450.0
+3814,"Silsako Beel, Chachal, Guwahati",Pond/Tank,ASSAM,2020,Unsafe,37.45,"pH Out of Range, High BOD",,27.0,1.35,7.35,500.0,14.65,1.65,2000.0,3550.0
+3819,"Soru Sola Beel, Paltan Bazar, Guwahati",Pond/Tank,ASSAM,2020,Unsafe,38.14,"pH Out of Range, High BOD, High Total Coliform",,26.5,1.3,7.15,498.5,26.75,4.0,2650.0,7950.0
+3820,"Borsola Beel, Sarabbhatti, Guwahati",Pond/Tank,ASSAM,2020,Unsafe,38.68,"pH Out of Range, High BOD, High Total Coliform",,27.0,1.25,7.15,482.5,30.15,2.65,3150.0,8900.0
+3821,"Diplai Beel At Silgara, Kokrajhar",Pond/Tank,ASSAM,2020,Unsafe,26.26,"pH Out of Range, High BOD",,27.5,4.6,7.3,54.0,1.8,0.8,515.0,880.0
+4337,"Kamalabari Lake Inside Kamalabari Children,S Park, Geleky",Pond/Tank,ASSAM,2020,Unsafe,21.39,"pH Out of Range, High BOD",,24.5,6.05,7.15,45.0,1.95,0.65,2.0,466.0
+1263,"Elangabeel System Pond (Connected To R. Kolang), Assam",Pond/Tank,ASSAM,2020,Unsafe,28.87,"pH Out of Range, High BOD",,26.0,3.8,7.4,500.0,2.6,1.5,700.0,1760.0
+2207,"Bor Beel At Jakai., Assam",Pond/Tank,ASSAM,2020,Unsafe,22.18,"pH Out of Range, High BOD",,23.0,5.95,7.15,178.0,1.9,0.85,605.0,1410.0
+2208,"Borpukhuri, Nazira, Assam",Pond/Tank,ASSAM,2020,Unsafe,20.76,"pH Out of Range, High BOD",,25.0,6.3,7.45,45.0,1.9,0.85,181.0,456.0
+2209,"Gaurisagar Tank, Gaurisagar, Assam",Pond/Tank,ASSAM,2020,Unsafe,20.15,High BOD,,25.5,6.75,7.4,27.5,1.7,0.5,181.0,515.0
+2210,"Rajmaw Pukhuri, Jorhat, Assam",Pond/Tank,ASSAM,2020,Unsafe,20.37,High BOD,,26.0,7.1,7.45,86.5,2.1,1.0,456.0,900.0
+2211,"Padumpukhuri, Tezpur, Assam",Pond/Tank,ASSAM,2020,Unsafe,20.49,High BOD,,26.5,7.4,7.6,293.0,1.9,0.95,605.0,1360.0
+2212,"Gophur Tank, Gophur, Assam",Pond/Tank,ASSAM,2020,Unsafe,20.3,High BOD,,26.5,7.3,7.4,92.0,2.2,0.95,366.0,1115.0
+2213,"Jaipal Pukhuri, Sipajhar, Assam",Pond/Tank,ASSAM,2020,Unsafe,20.56,High BOD,,26.5,7.65,7.7,179.0,1.85,0.75,700.0,1710.0
+2214,"Botodriva Satra Pond, Nagaon, Assam",Pond/Tank,ASSAM,2020,Unsafe,22.26,"pH Out of Range, High BOD",,27.0,5.9,7.35,50.5,2.1,1.15,515.0,1360.0
+2215,"Saran Beel, Assam",Pond/Tank,ASSAM,2020,Unsafe,20.3,High BOD,,27.0,7.15,7.35,70.5,2.0,1.35,366.0,1150.0
+2216,"Dighali Pukhuri, Guwahati, Assam",Pond/Tank,ASSAM,2020,Unsafe,20.49,High BOD,,27.0,7.8,7.6,201.5,2.5,1.15,605.0,1365.0
+2217,"Subhagya Kunda Pond Kamakhya Temple, Guwahati, Assam",Pond/Tank,ASSAM,2020,Unsafe,20.9,High BOD,,25.0,7.9,7.3,312.0,2.4,1.55,1115.0,2450.0
+2219,"Bishnu Puskar Pukhuri Of Hayagrib Madhab Temple, Hajo, Assam",Pond/Tank,ASSAM,2020,Unsafe,20.42,High BOD,,27.5,7.65,7.4,233.0,3.1,1.4,515.0,1410.0
+2220,"Chand Dubi Beel, Chand Dubi, Assam",Pond/Tank,ASSAM,2020,Unsafe,20.37,High BOD,,27.0,8.45,7.25,61.0,1.9,0.8,456.0,1580.0
+2221,"Ganga Pukhuri, Nalbari (Gordon School), Assam",Pond/Tank,ASSAM,2020,Unsafe,21.08,"pH Out of Range, High BOD",,27.5,8.75,7.7,55.5,2.0,1.1,605.0,1600.0
+2222,"Rajadinia Pukhuri At Abhayapuri, Assam",Pond/Tank,ASSAM,2020,Unsafe,26.72,"pH Out of Range, High BOD",,29.0,4.45,7.75,46.0,1.85,0.85,510.0,1110.0
+2223,"Mahamaya Mandir Pukhuri, Assam",Pond/Tank,ASSAM,2020,Unsafe,26.68,"pH Out of Range, High BOD",,28.5,4.45,7.45,59.5,2.0,0.75,456.0,1530.0
+2224,"Rajapukhuri At Gauripur, Assam",Pond/Tank,ASSAM,2020,Unsafe,25.29,"pH Out of Range, High BOD",,28.5,4.9,7.45,84.5,2.0,0.85,456.0,1415.0
+2225,"Baskandi Pond Inside The Baskandi Madrasa, Baskandi, Assam",Pond/Tank,ASSAM,2020,Unsafe,26.11,"pH Out of Range, High BOD",,22.0,4.65,7.4,113.5,2.35,1.0,515.0,1150.0
+2226,"Sivasagar Tank (Borpukhuri) Near Sivadol, Assam",Pond/Tank,ASSAM,2020,Unsafe,20.12,High BOD,,26.0,6.6,7.25,28.0,1.95,0.5,151.0,515.0
+2227,"Hordai Pukhuri, Charaidew, Assam",Pond/Tank,ASSAM,2020,Unsafe,21.54,"pH Out of Range, High BOD",,25.5,6.0,7.25,39.5,2.15,0.75,2.0,366.0
+2228,"Gala Beel At Dergaon, Assam",Pond/Tank,ASSAM,2020,Unsafe,20.49,High BOD,,25.0,8.1,7.35,50.5,1.8,0.75,605.0,1180.0
+3772,Borpukhuri At Sonari,Pond/Tank,ASSAM,2020,Unsafe,20.15,High BOD,,25.0,6.6,7.3,79.0,2.0,1.15,181.0,701.0
+3806,Pond Water From Ramkrishna Mission At Hailakandi,Pond/Tank,ASSAM,2020,Unsafe,26.33,"pH Out of Range, High BOD",,24.0,4.6,6.85,164.0,2.15,0.95,605.0,1200.0
+3809,Jorpukhuri At Uzanbazar (Ugratala Temple),Pond/Tank,ASSAM,2020,Unsafe,20.59,High BOD,,27.5,7.25,7.35,404.0,2.45,1.3,730.0,2205.0
+4006,Netai Pukhuri At Netai Pukhuri,Pond/Tank,ASSAM,2020,Unsafe,20.12,High BOD,,25.5,6.8,7.35,27.5,2.2,0.85,151.0,515.0
+4334,"Thowradole Pukhuri, Thowradole G.P. Demow Block",Pond/Tank,ASSAM,2020,Unsafe,21.69,"pH Out of Range, High BOD",,26.0,6.0,7.5,60.0,1.9,1.0,181.0,605.0
+1532,"Goysagar Tank, Sibsagar, Assam",Pond/Tank,ASSAM,2020,Unsafe,20.01,High BOD,,25.0,6.95,7.15,26.0,1.8,0.9,2.0,450.0
+3760,"River Baroi Near Bridge At Nh-52, Biswanath District",ASSAM,ASSAM,2020,Safe,7.0,None,25.0,5.9,7.5,114.0,1.85,0.7,500.0,1115.0,
+3763,"River Gabharu Near Bridge At Nh-52, Near Tumiuki, Sonitpur",ASSAM,ASSAM,2020,Unsafe,6.96,High Fecal Coliform,24.0,5.9,7.05,85.0,1.7,0.8,515.0,1410.0,
+3765,"River Bega Mg Road, Mangaldoi",ASSAM,ASSAM,2020,Unsafe,6.94,High Fecal Coliform,26.0,5.95,7.35,111.5,1.8,0.75,515.0,1110.0,
+3767,"River Nuwa Noi Near Bridge Over Boinaoja Para, Mangaldoi",ASSAM,ASSAM,2020,Unsafe,7.67,High Fecal Coliform,25.5,6.25,7.45,84.5,1.7,0.9,700.0,1365.0,
+3768,River Kakodonga At Nh-37 Crossing,ASSAM,ASSAM,2020,Safe,5.19,None,24.0,5.95,7.35,156.5,1.75,1.15,181.0,730.0,
+3773,River Towkak At Sonari,ASSAM,ASSAM,2020,Safe,5.12,None,23.0,6.75,7.2,128.0,1.45,1.1,330.0,730.0,
+3774,River Suffry At Maibella,ASSAM,ASSAM,2020,Safe,4.31,None,23.0,6.45,6.8,242.0,1.45,1.0,181.0,456.0,
+3775,River Tenga Pukhuri At Tengapukhuri,ASSAM,ASSAM,2020,Safe,5.56,None,25.0,6.25,7.15,43.5,2.1,0.6,151.0,366.0,
+3777,"River Dorika Near Msw Dumping Site, Sivasagar",River,ASSAM,2020,Safe,6.39,None,24.0,5.75,7.4,162.0,1.65,1.6,450.0,1160.0,
+3780,"River Sessa Near Sessa Tiniali, Nh Bridge, Dibrugarh",River,ASSAM,2020,Unsafe,9.47,High Fecal Coliform,23.0,7.65,7.35,161.0,1.95,1.1,900.0,1930.0,
+3782,"River Niz Kodomoni Pwss Complex, Dibrugarh",River,ASSAM,2020,Unsafe,22.14,Low DO,24.5,0.3,7.4,142.0,1.5,0.75,2.0,2.0,
+3783,"River Maguri Beel, Guijan, Tinsukia",River,ASSAM,2020,Unsafe,8.39,High Fecal Coliform,23.0,6.8,7.45,108.5,2.45,1.05,515.0,1110.0,
+3784,"River Tingrai Near Tinsukia Msw Dumping Site, Itakhola",River,ASSAM,2020,Safe,6.81,None,23.0,7.7,7.65,138.0,1.85,1.3,455.0,1110.0,
+3786,"River Gai Nadi At Somarajan, Dhemaji",River,ASSAM,2020,Unsafe,6.8,High Fecal Coliform,22.0,6.6,7.4,180.5,1.65,1.0,515.0,1350.0,
+3788,"River Jiadhal Kumotiya River Near Jiadhal Bridge, Dhemaji",River,ASSAM,2020,Unsafe,7.32,High Fecal Coliform,24.0,7.25,7.55,169.0,1.7,0.75,605.0,1410.0,
+3791,"River Kaliani Near Kanaighat Bridge, Kanaighat",River,ASSAM,2020,Unsafe,7.03,High Fecal Coliform,25.0,7.5,7.5,54.0,1.75,1.05,515.0,1360.0,
+3796,River Kuji (Near New Bogagigaon) Near Water Intake Point For Nf Railway,River,ASSAM,2020,Unsafe,7.02,High Fecal Coliform,28.5,5.4,7.35,59.5,1.9,0.8,515.0,930.0,
+3799,River Killing In Morigaon District,River,ASSAM,2020,Unsafe,7.66,High Fecal Coliform,24.0,7.0,7.45,52.5,1.7,1.0,700.0,1355.0,
+3803,"River Madhura At Madhuraghat, Cachar",River,ASSAM,2020,Unsafe,8.83,High Fecal Coliform,22.5,5.55,7.3,107.5,1.75,0.6,850.0,1930.0,
+3807,River Digaru At Nh Crossing,River,ASSAM,2020,Unsafe,9.44,High Fecal Coliform,24.5,8.15,7.35,71.5,1.8,0.85,900.0,2300.0,
+3810,River Kulsi At Chaygaon Near Nh37 Crossing,River,ASSAM,2020,Unsafe,8.64,High Fecal Coliform,25.5,7.55,7.35,70.0,1.8,0.85,700.0,2300.0,
+3811,River Puthimari Near Puthimari Chowk At Nh Crossing,River,ASSAM,2020,Unsafe,8.0,High Fecal Coliform,26.5,7.5,7.45,93.5,2.1,0.85,605.0,1150.0,
+1030,"Brahamputra At Dibrugarh, Assam",River,ASSAM,2020,Unsafe,7.32,High Fecal Coliform,22.5,8.35,7.55,168.5,1.7,1.05,605.0,1410.0,
+1262,"Brahamputra At Nimatighat, Assam",River,ASSAM,2020,Safe,5.43,None,21.5,7.05,7.55,159.0,1.9,0.85,181.0,605.0,
+1526,"Brahmputra River At Dhenukhapahar,",River,ASSAM,2020,Unsafe,9.03,High Fecal Coliform,24.5,7.3,7.55,138.5,1.65,0.9,900.0,2205.0,
+1031,"Brahamputra At Pandu, Assam",River,ASSAM,2020,Unsafe,8.58,High Fecal Coliform,23.5,8.45,7.55,132.0,1.7,0.9,850.0,1760.0,
+1299,"Brahamputra At Jogijhoga Near Bridge,",River,ASSAM,2020,Unsafe,8.42,High Fecal Coliform,25.0,6.4,7.5,163.5,1.6,1.05,900.0,1580.0,
+2069,Assam,River,ASSAM,2020,Unsafe,8.77,High Fecal Coliform,26.5,8.25,7.65,141.5,1.95,1.05,730.0,1900.0,
+2064,Assam,River,ASSAM,2020,Unsafe,7.99,High Fecal Coliform,26.5,7.7,7.4,148.0,2.0,1.0,605.0,1410.0,
+2067,Assam,River,ASSAM,2020,Unsafe,8.11,High Fecal Coliform,24.0,8.8,7.6,152.0,2.15,1.35,515.0,1600.0,
+2066,"Brahmaputra River At Dhubri, Assam",River,ASSAM,2020,Unsafe,8.77,High Fecal Coliform,28.5,6.25,7.25,183.5,2.0,0.9,730.0,1765.0,
+3781,Assam,River,ASSAM,2020,Unsafe,7.6,High Fecal Coliform,22.5,7.15,7.5,137.0,2.1,0.9,515.0,1100.0,
+4004,Brahamputra River At Biswanath Ghat,River,ASSAM,2020,Unsafe,8.47,High Fecal Coliform,23.5,7.5,7.6,177.0,1.85,1.0,700.0,1950.0,
+1422,"Burhidihing At Margherita, Assam",River,ASSAM,2020,Unsafe,7.03,High Fecal Coliform,23.0,7.55,7.4,171.0,1.65,0.9,605.0,1180.0,
+2062,"Burhidihing Near Duliajan At D/S, Tinsukia,",River,ASSAM,2020,Unsafe,7.1,High Fecal Coliform,24.0,7.6,7.55,168.5,1.6,1.05,605.0,1410.0,
+2230,Assam,River,ASSAM,2020,Unsafe,7.05,High Fecal Coliform,23.0,6.8,7.75,178.0,1.75,1.4,605.0,930.0,
+1259,"Dhansiri At Golaghat, Assam",River,ASSAM,2020,Unsafe,8.15,High Fecal Coliform,26.0,7.9,7.35,116.5,1.9,0.8,700.0,1410.0,
+3764,Assam,River,ASSAM,2020,Unsafe,6.61,High Fecal Coliform,23.5,6.75,7.45,111.5,1.65,1.0,515.0,1110.0,
+3792,Dhansiri River At Jahaighat,River,ASSAM,2020,Unsafe,7.37,High Fecal Coliform,26.0,8.45,7.45,147.5,1.9,0.7,515.0,1360.0,
+3759,Assam,River,ASSAM,2020,Unsafe,6.81,High Fecal Coliform,27.5,6.25,7.45,125.5,1.65,0.95,515.0,1360.0,
+3786,"Gai Nadi/ River At Somarajan, Dhemaji",River,ASSAM,2020,Unsafe,6.8,High Fecal Coliform,22.0,6.6,7.4,180.5,1.65,1.0,515.0,1350.0,
+3807,Digaru River At Nh Crossing,River,ASSAM,2020,Unsafe,9.44,High Fecal Coliform,24.5,8.15,7.35,71.5,1.8,0.85,900.0,2300.0,
+1530,Assam,River,ASSAM,2020,Unsafe,14.13,"Low DO, High Fecal Coliform",23.5,4.1,7.4,285.5,2.5,1.55,855.0,1950.0,
+2231,"Dikhow River At Dikhow Bridge Sivasagar,",River,ASSAM,2020,Safe,5.88,None,24.5,6.6,7.65,195.0,2.1,0.8,181.0,615.0,
+3776,Assam,River,ASSAM,2020,Safe,4.54,None,23.0,7.0,7.45,185.5,1.55,0.85,181.0,466.0,
+3778,Assam,River,ASSAM,2020,Unsafe,7.32,High Fecal Coliform,24.0,7.25,7.55,169.0,1.7,0.75,605.0,1410.0,
+3821,"Diplai Beel At Silgara, Kokrajhar",River,ASSAM,2020,Unsafe,8.36,"Low DO, High Fecal Coliform",27.5,4.6,7.3,50.0,1.8,0.75,515.0,880.0,
+1298,"Disang At Gundamghat, Assam",River,ASSAM,2020,Safe,5.56,None,22.0,6.5,7.25,191.0,2.1,1.35,151.0,366.0,
+2058,"Disang River At Dillighat, Dibrugarh Dist.,",River,ASSAM,2020,Unsafe,7.83,High Fecal Coliform,22.5,7.2,7.55,141.5,1.65,1.15,700.0,1710.0,
+4005,Disang River At Nh Crossing,River,ASSAM,2020,Safe,5.35,None,23.5,6.55,7.5,148.0,1.9,1.3,181.0,515.0,
+4011,Tocklai River Near Bridge At Jorhat,ASSAM,ASSAM,2020,Unsafe,8.74,High Fecal Coliform,24.0,6.25,7.45,137.0,2.3,1.15,645.0,1315.0,
+4012,Tunia River At D/S Brpl,ASSAM,ASSAM,2020,Unsafe,8.2,High Fecal Coliform,28.0,5.4,7.45,110.5,1.8,0.8,700.0,1760.0,
+4329,Larsing River Near Locl Depo At Moinarbond,ASSAM,ASSAM,2020,Unsafe,7.43,High Fecal Coliform,22.0,5.65,7.15,102.0,1.95,0.75,515.0,1305.0,
+4332,Demow River Demow Town,ASSAM,ASSAM,2020,Safe,6.99,None,23.5,6.35,7.25,158.0,2.3,0.85,361.0,551.0,
+4336,"Borsila River At Borsila, Deopani, Namti",ASSAM,ASSAM,2020,Safe,5.85,None,22.5,6.75,7.2,72.0,2.2,0.85,151.0,456.0,

@@ -1,0 +1,22 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1440,"Well At Somnath Industrial Estate, Daman",Groundwater,DAMAN AND DIU,2022,Safe,0.07,None,29.7,,7.345,901.0,,4.13,8.0,15.0,
+2448,"Ground Water From Village Bhimpore, Daman",Groundwater,DAMAN AND DIU,2022,Safe,0.31,None,29.6,,7.35,495.5,,4.07,33.0,67.0,
+2449,"Well At Village Ringanwada, Daman",Groundwater,DAMAN AND DIU,2022,Safe,0.06,None,29.5,,7.395,2067.0,,1.8,7.0,12.0,
+2450,"Well At Village Dunetha, Daman",Groundwater,DAMAN AND DIU,2022,Safe,0.05,None,29.7,,7.23,734.0,,2.35,5.0,12.0,
+2451,"Well At Village Dabhel, Daman",Groundwater,DAMAN AND DIU,2022,Safe,0.05,None,29.35,,7.36,1255.0,,1.885,6.0,10.0,
+2452,"Well At Village Kachigam, Daman",Groundwater,DAMAN AND DIU,2022,Safe,0.17,None,29.35,,7.185,478.0,,3.75,19.0,34.0,
+2453,"Well At Village Khanvel, Dnh",Groundwater,DAMAN AND DIU,2022,Safe,0.08,None,29.25,,7.295,547.0,,2.47,8.0,18.0,
+2454,"Well At Village Athal, Dnh",Groundwater,DAMAN AND DIU,2022,Safe,0.08,None,29.4,,7.4,584.5,,,9.0,16.0,
+2455,"Well At Village Masat, Dnh",Groundwater,DAMAN AND DIU,2022,Safe,0.09,None,29.1,,7.14,1112.0,,4.545,10.0,20.0,
+2456,"Well At Village Piperia, Dnh",Groundwater,DAMAN AND DIU,2022,Safe,0.04,None,29.35,,7.225,2715.0,,3.445,4.0,11.0,
+2457,"Well At Village Galonda, Dnh",Groundwater,DAMAN AND DIU,2022,Safe,0.06,None,29.35,,7.54,438.0,,1.41,6.0,13.0,
+2458,Well At Village Dadra,Groundwater,DAMAN AND DIU,2022,Safe,0.06,None,29.45,,7.67,3651.5,,1.635,6.0,15.0,
+1393,"River Damanganga At D/S Of Madhuban, Daman",River,DAMAN AND DIU,2022,Safe,2.33,None,28.25,6.5,7.3,175.5,1.0,0.3,17.0,50.0,7.0
+2461,"River Damanganga At Daman Jetty, Moti Daman",River,DAMAN AND DIU,2022,Unsafe,17.92,High BOD,29.35,5.65,7.4,21030.0,7.9,0.7,42.0,270.0,26.0
+2460,"River Damanganga At Discharge Point Of Distillery, Daman",River,DAMAN AND DIU,2022,Unsafe,23.0,"Low DO, High BOD",29.1,4.4,7.75,19821.0,22.55,0.65,75.0,379.0,41.0
+2463,"River Damanganga At Lavacha Temple, Silvassa",River,DAMAN AND DIU,2022,Safe,2.48,None,29.75,6.35,7.35,214.0,1.0,0.3,47.0,91.0,20.0
+2465,"River Damanganga At Naroli Bridge, Silvassa",River,DAMAN AND DIU,2022,Safe,2.35,None,29.45,6.65,7.45,202.0,1.0,0.3,22.0,51.0,15.0
+2462,"River Damanganga At Vapi Weir, Vapi, Daman",River,DAMAN AND DIU,2022,Unsafe,20.81,High BOD,29.9,5.45,7.85,265.0,16.65,4.05,136.0,335.0,43.0
+2466,"River Damanganga At Village Namdha, Vapi",River,DAMAN AND DIU,2022,Unsafe,23.54,"Low DO, High BOD",29.9,4.6,7.8,981.0,11.75,2.7,357.0,642.0,195.0
+2459,"River Damanganga At Zari Cause Way Bridge, Daman",River,DAMAN AND DIU,2022,Unsafe,24.35,"Low DO, High BOD",30.1,4.5,7.6,4928.0,14.85,1.65,440.0,740.0,120.0
+2464,"River Damanganga D/S Of M/S Surat Beverages, Village Dadra, Silvassa",River,DAMAN AND DIU,2022,Safe,2.38,None,29.6,6.25,7.5,251.5,1.0,0.7,27.0,70.0,19.0

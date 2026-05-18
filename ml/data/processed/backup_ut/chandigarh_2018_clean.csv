@@ -1,0 +1,14 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+2039,"Sector 15, Chandigarh",Groundwater,CHANDIGARH,2018,Safe,2.79,None,23.5,,7.3,908.0,1.0,3.8,2.0,7.0,
+GEN-4C144C,2040,Groundwater,CHANDIGARH,2018,Unsafe,36.77,High BOD,,,,,22.0,14.5,430.0,427.0,
+GEN-89885F,2041,Groundwater,CHANDIGARH,2018,Unsafe,36.84,High BOD,,,,,22.0,15.5,435.15,453.0,
+GEN-71E09B,2042,Groundwater,CHANDIGARH,2018,Unsafe,36.05,High BOD,,,,,21.0,15.6,334.7,361.0,
+GEN-D79C62,2043,Groundwater,CHANDIGARH,2018,Unsafe,38.1,"High BOD, High Fecal Coliform",,,,,22.0,15.5,594.1,605.5,
+GEN-D8330F,2044,Groundwater,CHANDIGARH,2018,Unsafe,36.38,High BOD,,,,,23.0,15.6,335.65,605.5,
+GEN-0189CA,2045,Groundwater,CHANDIGARH,2018,Unsafe,36.35,High BOD,,,,,22.0,15.8,376.8,377.0,
+GEN-387511,2046,Pond/Tank,CHANDIGARH,2018,Safe,0.12,None,,,,,,16.0,,30.5,4.8
+GEN-C08268,1392,Pond/Tank,CHANDIGARH,2018,Safe,0.0,None,,,,,,,,,4.8
+"N-CHOE (ATTAWA CHOE),
+CHANDIGARH",Chandigarh,Canal,CHANDIGARH,2018,Unsafe,78.0,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",23.0,0.5,7.0,637.5,105.0,3.6,1000000.0,5000000.0,
+"PATIALA KI RAO, CHANDIGARH",Chandigarh,Canal,CHANDIGARH,2018,Unsafe,75.0,"High BOD, High Fecal Coliform, High Total Coliform",22.5,,7.5,674.0,245.0,4.25,1000000.0,5000000.0,
+"SUKHNA CHOE, CHANDIGARH",Chandigarh,Canal,CHANDIGARH,2018,Unsafe,64.8,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",22.5,3.8,7.3,868.5,167.0,2.7,1000000.0,3813500.0,

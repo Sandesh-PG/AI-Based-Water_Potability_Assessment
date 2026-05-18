@@ -1,0 +1,21 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg,latitude,longitude,geocode_query,geocoded
+GEN-490640,1516,Groundwater,ANDHRA PRADESH,2018,Unsafe,37.62,High BOD,,,,,25.0,16.3,426.85,1080.5,,15.7774356,80.3284858,"1516, Andhra Pradesh, India",True
+GEN-81C872,1517,Groundwater,ANDHRA PRADESH,2018,Unsafe,51.49,"High BOD, High Fecal Coliform, High Total Coliform",,,,,22.0,16.7,2173.7,2750.25,,15.7774356,80.3284858,"1517, Andhra Pradesh, India",True
+GEN-42D6C7,1518,Groundwater,ANDHRA PRADESH,2018,Unsafe,57.95,"High BOD, High Fecal Coliform, High Total Coliform",,,,,22.0,17.05,3073.75,3090.4,,15.7774356,80.3284858,"1518, Andhra Pradesh, India",True
+GEN-5607FE,1519,Groundwater,ANDHRA PRADESH,2018,Unsafe,41.88,"High BOD, High Fecal Coliform",,,,,28.0,18.15,1063.8,1090.25,,15.7774356,80.3284858,"1519, Andhra Pradesh, India",True
+GEN-3FB451,1522,Groundwater,ANDHRA PRADESH,2018,Unsafe,35.5,High BOD,,,,,27.0,17.0,268.5,280.7,,15.7774356,80.3284858,"1522, Andhra Pradesh, India",True
+1448,"Nagavalli At Thotapalli Regulator, A.P.",River,ANDHRA PRADESH,2018,Safe,4.54,,27.5,6.2,7.0,809.5,1.5,9.185,41.0,1305.0,,16.4418901,80.5866942,"a.p., Andhra Pradesh, India",True
+2352,"River Vamshadhara, Kalingapatnam, Vizianagaram, A.P",River,ANDHRA PRADESH,2018,Safe,4.04,,27.5,6.15,7.45,3887.0,1.55,7.9,27.0,610.0,,18.1141255,83.4114389,"vizianagaram, Andhra Pradesh, India",True
+"SAMARLA KOTA CANAL,
+KAKINADA, EAST GODAVARI, A.P",Andhra Pradesh,Canal,ANDHRA PRADESH,2018,Safe,3.02,,26.5,6.05,7.86,382.0,1.25,2.07,15.0,230.0,,15.7774356,80.3284858,"andhra pradesh, Andhra Pradesh, India",True
+"TULJE BAGH CANAL, TEKRI DRAIN,
+KAKINADA, EAST GODA",Andhra Pradesh,Canal,ANDHRA PRADESH,2018,Safe,4.75,,28.5,5.55,7.52,4630.0,1.25,7.205,24.0,2350.0,,15.7774356,80.3284858,"andhra pradesh, Andhra Pradesh, India",True
+"BUDAMERU CANAL NR BDG AT
+NH-5, KEESARAPALLY, KRISH",Andhra Pradesh,Canal,ANDHRA PRADESH,2018,Unsafe,15.97,High BOD,26.0,5.0,7.755,937.5,6.7,6.335,4.0,1350.0,,15.7774356,80.3284858,"andhra pradesh, Andhra Pradesh, India",True
+"GUNTATHIPPA DRAIN B/C WITH
+RYVES CANAL AT RAMAVARA",Andhra Pradesh,Canal,ANDHRA PRADESH,2018,Unsafe,23.9,"Low DO, High BOD",25.5,4.3,7.31,1719.5,9.55,6.172,4.0,1350.0,,15.7774356,80.3284858,"andhra pradesh, Andhra Pradesh, India",True
+"TULIA BAGH DRAIN AT
+VEMULAVADA, EAST GODAVARI, A.P",Andhra Pradesh,Canal,ANDHRA PRADESH,2018,Safe,5.47,,28.5,6.1,7.53,3287.5,1.65,3.025,45.0,2030.0,,15.7774356,80.3284858,"andhra pradesh, Andhra Pradesh, India",True
+GODAVARI RAJAMUDRY,Andhra Pradesh,River,ANDHRA PRADESH,2018,Unsafe,33.33,High BOD,,6.3,7.41,,29.0,,,,,15.7774356,80.3284858,"andhra pradesh, Andhra Pradesh, India",True
+14,"Godavari At Polavaram, A.P.",River,ANDHRA PRADESH,2018,Safe,2.95,,27.0,6.9,7.45,243.5,1.25,3.975,11.0,165.0,,16.4418901,80.5866942,"a.p., Andhra Pradesh, India",True
+2371,"Godavari At Rajamundry D/S Of Nalla Channel, A.P",River,ANDHRA PRADESH,2018,Safe,4.66,,28.5,5.6,7.45,328.5,1.95,3.595,15.0,335.0,,16.6105665,80.550233,"channel, Andhra Pradesh, India",True

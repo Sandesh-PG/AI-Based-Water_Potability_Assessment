@@ -1,0 +1,161 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1825,"Bore Well Water At Katra Bazar Water Tank, Malsalami, Patna",Groundwater,BIHAR,2020,Safe,0.63,None,24.0,,7.3,1590.0,,6.04,79.0,79.0,
+1826,"Bore Well Water At Bhut Nath Road Water Tank Sec- 3, Kankarbagh,Patna",Groundwater,BIHAR,2020,Safe,0.39,None,23.0,,7.6,538.0,,,49.0,49.0,
+1827,"Ground Water From Tap Water Coming From Over Head Tank Pmch Campus, Patna",Groundwater,BIHAR,2020,Safe,0.28,None,25.0,,7.7,600.0,,,33.0,46.0,
+1828,"Bore Well Water In Campus Of Patna Water Board Head Office, Near High Court, Patna",Groundwater,BIHAR,2020,Safe,2.66,None,27.0,,7.6,659.0,,0.4,79.0,1600.0,
+1829,"Bore Well Water From Igims Campus, Patna",Groundwater,BIHAR,2020,Safe,0.12,None,23.0,,7.7,602.0,,,14.0,22.0,
+1830,"Bore Well Water (Phed Pump House) Sadar Hospital Campus, Muzaffarpur",Groundwater,BIHAR,2020,Safe,0.03,None,26.0,,7.3,1110.0,,0.7,,17.0,
+1831,"Bore Well Water Mmc Pump House Brahmpura Naka, Muzaffarpur",Groundwater,BIHAR,2020,Safe,0.39,None,26.0,,7.1,1340.0,,,49.0,49.0,
+1832,"Ground Water Near Tap Water In Campus Of Kali Asthan, Begusarai",Groundwater,BIHAR,2020,Safe,0.01,None,,,7.4,1170.0,,,,4.0,
+1833,"Ground Water Near Tap Water In Campus Of S.P Office, Pokharia, Begusarai",Groundwater,BIHAR,2020,Safe,2.28,None,,,7.6,1340.0,,,22.0,1600.0,
+1834,"Hand Pump Water Near Govt. Hospital, Purnea",Groundwater,BIHAR,2020,Safe,2.25,None,,,7.2,934.0,,5.31,17.0,1600.0,
+1835,"Hand Pump Water Near Court Lower Court, Purnea",Groundwater,BIHAR,2020,Safe,2.28,None,,,7.4,642.0,,5.69,22.0,1600.0,
+1836,"Hand Pump Water Near Bus Stand Tilks Manjhi Chowk, Begusarai",Groundwater,BIHAR,2020,Unsafe,4.83,High Fecal Coliform,,,7.7,313.0,,,540.0,920.0,
+1837,Ground Water From Begusarai,Groundwater,BIHAR,2020,Unsafe,7.36,High Fecal Coliform,,,7.7,896.0,,1.74,920.0,920.0,
+1838,"Ground Water From Tap Water Near Veer Kuwar Singh Chowk, Munger",Groundwater,BIHAR,2020,Unsafe,8.27,High Fecal Coliform,,,7.5,716.0,,0.5,920.0,1600.0,
+1839,"Hand Pump Water In Campus Of Kasturba Water Works, Munger",Groundwater,BIHAR,2020,Safe,2.8,None,,,7.8,289.0,,,350.0,350.0,
+1840,"Tap Water Phed Pump House Main Road, Motihari",Groundwater,BIHAR,2020,Safe,0.75,None,27.0,,7.8,501.0,,,79.0,170.0,
+1842,"Tap Water Sample At Ramkund, Gaya",Groundwater,BIHAR,2020,Safe,0.06,None,28.0,,7.3,1001.0,,3.98,7.0,11.0,
+1843,"Phed Water Supply Near Bus Stand, Rajgir",Groundwater,BIHAR,2020,Unsafe,7.36,High Fecal Coliform,30.0,,8.0,522.0,,5.38,920.0,920.0,
+1844,"Bore Well Water Near Commissionary Office, Chapra",Groundwater,BIHAR,2020,Safe,0.94,None,28.0,,7.3,549.0,,1.2,33.0,540.0,
+2577,"Hand Pump Water At Court Campound, Araria",Groundwater,BIHAR,2020,Unsafe,13.87,"High Fecal Coliform, High Total Coliform",,,6.5,264.0,,3.23,1100.0,4900.0,
+2578,"Hand Pump Water At Sardar Patel Bus Stand, Bhojpur",Groundwater,BIHAR,2020,Safe,0.16,None,26.0,,7.1,510.0,,,17.0,33.0,
+2579,"Tube Well Water At Collectriate Campus, Buxar",Groundwater,BIHAR,2020,Safe,0.51,None,25.0,,7.5,1020.0,,3.04,33.0,220.0,
+2581,"Hand Pump Water At Kila Gate Near Rambagh Mithila University, Darbhanga",Groundwater,BIHAR,2020,Unsafe,7.36,High Fecal Coliform,27.0,,7.6,574.0,,,920.0,920.0,
+2582,"Hand Pump Water At Darbhanga Bus Stand, Darbhanga",Groundwater,BIHAR,2020,Unsafe,7.36,High Fecal Coliform,27.0,,7.8,393.0,,,920.0,920.0,
+2583,"Hand Pump Water At Bus Stand, Gopalganj",Groundwater,BIHAR,2020,Safe,0.02,None,28.0,,7.1,1370.0,,,2.0,2.0,
+2584,"Hand Pump Water At Thaway Mandir Campus, Gopalganj",Groundwater,BIHAR,2020,Safe,0.0,None,28.0,,7.4,557.0,,,,,
+2585,"Tap Water Near Pani Tanki At Jahanabad Court, Jahanabad",Groundwater,BIHAR,2020,Safe,1.16,None,30.0,,7.9,506.0,,,130.0,220.0,
+2586,"Hand Pump Water At Bus Stand, Katihar",Groundwater,BIHAR,2020,Safe,2.6,None,,,7.0,734.0,,3.51,70.0,1600.0,
+2588,"Hand Pump Water At D.M Office, Kishanganj",Groundwater,BIHAR,2020,Safe,0.03,None,,,6.6,375.0,,5.04,2.0,11.0,
+2589,"Hand Pump Water Near D.M Office, Madhepura",Groundwater,BIHAR,2020,Safe,2.23,None,,,7.3,624.0,,,14.0,1600.0,
+2590,"Hand Pump Water At Collectriate Office, Madhubani",Groundwater,BIHAR,2020,Safe,2.24,None,25.0,,7.6,523.0,,,280.0,280.0,
+2591,"Tap Water Inside The Campus Of Tourist Cafeteria, Nalanda",Groundwater,BIHAR,2020,Safe,0.13,None,30.0,,7.7,979.0,,1.1,11.0,40.0,
+2592,Well At Nalanda,Groundwater,BIHAR,2020,Safe,0.42,None,27.0,,7.2,2110.0,,0.93,49.0,70.0,
+2593,Ground Water From Nawada,Groundwater,BIHAR,2020,Safe,0.03,None,29.0,,7.1,1370.0,,0.38,4.0,6.0,
+2594,Ground Water From Saharsa,Groundwater,BIHAR,2020,Safe,0.03,None,,,7.0,1260.0,,5.81,2.0,13.0,
+2595,Ground Water From Samastipur,Groundwater,BIHAR,2020,Unsafe,12.8,High Fecal Coliform,28.0,,7.5,981.0,,,1600.0,1600.0,
+2596,Ground Water From Sitamarhi,Groundwater,BIHAR,2020,Unsafe,19.2,High Fecal Coliform,27.0,,,308.0,,,1600.0,1600.0,
+2597,Ground Water From Siwan,Groundwater,BIHAR,2020,Safe,0.0,None,,,7.3,524.0,,,,,
+2600,Ground Water From Vaishali,Groundwater,BIHAR,2020,Safe,0.03,None,26.0,,7.0,841.0,,,4.0,6.0,
+3138,Ground Water From Arrah,Groundwater,BIHAR,2020,Safe,0.12,None,26.0,,7.8,452.0,,1.9,13.0,23.0,
+3139,Ground Water From Araria,Groundwater,BIHAR,2020,Unsafe,17.0,High Fecal Coliform,,,6.5,437.0,,5.9,1700.0,,
+3140,Ground Water From Bettiah,Groundwater,BIHAR,2020,Safe,0.33,None,29.0,,7.7,497.0,,,27.0,110.0,
+3141,Ground Water From Bodhgaya,Groundwater,BIHAR,2020,Safe,0.13,None,28.0,,7.1,793.0,,,13.0,33.0,
+3143,Ground Water From Bagaha,Groundwater,BIHAR,2020,Safe,0.0,None,25.0,,7.0,1084.0,,0.42,,,
+3144,Ground Water From Barh,Groundwater,BIHAR,2020,Unsafe,4.83,High Fecal Coliform,27.0,,8.0,1750.0,,0.61,540.0,920.0,
+3146,Ground Water From Dumraon,Groundwater,BIHAR,2020,Safe,1.84,None,26.0,,7.7,523.0,,0.62,,920.0,
+3147,Ground Water From Jaynagar,Groundwater,BIHAR,2020,Unsafe,7.36,High Fecal Coliform,25.0,,7.6,597.0,,,920.0,920.0,
+3148,Ground Water From Jamalpur,Groundwater,BIHAR,2020,Unsafe,7.36,High Fecal Coliform,,,7.5,946.0,,5.18,920.0,920.0,
+3150,Ground Water From Maner,Groundwater,BIHAR,2020,Safe,0.18,None,26.0,,7.2,583.0,,1.44,23.0,23.0,
+3152,Ground Water From Narkatiaganj,Groundwater,BIHAR,2020,Safe,0.19,None,29.0,,8.0,317.0,,,21.0,39.0,
+3154,Ground Water From Ramkund Gaya,Groundwater,BIHAR,2020,Safe,1.51,None,28.0,,7.4,432.0,,4.74,170.0,280.0,
+3155,Ground Water From Supual,Groundwater,BIHAR,2020,Safe,0.12,None,,,7.0,480.0,,,2.0,79.0,
+3156,Ground Water From Samastipur,Groundwater,BIHAR,2020,Safe,2.33,None,28.0,,7.6,1308.0,,3.93,280.0,350.0,
+3157,Ground Water From Sultanganj,Groundwater,BIHAR,2020,Unsafe,12.8,High Fecal Coliform,28.0,,7.6,846.0,,2.66,1600.0,1600.0,
+3158,Ground Water From Sherghati,Groundwater,BIHAR,2020,Safe,1.43,None,29.0,,7.2,928.0,,4.27,170.0,220.0,
+3159,Ground Water From Shahpur,Groundwater,BIHAR,2020,Safe,0.08,None,26.0,,7.0,1780.0,,3.03,7.0,23.0,
+3160,Ground Water From Raxaul,Groundwater,BIHAR,2020,Safe,2.33,None,25.0,,7.5,350.0,,,280.0,350.0,
+3161,Ground Water From Katihar,Groundwater,BIHAR,2020,Safe,0.0,None,,,7.9,1070.0,,5.73,,,
+3162,Ground Water From Vaishali,Groundwater,BIHAR,2020,Safe,0.03,None,26.0,,7.0,1330.0,,3.9,4.0,4.0,
+2557,"Kawar Lake, Begusarai",Pond/Tank,BIHAR,2020,Unsafe,42.94,"pH Out of Range, High BOD, High Total Coliform",,26.0,9.75,8.15,234.0,3.75,0.155,80390.0,81350.0
+2571,Moti Jheel At Motiharii,Pond/Tank,BIHAR,2020,Unsafe,36.47,"pH Out of Range, High BOD, High Total Coliform",,23.5,10.55,8.5,500.0,13.9,0.52,14550.0,81650.0
+4296,"Sikandrapur, Muzaffarpur",Pond/Tank,BIHAR,2020,Unsafe,47.06,"pH Out of Range, High BOD, High Total Coliform",,25.5,11.5,8.35,500.0,10.15,0.395,28050.0,48300.0
+2573,Tighi Talab At Gaya,Pond/Tank,BIHAR,2020,Unsafe,40.01,"High BOD, High Total Coliform",,22.0,7.95,8.05,500.0,3.1,3.085,88500.0,91000.0
+4399,"River Harha At Bagha, Lauriya Road Bridge",River,BIHAR,2020,Unsafe,44.0,"High Fecal Coliform, High Total Coliform",22.0,8.2,7.7,277.5,1.8,0.395,80390.0,80850.0,
+4400,River Lakhandei Sitamarhi U/S,River,BIHAR,2020,Unsafe,46.33,"High Fecal Coliform, High Total Coliform",24.5,7.0,7.9,418.5,2.85,0.295,81050.0,81950.0,
+4401,River Lakhandei Sitamarhi D/S,River,BIHAR,2020,Unsafe,50.02,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",22.0,4.3,7.45,490.0,3.25,0.38,82000.0,94000.0,
+4405,"River Dhons At Madhwapur, Madhubani",River,BIHAR,2020,Unsafe,43.44,"High Fecal Coliform, High Total Coliform",24.0,6.65,7.55,242.0,1.55,0.24,80550.0,87000.0,
+30076,Ganga At Manjhighat(Bihar),River,BIHAR,2020,Unsafe,28.02,"pH Out of Range, High BOD, High Total Coliform",19.0,18.2,9.8,120.45,249.65,5.3,100.5,5700.0,21000.0
+1074,Ganga At Buxar,River,BIHAR,2020,Unsafe,43.55,"High Fecal Coliform, High Total Coliform",23.0,8.15,8.15,379.5,1.6,0.88,81100.0,81950.0,351.0
+10113,"River Ganga At U/S Jail Ghat, Buxar",River,BIHAR,2020,Unsafe,43.77,"High Fecal Coliform, High Total Coliform",23.0,7.7,8.05,381.5,1.7,0.77,81650.0,82000.0,1772.5
+2551,"Ganga At Buxar, Ramrekhaghat",River,BIHAR,2020,Unsafe,44.11,"High Fecal Coliform, High Total Coliform",23.0,7.85,8.15,411.0,1.85,1.35,81100.0,86500.0,701.0
+3113,Ganga At D/S Buxar Near Road Bridge,River,BIHAR,2020,Unsafe,43.77,"High Fecal Coliform, High Total Coliform",23.0,7.75,8.05,407.5,1.7,0.78,85500.0,94000.0,920.0
+10131,River Ganga At U/S Barahpur Bindtoli,River,BIHAR,2020,Unsafe,44.33,"High Fecal Coliform, High Total Coliform",24.0,7.8,7.9,314.5,1.95,0.44,80850.0,83500.0,872.5
+10162,Bihar,River,BIHAR,2020,Unsafe,44.66,"High Fecal Coliform, High Total Coliform",24.5,7.8,7.85,353.5,2.1,1.57,18350.0,81650.0,1109.0
+2564,Bihar,River,BIHAR,2020,Unsafe,44.99,"High Fecal Coliform, High Total Coliform",23.5,7.75,7.85,276.5,2.25,1.39,80700.0,81650.0,4620.0
+10114,"Ganga At Maa Ambika Asthan, Aami, Saran",River,BIHAR,2020,Unsafe,44.11,"High Fecal Coliform, High Total Coliform",21.5,7.65,7.85,346.5,1.85,0.44,80850.0,88500.0,2722.5
+3114,"Ganga Near Danapur (Near Pipa Pul) ,Patna",River,BIHAR,2020,Unsafe,44.55,"High Fecal Coliform, High Total Coliform",27.0,7.25,7.75,287.5,2.05,,80340.0,80700.0,2722.5
+1077,"Ganga At Kurji, Patna U/S",River,BIHAR,2020,Unsafe,44.11,"High Fecal Coliform, High Total Coliform",26.5,7.8,8.0,313.5,1.85,0.65,81100.0,81650.0,1285.0
+2552,"Ganga At Gandhighat, Nit At Patna",River,BIHAR,2020,Unsafe,45.99,"High Fecal Coliform, High Total Coliform",27.5,7.55,7.9,379.5,2.7,0.46,81100.0,88500.0,4705.0
+10115,"Ganga At Gulabi Ghat, Patna",River,BIHAR,2020,Unsafe,44.77,"High Fecal Coliform, High Total Coliform",27.5,7.6,7.85,372.5,2.15,0.67,87000.0,94000.0,4620.0
+1079,"Ganga At Patna D/S (Ganga Bridge), Gaighat",River,BIHAR,2020,Unsafe,44.77,"High Fecal Coliform, High Total Coliform",28.0,7.5,7.85,417.5,2.15,0.62,81100.0,82000.0,2400.0
+3122,"Ganga At Malsalami, Patna",River,BIHAR,2020,Unsafe,43.33,"High Fecal Coliform, High Total Coliform",27.5,8.6,8.2,402.0,1.5,,46850.0,82000.0,1335.0
+4297,"Kachchi-Dargah-Bidupur Road Bridge, Patna",River,BIHAR,2020,Unsafe,44.66,"High Fecal Coliform, High Total Coliform",27.0,7.6,8.0,325.0,2.1,0.54,46550.0,47950.0,660.0
+10122,"River Ganga At Triveni Ghat, Patna",River,BIHAR,2020,Unsafe,44.22,"High Fecal Coliform, High Total Coliform",26.0,7.9,7.85,354.0,1.9,0.44,27650.0,47050.0,1109.0
+4301,Bihar,River,BIHAR,2020,Unsafe,44.0,"High Fecal Coliform, High Total Coliform",26.0,7.55,8.2,314.5,1.8,0.41,80700.0,81300.0,136.0
+2553,"Ganga At Kewala Ghat,Fatuha, Patna",River,BIHAR,2020,Unsafe,44.88,"High Fecal Coliform, High Total Coliform",26.0,6.95,7.8,370.0,2.2,0.98,81650.0,88500.0,1170.0
+2555,"Ganga At Punpun, Patna",River,BIHAR,2020,Unsafe,49.95,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",28.5,4.4,7.8,592.0,3.4,0.5,88500.0,97500.0,1772.5
+3115,Ganga River At Barh,River,BIHAR,2020,Unsafe,43.89,"High Fecal Coliform, High Total Coliform",26.0,7.45,8.0,321.0,1.75,0.45,81650.0,86500.0,1784.0
+10130,"River Ganga At D/S Nawadaghat , Barh ,Patna",River,BIHAR,2020,Unsafe,43.89,"High Fecal Coliform, High Total Coliform",23.5,7.55,7.9,329.0,1.75,39.0,80700.0,81200.0,1751.0
+1817,Bihar,River,BIHAR,2020,Unsafe,44.33,"High Fecal Coliform, High Total Coliform",25.0,7.8,8.1,319.5,1.95,0.46,80550.0,81350.0,4646.5
+1815,Ganga At Mokama (D/S),River,BIHAR,2020,Unsafe,43.77,"High Fecal Coliform, High Total Coliform",28.0,7.45,7.65,303.0,1.7,0.42,81300.0,83950.0,246.0
+3123,Bihar,River,BIHAR,2020,Unsafe,44.11,"High Fecal Coliform, High Total Coliform",23.0,7.95,8.05,324.0,1.85,0.36,80700.0,81150.0,651.0
+3116,Bihar,River,BIHAR,2020,Unsafe,44.99,"High Fecal Coliform, High Total Coliform",22.5,7.55,8.0,296.0,2.25,0.43,80700.0,81650.0,651.0
+1818,Ganga At Munger,River,BIHAR,2020,Unsafe,44.66,"High Fecal Coliform, High Total Coliform",22.5,7.4,7.85,308.0,2.1,0.49,81100.0,85500.0,226.0
+3117,"Ganga At U/S Sultanganj, Bhagalpur",River,BIHAR,2020,Unsafe,44.33,"High Fecal Coliform, High Total Coliform",24.0,7.3,7.85,301.5,1.95,0.45,80700.0,81350.0,1751.0
+4398,Bihar,River,BIHAR,2020,Unsafe,48.99,"High BOD, High Fecal Coliform, High Total Coliform",24.5,7.65,7.85,436.5,4.05,3.64,80850.0,97500.0,8395.0
+2554,"Ganga At Sultanganj, Bhagalpur",River,BIHAR,2020,Unsafe,44.33,"High Fecal Coliform, High Total Coliform",24.0,7.4,7.95,296.0,1.95,0.98,81100.0,87000.0,2734.0
+10138,"River Ganga At Champanagar, Bhagalpur",River,BIHAR,2020,Unsafe,45.99,"High Fecal Coliform, High Total Coliform",24.5,7.5,7.7,542.0,2.7,0.63,46850.0,81100.0,255.0
+1819,Ganga At Bhagalpur,River,BIHAR,2020,Unsafe,43.77,"High Fecal Coliform, High Total Coliform",28.0,7.95,7.95,309.0,1.7,2.2,80550.0,81100.0,4610.0
+3118,Ganga At U/S Bhagalpur Near Bararighat,River,BIHAR,2020,Unsafe,45.33,"High Fecal Coliform, High Total Coliform",24.0,7.05,7.65,363.5,2.4,0.82,80850.0,81650.0,4655.0
+1816,Ganga At Kahalgaon,River,BIHAR,2020,Unsafe,43.66,"High Fecal Coliform, High Total Coliform",23.0,7.9,8.05,296.0,1.65,0.37,80650.0,81600.0,1422.5
+10143,River Ganga D/S Near Cremation Ghat,River,BIHAR,2020,Unsafe,43.77,"High Fecal Coliform, High Total Coliform",23.0,7.9,7.95,306.5,1.7,0.39,80850.0,86500.0,166.0
+1076,"Ghaghara Near Chapra, Ribilganj, Saran",River,BIHAR,2020,Unsafe,44.33,"High Fecal Coliform, High Total Coliform",23.0,7.9,7.9,274.5,1.95,0.45,81100.0,85500.0,32.5
+1075,"Sone At Koelwar, Bhojpur",River,BIHAR,2020,Unsafe,43.77,"High Fecal Coliform, High Total Coliform",23.5,8.25,7.9,347.5,1.7,0.64,80650.0,81650.0,870.0
+3121,"Sone River Near Banzari, Rohtas",River,BIHAR,2020,Unsafe,43.89,"High Fecal Coliform, High Total Coliform",23.0,7.85,7.9,145.0,1.75,0.64,80850.0,81950.0,185.0
+3127,"Sone River At Bahiyara, Bhojpur",River,BIHAR,2020,Unsafe,43.89,"High Fecal Coliform, High Total Coliform",27.5,8.3,8.05,196.5,1.75,0.34,46650.0,80850.0,396.0
+3128,"Sone River At Nasiriganj Dam, Rohtas",River,BIHAR,2020,Unsafe,43.89,"High Fecal Coliform, High Total Coliform",21.5,7.35,7.9,302.5,1.75,0.69,80550.0,81300.0,8034.0
+2556,"Sone At Indrapuri, Dehri On Sone, Rohtas",River,BIHAR,2020,Unsafe,44.0,"High Fecal Coliform, High Total Coliform",22.5,7.8,7.95,166.0,1.8,0.52,80468.0,81050.0,1134.0
+4406,"Sone At Obra, Aurangabad",River,BIHAR,2020,Unsafe,44.66,"High Fecal Coliform, High Total Coliform",22.0,7.35,8.1,379.5,2.1,0.39,81650.0,94000.0,8022.5
+4407,Bihar,River,BIHAR,2020,Unsafe,43.77,"High Fecal Coliform, High Total Coliform",21.0,7.95,7.85,328.5,1.7,,85500.0,94000.0,40.0
+4298,"Road Bridge-Dehri-On-Sone, Rohtas",River,BIHAR,2020,Unsafe,43.89,"High Fecal Coliform, High Total Coliform",23.0,7.6,7.9,298.5,1.75,0.49,80225.0,80550.0,225.0
+1078,"Gandak At Sonepur, Patna (B/C Ganga), Saran",River,BIHAR,2020,Unsafe,44.11,"High Fecal Coliform, High Total Coliform",21.5,7.85,7.85,237.5,1.85,,80650.0,81650.0,1185.0
+2568,"Gandak At Rewaghat, Mujaffarpur",River,BIHAR,2020,Unsafe,43.66,"High Fecal Coliform, High Total Coliform",23.0,8.15,7.95,242.0,1.65,1.06,27850.0,81100.0,111.0
+3125,Bihar,River,BIHAR,2020,Unsafe,44.0,"High Fecal Coliform, High Total Coliform",23.5,8.0,8.0,265.0,1.8,0.46,28050.0,83500.0,66.0
+10126,"Gandak At Konhara Ghat, Vaishali",River,BIHAR,2020,Unsafe,44.66,"High Fecal Coliform, High Total Coliform",22.0,7.9,7.75,243.5,2.1,0.35,46850.0,83950.0,255.0
+10163,"Gandak At Road Bridge, U/S Hajipur",River,BIHAR,2020,Unsafe,45.33,"High Fecal Coliform, High Total Coliform",22.0,8.2,8.0,245.5,2.4,0.61,46550.0,82000.0,560.0
+2575,Bihar,River,BIHAR,2020,Unsafe,49.77,"High BOD, High Fecal Coliform, High Total Coliform",24.0,6.35,7.65,337.0,4.4,0.85,85500.0,85500.0,75.0
+1820,"Sikrahna At Chanpatiya, East Champaran",River,BIHAR,2020,Unsafe,49.32,"High BOD, High Fecal Coliform, High Total Coliform",22.5,5.9,7.65,356.0,4.2,,82450.0,85500.0,23.5
+3134,Bihar,River,BIHAR,2020,Unsafe,43.89,"High Fecal Coliform, High Total Coliform",21.5,7.15,7.8,328.0,1.75,,81350.0,87000.0,32.5
+4291,Bihar,River,BIHAR,2020,Unsafe,53.45,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",23.5,4.8,7.5,431.0,5.7,0.47,83950.0,91000.0,107.5
+2570,"Burhi Gandak At Z Road Bridge, Samastipur",River,BIHAR,2020,Unsafe,44.33,"High Fecal Coliform, High Total Coliform",22.0,7.25,7.6,343.5,1.95,0.47,82450.0,87000.0,155.0
+3124,Bihar,River,BIHAR,2020,Unsafe,47.77,"High BOD, High Fecal Coliform, High Total Coliform",25.5,7.65,7.5,318.0,3.5,0.5,17890.0,81050.0,417.5
+2562,"Burhi Gandak At Akharaghat, Muzaffarpur",River,BIHAR,2020,Unsafe,44.33,"High Fecal Coliform, High Total Coliform",25.0,7.35,7.45,318.5,1.95,0.51,80550.0,83500.0,2710.0
+4403,"Burhi Gandak At Barachakia, East Champaran",River,BIHAR,2020,Unsafe,44.55,"High Fecal Coliform, High Total Coliform",28.0,6.0,7.65,396.5,2.05,,80550.0,81300.0,43.0
+4300,Bihar,River,BIHAR,2020,Unsafe,45.77,"High Fecal Coliform, High Total Coliform",22.0,6.7,7.5,319.5,2.6,0.87,18350.0,32500.0,95.0
+4295,"Khagaria Road Bridge, Khagaria",River,BIHAR,2020,Unsafe,44.33,"High Fecal Coliform, High Total Coliform",27.0,7.25,7.65,370.0,1.95,0.36,80850.0,81650.0,87.5
+3126,"U/S Harbora River, West Champaran",River,BIHAR,2020,Unsafe,43.44,"High Fecal Coliform, High Total Coliform",22.5,7.6,7.75,376.5,1.55,0.31,80850.0,83500.0,175.0
+2567,Kamala River At Benipatti (Madhubani),River,BIHAR,2020,Unsafe,43.77,"High Fecal Coliform, High Total Coliform",22.5,7.35,7.75,319.5,1.7,0.43,81150.0,81650.0,94.0
+2569,Kamala River At Darbhanga,River,BIHAR,2020,Unsafe,51.7,"Low DO, High Fecal Coliform, High Total Coliform",19.5,3.6,7.45,397.5,2.75,1.13,80550.0,81100.0,670.0
+2558,Bihar,River,BIHAR,2020,Unsafe,45.22,"High Fecal Coliform, High Total Coliform",22.5,5.6,7.7,393.0,2.35,0.43,81100.0,85500.0,71.0
+3133,Kamala River At Jaynagar,River,BIHAR,2020,Unsafe,44.22,"High Fecal Coliform, High Total Coliform",20.0,7.65,7.75,266.5,1.9,0.42,80550.0,80700.0,64.0
+4299,"Jeewach Ghat, Darbhanga",River,BIHAR,2020,Unsafe,44.77,"High Fecal Coliform, High Total Coliform",20.0,6.15,7.5,388.5,2.15,0.95,81150.0,81600.0,255.0
+2565,Koshi River At Kurshela At Katihar,River,BIHAR,2020,Unsafe,45.11,"High Fecal Coliform, High Total Coliform",21.0,7.7,7.65,228.0,2.3,,81100.0,81650.0,872.5
+2566,Koshi River At Madhepura,River,BIHAR,2020,Unsafe,44.66,"High Fecal Coliform, High Total Coliform",19.5,6.8,7.7,226.5,2.1,,80465.0,80700.0,2722.5
+3137,"Koshi River At Beerpur, Supaul",River,BIHAR,2020,Unsafe,43.77,"High Fecal Coliform, High Total Coliform",22.5,8.3,7.9,256.5,1.7,1.4,80460.0,80700.0,195.0
+1821,Daha At Siwan,River,BIHAR,2020,Unsafe,47.88,"Low DO, High Fecal Coliform, High Total Coliform",24.0,4.5,7.7,424.5,2.65,1.22,82450.0,83500.0,1172.5
+4397,Daha River D/S Rajendra Road Bride Siwan,River,BIHAR,2020,Unsafe,47.42,"Low DO, High Fecal Coliform, High Total Coliform",24.0,4.7,7.75,485.0,2.8,0.96,84700.0,84700.0,79.0
+2560,"D/S Daha River At Sasamusa, Gopalganj",River,BIHAR,2020,Unsafe,51.57,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",23.5,4.55,7.6,400.5,4.4,1.14,83500.0,88500.0,180.0
+2561,"Daha River At Itwa Bridge, Gopalganj",River,BIHAR,2020,Unsafe,45.44,"High Fecal Coliform, High Total Coliform",23.0,5.15,7.9,410.0,2.45,0.57,81100.0,83950.0,87.5
+3129,Daha River At Meerganj,River,BIHAR,2020,Unsafe,45.11,"High Fecal Coliform, High Total Coliform",23.5,6.65,7.8,381.5,2.3,0.4,81350.0,87000.0,372.5
+4292,"U/S Sasamusa, Gopalganj",River,BIHAR,2020,Unsafe,46.33,"High Fecal Coliform, High Total Coliform",23.5,5.95,7.9,419.0,2.85,,81100.0,85500.0,149.0
+1823,"River Dhous At Madhuvapur, Madhubani",River,BIHAR,2020,Unsafe,43.89,"High Fecal Coliform, High Total Coliform",25.0,6.7,7.45,208.5,1.75,0.4,18050.0,35500.0,89.0
+4405,"River Dhons At Madhuvapur, Madhubani",River,BIHAR,2020,Unsafe,43.44,"High Fecal Coliform, High Total Coliform",24.0,6.65,7.55,242.0,1.55,0.33,80550.0,87000.0,78.0
+2559,Bihar,River,BIHAR,2020,Unsafe,55.48,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",20.5,3.6,6.75,526.5,4.45,0.45,94000.0,101500.0,169.0
+3130,Bihar,River,BIHAR,2020,Unsafe,54.26,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",20.0,3.35,7.1,362.5,3.45,0.55,88500.0,101500.0,120.0
+1822,"Sirsiya At Raxaul, East Champaran",River,BIHAR,2020,Unsafe,64.12,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",24.0,1.8,7.35,555.0,5.1,0.62,87000.0,97500.0,684.0
+3136,Bihar,River,BIHAR,2020,Unsafe,65.52,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",24.0,1.2,7.35,551.0,4.65,0.38,90500.0,97500.0,131.5
+3132,Bihar,River,BIHAR,2020,Unsafe,45.55,"High Fecal Coliform, High Total Coliform",24.5,7.75,7.9,343.5,2.5,1.2,82000.0,86500.0,124.0
+3135,Bihar,River,BIHAR,2020,Unsafe,44.11,"High Fecal Coliform, High Total Coliform",23.0,7.65,7.75,309.5,1.85,0.95,18350.0,81650.0,66.5
+3131,"U/S Manusmar River (Riga), Sitamarhi",River,BIHAR,2020,Unsafe,44.22,"High Fecal Coliform, High Total Coliform",22.5,6.85,7.85,318.0,1.9,0.37,81050.0,83150.0,530.0
+2563,"Manusmar River At Riga, Sitamarhi",River,BIHAR,2020,Unsafe,45.33,"High Fecal Coliform, High Total Coliform",22.5,6.15,7.85,329.0,2.4,0.47,81100.0,87000.0,640.0
+4402,Bihar,River,BIHAR,2020,Unsafe,44.66,"High Fecal Coliform, High Total Coliform",22.0,6.75,7.8,360.0,2.1,0.34,80390.0,80850.0,124.0
+3119,"Poonpun River Near Poonpun Rail Bridge,",River,BIHAR,2020,Unsafe,44.44,"High Fecal Coliform, High Total Coliform",22.5,7.45,7.3,324.0,2.0,0.5,80700.0,83950.0,1120.0
+3120,Bihar,River,BIHAR,2020,Unsafe,44.44,"High Fecal Coliform, High Total Coliform",23.5,7.35,7.7,349.0,2.0,0.51,80600.0,81050.0,209.0
+4293,Bihar,River,BIHAR,2020,Unsafe,45.11,"High Fecal Coliform, High Total Coliform",21.5,5.75,7.85,417.5,2.3,,28050.0,82450.0,174.0
+4294,Bihar,River,BIHAR,2020,Unsafe,46.55,"High Fecal Coliform, High Total Coliform",23.0,5.5,7.5,488.0,2.95,,81300.0,91000.0,94.0
+4399,"Harha River At Bagha, Lauriya Road Bridge",River,BIHAR,2020,Unsafe,24.69,High Fecal Coliform,22.0,8.2,7.7,277.5,1.8,0.74,80390.0,872.5,
+4400,River Lakhandei Sitamarhi U/S,River,BIHAR,2020,Unsafe,46.33,"High Fecal Coliform, High Total Coliform",24.5,7.0,7.9,418.5,2.85,0.54,81050.0,81950.0,1495.0
+4401,River Lakhandei Sitamarhi D/S,River,BIHAR,2020,Unsafe,50.02,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",22.0,4.3,7.45,490.0,3.25,0.57,82000.0,94000.0,285.0
+4404,"Gangi At Ara, D/S",River,BIHAR,2020,Unsafe,53.24,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",28.0,3.8,7.4,439.5,3.8,1.69,87000.0,94000.0,225.0

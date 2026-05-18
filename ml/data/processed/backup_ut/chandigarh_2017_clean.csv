@@ -1,0 +1,10 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+2039,"Sector 15, Chandigarh",Groundwater,CHANDIGARH,2017,Safe,2.79,None,28.0,,6.6,846.5,1.0,2.0,2.0,2.0,
+2040,"Sector 22, Chandigarh",Groundwater,CHANDIGARH,2017,Safe,8.34,None,27.0,,6.95,738.0,3.0,2.0,2.0,1.0,
+2043,"Palsora Village, Chandigarh",Groundwater,CHANDIGARH,2017,Unsafe,11.12,High BOD,25.5,,7.0,986.0,4.0,2.0,3.0,0.85,
+2044,"Dhanas Village, Chandigarh",Groundwater,CHANDIGARH,2017,Safe,8.38,None,26.0,,7.15,611.0,3.0,7.5,11.5,0.85,
+2045,"Dadu Majra, Chandigarh",Groundwater,CHANDIGARH,2017,Safe,6.95,None,27.0,,7.1,604.5,2.5,2.0,2.0,1.2,
+2046,"Sukhna Lake, Chandigarh",Pond/Tank,CHANDIGARH,2017,Unsafe,40.01,"High BOD, High Total Coliform",,23.0,7.4,7.9,190.5,100.0,2.74,105001.0,270001.0
+1392,"Sukhna Lake, Chandigarh",Pond/Tank,CHANDIGARH,2017,Unsafe,36.16,"pH Out of Range, High BOD",,,5.8,,8.8,7.1,,8.2,281.0
+GEN-051928,2048,River,CHANDIGARH,2017,Safe,0.05,None,,,,,,25.0,3.55,7.2,840.0
+GEN-06B133,2049,River,CHANDIGARH,2017,Safe,0.03,None,,,,,,24.0,1.2,7.45,868.5

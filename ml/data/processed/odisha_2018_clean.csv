@@ -1,0 +1,108 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1644,"Jagatpur Industrial Area, Cuttack",Groundwater,ODISHA,2018,Safe,0.71,None,26.5,,8.1,754.0,0.25,8.2,2.0,2.0,
+GEN-C1FEA2,1645,Groundwater,ODISHA,2018,Unsafe,34.92,High BOD,,,,,25.0,18.0,195.1,217.65,
+GEN-E4873A,1646,Groundwater,ODISHA,2018,Unsafe,33.99,High BOD,,,,,25.0,17.45,80.5,87.7,
+GEN-8D420F,1647,Groundwater,ODISHA,2018,Unsafe,34.36,High BOD,,,,,24.0,17.85,113.2,201.8,
+GEN-7437D1,1648,Groundwater,ODISHA,2018,Unsafe,34.3,High BOD,,,,,25.0,17.9,112.7,162.15,
+GEN-96DE25,1649,Groundwater,ODISHA,2018,Unsafe,35.05,High BOD,,,,,26.0,16.7,194.7,312.2,
+GEN-973A5F,1650,Groundwater,ODISHA,2018,Unsafe,33.83,High BOD,,,,,26.0,18.1,48.85,131.65,
+GEN-207F88,1652,Groundwater,ODISHA,2018,Unsafe,34.69,High BOD,,,,,27.0,16.4,141.4,312.2,
+GEN-CC42AC,1655,Groundwater,ODISHA,2018,Unsafe,53.97,"High BOD, High Fecal Coliform, High Total Coliform",,,,,22.0,17.55,1244.1,9255.1,
+GEN-712A3C,1656,Groundwater,ODISHA,2018,Unsafe,37.44,"High BOD, High Fecal Coliform",,,,,23.0,17.5,510.65,525.6,
+GEN-C05607,1658,Groundwater,ODISHA,2018,Unsafe,34.87,High BOD,,,,,23.0,17.0,171.7,297.3,
+GEN-DD50E4,3964,Groundwater,ODISHA,2018,Unsafe,34.81,High BOD,,,,,22.0,16.9,136.05,427.15,
+GEN-DB9AD5,3965,Groundwater,ODISHA,2018,Unsafe,37.79,"High BOD, High Fecal Coliform",,,,,22.0,14.85,545.35,616.2,
+GEN-43D762,3966,Groundwater,ODISHA,2018,Unsafe,37.33,High BOD,,,,,18.0,13.7,455.95,719.75,
+GEN-B607BA,3967,Groundwater,ODISHA,2018,Unsafe,37.63,High BOD,,,,,20.0,16.7,490.45,772.7,
+GEN-F81DEE,3969,Groundwater,ODISHA,2018,Unsafe,38.09,"High BOD, High Fecal Coliform",,,,,27.0,17.75,586.05,634.1,
+GEN-CBA0A4,3971,Groundwater,ODISHA,2018,Unsafe,37.85,"High BOD, High Fecal Coliform",,,,,26.0,17.15,563.9,568.15,
+GEN-678004,3973,Pond/Tank,ODISHA,2018,Unsafe,35.24,High BOD,,,,24.0,16.65,100.0,285.6,0.7,1.75
+GEN-9A32FF,3974,Pond/Tank,ODISHA,2018,Unsafe,35.13,High BOD,,,,26.0,17.3,100.0,269.1,0.6,1.55
+GEN-4F5A9B,3975,Pond/Tank,ODISHA,2018,Unsafe,36.63,High BOD,,,,26.0,17.0,100.0,494.6,2.5,5.85
+GEN-2BA3C4,3976,Pond/Tank,ODISHA,2018,Unsafe,36.79,"High BOD, High Fecal Coliform",,,,26.0,16.9,100.0,518.65,1.35,3.25
+GEN-7D571E,3977,Pond/Tank,ODISHA,2018,Unsafe,38.82,"High BOD, High Fecal Coliform",,,,26.0,16.65,100.0,823.1,0.5,1.6
+GEN-A8BADD,3978,Pond/Tank,ODISHA,2018,Unsafe,36.64,High BOD,,,,23.0,16.7,100.0,496.6,0.25,3.55
+GEN-A58616,3979,Pond/Tank,ODISHA,2018,Unsafe,35.79,High BOD,,,,26.0,16.95,100.0,368.15,0.4,5.7
+GEN-9425BE,3980,Pond/Tank,ODISHA,2018,Unsafe,35.05,High BOD,,,,18.0,14.25,76.3,257.65,0.4,4.9
+GEN-1BDA4C,3981,Pond/Tank,ODISHA,2018,Unsafe,34.38,High BOD,,,,18.0,14.55,100.0,157.1,0.4,2.7
+GEN-A0443C,3982,Pond/Tank,ODISHA,2018,Unsafe,33.97,High BOD,,,,18.0,14.05,10.0,94.65,1.95,2.95
+GEN-5E4450,3983,Pond/Tank,ODISHA,2018,Unsafe,33.92,High BOD,,,,17.0,13.45,82.4,88.05,2.05,4.25
+GEN-7059B7,3984,Pond/Tank,ODISHA,2018,Unsafe,34.42,High BOD,,,,17.0,15.25,72.95,162.6,0.45,2.85
+GEN-0C2F66,3985,Pond/Tank,ODISHA,2018,Unsafe,34.43,High BOD,,,,17.0,16.3,97.55,164.75,1.0,1.3
+GEN-540393,3986,Pond/Tank,ODISHA,2018,Unsafe,34.45,High BOD,,,,17.0,15.35,100.0,166.7,0.4,1.3
+GEN-4F9C76,3987,Pond/Tank,ODISHA,2018,Unsafe,35.69,High BOD,,,,17.0,15.95,92.45,352.7,0.5,1.3
+GEN-BBBE7E,3988,Pond/Tank,ODISHA,2018,Unsafe,39.8,"High BOD, High Fecal Coliform",,,,26.0,18.9,100.0,969.7,0.95,2.05
+GEN-6516C2,3989,Pond/Tank,ODISHA,2018,Unsafe,43.21,"High BOD, High Fecal Coliform",,,,26.0,18.35,100.0,1480.8,2.0,3.05
+GEN-761293,3990,Pond/Tank,ODISHA,2018,Unsafe,34.38,High BOD,,,,23.0,15.9,100.0,156.15,2.1,2.85
+GEN-DFBD28,3991,Pond/Tank,ODISHA,2018,Unsafe,34.33,High BOD,,,,22.0,15.5,100.0,149.1,1.55,3.0
+GEN-0DE5D1,3992,Pond/Tank,ODISHA,2018,Unsafe,34.11,High BOD,,,,23.0,15.25,100.0,117.1,0.35,1.55
+GEN-C12D1F,3993,Pond/Tank,ODISHA,2018,Unsafe,34.98,High BOD,,,,21.0,14.75,75.05,245.65,7.45,1.7
+GEN-ADF8D7,3994,Pond/Tank,ODISHA,2018,Unsafe,34.87,High BOD,,,,24.0,16.4,100.0,229.65,1.4,1.8
+GEN-D464B5,3995,Pond/Tank,ODISHA,2018,Unsafe,34.48,High BOD,,,,24.0,16.8,100.0,172.25,0.4,1.25
+GEN-43E04D,3996,Pond/Tank,ODISHA,2018,Unsafe,33.94,High BOD,,,,24.0,16.5,69.55,91.1,0.4,1.8
+GEN-654788,2437,Pond/Tank,ODISHA,2018,Safe,0.13,None,,,,,,24.0,,32.0,5.1
+GEN-3CF255,2438,Pond/Tank,ODISHA,2018,Safe,0.13,None,,,,,,23.0,,32.0,5.4
+GEN-B928FE,3953,Pond/Tank,ODISHA,2018,Safe,0.1,None,,,,,,11.0,,26.0,6.2
+GEN-3F900D,3955,Pond/Tank,ODISHA,2018,Safe,0.13,None,,,,,,23.0,,32.0,6.3
+GEN-0F3C5D,3956,Pond/Tank,ODISHA,2018,Safe,0.13,None,,,,,,22.0,,32.0,3.4
+GEN-86C516,3957,Pond/Tank,ODISHA,2018,Safe,0.13,None,,,,,,23.0,,32.0,4.8
+GEN-F51238,3963,Pond/Tank,ODISHA,2018,Safe,0.14,None,,,,,,21.0,,34.0,2.3
+1455,"Rushikulya At Ganjam U/S, Orissa",River,ODISHA,2018,Unsafe,12.28,High Fecal Coliform,18.0,8.35,7.9,1132.5,1.6,3.9,1751.0,2151.0,
+1456,"Rushikulya At Ganjam D/S, Orissa",River,ODISHA,2018,Unsafe,9.24,High Fecal Coliform,18.0,8.45,7.95,17228.0,2.0,0.87,851.0,1751.0,
+1642,"Nagavalli At Jaykaypur D/S, Orissa",River,ODISHA,2018,Unsafe,18.02,"High Fecal Coliform, High Total Coliform",24.5,6.65,7.55,1289.0,1.8,0.825,1835.0,8350.0,
+1643,"Nagavalli At Rayagada D/S, Orissa",River,ODISHA,2018,Unsafe,7.84,High Fecal Coliform,22.0,7.3,7.5,309.5,1.3,1.52,872.5,1835.0,
+2423,"Budhabalanga, D/S Of Baripada Town",River,ODISHA,2018,Unsafe,42.44,"High Fecal Coliform, High Total Coliform",22.5,8.2,7.65,218.5,1.1,0.49,17600.0,27340.0,
+2425,"River Kerandi(Intake Well Of Nalco Refinary, Hal,",River,ODISHA,2018,Unsafe,11.96,"Low DO, High Fecal Coliform",19.0,4.05,7.6,219.5,0.85,0.775,1210.0,1789.0,
+2426,Muniguda (D/S Of M/S Vedantaalumina Project),River,ODISHA,2018,Safe,4.35,None,25.5,7.3,7.5,232.5,1.0,2.205,360.0,860.0,
+2427,Gunupur (Interstate Boundry),River,ODISHA,2018,Unsafe,8.25,High Fecal Coliform,24.0,7.6,7.5,198.0,0.9,0.645,1210.0,1760.0,
+GURADIH NALLAH AT PANPOSH,Odisha,River,ODISHA,2018,Unsafe,51.1,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",26.0,4.4,7.7,416.0,6.8,3.708,7900.0,17000.0,
+GANDA NALLAH AT MARTHAPUR,Odisha,River,ODISHA,2018,Safe,2.35,None,23.0,8.2,7.3,140.0,0.8,0.056,78.0,330.0,
+RIVER KATHAJODI,Odisha,River,ODISHA,2018,Unsafe,62.21,"High BOD, High Fecal Coliform, High Total Coliform",,,7.2,,4.4,11.2,33000.0,92000.0,
+1271,"Mahanadi At Sambalpur D/S, Odisha",River,ODISHA,2018,Unsafe,31.96,"High Fecal Coliform, High Total Coliform",27.5,7.55,7.8,213.5,1.4,0.805,5510.0,11065.0,
+2405,Sambhalpur Fds At Huma,River,ODISHA,2018,Unsafe,16.64,"High Fecal Coliform, High Total Coliform",26.5,7.45,7.6,206.0,0.9,0.945,2722.5,4685.0,
+1272,Mahanadi D/S (After Confl. With R. Ong Sonepur U/S,River,ODISHA,2018,Safe,2.3,None,27.5,7.55,7.6,204.0,0.85,0.68,56.0,231.0,
+1276,"Mahanadi At Narsinghpur, Odisha",River,ODISHA,2018,Unsafe,5.46,High Fecal Coliform,25.0,8.7,7.6,194.0,0.65,0.45,651.0,1760.0,
+1277,"Mahanadi At Cuttack U/S, Odisha",River,ODISHA,2018,Unsafe,5.06,High Fecal Coliform,27.0,8.5,7.75,183.0,0.65,0.62,660.0,1222.5,
+1278,"Mahanadi At Cuttack D/S, Odisha",River,ODISHA,2018,Unsafe,29.94,"High Fecal Coliform, High Total Coliform",26.0,8.1,7.75,194.0,1.45,3.425,8034.0,8395.0,
+2404,Power Channel D/S Near Burla,River,ODISHA,2018,Unsafe,6.82,High Fecal Coliform,27.0,6.9,7.55,190.0,1.25,0.695,660.0,1760.0,
+3888,Power Channelu/S,River,ODISHA,2018,Safe,3.7,None,27.0,6.65,7.55,179.5,0.7,0.645,396.0,701.0,
+3890,Cuttack Fd/S At Gatirautapatna,River,ODISHA,2018,Unsafe,29.15,"High Fecal Coliform, High Total Coliform",26.0,8.1,7.9,197.5,1.15,0.735,8022.5,8245.0,
+1269,"Ib At Brajrajnagar (Intake) D/S, Odisha",River,ODISHA,2018,Unsafe,11.12,High Fecal Coliform,23.0,7.7,7.65,322.5,1.7,0.82,1401.0,2172.5,
+2403,Bheden River Before Confluence With Ib River,River,ODISHA,2018,Unsafe,28.58,"High Fecal Coliform, High Total Coliform",23.5,7.8,7.8,220.5,1.7,1.24,4601.0,8001.0,
+2411,Bhubaneswar Fd/S ( 2 Km After Confluence Of Gangua,River,ODISHA,2018,Unsafe,49.66,"High BOD, High Fecal Coliform, High Total Coliform",25.5,6.15,7.45,275.5,4.35,7.96,80650.0,81650.0,
+GEN-7CAC11,2408,River,ODISHA,2018,Unsafe,50.01,High BOD,,,,,24.0,32.0,,6.6,8.4
+GEN-C2C2A0,3891,River,ODISHA,2018,Unsafe,50.01,High BOD,,,,,20.0,31.0,,6.9,8.4
+GEN-5C8E07,3894,River,ODISHA,2018,Unsafe,50.01,High BOD,,,,,20.0,31.0,,6.0,9.9
+3895,Daya At Kanas,River,ODISHA,2018,Unsafe,32.25,"High Fecal Coliform, High Total Coliform",26.0,5.85,7.65,261.5,2.6,2.46,8010.0,8100.0,
+3896,Gangua Near Rajdhani Engineering College,River,ODISHA,2018,Unsafe,70.0,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",26.0,2.5,7.05,315.0,17.45,4.215,107000.0,126000.0,
+3900,Kendrapada U/S,River,ODISHA,2018,Unsafe,40.11,"High Fecal Coliform, High Total Coliform",25.5,6.4,7.75,1081.5,1.25,1.225,14055.0,21665.0,
+GEN-4FC848,3901,River,ODISHA,2018,Unsafe,50.01,High BOD,,,,,20.0,32.0,,4.4,7.8
+GEN-3341F6,3907,River,ODISHA,2018,Unsafe,50.01,High BOD,,,,,25.0,32.0,,3.2,11.6
+3909,Kansari River At Banapur Road Near Purushottampur,River,ODISHA,2018,Unsafe,38.79,"High Fecal Coliform, High Total Coliform",25.0,6.4,7.55,350.5,2.1,0.935,8065.0,17665.0,
+GEN-DA21BA,3943,River,ODISHA,2018,Unsafe,50.01,High BOD,,,,,13.0,29.0,,6.4,8.8
+3946,Bada Nadi At Aska,River,ODISHA,2018,Unsafe,21.14,High BOD,,18.5,8.0,7.9,396.0,1.05,0.46,1422.5,2235.0
+GEN-DA4F21,3947,River,ODISHA,2018,Unsafe,49.96,High BOD,,,,,9.0,26.0,,6.0,10.0
+3937,Baitarni River At Champua,River,ODISHA,2018,Unsafe,7.87,High Fecal Coliform,23.0,6.9,7.55,138.0,1.35,0.505,860.0,1789.0,
+2421,Kusei Before Joining With Baitarani River At Anand,River,ODISHA,2018,Unsafe,11.36,"High Fecal Coliform, High Total Coliform",23.5,8.35,7.75,221.5,1.45,0.56,1455.0,2895.0,
+GEN-3FA146,3940,River,ODISHA,2018,Unsafe,50.01,High BOD,,,,,13.0,25.0,,5.2,9.6
+3941,Bhadrak D/S,River,ODISHA,2018,Unsafe,42.77,"High Fecal Coliform, High Total Coliform",19.5,7.6,7.4,185.0,1.25,0.975,17665.0,27395.0,
+1302,"Brahmani At Rourkela D/S, Odisha",River,ODISHA,2018,Unsafe,48.1,"High BOD, High Fecal Coliform, High Total Coliform",27.5,5.85,7.4,229.0,3.65,4.07,17745.0,46650.0,
+2414,Rourkela Fds At Biritola,River,ODISHA,2018,Unsafe,18.09,"High Fecal Coliform, High Total Coliform",27.0,6.7,7.45,207.0,1.6,1.58,2710.0,4622.5,
+1039,"Brahmani At Bonaigarh, Odisha",River,ODISHA,2018,Unsafe,12.45,"High Fecal Coliform, High Total Coliform",26.5,6.95,7.6,178.0,2.65,3.86,851.0,3960.0,
+2415,"Talcher Fu/S (Intake Well Of Mcl, Talcher)",River,ODISHA,2018,Unsafe,20.69,High BOD,,24.0,8.1,7.7,147.0,0.75,0.45,860.0,2739.0
+GEN-5DEC70,2416,River,ODISHA,2018,Unsafe,50.01,High BOD,,,,,20.0,30.0,,6.4,9.1
+2418,Kabatabandha (Before Impact Of Industrial Activity,River,ODISHA,2018,Unsafe,8.43,High Fecal Coliform,24.5,7.0,7.35,142.5,0.5,1.05,1401.0,2151.0,
+1044,"Brahmani At Dharmashala, Odisha",River,ODISHA,2018,Unsafe,5.35,High Fecal Coliform,22.0,7.35,7.3,170.0,0.55,0.865,672.5,1805.0,
+3917,Mandapal,River,ODISHA,2018,Unsafe,29.91,"High Fecal Coliform, High Total Coliform",24.5,7.6,7.6,143.0,1.55,0.555,8039.0,8085.0,
+GEN-859B00,3918,River,ODISHA,2018,Unsafe,50.01,High BOD,,,,,18.0,32.0,,7.2,9.4
+3920,Nandira D/S At Dasnali,River,ODISHA,2018,Unsafe,38.9,"High Fecal Coliform, High Total Coliform",23.5,7.15,7.95,444.5,2.15,1.18,8565.0,17665.0,
+3921,Kisindajhor Ar Kharagprasad,River,ODISHA,2018,Unsafe,12.23,"High Fecal Coliform, High Total Coliform",24.0,6.4,7.95,531.0,1.35,3.495,1760.0,2739.0,
+GEN-D90E5B,3922,River,ODISHA,2018,Unsafe,50.01,High BOD,,,,,16.0,29.0,,7.2,8.6
+2413,Koel U/S (After Confluence Of River Karo),River,ODISHA,2018,Unsafe,28.87,"High Fecal Coliform, High Total Coliform",26.5,6.25,7.5,192.0,1.1,0.625,8010.0,8034.0,
+3916,Rourkela Fd/S At Attaghat,River,ODISHA,2018,Unsafe,36.52,"High BOD, High Fecal Coliform, High Total Coliform",26.5,6.6,7.55,232.5,3.1,2.895,6510.0,12046.0,
+GEN-7993E1,2420,River,ODISHA,2018,Unsafe,50.01,High BOD,,,,,20.0,33.0,,3.0,8.6
+GEN-943B5F,3924,River,ODISHA,2018,Unsafe,50.01,High BOD,,,,,19.0,33.0,,6.6,8.3
+3926,Lingira D/S At Angul,River,ODISHA,2018,Unsafe,12.31,"High Fecal Coliform, High Total Coliform",25.5,7.3,8.3,438.5,1.35,100.0,1401.0,4639.0,
+3927,Kaniha U/S,River,ODISHA,2018,Unsafe,6.99,High Fecal Coliform,25.0,8.3,8.1,241.5,0.95,0.56,860.0,1805.0,
+GEN-1597D2,3928,River,ODISHA,2018,Unsafe,50.01,High BOD,,,,,19.0,30.0,,5.8,8.2
+3929,Singda Jhor,River,ODISHA,2018,Unsafe,10.49,High Fecal Coliform,25.0,7.9,8.0,337.0,1.4,1.005,1410.0,2172.5,

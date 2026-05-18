@@ -1,0 +1,14 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+GEN-272E11,3033,Pond/Tank,HARYANA,2018,Safe,0.0,None,,,,,,,,,6.3
+1025,"Ghaggar Gh-1 At Road Brdg. Sirsa, Debwali Road, Haryana",River,HARYANA,2018,Unsafe,41.33,"Low DO, High BOD",,3.8,8.15,1145.5,16.1,,,,
+1885,River Ghaggar At D/S Of Surajpur,River,HARYANA,2018,Unsafe,29.88,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",,4.2,7.9,446.5,10.5,,1000.0,3350.0,
+"W.YAM. CANAL WC-
+1(Y.NAGAR)100M D/S AFTER
+RECEIVING",Haryana,Canal,HARYANA,2018,Unsafe,10.22,"High Fecal Coliform, High Total Coliform",18.0,7.75,7.945,262.0,2.1,,750.0,3200.0,
+"W.YAM. CANAL WC-2 (NEAR
+KARNA LAKE)G.T.ROAD KARNAL",Haryana,Canal,HARYANA,2018,Safe,13.88,None,,,7.8,205.5,2.5,,,,
+"W.YAM. CANAL WC-5 SIRSA
+BRANCH AT ROAD BRIDGE,",Haryana,Canal,HARYANA,2018,Safe,9.8,None,,6.68,7.78,186.0,2.65,,,,
+"GURGAON CANAL, GC-1, (NEAR
+BADARPUR BORDER)",Haryana,31,HARYANA,2018,Unsafe,42.0,"Low DO, pH Out of Range, High BOD",20.8,4.7,10.2,742.5,19.5,7.6,,,
+1496,"Yamuna At Kalanaur, Yamuna Nagar, Haryana",River,HARYANA,2018,Unsafe,46.66,"High Fecal Coliform, High Total Coliform",19.0,8.15,7.85,446.5,3.0,0.45,245004.5,1200039.5,

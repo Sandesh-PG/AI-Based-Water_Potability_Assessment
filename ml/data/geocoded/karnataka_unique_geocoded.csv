@@ -1,0 +1,781 @@
+monitoring_location,stn_code,latitude,longitude,geocode_query,geocoded
+Dadesugur Bridge Gauging Station,3558,12.4235961,76.683307,"station, Karnataka, India",True
+Thumbe Water Supply Stations To Mangalore City,3562,13.0222347,77.5671832,"city, Karnataka, India",True
+U/S Of Upiingady Town,3563,13.1016789,77.5756532,"town, Karnataka, India",True
+Krs Dam Mandya,3566,12.4241993,76.572052,"krs mandya, Karnataka, India",True
+D/S Shimsha Near Madduar Town,3567,13.1016789,77.5756532,"town, Karnataka, India",True
+Water Supply Intake Point To Srirangapatna Town,3568,13.1016789,77.5756532,"town, Karnataka, India",True
+Water Supply Intake Point To Mandya Town,3569,13.1016789,77.5756532,"town, Karnataka, India",True
+D/S Of Kr Nagar Bridge,3570,12.9549835,77.6532944,"kr nagar, Karnataka, India",True
+U/S Of Kr Nagar,3571,12.9549835,77.6532944,"kr nagar, Karnataka, India",True
+Water Supply Intake Point To Hunsur Town,3572,13.1016789,77.5756532,"town, Karnataka, India",True
+D/S Of Kushalanagar Town,3573,12.4585525,75.961437,"kushalanagar town, Karnataka, India",True
+Water Supply Intake Point To Madikeri Town,3574,13.1016789,77.5756532,"town, Karnataka, India",True
+U/S Intake Point To Nanjanagud & Gundlupet At Debur,3575,,,"to nanjanagud & gundlupet debur, Karnataka, India",False
+Water Supply Intake Point To Mysore Pump House,3576,12.9618349,77.7169157,"house, Karnataka, India",True
+Water Supply Intake Point To T Narasipura,3577,12.2134628,76.9027763,"to t narasipura, Karnataka, India",True
+D/S Of Cauvery Maddur Water Supply Treatment Plant At Bachalli,3578,12.6720777,75.7562095,"bachalli, Karnataka, India",True
+Water Supply Intake Point At Kollegala Dasanapura,3579,12.7467724,77.7742876,"dasanapura, Karnataka, India",True
+Water Supply Intake Point At Madduar,3580,,,"madduar, Karnataka, India",False
+Water Supply Intake Point At T K Halli,3581,12.9978799,77.5843984,"t k halli, Karnataka, India",True
+Kali D/S West Coast Paper Mill,1444,13.102259,77.5769737,"mill, Karnataka, India",True
+"Kali U/S Of Wcpm, Dandeli",2780,15.2490284,74.6236037,"dandeli, Karnataka, India",True
+"Ulsoor Lake Training Centre Of Fish Breeding,Karna",1388,14.5501743,74.3152145,"karna, Karnataka, India",True
+"Heballa Valley Lake At D/S Road Bridge Nr. Mandya, Karnataka",1446,12.6391039,76.4929544,"lake mandya karnataka, Karnataka, India",True
+Hebbal Lake,3582,12.3579894,76.6105084,"hebbal lake, Karnataka, India",True
+Kukkarahalli Lake,3583,12.3102084,76.6274445,"kukkarahalli lake, Karnataka, India",True
+Dalavai Lake,3584,14.5415972,74.3256803,"lake, Karnataka, India",True
+Yennehole Lake,3585,14.5415972,74.3256803,"lake, Karnataka, India",True
+Limbhabudi Lake,3586,14.5415972,74.3256803,"lake, Karnataka, India",True
+Shettykere Lake,3587,14.5415972,74.3256803,"lake, Karnataka, India",True
+Yediyur Lake,3592,12.9338387,77.5766853,"yediyur lake, Karnataka, India",True
+"Ulsoor Lake Training Centre Of Fish Breeding, Karnataka",3593,13.1604848,77.4781335,"breeding karnataka, Karnataka, India",True
+Karihobanahalli Lake,3601,14.5415972,74.3256803,"lake, Karnataka, India",True
+Bellandur Lake,3602,12.9371445,77.6720227,"bellandur lake, Karnataka, India",True
+Varthur Lake,3608,12.9483533,77.739263,"varthur lake, Karnataka, India",True
+Tubrahalli Lake,3610,14.5415972,74.3256803,"lake, Karnataka, India",True
+Kaikondanahalli Lake,3611,14.5415972,74.3256803,"lake, Karnataka, India",True
+Agaram Lake,3612,14.5415972,74.3256803,"lake, Karnataka, India",True
+Puttenahalli Lake (S),3614,12.8913057,77.5878632,"puttenahalli lake s, Karnataka, India",True
+Arakere Lake,3615,14.5415972,74.3256803,"lake, Karnataka, India",True
+Kalena Agrahara Lake,3616,12.8653973,77.5898754,"kalena agrahara lake, Karnataka, India",True
+Hulimavu Lake,3617,12.8700812,77.6042048,"hulimavu lake, Karnataka, India",True
+Singasandra Lake,3618,12.8824869,77.6454373,"singasandra lake, Karnataka, India",True
+Parappana Agrahara Lake,3620,12.8791972,77.6611797,"parappana agrahara lake, Karnataka, India",True
+Haralakunte Lake,3621,14.5415972,74.3256803,"lake, Karnataka, India",True
+Somasundra Palya Lake,3622,12.9187861,77.7211285,"palya lake, Karnataka, India",True
+Puttenahalli Lake,3624,13.1119851,77.5770582,"puttenahalli lake, Karnataka, India",True
+Jakkur Lake,3627,13.0867157,77.6116693,"jakkur lake, Karnataka, India",True
+Mulbhagal Lake,3644,14.5415972,74.3256803,"lake, Karnataka, India",True
+Devarayasamudra Lake,3645,14.5415972,74.3256803,"lake, Karnataka, India",True
+Narasapura Lake,3646,13.1332176,77.9995445,"narasapura lake, Karnataka, India",True
+Bugudanahalli Lake,3649,14.5415972,74.3256803,"lake, Karnataka, India",True
+Mathana Kere,3659,12.3103805,76.6304982,"kere, Karnataka, India",True
+Hunasina Kere,3660,13.0151526,76.0827096,"hunasina kere, Karnataka, India",True
+Kokkanaghattadoddakere,3661,,,,False
+Sathenahallidoddakere,3667,,,,False
+Sheleramanahallikere,3669,,,,False
+Hullige Tank,3559,13.1632423,75.8608098,"tank, Karnataka, India",True
+Mavenakere,3560,,,,False
+Hundikere (Koppal),3561,15.5748238,76.3118494,"koppal, Karnataka, India",True
+Pilikula Tank,3565,13.1632423,75.8608098,"tank, Karnataka, India",True
+Karanjikere,3588,,,,False
+Madiwala Tank,3589,13.1632423,75.8608098,"tank, Karnataka, India",True
+Lalbagh Tank,3590,12.9461146,77.5840465,"lalbagh tank, Karnataka, India",True
+Sankey Tank,3594,13.0099946,77.5737934,"sankey tank, Karnataka, India",True
+Byrasandra Tank,3595,13.1632423,75.8608098,"tank, Karnataka, India",True
+Hesaraghatta Tank,3597,13.1632423,75.8608098,"tank, Karnataka, India",True
+Herohalli Tank,3598,13.1632423,75.8608098,"tank, Karnataka, India",True
+Madavara Tank,3599,13.1632423,75.8608098,"tank, Karnataka, India",True
+Shivapura Tank,3600,13.1632423,75.8608098,"tank, Karnataka, India",True
+Vengaihnakere,3603,,,,False
+Doddanakundi Tank,3604,13.1632423,75.8608098,"tank, Karnataka, India",True
+Yellamallappa Tank,3605,13.1632423,75.8608098,"tank, Karnataka, India",True
+Dasarahalli Tank,3606,13.0411364,77.5124586,"dasarahalli tank, Karnataka, India",True
+Kalkere Tank,3607,13.1632423,75.8608098,"tank, Karnataka, India",True
+Begur Tank,3619,13.1632423,75.8608098,"tank, Karnataka, India",True
+Nagavara Tank,3626,13.1632423,75.8608098,"tank, Karnataka, India",True
+Allasandra Tank,3629,13.1632423,75.8608098,"tank, Karnataka, India",True
+Yelahanka Tank,3630,13.1632423,75.8608098,"tank, Karnataka, India",True
+Veerapura Tank,3632,13.1632423,75.8608098,"tank, Karnataka, India",True
+Devarakere Tank,3634,13.1632423,75.8608098,"tank, Karnataka, India",True
+Malathahalli Tank,3635,13.1632423,75.8608098,"tank, Karnataka, India",True
+Byramangala Tank,3637,13.1632423,75.8608098,"tank, Karnataka, India",True
+Uttarahalli Doraikere Tank,3640,13.1632423,75.8608098,"tank, Karnataka, India",True
+Dhorekere Tank,3641,13.1632423,75.8608098,"tank, Karnataka, India",True
+Beenniganahalli Tank,3643,13.1632423,75.8608098,"tank, Karnataka, India",True
+Mydala Tank,3648,13.1632423,75.8608098,"tank, Karnataka, India",True
+Melekote Tank,3650,13.1632423,75.8608098,"tank, Karnataka, India",True
+Bheemsandra Tank,3651,13.1632423,75.8608098,"tank, Karnataka, India",True
+Doddakere Tank,3653,13.1632423,75.8608098,"tank, Karnataka, India",True
+Gottigere Lake,3654,14.5415972,74.3256803,"lake, Karnataka, India",True
+Nallikatte Kere Tank,3656,13.0099946,77.5737934,"kere tank, Karnataka, India",True
+Kaachachalli Koppalukere Tank,3657,13.1632423,75.8608098,"tank, Karnataka, India",True
+Kawshikakere Tank,3662,13.1632423,75.8608098,"tank, Karnataka, India",True
+Joladakatte Tank,3663,13.1632423,75.8608098,"tank, Karnataka, India",True
+Basavanahallikere Tank,3664,13.1632423,75.8608098,"tank, Karnataka, India",True
+Lingappanakatte Tank,3665,13.1632423,75.8608098,"tank, Karnataka, India",True
+Ganigarahosahallikere Tank,3666,13.1632423,75.8608098,"tank, Karnataka, India",True
+Sodharahallikere Tank,3668,13.1632423,75.8608098,"tank, Karnataka, India",True
+Hainarakatte Tank,3670,13.1632423,75.8608098,"tank, Karnataka, India",True
+Hanumanthapurakatte Tank,3671,13.1632423,75.8608098,"tank, Karnataka, India",True
+Sankalapurakere Tank,3672,13.1632423,75.8608098,"tank, Karnataka, India",True
+Havalikere Tank,3673,13.1632423,75.8608098,"tank, Karnataka, India",True
+Sathamangalakeretank,3674,,,,False
+B Kalehallikere Tank,3675,13.1632423,75.8608098,"tank, Karnataka, India",True
+Thavenahallikere Tank,3676,13.1632423,75.8608098,"tank, Karnataka, India",True
+Sharanabaweshwara Kere Tank,3677,13.0099946,77.5737934,"kere tank, Karnataka, India",True
+Bhutanala Lake,3679,14.5415972,74.3256803,"lake, Karnataka, India",True
+Killa Lake,3680,14.5415972,74.3256803,"lake, Karnataka, India",True
+Angol Mi Tanltank,3681,,,,False
+Kakati Pond,3682,15.8222671,74.4804051,"pond, Karnataka, India",True
+Herekeretank,3683,,,,False
+Kelegeretank,3684,,,,False
+Navalooru Lake,3685,14.5415972,74.3256803,"lake, Karnataka, India",True
+Nirasagarakeretank,3686,,,,False
+Nuggikeretank,3687,,,,False
+Sudanakeretank,3688,,,,False
+Someshwarakeretank,3689,,,,False
+Unakalkeretank,3690,,,,False
+Vimanabhuthikere Tank,3691,13.1632423,75.8608098,"tank, Karnataka, India",True
+Kunduvadakeretank,3692,,,,False
+Bhathikeretank,3693,,,,False
+Shanthisagarkeretank,3694,,,,False
+Kondaggikeretank,3695,,,,False
+Aianakeretank,3696,,,,False
+Krishna U/S Of Ugarkhurd Barrage,1182,,,"krishna ugarkhurd, Karnataka, India",False
+Krishna - Ankali Bridge Along Chikkodi Kagwad Road,1889,16.6960786,74.7187223,"kagwad, Karnataka, India",True
+Krishna D/S Of Narayanpura Dam,1181,15.4559068,74.9922057,"krishna narayanpura, Karnataka, India",True
+Krishna At Tintini Bridge,1028,,,"krishna tintini, Karnataka, India",False
+Krishnad/S Of Devasagar Bdg.,1170,,,"krishnad/s devasagar ., Karnataka, India",False
+Krishna D/S Of Alamatti Dam,2781,16.3451718,75.8923516,"alamatti, Karnataka, India",True
+Bhima D/S Of Road Bridge At Gangapur Village,1183,12.9617214,77.6366258,"village, Karnataka, India",True
+Bhima D/S Ferozabad Village,1184,12.9617214,77.6366258,"village, Karnataka, India",True
+Bhima At Confluence Of Jewargi Town Sewage Disposal Point,1888,13.3067379,77.6125389,"disposal, Karnataka, India",True
+Bhima D/S Of Bdg. Near Yadgir,1167,16.5744123,76.9254434,"yadgir, Karnataka, India",True
+Ghatprabha D/S Of Mudhol Rd. Cross Bdg,1185,12.9529035,77.5158003,"cross, Karnataka, India",True
+Ghatprabha At W.A. Point To Gokak Town,1163,13.1016789,77.5756532,"town, Karnataka, India",True
+Malprabha D/S Of Khanapur Village,1187,12.9617214,77.6366258,"village, Karnataka, India",True
+"Malprabha At Water Abstr. Pt. To Hubli, Dharwar",1164,15.4540505,75.0066516,"dharwar, Karnataka, India",True
+Malprabha D/S Of Aihole Town,1186,13.1016789,77.5756532,"town, Karnataka, India",True
+Malprabha At Badami Bridge,2764,15.9203874,75.6807865,"badami, Karnataka, India",True
+Tunghabhadra At Honnali Bridge,38,14.2389785,75.6457434,"honnali, Karnataka, India",True
+Tunghabhadra At Haralahalli Bridge,1029,13.0236469,76.0551085,"haralahalli, Karnataka, India",True
+Tunghabhadra At Ullanur,29,,,"tunghabhadra ullanur, Karnataka, India",False
+Tungabhadra At New Bridge,2766,15.9648343,77.366508,"tungabhadra, Karnataka, India",True
+Tungabhadra U/S Of Hpf,2767,15.9648343,77.366508,"tungabhadra, Karnataka, India",True
+Tungabhadra D/S Of Hpf,2768,15.9648343,77.366508,"tungabhadra, Karnataka, India",True
+Tungabhadra At Jackwell Point,2769,15.9648343,77.366508,"tungabhadra, Karnataka, India",True
+Tungabhadra At Harihar Water Supply Intake,2770,14.5153541,75.8110476,"harihar, Karnataka, India",True
+Tungha D/S Of Shimoga Town,1168,13.1016789,77.5756532,"town, Karnataka, India",True
+Kagina D/S Of Sewage Disposal Point,1895,13.3067379,77.6125389,"disposal, Karnataka, India",True
+Confluence Point Of Tunga And Bhadra At Kudli,1896,18.1124192,77.3351885,"kudli, Karnataka, India",True
+Bhadra D/S Malleswaram Of Kiocl,1091,13.2097913,75.2503201,"kiocl, Karnataka, India",True
+Bhadra D/S Of Bhadravathi,1387,13.8363715,75.6447514,"bhadra bhadravathi, Karnataka, India",True
+"Bhadra D/S Of Kiocl Road Bridge, Near Holehunnur",1169,,,"bhadra kiocl holehunnur, Karnataka, India",False
+"Bhadra U/S Of Mpm,",2765,13.4893942,75.5273902,"bhadra, Karnataka, India",True
+Bhadra U/S Of Kiocl,2771,13.2097913,75.2503201,"kiocl, Karnataka, India",True
+Kagina At Shahabad Bridge,2777,17.220367,77.3708457,"kagina shahabad, Karnataka, India",True
+Asangi Nalla At Asangi Village,2763,12.9617214,77.6366258,"village, Karnataka, India",True
+Tungabhadra D/S Of Gangawathi,2776,,,"tungabhadra gangawathi, Karnataka, India",False
+Cauvery D/S Napokulu Bdg,1198,,,"cauvery napokulu, Karnataka, India",False
+Cauvery U/Skushal Nagar (Near Baichanahalli),1195,12.4540512,75.9538266,"baichanahalli, Karnataka, India",True
+"Cauvery At Krs Dam, Balamurikshetra",33,,,"cauvery krs balamurikshetra, Karnataka, India",False
+Cauvery At Sathyagalam Bridge,34,,,"cauvery sathyagalam, Karnataka, India",False
+"Cauveryd/S Sri Rangapattanna, Of Road Bdg",1171,,,"cauveryd/s sri rangapattanna, Karnataka, India",False
+Cauvery D/S Of Karekuara Village,1386,12.9617214,77.6366258,"village, Karnataka, India",True
+Cauvery At Bannur Bridge,2773,12.3053048,76.6959064,"cauvery bannur, Karnataka, India",True
+Cauvery At Ranganathittu,2774,12.4280703,76.653645,"ranganathittu, Karnataka, India",True
+Netravathi U/S Of Dharmastala At Water Supply Intake Point,1892,12.9519571,75.3813122,"dharmastala, Karnataka, India",True
+Yagachi Near Pumping Station. Hassan City,1893,13.0222347,77.5671832,"city, Karnataka, India",True
+Hemavati D/S Of Holenarasipura Town At Ramadevala Weir,1199,16.2163383,74.7515981,"weir, Karnataka, India",True
+"Shimsha D/S Of Highway Bridge, Yediyar",1200,,,"Yediyar, Karnataka, India",False
+"Shimsha D/S Of Bridge, Halagur",1166,,,"Halagur, Karnataka, India",False
+Arkavathi D/S Of Kanakapura Town,1165,13.1016789,77.5756532,"town, Karnataka, India",True
+Arkavathi At T.G. Halli Reservoir,2778,12.9392713,77.5722595,"reservoir, Karnataka, India",True
+Lakshmantirtha D/S Of Hunsur Town,1196,13.1016789,77.5756532,"town, Karnataka, India",True
+Lakshmantirtha D/S Of Kattemalavadi,2772,12.3518289,76.2890432,"kattemalavadi, Karnataka, India",True
+Kabbani D/S Saragur Village,1197,12.9617214,77.6366258,"village, Karnataka, India",True
+Kabbani At Cause Way Sattur,41,15.4105056,75.0456504,"sattur, Karnataka, India",True
+Kabbani At Water Intake Of Kiadb At Nanjangud,1445,12.1220681,76.6843409,"nanjangud, Karnataka, India",True
+"Kabini At Bathing Ghat, Nanjanagud",2775,12.0140065,76.4152088,"Kabini, Karnataka, India",True
+"Heballa Valley Lake At D-S Road Bridge Nr. Mandya, Karnataka",1446,12.6391039,76.4929544,"lake mandya karnataka, Karnataka, India",True
+Kempambudhi Lake,3591,14.5415972,74.3256803,"lake, Karnataka, India",True
+Gottegre Lake,3613,14.5415972,74.3256803,"lake, Karnataka, India",True
+Huledanahalli Lake,3647,14.5415972,74.3256803,"lake, Karnataka, India",True
+Annayappa Tank,3638,13.1632423,75.8608098,"tank, Karnataka, India",True
+Kengeri Tank,3639,13.1632423,75.8608098,"tank, Karnataka, India",True
+Uttarahalli Doraikere,3640,,,,False
+Dhorekere,3641,,,,False
+Mydala,3648,,,,False
+Melekote,3650,12.5570664,77.4151933,"melekote, Karnataka, India",True
+Sodharahallikere,3668,,,,False
+Sharanabaweshwara Kere,3677,12.3103805,76.6304982,"kere, Karnataka, India",True
+Angol Mi Tanl,3681,,,,False
+Herekere,3683,12.9512305,77.4587347,"herekere, Karnataka, India",True
+Kelegere,3684,,,,False
+Nirasagarakere,3686,,,,False
+Nuggikere,3687,15.4154169,75.0055215,"nuggikere, Karnataka, India",True
+Sudanakere,3688,,,,False
+Someshwarakere,3689,,,,False
+Unakalkere,3690,,,,False
+Vimanabhuthikere,3691,,,,False
+Kunduvadakere,3692,,,,False
+Bhathikere,3693,,,,False
+Shanthisagarkere,3694,,,,False
+Kondaggikere,3695,,,,False
+Aianakere,3696,,,,False
+Mattadakere,3697,,,,False
+2780,GEN-D47844,14.8143303,74.1424757,"2780, Karnataka, India",True
+"Krishna At U/S Of Ugarkhurd Barrage,",1182,,,"krishna ugarkhurd, Karnataka, India",False
+Krishna Ankali Bridge Along Chikkodi Kagwad Road,1889,16.6960786,74.7187223,"kagwad, Karnataka, India",True
+"Krishna At D/S Of Narayanpura Dam,",1181,15.4559068,74.9922057,"krishna narayanpura, Karnataka, India",True
+Krishna At D/S Of Devasagar Bdg.,1170,,,"krishna devasagar ., Karnataka, India",False
+"Krishna At Tintini Bridge,",1028,,,"krishna tintini, Karnataka, India",False
+"Krishna At D/S Of Alamatti Dam,",2781,16.3451718,75.8923516,"alamatti, Karnataka, India",True
+"Bhima At D/S Of Road Bridge At Gangapur Village,",1183,12.9423718,77.6251542,"village, Karnataka, India",True
+"Bhima At Ferozabad Village (D/S),",1184,12.9423718,77.6251542,"village, Karnataka, India",True
+"Bhima At D/S Of Bdg. Near Yadgir,",1167,16.5744123,76.9254434,"yadgir, Karnataka, India",True
+Bhima River At Confluence Of Jewargi Town Sewage Disposal Point,1888,13.3067379,77.6125389,"disposal, Karnataka, India",True
+Ghatprabha At D/S Of Mudhol Rd. Cross Bdg.,1185,12.9529035,77.5158003,"cross, Karnataka, India",True
+"Ghatprabha At W.A. Point To Gokak Town,",1163,13.1016789,77.5756532,"town, Karnataka, India",True
+"Malprabha At D/S Of Khanapur Village,",1187,12.9423718,77.6251542,"village, Karnataka, India",True
+"Malprabha At Water Abstr. Pt. To Hubli, Dharwar,",1164,15.4540505,75.0066516,"dharwar, Karnataka, India",True
+"Malprabha At D/S Of Aihole Town,",1186,13.1016789,77.5756532,"town, Karnataka, India",True
+"Malprabha At Badami Bridge,",2764,15.9203874,75.6807865,"badami, Karnataka, India",True
+"Tungabhadra At Haralahalli Bridge,",1029,13.0236469,76.0551085,"haralahalli, Karnataka, India",True
+Tungabhadra At Ullanur,29,,,"tungabhadra ullanur, Karnataka, India",False
+"Tungabhadra At U/S Of Hpf,",2767,15.9648343,77.366508,"tungabhadra, Karnataka, India",True
+"Tungabhadra At D/S Of Hpf,",2768,15.9648343,77.366508,"tungabhadra, Karnataka, India",True
+"Tungabhadra At Jackwell Point,",2769,15.9648343,77.366508,"tungabhadra, Karnataka, India",True
+"Tungabhadra At Harihar Water Supply Intake,",2770,14.5153541,75.8110476,"harihar, Karnataka, India",True
+"Tungabhadra At D/S Of Gangawathi,",2776,,,"tungabhadra gangawathi, Karnataka, India",False
+"Tungabhadra At New Bridge,",2766,15.9648343,77.366508,"tungabhadra, Karnataka, India",True
+Tungabhadra At Honnali Bridge,2766,14.2389785,75.6457434,"honnali, Karnataka, India",True
+"Tunga At D/S Of Shimoga Town,",1168,13.1016789,77.5756532,"town, Karnataka, India",True
+Tungabhadra At Confluence Point Of Tunga And Bhadra At Kudli,1896,18.1124192,77.3351885,"kudli, Karnataka, India",True
+Bhadra At Malleswaram D/S Of Kiocl,1091,13.2097913,75.2503201,"kiocl, Karnataka, India",True
+"Bhadra At D/S Of Bhadravathi,",1387,13.8363715,75.6447514,"bhadra bhadravathi, Karnataka, India",True
+"Bhadra At D/S Of Kiocl Road Bridge, Near Holehunnur,",1169,,,"bhadra kiocl holehunnur, Karnataka, India",False
+"Bhadra At U/S Of Mpm,",2765,13.4893942,75.5273902,"bhadra, Karnataka, India",True
+"Bhadra At U/S Of Kiocl,",2771,13.2097913,75.2503201,"kiocl, Karnataka, India",True
+"Kagina At Shahabad Bridge,",2777,17.220367,77.3708457,"kagina shahabad, Karnataka, India",True
+"Asangi Nalla At Asangi Village,",2763,12.9423718,77.6251542,"village, Karnataka, India",True
+"Cauvery At Napokulu Bdg (D/S),",1198,,,"cauvery napokulu, Karnataka, India",False
+"Cauvery At Kushal Nagar U/S (Near Baichanahalli),",1195,12.4540512,75.9538266,"baichanahalli, Karnataka, India",True
+"Cauvery At D/S Of Karekuara Village,",1386,12.9423718,77.6251542,"village, Karnataka, India",True
+"Cauvery At Sri Rangapattanna, D/S Of Road Bdg.,",1171,,,"cauvery sri rangapattanna ., Karnataka, India",False
+"Cauvery At Bannur Bridge,",2773,12.3053048,76.6959064,"cauvery bannur, Karnataka, India",True
+"Cauvery At Ranganathittu,",2774,12.4280703,76.653645,"ranganathittu, Karnataka, India",True
+Cauvery At Krs Dam Mandya,3576,12.6368939,76.7275477,"mandya, Karnataka, India",True
+Cauvery At Water Supply Intake Point To Srirangapatna Town,3578,13.1016789,77.5756532,"town, Karnataka, India",True
+Cauvery At Water Supply Intake Point To Mandya Town,3579,13.1016789,77.5756532,"town, Karnataka, India",True
+Cauvery D/S Of Kr Nagar Bridge,3581,12.9730088,77.5804711,"nagar, Karnataka, India",True
+Cauvery U/S Of Kr Nagar,1322,12.9730088,77.5804711,"nagar, Karnataka, India",True
+Cauvery D/S Of Kushalanagar Town,51,13.1016789,77.5756532,"town, Karnataka, India",True
+Cauvery At Water Supply Intake Point To Madikeri Town,1320,13.1016789,77.5756532,"town, Karnataka, India",True
+Cauvery At Water Supply Intake Point To Mysore Pump House,1323,12.9630135,77.7177141,"house, Karnataka, India",True
+Cauvery D/S Of Maddur Water Supply Treatment Plant At Bachalli,3015,12.6720777,75.7562095,"bachalli, Karnataka, India",True
+Cauvery At Water Supply Intake Point At Kollegala Dasanapura,1324,12.7467724,77.7742876,"dasanapura, Karnataka, India",True
+Cauvery At Water Supply Intake Point At T K Halli,1451,17.8401056,76.8684901,"halli, Karnataka, India",True
+Hemavati At D/S Of Holenarasipura Town At Ramadevala Weir,1199,16.2163383,74.7515981,"weir, Karnataka, India",True
+"Shimsha At D/S Of Highway Bridge, Yediyar,",1200,12.8027322,76.972542,"Shimsha, Karnataka, India",True
+"Shimsha At D/S Of Bridge, Halagur,",1166,12.8027322,76.972542,"Shimsha, Karnataka, India",True
+Shimsha D/S Near Madduar Town,3567,13.1016789,77.5756532,"town, Karnataka, India",True
+Shimsha At Water Supply Intake Point At Madduar,3580,12.8027322,76.972542,"Shimsha, Karnataka, India",True
+"Arkavathi At D/S Of Kanakapura Town,",1165,13.1016789,77.5756532,"town, Karnataka, India",True
+"Arkavathi At T.G. Halli Reservoir, ,",2778,12.9392713,77.5722595,"reservoir, Karnataka, India",True
+"Kabini At Saragur Village D/S,",1197,12.9423718,77.6251542,"village, Karnataka, India",True
+Kabini At Cause Way Sattur,41,15.4105056,75.0456504,"sattur, Karnataka, India",True
+"Kabini At Water Intake Of Kiadb At Nanjangud,",1445,12.1220681,76.6843409,"nanjangud, Karnataka, India",True
+"Kabini At Bathing Ghat, Nanjanagud,",2775,12.0140065,76.4152088,"Kabini, Karnataka, India",True
+Kabini U/S Intake Point To Nanjanagud & Gundlupet At Debur,3575,12.7955792,77.6989396,"Kabini U, Karnataka, India",True
+Kabini At Water Supply Intake Point To T. Narasipura,3577,13.2702874,77.2346786,"narasipura, Karnataka, India",True
+"Lakshmantirtha At D/S Of Hunsur Town,",1196,13.1016789,77.5756532,"town, Karnataka, India",True
+"Lakshmantirtha At D/S Of Kattemalavadi,",2772,12.3518289,76.2890432,"kattemalavadi, Karnataka, India",True
+3582,GEN-9D684C,14.8143303,74.1424757,"3582, Karnataka, India",True
+3583,GEN-69EBA3,14.8143303,74.1424757,"3583, Karnataka, India",True
+3584,GEN-565767,14.8143303,74.1424757,"3584, Karnataka, India",True
+3585,GEN-2668A7,14.8143303,74.1424757,"3585, Karnataka, India",True
+3586,GEN-224E5E,14.8143303,74.1424757,"3586, Karnataka, India",True
+3587,GEN-ABA53D,14.8143303,74.1424757,"3587, Karnataka, India",True
+3591,GEN-9001CA,14.8143303,74.1424757,"3591, Karnataka, India",True
+3592,GEN-69F357,14.8143303,74.1424757,"3592, Karnataka, India",True
+3601,GEN-62E7F2,14.8143303,74.1424757,"3601, Karnataka, India",True
+3602,GEN-228B25,14.8143303,74.1424757,"3602, Karnataka, India",True
+3608,GEN-60A057,14.8143303,74.1424757,"3608, Karnataka, India",True
+3610,GEN-F95EC3,14.8143303,74.1424757,"3610, Karnataka, India",True
+3611,GEN-4CF33E,14.8143303,74.1424757,"3611, Karnataka, India",True
+3612,GEN-D87CA5,14.8143303,74.1424757,"3612, Karnataka, India",True
+3613,GEN-C4FA7A,14.8143303,74.1424757,"3613, Karnataka, India",True
+3614,GEN-6ADD07,14.8143303,74.1424757,"3614, Karnataka, India",True
+3615,GEN-D8C9D0,14.8143303,74.1424757,"3615, Karnataka, India",True
+3616,GEN-78D69F,14.8143303,74.1424757,"3616, Karnataka, India",True
+3617,GEN-DB6851,14.8143303,74.1424757,"3617, Karnataka, India",True
+3618,GEN-4DA9D7,14.8143303,74.1424757,"3618, Karnataka, India",True
+3620,GEN-4BAF54,14.8143303,74.1424757,"3620, Karnataka, India",True
+3621,GEN-C5B270,14.8143303,74.1424757,"3621, Karnataka, India",True
+3622,GEN-856B50,14.8143303,74.1424757,"3622, Karnataka, India",True
+3624,GEN-5EE007,14.8143303,74.1424757,"3624, Karnataka, India",True
+3625,GEN-DD7970,14.8143303,74.1424757,"3625, Karnataka, India",True
+3627,GEN-2BF283,14.8143303,74.1424757,"3627, Karnataka, India",True
+3628,GEN-3E524B,14.8143303,74.1424757,"3628, Karnataka, India",True
+3644,GEN-8A0572,14.8143303,74.1424757,"3644, Karnataka, India",True
+3645,GEN-D0AA51,14.8143303,74.1424757,"3645, Karnataka, India",True
+3646,GEN-B5A1D9,13.1100853,77.8164328,"3646, Karnataka, India",True
+3647,GEN-0D8080,14.8143303,74.1424757,"3647, Karnataka, India",True
+3649,GEN-49C0FA,14.8143303,74.1424757,"3649, Karnataka, India",True
+3559,GEN-F11BEC,14.8143303,74.1424757,"3559, Karnataka, India",True
+3560,GEN-0AE1DD,14.8143303,74.1424757,"3560, Karnataka, India",True
+3561,GEN-414A74,14.8143303,74.1424757,"3561, Karnataka, India",True
+3565,GEN-E6E713,14.8143303,74.1424757,"3565, Karnataka, India",True
+3588,GEN-C2964C,14.8143303,74.1424757,"3588, Karnataka, India",True
+3589,GEN-A385D7,14.8143303,74.1424757,"3589, Karnataka, India",True
+3590,GEN-DA6EA7,14.8143303,74.1424757,"3590, Karnataka, India",True
+3594,GEN-DCE8AF,14.8143303,74.1424757,"3594, Karnataka, India",True
+3595,GEN-C0E851,14.8143303,74.1424757,"3595, Karnataka, India",True
+3597,GEN-B89C30,14.8143303,74.1424757,"3597, Karnataka, India",True
+3598,GEN-6A4504,14.8143303,74.1424757,"3598, Karnataka, India",True
+3599,GEN-E7E69C,14.8143303,74.1424757,"3599, Karnataka, India",True
+3600,GEN-8D7628,14.8143303,74.1424757,"3600, Karnataka, India",True
+3603,GEN-6A8018,14.8143303,74.1424757,"3603, Karnataka, India",True
+3604,GEN-C254E7,12.9657791,77.6390671,"3604, Karnataka, India",True
+3605,GEN-A05D88,14.8143303,74.1424757,"3605, Karnataka, India",True
+3606,GEN-774B0E,14.8143303,74.1424757,"3606, Karnataka, India",True
+3619,GEN-820E69,14.8143303,74.1424757,"3619, Karnataka, India",True
+3626,GEN-0EE8B8,14.8143303,74.1424757,"3626, Karnataka, India",True
+3629,GEN-1305F6,14.8143303,74.1424757,"3629, Karnataka, India",True
+3630,GEN-1A5518,14.8143303,74.1424757,"3630, Karnataka, India",True
+3632,GEN-398475,14.8143303,74.1424757,"3632, Karnataka, India",True
+3634,GEN-E2EABA,14.8143303,74.1424757,"3634, Karnataka, India",True
+3635,GEN-A098B2,14.8143303,74.1424757,"3635, Karnataka, India",True
+3637,GEN-CAE82D,14.8143303,74.1424757,"3637, Karnataka, India",True
+3638,GEN-895DAA,14.8143303,74.1424757,"3638, Karnataka, India",True
+3640,GEN-4F11B5,14.8143303,74.1424757,"3640, Karnataka, India",True
+3641,GEN-22C5A9,14.8143303,74.1424757,"3641, Karnataka, India",True
+3643,GEN-7AE11A,14.8143303,74.1424757,"3643, Karnataka, India",True
+3648,GEN-CFF02A,14.8143303,74.1424757,"3648, Karnataka, India",True
+3650,GEN-45CEF8,14.8143303,74.1424757,"3650, Karnataka, India",True
+3651,GEN-C203E4,14.8143303,74.1424757,"3651, Karnataka, India",True
+3653,GEN-2DA6CC,14.8143303,74.1424757,"3653, Karnataka, India",True
+3654,GEN-CF8811,14.8143303,74.1424757,"3654, Karnataka, India",True
+3657,GEN-A22D33,14.8143303,74.1424757,"3657, Karnataka, India",True
+3659,GEN-07845C,14.8143303,74.1424757,"3659, Karnataka, India",True
+3660,GEN-9627C4,14.8143303,74.1424757,"3660, Karnataka, India",True
+3661,GEN-E76181,14.8143303,74.1424757,"3661, Karnataka, India",True
+3663,GEN-DDF902,14.8143303,74.1424757,"3663, Karnataka, India",True
+3664,GEN-B67FB3,14.8143303,74.1424757,"3664, Karnataka, India",True
+3665,GEN-691584,14.8143303,74.1424757,"3665, Karnataka, India",True
+3666,GEN-1EA97D,14.8143303,74.1424757,"3666, Karnataka, India",True
+3667,GEN-F095CE,14.8143303,74.1424757,"3667, Karnataka, India",True
+3668,GEN-1D2A48,14.8143303,74.1424757,"3668, Karnataka, India",True
+3669,GEN-E1228B,14.8143303,74.1424757,"3669, Karnataka, India",True
+3670,GEN-77EC6F,14.8143303,74.1424757,"3670, Karnataka, India",True
+3671,GEN-54EBDF,14.8143303,74.1424757,"3671, Karnataka, India",True
+3672,GEN-F3C89B,14.8143303,74.1424757,"3672, Karnataka, India",True
+3673,GEN-740A02,14.8143303,74.1424757,"3673, Karnataka, India",True
+3675,GEN-845F3C,14.8143303,74.1424757,"3675, Karnataka, India",True
+3677,GEN-71D723,14.8143303,74.1424757,"3677, Karnataka, India",True
+3679,GEN-74791E,14.8143303,74.1424757,"3679, Karnataka, India",True
+3680,GEN-2122C6,14.8143303,74.1424757,"3680, Karnataka, India",True
+3681,GEN-9426C3,14.8143303,74.1424757,"3681, Karnataka, India",True
+3682,GEN-898AEF,14.8143303,74.1424757,"3682, Karnataka, India",True
+3683,GEN-ACB5D1,14.8143303,74.1424757,"3683, Karnataka, India",True
+3684,GEN-C90E27,14.8143303,74.1424757,"3684, Karnataka, India",True
+3685,GEN-55A0DF,14.8143303,74.1424757,"3685, Karnataka, India",True
+3686,GEN-DC7271,14.8143303,74.1424757,"3686, Karnataka, India",True
+3687,GEN-6754E0,14.8143303,74.1424757,"3687, Karnataka, India",True
+3688,GEN-D88006,14.8143303,74.1424757,"3688, Karnataka, India",True
+3689,GEN-39EA40,14.8143303,74.1424757,"3689, Karnataka, India",True
+3690,GEN-781397,14.8143303,74.1424757,"3690, Karnataka, India",True
+3691,GEN-8ABFE8,14.8143303,74.1424757,"3691, Karnataka, India",True
+3692,GEN-882735,13.1100853,77.8164328,"3692, Karnataka, India",True
+3693,GEN-F23D12,14.8143303,74.1424757,"3693, Karnataka, India",True
+3694,GEN-4B26DC,14.8143303,74.1424757,"3694, Karnataka, India",True
+3695,GEN-AF1B57,14.8143303,74.1424757,"3695, Karnataka, India",True
+3696,GEN-95C9D9,14.8143303,74.1424757,"3696, Karnataka, India",True
+3697,GEN-0B105C,14.8143303,74.1424757,"3697, Karnataka, India",True
+"Kali At D/S West Coast Paper Mill, Karnataka",1444,13.0222347,77.5671832,"karnataka, Karnataka, India",True
+"Kali At U/S Of Wcpm, Dandeli, Karnataka",2780,13.0222347,77.5671832,"karnataka, Karnataka, India",True
+3566,GEN-6346DC,14.8143303,74.1424757,"3566, Karnataka, India",True
+3571,GEN-F8F516,14.8143303,74.1424757,"3571, Karnataka, India",True
+Borewell Water Near Mangalijyothi School Msw Site Vammanjoor,3564,12.9169819,74.9005045,"vamanjoor, Karnataka, India",True
+"M/S Sugureshwara Ind, 196 (P), Kiadb Ind Growth Centre, Chika Sugar, Raichur",4093,16.0547194,76.9003647,"raichur, Karnataka, India",True
+"Ulsoor Lake Training Centre Of Fish Breeding,",1388,12.7886772,77.5430947,"breeding, Karnataka, India",True
+"Heballa Valley Lake At D/S Road Bridge Nr. Mandya,",1446,12.6391039,76.4929544,"lake mandya, Karnataka, India",True
+Amruthahalli Lake,3628,14.5415972,74.3256803,"lake, Karnataka, India",True
+"Gangondana Halli Lake, Bengaluru North",4094,13.1990579,77.7128087,"lake bengaluru north, Karnataka, India",True
+"Chikkabanvara Lake, Chikkabanwara, Bengaluru North",4095,13.1826245,77.3395681,"bengaluru north, Karnataka, India",True
+"Andhrahalli Lake, Andhrahalli, Bengaluru",4096,13.0096432,77.5031935,"andhrahalli bengaluru, Karnataka, India",True
+"Kachohalli Lake, Kachohalli, Bengaluru North",4097,13.0097462,77.4794715,"kachohalli bengaluru north, Karnataka, India",True
+Sarakki Lake,4504,14.5415972,74.3256803,"lake, Karnataka, India",True
+Nelamangala Lake,4505,14.5415972,74.3256803,"lake, Karnataka, India",True
+Chelekere Lake,4507,13.0267877,77.6454951,"chelekere lake, Karnataka, India",True
+Singapura Lake,4508,13.0818088,77.5351268,"singapura lake, Karnataka, India",True
+Narasipura Lake,4509,13.0722631,77.5576673,"narasipura lake, Karnataka, India",True
+Rachenahalli Lake,4510,13.0624602,77.6124088,"rachenahalli lake, Karnataka, India",True
+Ullalu Lake,4533,14.5415972,74.3256803,"lake, Karnataka, India",True
+Sompura Lake,4534,12.8698009,77.7692887,"sompura lake, Karnataka, India",True
+Gubbalal Kere,4535,12.3103805,76.6304982,"kere, Karnataka, India",True
+Hosakerehalli Lake,4536,14.5415972,74.3256803,"lake, Karnataka, India",True
+Chinnakurchi Kere,4537,12.3103805,76.6304982,"kere, Karnataka, India",True
+Machohalli Lake,4538,14.5415972,74.3256803,"lake, Karnataka, India",True
+Doddabidarakallu Lake,4539,14.5415972,74.3256803,"lake, Karnataka, India",True
+Kammgondanahalli Lake,4540,14.5415972,74.3256803,"lake, Karnataka, India",True
+Kodi Singasandra Lake,4543,12.8824869,77.6454373,"singasandra lake, Karnataka, India",True
+Jungu Kere,4545,12.3103805,76.6304982,"kere, Karnataka, India",True
+Jakksandra Lake,4546,14.5415972,74.3256803,"lake, Karnataka, India",True
+Swarana Kunte,4547,13.5280059,77.1008438,"kunte, Karnataka, India",True
+Mavenakere Tank,3560,13.1632423,75.8608098,"tank, Karnataka, India",True
+Hundikere (Koppal) Tank,3561,13.1632423,75.8608098,"tank, Karnataka, India",True
+Karanjikere Tank,3588,13.1632423,75.8608098,"tank, Karnataka, India",True
+Anekal Doddakere Tank,3623,13.1632423,75.8608098,"tank, Karnataka, India",True
+Jigani Tnak,3642,,,,False
+Kallakatte Kere Tank,3658,13.0099946,77.5737934,"kere tank, Karnataka, India",True
+Mathana Kere Tank,3659,13.0099946,77.5737934,"kere tank, Karnataka, India",True
+Hunasina Kere Tank,3660,13.0099946,77.5737934,"kere tank, Karnataka, India",True
+Kokkanaghattadoddakere Tank,3661,13.1632423,75.8608098,"tank, Karnataka, India",True
+Sathenahallidoddakere Tank,3667,13.1632423,75.8608098,"tank, Karnataka, India",True
+Sheleramanahallikere Tank,3669,13.1632423,75.8608098,"tank, Karnataka, India",True
+Sathamangalakere Tank,3674,13.1632423,75.8608098,"tank, Karnataka, India",True
+Angol Mi Tank,3681,13.1632423,75.8608098,"tank, Karnataka, India",True
+Herekere Tank,3683,13.1632423,75.8608098,"tank, Karnataka, India",True
+Kelegere Tank,3684,13.1632423,75.8608098,"tank, Karnataka, India",True
+Nirasagarakere Tank,3686,13.1632423,75.8608098,"tank, Karnataka, India",True
+Nuggikere Tank,3687,13.1632423,75.8608098,"tank, Karnataka, India",True
+Sudanakere Tank,3688,13.1632423,75.8608098,"tank, Karnataka, India",True
+Someshwarakere Tank,3689,13.1632423,75.8608098,"tank, Karnataka, India",True
+Unakalkere Tank,3690,13.1632423,75.8608098,"tank, Karnataka, India",True
+Kunduvadakere Tank,3692,13.1632423,75.8608098,"tank, Karnataka, India",True
+Bhathikere Tank,3693,13.1632423,75.8608098,"tank, Karnataka, India",True
+Shanthisagarkere Tank,3694,13.1632423,75.8608098,"tank, Karnataka, India",True
+Kondaggikere Tank,3695,13.1632423,75.8608098,"tank, Karnataka, India",True
+Aianakere Tank,3696,13.1632423,75.8608098,"tank, Karnataka, India",True
+Mattadakere Tank,3697,13.1632423,75.8608098,"tank, Karnataka, India",True
+"Manchalapur Tank, Manchalapur, Raichur Tq & Dist",4092,16.0547194,76.9003647,"raichur dist, Karnataka, India",True
+"Sanavalli Dam, Mungod",4498,,,,False
+Manchanabale Dam,4501,13.4573369,77.7539148,"manchanabale, Karnataka, India",True
+Ramammana Kere,4502,12.3103805,76.6304982,"kere, Karnataka, India",True
+Madhure Tank,4503,13.1632423,75.8608098,"tank, Karnataka, India",True
+Kammasandra Tank,4530,13.1632423,75.8608098,"tank, Karnataka, India",True
+Rayasandra Lake,4531,12.8706046,77.6776566,"rayasandra lake, Karnataka, India",True
+Chandapura Lake,4532,14.5415972,74.3256803,"lake, Karnataka, India",True
+"Benniothora Dam, Kurkota Village",4499,12.9617214,77.6366258,"village, Karnataka, India",True
+"Kagina River At D/S Of Bridge Cum Barrage, Sadem Tq",4500,,,"kagina river cum sadem tq, Karnataka, India",False
+"Kali At D/S West Coast Paper Mill (Wcpm) ,",1444,,,"kali west coast paper mill wcpm, Karnataka, India",False
+"Kali At U/S Of Wcpm, Dandeli,",2780,15.2490284,74.6236037,"dandeli, Karnataka, India",True
+Kengre Hole (Sirsi),4497,14.6192362,74.8388611,"sirsi, Karnataka, India",True
+Kumaradhara - U/S Of Uppinagady Town Before Confluence With River Nethravathi,1894,13.0898321,77.5424946,"nethravathi, Karnataka, India",True
+Netravathi At Thumbe Water Supply Stations To Mangalore City,3562,13.0222347,77.5671832,"city, Karnataka, India",True
+Netravathi At U/S Of Upiingady Town,3563,13.1016789,77.5756532,"town, Karnataka, India",True
+"Krishna At D/S Of Devasagar Bdg.,",1170,,,"krishna devasagar ., Karnataka, India",False
+"Ghatprabha At D/S Of Mudhol Rd. Cross Bdg.,",1185,12.9529035,77.5158003,"cross, Karnataka, India",True
+Cauvery River Before Confluence At Sangam,4109,12.9118138,77.6412174,"sangam, Karnataka, India",True
+Cauvery At Ajjibore (Bangalore),30052,12.9767936,77.590082,"bangalore, Karnataka, India",True
+"Cauvery River D/S Barachuki Falls, Sathegala, Kollegala",4099,12.170079,77.1462741,"kollegala, Karnataka, India",True
+Yagachi River Near Pumping Station. Hassan City,1893,13.0222347,77.5671832,"city, Karnataka, India",True
+"Arkavathi At Hesaraghatta Reservoir,",2779,12.9392713,77.5722595,"reservoir, Karnataka, India",True
+Lakshmantirtha At Water Supply Intake Point To Hunsur Town,3572,13.1016789,77.5756532,"town, Karnataka, India",True
+Ulsoor Lake Temple,3593,12.7662898,75.1007332,"lake temple, Karnataka, India",True
+Ibbalur Lake,3609,14.5415972,74.3256803,"lake, Karnataka, India",True
+Abbigere Lake,4506,13.079959,77.5291386,"abbigere lake, Karnataka, India",True
+Sadramangala Lake,4514,14.5415972,74.3256803,"lake, Karnataka, India",True
+Battarahalli Lake,4515,14.5415972,74.3256803,"lake, Karnataka, India",True
+Kundalahalli Lake,4516,12.9693696,77.7207209,"kundalahalli lake, Karnataka, India",True
+Kowdhenahalli Lake,4517,14.5415972,74.3256803,"lake, Karnataka, India",True
+Garudacharpalya Lake,4518,12.9909427,77.6959734,"garudacharpalya lake, Karnataka, India",True
+Rampura Lake,4519,14.5415972,74.3256803,"lake, Karnataka, India",True
+Chinnapanhalli Lake,4520,14.5415972,74.3256803,"lake, Karnataka, India",True
+Devarabeesanahalli Lake,4521,14.5415972,74.3256803,"lake, Karnataka, India",True
+Nallurahalli Lake,4523,12.9743416,77.7358735,"nallurahalli lake, Karnataka, India",True
+Pattandur Agarahara,4524,12.9876393,77.7377718,"pattandur agarahara, Karnataka, India",True
+Seetharam Palya Lake,4525,12.9187861,77.7211285,"palya lake, Karnataka, India",True
+Kasavanahalli Lake,4529,12.9049906,77.6680265,"kasavanahalli lake, Karnataka, India",True
+Basavanapura Lake,4542,14.5415972,74.3256803,"lake, Karnataka, India",True
+Kothunuru Lake,4544,14.5415972,74.3256803,"lake, Karnataka, India",True
+Nayandanahalli Tank,3596,13.1632423,75.8608098,"tank, Karnataka, India",True
+Subramanyapura Tank,3633,13.1632423,75.8608098,"tank, Karnataka, India",True
+Bandematta Tank,3636,13.1632423,75.8608098,"tank, Karnataka, India",True
+Kanchanahalli Koppalu Kere,3657,12.3103805,76.6304982,"kere, Karnataka, India",True
+Makana Kere,3659,12.3103805,76.6304982,"kere, Karnataka, India",True
+Koushika Kere,3662,12.9661908,76.1482604,"koushika kere, Karnataka, India",True
+Soudralli Kere,3668,12.3103805,76.6304982,"kere, Karnataka, India",True
+Pereminahalli Kere,3669,12.3103805,76.6304982,"kere, Karnataka, India",True
+Inorkatte Kere,3670,12.3103805,76.6304982,"kere, Karnataka, India",True
+Avali Kere,3673,12.3103805,76.6304982,"kere, Karnataka, India",True
+Sathyamangala Kere,3674,12.3103805,76.6304982,"kere, Karnataka, India",True
+B Katihalli Kere,3675,12.3103805,76.6304982,"kere, Karnataka, India",True
+Gavenahallikere,3676,,,,False
+Dyavasandra Tank,4526,13.1632423,75.8608098,"tank, Karnataka, India",True
+Alur Kere,4541,12.3103805,76.6304982,"kere, Karnataka, India",True
+"River Kali At D/S West Coast Paper Mill (Wcpm) ,",1444,,,"kali west coast paper mill wcpm, Karnataka, India",False
+River Netravathi U/S Of Dharmastala At Water Supply Intake Point,1892,12.9519571,75.3813122,"dharmastala, Karnataka, India",True
+River Kumaradhara - U/S Of Uppinagady Town Before Confluence With Nethravathi,1894,13.0898321,77.5424946,"nethravathi, Karnataka, India",True
+"River Kali At U/S Of Wcpm, Dandeli,",2780,15.2490284,74.6236037,"dandeli, Karnataka, India",True
+River Netravathi At Thumbe Water Supply Stations To Mangalore City,3562,13.0222347,77.5671832,"city, Karnataka, India",True
+River Netravathi At U/S Of Upiingady Town,3563,13.1016789,77.5756532,"town, Karnataka, India",True
+"River Gangavali River, Nr Bridge, Ankola",4087,14.6453588,74.3319253,"ankola, Karnataka, India",True
+"River Aghanashini River, Nr Bridge, Kumata",4088,14.4271622,74.4117058,"kumata, Karnataka, India",True
+River Gundabai At Hadinabai Bridge,4089,,,"gundabai hadinabai, Karnataka, India",False
+River Sharavathi Nr Bridge At Honnavara,4090,14.2810827,74.4446716,"honnavara, Karnataka, India",True
+River Venkatpur Nr Kadivinakatte Dam,4091,,,"venkatpur nr kadivinakatte, Karnataka, India",False
+River Kengre Hole (Sirsi),4497,14.6192362,74.8388611,"sirsi, Karnataka, India",True
+"Benniothora Reservoir,Benniothora Dam, Kurkota Village",4499,12.9423718,77.6251542,"village, Karnataka, India",True
+"River Kagina At D/S Of Bridge Cum Barrage, Sadem Tq",4500,,,"kagina cum sadem tq, Karnataka, India",False
+2763,37,14.8143303,74.1424757,"2763, Karnataka, India",True
+Karnataka,1889,13.0222347,77.5671832,"karnataka, Karnataka, India",True
+Krishna At D/S Of Devasagar Bldg.,1170,12.9728448,77.7108631,"bldg., Karnataka, India",True
+Tungabhadra At U/S Of Hpf,2767,15.9648343,77.366508,"tungabhadra, Karnataka, India",True
+Tungabhadra At D/S Of Hpf,2768,15.9648343,77.366508,"tungabhadra, Karnataka, India",True
+Tungabhadra At D/S Of Gangawathi,2776,,,"tungabhadra gangawathi, Karnataka, India",False
+Tunga At D/S Of Shimoga Town,1168,13.1016789,77.5756532,"town, Karnataka, India",True
+Bhadra At D/S Of Bhadravathi,1387,13.8363715,75.6447514,"bhadra bhadravathi, Karnataka, India",True
+Bhadra At U/S Of Mpm,2765,13.4893942,75.5273902,"bhadra, Karnataka, India",True
+Bhadra At U/S Of Kiocl,2771,13.2097913,75.2503201,"kiocl, Karnataka, India",True
+Cauvery At Napokulu Bdg (D/S),1198,,,"cauvery napokulu, Karnataka, India",False
+Cauvery At D/S Of Karekuara Village,1386,12.9423718,77.6251542,"village, Karnataka, India",True
+D/S Of Cauvery At Bhagamandala Bridge,4102,12.3813118,75.5157832,"cauvery bhagamandala, Karnataka, India",True
+"Shimsha At D/S Of Bridge, Halagur",1166,,,"shimsha halagur, Karnataka, India",False
+"Shimsha At D/S Of Highway Bridge, Yediyar",1200,,,"shimsha yediyar, Karnataka, India",False
+Arkavathi At D/S Of Kanakapura Town,1165,13.1016789,77.5756532,"town, Karnataka, India",True
+Kabini At Water Intake Of Kiadb At Nanjangud,1445,12.1220681,76.6843409,"nanjangud, Karnataka, India",True
+Lakshmantirtha At D/S Of Hunsur Town,1196,13.1016789,77.5756532,"town, Karnataka, India",True
+Whitefield Kere,4527,12.3103805,76.6304982,"kere, Karnataka, India",True
+Kogilu Kere,4511,12.3103805,76.6304982,"kere, Karnataka, India",True
+Sharanabasaveshwara Kere,3677,12.3103805,76.6304982,"kere, Karnataka, India",True
+River Godavari At Baser(Bangalore),30051,12.9767936,77.590082,"bangalore, Karnataka, India",True
+River Manjeera At D/S In Intake Point To Bidar City,1891,13.0222347,77.5671832,"city, Karnataka, India",True
+River Manjeera At Janwada(Bangalore),30055,12.9767936,77.590082,"bangalore, Karnataka, India",True
+River Krishna - Ankali Bridge Along Chikkodi Kagwad Road,1889,16.6960786,74.7187223,"kagwad, Karnataka, India",True
+"River Krishna At U/S Of Ugarkhurd Barrage,",1182,,,"krishna ugarkhurd, Karnataka, India",False
+"River Krishna At D/S Of Alamatti Dam,",2781,16.3451718,75.8923516,"alamatti, Karnataka, India",True
+"River Krishna At D/S Of Narayanpura Dam,",1181,15.4559068,74.9922057,"krishna narayanpura, Karnataka, India",True
+"River Krishna At Tintini Bridge,",1028,,,"krishna tintini, Karnataka, India",False
+"River Krishna At D/S Of Devasagar Bdg.,",1170,,,"krishna devasagar ., Karnataka, India",False
+River Krishna At Deodurga (Bangalore),30056,12.9767936,77.590082,"bangalore, Karnataka, India",True
+River Bhima At Gangapur (Bangalore),30057,12.9767936,77.590082,"bangalore, Karnataka, India",True
+"River Bhima At D/S Of Road Bridge At Gangapur Village,",1183,12.9423718,77.6251542,"village, Karnataka, India",True
+"River Bhima At Ferozabad Village (D/S),",1184,12.9423718,77.6251542,"village, Karnataka, India",True
+"River Bhima At D/S Of Bdg. Near Yadgir,",1167,16.5744123,76.9254434,"yadgir, Karnataka, India",True
+River Bhima At Confluence Of Jewargi Town Sewage Disposal Point,1888,13.3067379,77.6125389,"disposal, Karnataka, India",True
+"River Ghatprabha At W.A. Point To Gokak Town,",1163,13.1016789,77.5756532,"town, Karnataka, India",True
+"River Ghatprabha At D/S Of Mudhol Rd. Cross Bdg.,",1185,12.9529035,77.5158003,"cross, Karnataka, India",True
+"River Malprabha At D/S Of Khanapur Village,",1187,12.9423718,77.6251542,"village, Karnataka, India",True
+"River Malprabha At Water Abstr. Pt. To Hubli, Dharwar,",1164,15.4540505,75.0066516,"dharwar, Karnataka, India",True
+"River Malprabha At D/S Of Aihole Town,",1186,13.1016789,77.5756532,"town, Karnataka, India",True
+"River Malprabha At Badami Bridge,",2764,15.9203874,75.6807865,"badami, Karnataka, India",True
+River Tungabhadra At Ullanur,29,,,"tungabhadra ullanur, Karnataka, India",False
+"River Tungabhadra At U/S Of Hpf,",2767,15.9648343,77.366508,"tungabhadra, Karnataka, India",True
+"River Tungabhadra At D/S Of Hpf,",2768,15.9648343,77.366508,"tungabhadra, Karnataka, India",True
+"River Tungabhadra At Jackwell Point,",2769,15.9648343,77.366508,"tungabhadra, Karnataka, India",True
+River Tungabhadra At Dadesugur Bridge Gauging Station,3558,12.4235961,76.683307,"station, Karnataka, India",True
+River Tungabhadra At Mylara,4494,12.9746645,77.5324339,"mylara, Karnataka, India",True
+River Tungabhadra At Aravi,4495,,,"tungabhadra aravi, Karnataka, India",False
+River Tungabhadra At Hochechalli (Bangalore),30054,12.9767936,77.590082,"bangalore, Karnataka, India",True
+"River Tungabhadra At Harihar Water Supply Intake,",2770,14.5153541,75.8110476,"harihar, Karnataka, India",True
+"River Tungabhadra At D/S Of Gangawathi,",2776,,,"tungabhadra gangawathi, Karnataka, India",False
+"River Tungabhadra At New Bridge,",2766,15.9648343,77.366508,"tungabhadra, Karnataka, India",True
+River Tungabhadra At Honnali Bridge,38,14.2389785,75.6457434,"honnali, Karnataka, India",True
+"River Tungabhadra At Haralahalli Bridge,",1029,13.0236469,76.0551085,"haralahalli, Karnataka, India",True
+"River Tunga At D/S Of Shimoga Town,",1168,13.1016789,77.5756532,"town, Karnataka, India",True
+River Tungabhadra At Confluence Point Of Tunga And Bhadra At Kudli,1896,18.1124192,77.3351885,"kudli, Karnataka, India",True
+River Bhadra At Malleswaram D/S Of Kiocl,1091,13.2097913,75.2503201,"kiocl, Karnataka, India",True
+"River Bhadra At D/S Of Bhadravathi,",1387,13.8363715,75.6447514,"bhadra bhadravathi, Karnataka, India",True
+"River Bhadra At D/S Of Kiocl Road Bridge, Near Holehunnur,",1169,,,"bhadra kiocl holehunnur, Karnataka, India",False
+"River Bhadra At U/S Of Mpm,",2765,13.4893942,75.5273902,"bhadra, Karnataka, India",True
+"River Bhadra At U/S Of Kiocl,",2771,13.2097913,75.2503201,"kiocl, Karnataka, India",True
+River Kagina D/S Of Sewage Disposal Point,1895,13.3067379,77.6125389,"disposal, Karnataka, India",True
+"River Kagina At Shahabad Bridge,",2777,17.220367,77.3708457,"kagina shahabad, Karnataka, India",True
+"River Cauvery At Napokulu Bdg (D/S),",1198,,,"cauvery napokulu, Karnataka, India",False
+"River Cauvery At Kushal Nagar U/S (Near Baichanahalli),",1195,12.4540512,75.9538266,"baichanahalli, Karnataka, India",True
+"River Cauvery At Krs Dam, Balamurikshetra",33,,,"cauvery krs balamurikshetra, Karnataka, India",False
+"River Cauvery At Sri Rangapattanna, D/S Of Road Bdg.,",1171,,,"cauvery sri rangapattanna ., Karnataka, India",False
+"River Cauvery At D/S Of Karekuara Village,",1386,12.9423718,77.6251542,"village, Karnataka, India",True
+River Cauvery At Sathyagalam Bridge,34,,,"cauvery sathyagalam, Karnataka, India",False
+"River Cauvery At Bannur Bridge,",2773,12.3053048,76.6959064,"cauvery bannur, Karnataka, India",True
+"River Cauvery At Ranganathittu,",2774,12.4280703,76.653645,"ranganathittu, Karnataka, India",True
+River Cauvery At Krs Dam Mandya,3566,12.6368939,76.7275477,"mandya, Karnataka, India",True
+River Cauvery At Water Supply Intake Point To Srirangapatna Town,3568,13.1016789,77.5756532,"town, Karnataka, India",True
+River Cauvery At Water Supply Intake Point To Mandya Town,3569,13.1016789,77.5756532,"town, Karnataka, India",True
+River Cauvery D/S Of Kr Nagar Bridge,3570,12.9730088,77.5804711,"nagar, Karnataka, India",True
+River Cauvery U/S Of Kr Nagar,3571,12.9730088,77.5804711,"nagar, Karnataka, India",True
+River Cauvery D/S Of Kushalanagar Town,3573,13.1016789,77.5756532,"town, Karnataka, India",True
+River Cauvery At Water Supply Intake Point To Madikeri Town,3574,13.1016789,77.5756532,"town, Karnataka, India",True
+River Cauvery At Water Supply Intake Point To Mysore Pump House,3576,12.9630135,77.7177141,"house, Karnataka, India",True
+River Cauvery D/S Of Maddur Water Supply Treatment Plant At Bachalli,3578,12.6720777,75.7562095,"bachalli, Karnataka, India",True
+River Cauvery At Water Supply Intake Point At Kollegala Dasanapura,3579,12.7467724,77.7742876,"dasanapura, Karnataka, India",True
+River Cauvery At Water Supply Intake Point At T K Halli,3581,17.8401056,76.8684901,"halli, Karnataka, India",True
+River Cauvery Before Confluence At Sangam,4109,12.9118138,77.6412174,"sangam, Karnataka, India",True
+"River Cauvery D/S Barachuki Falls, Sathegala, Kollegala",4099,12.170079,77.1462741,"kollegala, Karnataka, India",True
+"River Gundal At Gundal Reservoir, Kollegala Tq & Chamarajanagara Dist",4101,12.5947183,75.4415106,"dist, Karnataka, India",True
+River Cauvery D/S At Bhagamandala Bridge,4102,12.3813118,75.5157832,"cauvery bhagamandala, Karnataka, India",True
+"River Cauvery D/S At Kanive Ramalingeswara Temple Bridge, Kushalnagar",4103,12.4585525,75.961437,"kushalnagar, Karnataka, India",True
+River Cauvery At Ajjibore (Bangalore),30052,12.9767936,77.590082,"bangalore, Karnataka, India",True
+River Yagachi Near Pumping Station. Hassan City,1893,13.0222347,77.5671832,"city, Karnataka, India",True
+River Hemavati At D/S Of Holenarasipura Town At Ramadevala Weir,1199,16.2163383,74.7515981,"weir, Karnataka, India",True
+"River Shimsha At D/S Of Bridge, Halagur,",1166,,,"shimsha halagur, Karnataka, India",False
+"River Shimsha At D/S Of Highway Bridge, Yediyar,",1200,,,"shimsha yediyar, Karnataka, India",False
+River Shimsha D/S Near Madduar Town,3567,13.1016789,77.5756532,"town, Karnataka, India",True
+River Shimsha At Water Supply Intake Point At Madduar,3580,,,"shimsha madduar, Karnataka, India",False
+"River Arkavathi At D/S Of Kanakapura Town,",1165,13.1016789,77.5756532,"town, Karnataka, India",True
+"River Arkavathi At T.G. Halli Reservoir,",2778,12.9392713,77.5722595,"reservoir, Karnataka, India",True
+"River Arkavathi At Hesaraghatta Reservoir,",2779,12.9392713,77.5722595,"reservoir, Karnataka, India",True
+River Akravathi Before Confluence At Sangam,4108,12.9118138,77.6412174,"sangam, Karnataka, India",True
+River Kabini At Cause Way Sattur,41,15.4105056,75.0456504,"sattur, Karnataka, India",True
+"River Kabini At Saragur Village D/S,",1197,12.9423718,77.6251542,"village, Karnataka, India",True
+"River Kabini At Water Intake Of Kiadb At Nanjangud,",1445,12.1220681,76.6843409,"nanjangud, Karnataka, India",True
+"River Kabini At Bathing Ghat, Nanjanagud",2775,,,"kabini bathing ghat nanjanagud, Karnataka, India",False
+River Kabini U/S Intake Point To Nanjanagud & Gundlupet At Debur,3575,,,"kabini to nanjanagud & gundlupet debur, Karnataka, India",False
+River Kabini At Water Supply Intake Point To T. Narasipura,3577,13.2702874,77.2346786,"narasipura, Karnataka, India",True
+"River Lakshmantirtha At D/S Of Hunsur Town,",1196,13.1016789,77.5756532,"town, Karnataka, India",True
+River Lakshmantirtha At D/S Of Kattemalavadi,2772,12.3518289,76.2890432,"kattemalavadi, Karnataka, India",True
+River Lakshmantirtha At Water Supply Intake Point To Hunsur Town,3572,13.1016789,77.5756532,"town, Karnataka, India",True
+"River Suvaranvathi Reservoir, Attigullipura Chamarajanagar",4100,11.9544201,77.1069086,"chamarajanagar, Karnataka, India",True
+"River Dakshina Pinakini Near Mugalur Bridge Mugalur, Bengaluru",4107,12.9767936,77.590082,"bengaluru, Karnataka, India",True
+Allalasandra Lake,3629,13.0910132,77.5863933,"allalasandra lake, Karnataka, India",True
+Alur Lake,4541,13.096667,77.4586309,"alur lake, Karnataka, India",True
+Anchepalya Lake,3599,12.8903305,77.4580847,"anchepalya lake, Karnataka, India",True
+Andhrahalli Lake,4096,14.5415972,74.3256803,"lake, Karnataka, India",True
+Ayyanakere Lake,3696,14.5415972,74.3256803,"lake, Karnataka, India",True
+Benniganahalli Lake,3643,12.9970929,77.6656728,"benniganahalli lake, Karnataka, India",True
+Bhattarahalli Lake,4515,14.5415972,74.3256803,"lake, Karnataka, India",True
+Byramangala Lake,3637,14.5415972,74.3256803,"lake, Karnataka, India",True
+Chikkabanavara Lake,4095,13.0827493,77.5080115,"chikkabanavara lake, Karnataka, India",True
+Chinnappanahalli Lake,4520,12.9658555,77.7069514,"chinnappanahalli lake, Karnataka, India",True
+Devasandra Lake,4526,13.0017711,77.7032636,"devasandra lake, Karnataka, India",True
+Doddakannehalli Lake,4528,14.5415972,74.3256803,"lake, Karnataka, India",True
+Doddanekkundi Lake,3604,14.5415972,74.3256803,"lake, Karnataka, India",True
+Gangondanahalli Lake,4094,13.0184238,77.4741321,"gangondanahalli lake, Karnataka, India",True
+Gubbalal Lake,4535,14.5415972,74.3256803,"lake, Karnataka, India",True
+Haralur Lake,3621,12.8971628,77.6628189,"haralur lake, Karnataka, India",True
+Hesaraghatta Lake,3597,13.1671063,77.4921957,"hesaraghatta lake, Karnataka, India",True
+Hoskere Lake,3636,14.5415972,74.3256803,"lake, Karnataka, India",True
+Hulikere Lake,3559,14.5415972,74.3256803,"lake, Karnataka, India",True
+Hunasina Kere Lake,3660,12.2710955,76.6121216,"kere lake, Karnataka, India",True
+Jakksandra Lake (Kasavanahalli Lake ),4546,12.9055682,77.6907484,"lake kasavanahalli lake, Karnataka, India",True
+Kachohalli Lake,4097,14.5415972,74.3256803,"lake, Karnataka, India",True
+Kammagondanahalli Lake,4540,13.0685129,77.5241545,"kammagondanahalli lake, Karnataka, India",True
+Kammasandra Lake,4530,12.8255739,77.6950614,"kammasandra lake, Karnataka, India",True
+Kelegere Lake,3684,14.5415972,74.3256803,"lake, Karnataka, India",True
+Kondajjikere Lake,3695,14.5415972,74.3256803,"lake, Karnataka, India",True
+Kothanuru Lake,4544,12.876558,77.577147,"kothanuru lake, Karnataka, India",True
+Kunduvadakere Lake,3692,14.5415972,74.3256803,"lake, Karnataka, India",True
+Malathahalli Lake,3635,14.5415972,74.3256803,"lake, Karnataka, India",True
+Mangamanapalya Lake(Swarana Kunte),4547,13.5280059,77.1008438,"kunte, Karnataka, India",True
+Mulbagalu Lake,3644,14.5415972,74.3256803,"lake, Karnataka, India",True
+Nagavara Lake,3626,13.0448482,77.6069212,"nagavara lake, Karnataka, India",True
+Nuggikere Lake,3687,14.5415972,74.3256803,"lake, Karnataka, India",True
+Pattandur Agrahara Lake,4524,12.9763221,77.7452351,"pattandur agrahara lake, Karnataka, India",True
+Sadaramangala Lake,4514,14.5415972,74.3256803,"lake, Karnataka, India",True
+Sathyamangala Kere Pond,3674,15.8222671,74.4804051,"pond, Karnataka, India",True
+Seetharampalya Lake,4525,12.9823687,77.7131608,"seetharampalya lake, Karnataka, India",True
+Sheelavanta- Whitefield Lake,4527,14.5415972,74.3256803,"lake, Karnataka, India",True
+Somasundrapalya Lake,3622,14.5415972,74.3256803,"lake, Karnataka, India",True
+Sudanakere Lake,3688,14.5415972,74.3256803,"lake, Karnataka, India",True
+Unakalkere Lake,3690,14.5415972,74.3256803,"lake, Karnataka, India",True
+Vengaiyyanakere( Kr Puram Lake ),3603,13.0163074,77.7008762,"puram lake, Karnataka, India",True
+Vibhuthipura Lake,4522,14.5415972,74.3256803,"lake, Karnataka, India",True
+Viswaneedam Lake,4512,14.5415972,74.3256803,"lake, Karnataka, India",True
+Yelachenahalli Lake,3638,14.5415972,74.3256803,"lake, Karnataka, India",True
+Yelemallappa Shetty Lake,3605,14.5415972,74.3256803,"lake, Karnataka, India",True
+Ainorakatte Kere,3670,12.3103805,76.6304982,"kere, Karnataka, India",True
+Doddakere Tank(Kunigal),3653,13.0260158,77.0222704,"kunigal, Karnataka, India",True
+Ganigarahosahallike Re Tank,3666,13.1632423,75.8608098,"tank, Karnataka, India",True
+Garudacharpalya Tank,4518,13.1632423,75.8608098,"tank, Karnataka, India",True
+Hanumanthapurakat Te Tank,3671,13.1632423,75.8608098,"tank, Karnataka, India",True
+Jigani Tank,3642,13.1632423,75.8608098,"tank, Karnataka, India",True
+Kempambudhi Tank,3591,13.1632423,75.8608098,"tank, Karnataka, India",True
+Kokkanaghattadodda Kere Tank,3661,13.0099946,77.5737934,"kere tank, Karnataka, India",True
+Kowdhenahalli Tank,4517,13.1632423,75.8608098,"tank, Karnataka, India",True
+Makana (Kandali) Kere,3659,12.3103805,76.6304982,"kere, Karnataka, India",True
+Matadakere Tank (Arasanakere),3697,,,,False
+Mavinakere Tank,3560,13.1632423,75.8608098,"tank, Karnataka, India",True
+Peremanahalli Kere,3669,12.3103805,76.6304982,"kere, Karnataka, India",True
+Sahana Lake,3676,14.5415972,74.3256803,"lake, Karnataka, India",True
+Sathenahallidoddake Re Tank,3667,13.1632423,75.8608098,"tank, Karnataka, India",True
+Sharanabasaveshwar A Kere Tank,3677,13.0099946,77.5737934,"kere tank, Karnataka, India",True
+Tubarahalli Tank,3610,13.1632423,75.8608098,"tank, Karnataka, India",True
+Yediyur Tank,3592,13.1632423,75.8608098,"tank, Karnataka, India",True
+"River Kali At U/S Of Wcpm, Dandeli",2780,15.2490284,74.6236037,"dandeli, Karnataka, India",True
+River Kali At D/S West Coast Paper Mill (Wcpm),1444,,,"kali west coast paper mill wcpm, Karnataka, India",False
+River Kumaradhara U/S Of Uppinagady Town Before Confluence With Nethravathi,1894,13.0898321,77.5424946,"nethravathi, Karnataka, India",True
+River Netravathi At U/S Of Uppinangadi Town,3563,13.1016789,77.5756532,"town, Karnataka, India",True
+River Manjeera At D/S Intake Point To Bidar City,1891,13.0222347,77.5671832,"city, Karnataka, India",True
+River Krishna At U/S Of Ugarkhurd Barrage,1182,,,"krishna ugarkhurd, Karnataka, India",False
+River Krishna At D/S Of Alamatti Dam,2781,16.3451718,75.8923516,"alamatti, Karnataka, India",True
+River Krishna At Tintini Bridge,1028,,,"krishna tintini, Karnataka, India",False
+River Krishna At D/S Of Devasagar Bdg.,1170,,,"krishna devasagar ., Karnataka, India",False
+River Krishna At Asangi Village (Jamakandi Village),2763,12.9423718,77.6251542,"village, Karnataka, India",True
+"River Bhima At Takli Near Karnataka Border, Village- Takali, Taluka- South Solapur, District- Solapur.",28,12.8851215,74.8809108,"solapur district solapur., Karnataka, India",True
+River Bhima At D/S Of Road Bridge At Gangapur Village,1183,12.9423718,77.6251542,"village, Karnataka, India",True
+River Bhima At Ferozabad Village (D/S),1184,12.9423718,77.6251542,"village, Karnataka, India",True
+River Bhima At D/S Of Bdg. Near Yadgir,1167,16.5744123,76.9254434,"yadgir, Karnataka, India",True
+River Ghataprabha At D/S Of Mudhol Road Cross Bdg.,1185,12.9529035,77.5158003,"cross, Karnataka, India",True
+River Ghataprabha At W.A. Point To Gokak Town,1163,13.1016789,77.5756532,"town, Karnataka, India",True
+River Ghatprabha Davalshwar Barrage Jackwell For Drinking Water Supply,4104,12.0093072,76.4070907,"drinking, Karnataka, India",True
+River Malprabha At D/S Of Khanapur Village,1187,12.9423718,77.6251542,"village, Karnataka, India",True
+"River Malaprabha At Water Abstraction Point To Hubli, Dharwad",1164,15.3707296,75.1332867,"dharwad, Karnataka, India",True
+River Malaprabha At D/S Of Aihole Town,1186,13.1016789,77.5756532,"town, Karnataka, India",True
+River Malaprabha At Badami Bridge,2764,15.9203874,75.6807865,"badami, Karnataka, India",True
+River Tungabhadra At Haralahalli Bridge,1029,13.0236469,76.0551085,"haralahalli, Karnataka, India",True
+River Tungabhadra At Ulenoor,29,,,"tungabhadra ulenoor, Karnataka, India",False
+River Tungabhadra At U/S Of Harihar Polyfibers,2767,14.5313765,75.7863641,"polyfibers, Karnataka, India",True
+River Tungabhadra At D/S Of Harihar Polyfibers,2768,14.5313765,75.7863641,"polyfibers, Karnataka, India",True
+River Tungabhadra At Jackwell Point,2769,15.9648343,77.366508,"tungabhadra, Karnataka, India",True
+River Tungabhadra At Harihar Water Supply Intake,2770,14.5153541,75.8110476,"harihar, Karnataka, India",True
+River Tungabhadra At D/S Of Gangawathi,2776,,,"tungabhadra gangawathi, Karnataka, India",False
+River Tungabhadra At New Bridge,2766,15.9648343,77.366508,"tungabhadra, Karnataka, India",True
+River Tunga At D/S Of Shimoga Town,1168,13.1016789,77.5756532,"town, Karnataka, India",True
+River Bhadra At D/S Of Bhadravathi,1387,13.8363715,75.6447514,"bhadra bhadravathi, Karnataka, India",True
+"River Bhadra At D/S Of Kiocl Road Bridge, Near Holehunnur",1169,,,"bhadra kiocl holehunnur, Karnataka, India",False
+River Bhadra At U/S Of Mpm,2765,13.4893942,75.5273902,"bhadra, Karnataka, India",True
+River Bhadra At U/S Of Kiocl,2771,13.2097913,75.2503201,"kiocl, Karnataka, India",True
+River Kagina At Shahabad Bridge,2777,17.220367,77.3708457,"kagina shahabad, Karnataka, India",True
+"River Kagina At D/S Of Bridge Cum Barrage, Sadem",4500,,,"kagina cum sadem, Karnataka, India",False
+River Cauvery At Napokulu Bdg (D/S),1198,,,"cauvery napokulu, Karnataka, India",False
+River Cauvery At Kushal Nagar U/S (Near Baichanahalli),1195,12.4540512,75.9538266,"baichanahalli, Karnataka, India",True
+"River Cauvery At Sri Rangapattanna, D/S Of Road Bdg.",1171,,,"cauvery sri rangapattanna ., Karnataka, India",False
+River Cauvery At D/S Of Karekuara Village,1386,12.9423718,77.6251542,"village, Karnataka, India",True
+River Cauvery At Bannur Bridge,2773,12.3053048,76.6959064,"cauvery bannur, Karnataka, India",True
+River Cauvery At Ranganathittu,2774,12.4280703,76.653645,"ranganathittu, Karnataka, India",True
+River Cauvery At Water Supply Intake Point To Srirangapatna,3568,12.4226442,76.6849312,"srirangapatna, Karnataka, India",True
+River Cauvery At Water Supply Intake Point To Mysore,3576,12.3051828,76.6553609,"mysore, Karnataka, India",True
+River Cauvery At Water Supply Intake Point At Tore Kadana Halli,3581,17.8401056,76.8684901,"halli, Karnataka, India",True
+"River Cauvery D/S Bharachuki Falls, Sathegala, Kollegala",4099,12.170079,77.1462741,"kollegala, Karnataka, India",True
+"River Cauvery D/S At Kanive Ramalingeswara Temple Bridge, Kushalanagar",4103,12.4585525,75.961437,"kushalanagar, Karnataka, India",True
+"River Yagachi Near Pumping Station, Hassan City",1893,13.0222347,77.5671832,"city, Karnataka, India",True
+River Hemavathi At D/S Of Holenarasipura Town At Ramadev Weir,1199,16.2163383,74.7515981,"weir, Karnataka, India",True
+"River Shimsha At D/S Of Bridge, Halagur",1166,,,"shimsha halagur, Karnataka, India",False
+"River Shimsha At D/S Of Highway Bridge, Yediyur",1200,13.1312237,77.6957681,"yediyur, Karnataka, India",True
+River Shimsha At Water Supply Intake Point At Shivansamudra,3580,,,"shimsha shivansamudra, Karnataka, India",False
+River Arkavathi At D/S Of Kanakapura,1165,12.5450268,77.4199095,"kanakapura, Karnataka, India",True
+River Kabini At Saragur Village D/S,1197,12.9423718,77.6251542,"village, Karnataka, India",True
+River Kabini At Water Intake Of Kiadb At Nanjangud,1445,12.1220681,76.6843409,"nanjangud, Karnataka, India",True
+River Lakshmantirtha At D/S Of Hunsur Town,1196,13.1016789,77.5756532,"town, Karnataka, India",True
+River Aghanashini Marigadde (Sirsi),4496,14.6192362,74.8388611,"sirsi, Karnataka, India",True
+"River Gangavali River, Near Bridge, Ankola",4087,14.6453588,74.3319253,"ankola, Karnataka, India",True
+"River Aghanashini , Near Bridge, Kumata",4088,14.4929598,74.4000564,"aghanashini kumata, Karnataka, India",True
+River Sharavathi Near Bridge At Honnavara,4090,14.2810827,74.4446716,"honnavara, Karnataka, India",True
+River Venkatpur Near Kadivinakatte Dam,4091,,,,False
+"River Krishna At Almatti Dam Haveli , Old Jackwell Point, Bagalkote",5597,16.2903648,75.5915819,"bagalkote, Karnataka, India",True
+River Krishna At D/S Of Narayanpura Dam,1181,15.4559068,74.9922057,"krishna narayanpura, Karnataka, India",True
+"River Bhima Downstream, Dhulked Vill",5582,12.9305838,77.6920571,"vill, Karnataka, India",True
+"River Bhadra D/S Mysore Paper Mill (Mpm), Bhadrawati, Shivamogga",4105,13.9326093,75.574978,"shivamogga, Karnataka, India",True
+River Ghataprabha Davalshwar Barrage Jackwell For Drinking Water Supply,4104,12.0093072,76.4070907,"drinking, Karnataka, India",True
+River Markandeya At Rakkasakoppa Resrvoir,4098,,,"markandeya rakkasakoppa resrvoir, Karnataka, India",False
+River Tunga U/S Shivamogga City,4106,13.0222347,77.5671832,"city, Karnataka, India",True
+River Tungabhadra At Nadiharalahalli,5591,14.5511708,75.7764583,"nadiharalahalli, Karnataka, India",True
+River Tungabhadra At Airani,5592,14.6076899,75.8000811,"airani, Karnataka, India",True
+River Tungabhadra At Hirebidari,5593,14.6398434,75.8072629,"hirebidari, Karnataka, India",True
+River Tungabhadra At Konanathambige,5594,,,,False
+River Tungabhadra At Somalapura,5595,12.9338902,76.4446775,"somalapura, Karnataka, India",True
+River Tungabhadra At Kuruvathi,5596,,,,False
+River Cauvery At Water Supply Intake Point At Shivansamudra,3580,,,,False
+River Cauvery At Balmavati Bridge To Thandra Hole Tributary,5587,,,,False
+River Cauvery D/S At Kondanagiri Bridge,5583,,,"cauvery kondanagiri, Karnataka, India",False
+"River Cauvery D/S Of At Bethri Bridge , Murnad",5584,12.3162044,75.7528859,"murnad, Karnataka, India",True
+"River Cauvery D/S Of At Nellu Dikeri Bridge, Siddapura",5585,14.3409562,74.8924253,"siddapura, Karnataka, India",True
+"River Cauvery D/S Of At Dubare, Hanging Bridge (Theppa Da Kindi)",5586,12.4767157,77.2633632,"kindi, Karnataka, India",True
+"River Cauvery At Ganjam Water Supply Intake Point Near Gosai Ghat, Srirangapatna",5590,12.4226442,76.6849312,"srirangapatna, Karnataka, India",True
+"River Cauvery Atganjam Water Supply Intake Point Near Gosai Ghat, Srirangapatna,Maydya",5580,,,,False
+"River Cauvery At Karighatta Nimishamba Temple Road Bridge Srirangapatna,Maydya",5579,,,,False
+"River Cauvery At Mahadevpura Road Bridge,Maydya",5581,,,,False
+River Arkavathi At D/S Of Kanakapura Town,1165,13.1016788,77.5756532,"town, Karnataka, India",True
+River Arkavathi At Tippagondanahalli Reservoir,2778,12.9392713,77.5722595,"reservoir, Karnataka, India",True
+River Arkavathi At Hesaraghatta Reservoir,2779,12.9392713,77.5722595,"reservoir, Karnataka, India",True
+"River Shimsha Downstream Of Maddur Near Vydyanatheswara Temple Road Bridge,Maydya",5578,,,,False
+"River Arkavathi At Manchanbele Reservoir, Manchanabale Dam",4501,13.4573369,77.7539148,"manchanabale, Karnataka, India",True
+River Thenpennaiyar At Chokkarasanahalli Bridge (Bangalore),30053,12.9767936,77.590082,"bangalore, Karnataka, India",True
+"Hejamdi End Point Near Blue Flog Beach Padubidri, Kaup Tq, Udupi , District",5771,13.0222347,77.5671832,"district, Karnataka, India",True
+"Gujjarbettu, Kemmanu Asare Beach, Udupi Tq,",5772,13.5269784,74.8731879,"udupi, Karnataka, India",True
+"Kota Padukere, Brahmavara Tq, Udupi Dist",5773,13.0222347,77.5671832,"dist, Karnataka, India",True
+"Gangoli Harbour Kundapura, Udupi Dist",5774,13.0222347,77.5671832,"dist, Karnataka, India",True
+"Someshwara Beach Byndoor Tq, Udupi",5775,13.5269784,74.8731879,"udupi, Karnataka, India",True
+River Tungabhadra Atâ Airani,5592,14.6076899,75.8000811,"airani, Karnataka, India",True
+River Tungabhadra Atâ Hirebidari,5593,14.6398434,75.8072629,"hirebidari, Karnataka, India",True
+River Tungabhadra Atâ Konanathambige,5594,,,"tungabhadra atâ konanathambige, Karnataka, India",False
+River Tungabhadra Atâ Kuruvathi,5596,,,"tungabhadra atâ kuruvathi, Karnataka, India",False
+"River Â Cauvery At Ganjam Water Supply Intake Point Near Gosai Ghat, Srirangapatna",5590,12.4226442,76.6849312,"srirangapatna, Karnataka, India",True
+"River Cauveryâ Atganjam Water Supply Intake Point Near Gosai Ghat, Srirangapatna,Maydya",5580,,,"cauveryâ atganjam gosai ghat srirangapatna maydya, Karnataka, India",False
+"River Cauveryâ At Mahadevpura Road Bridge,Maydya",5581,,,"cauveryâ mahadevpura maydya, Karnataka, India",False
+"River Shimsha Downstream Ofâ Maddur Near Vydyanatheswara Temple Road Bridge,Maydya",5578,,,"shimsha ofâ maddur vydyanatheswara temple maydya, Karnataka, India",False

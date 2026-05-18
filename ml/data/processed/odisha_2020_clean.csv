@@ -1,0 +1,169 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1644,"Jagatpur Industrial Area, Cuttack",Groundwater,ODISHA,2020,Safe,0.0,None,26.0,,6.75,541.5,,0.32,,2.0,
+1645,"Madhupatna- Kalyan Nagar Area, Cuttack",Groundwater,ODISHA,2020,Safe,0.0,None,25.5,,6.7,427.0,,0.35,,,
+1646,"Bidanashi - Tulasipur Area, Cuttack",Groundwater,ODISHA,2020,Safe,0.0,None,26.0,,7.25,192.5,,0.32,,,
+1647,"Badambari Area, Cuttack",Groundwater,ODISHA,2020,Safe,0.0,None,25.5,,7.1,351.0,,0.33,,,
+1648,"Ranihat- Mangalabagh Area, Cuttack",Groundwater,ODISHA,2020,Safe,0.44,None,25.5,,7.25,175.0,,0.34,,220.0,
+1649,"Khandagiri Area, Bhubaneswar",Groundwater,ODISHA,2020,Safe,0.19,None,25.0,,6.95,489.0,,0.847,13.0,79.0,
+1650,"Capital Hospital Area, Bhubaneswar",Groundwater,ODISHA,2020,Unsafe,13.85,pH Out of Range,27.5,,5.6,321.5,,0.441,,,
+1651,"Old Town- Samantaraaipur Area, Bhubaneswar",Groundwater,ODISHA,2020,Safe,0.06,None,27.0,,6.95,447.5,,1.549,5.0,22.0,
+1652,"Kalpna - Laxminagar Area, Bhubaneswar",Groundwater,ODISHA,2020,Unsafe,2.15,pH Out of Range,27.0,,6.1,372.0,,7.701,5.0,51.0,
+1653,"Mancheswar Industrial Area, Bhubaneswar / Chandrashekharpur",Groundwater,ODISHA,2020,Unsafe,0.77,pH Out of Range,25.5,,6.45,181.0,,0.351,,,
+1655,"Near Sea Beach, Puri",Groundwater,ODISHA,2020,Safe,0.03,None,25.5,,8.05,1289.0,,0.44,,13.0,
+1656,"Near Jagannath Temple, Puri",Groundwater,ODISHA,2020,Safe,0.0,None,25.5,,7.75,896.0,,2.509,,,
+1657,"Hospital - Bus Stand- Maushima Temple Area, Puri",Groundwater,ODISHA,2020,Safe,0.0,None,26.0,,7.7,1088.0,,6.793,,,
+1658,"Near Kushabhadra, Puri",Groundwater,ODISHA,2020,Safe,0.01,None,24.5,,7.55,686.0,,0.42,,5.0,
+3964,"Near Mkcg Medical College, Berhampur",Groundwater,ODISHA,2020,Safe,0.15,None,27.5,,7.5,892.5,,0.32,13.0,49.0,
+3965,"Near Bus Stand, Berhampur",Groundwater,ODISHA,2020,Safe,0.16,None,27.5,,7.6,823.0,,0.32,14.0,48.0,
+3966,"Near Badabazar, Berhampur",Groundwater,ODISHA,2020,Safe,0.06,None,27.5,,7.5,894.5,,1.545,5.0,19.5,
+3967,"Near Railway Station Stand, Berhampur",Groundwater,ODISHA,2020,Safe,0.15,None,29.0,,7.25,845.0,,2.125,13.0,49.0,
+3968,"Near Vss Medical College, Burla, Sambalpur",Groundwater,ODISHA,2020,Safe,0.0,None,27.5,,7.65,460.5,,6.7,,,
+3969,"Near Railway Station, Sambalpur",Groundwater,ODISHA,2020,Safe,0.04,None,27.5,,7.35,412.0,,5.112,2.0,23.0,
+3971,Angul Township,Groundwater,ODISHA,2020,Safe,0.0,None,26.0,,7.2,848.0,,3.36,,,
+3972,"Nalco Township, Talcher",Groundwater,ODISHA,2020,Safe,0.0,None,26.0,,7.55,489.0,,0.32,,,
+3973,"Mahanadi Coal Field Area, Talcher",Groundwater,ODISHA,2020,Safe,0.0,None,25.5,,7.05,338.5,,0.32,,,
+3974,"Kaniha, Talcher",Groundwater,ODISHA,2020,Safe,0.05,None,26.5,,7.7,316.0,,0.32,5.0,13.0,
+3975,Talcher Town,Groundwater,ODISHA,2020,Safe,0.25,None,26.0,,7.3,280.0,,0.32,22.0,79.0,
+3976,"Meramundali Area, Talcher",Groundwater,ODISHA,2020,Safe,0.0,None,24.0,,7.65,739.0,,0.32,,,
+3977,Talcher Thermal Area,Groundwater,ODISHA,2020,Safe,0.05,None,25.5,,7.5,868.5,,0.32,,23.0,
+3978,"Banarpal, Talcher",Groundwater,ODISHA,2020,Safe,0.03,None,24.5,,7.15,850.5,,0.32,,13.0,
+3979,"Kulad, Talcher",Groundwater,ODISHA,2020,Safe,4.09,None,26.5,,7.75,472.0,1.1,0.32,,13.0,
+3981,"Burkhamunda, Jharsuguda",Groundwater,ODISHA,2020,Safe,0.0,None,21.5,,7.5,338.0,,0.89,,,
+3982,"Badamani Industrial Estate, Jharsuguda",Groundwater,ODISHA,2020,Safe,0.0,None,23.0,,6.9,120.0,,0.34,,,
+3983,"Budhipadar, Jharsuguda",Groundwater,ODISHA,2020,Safe,0.0,None,21.5,,6.65,146.5,,0.78,,,
+3984,"Brajaraj Nagar Mining Belt, Jharsuguda",Groundwater,ODISHA,2020,Safe,0.0,None,22.0,,6.8,146.5,,1.376,,,
+3985,"Rampur Area (Water Tank), Jharsuguda",Groundwater,ODISHA,2020,Safe,0.0,None,20.0,,7.1,356.5,,0.32,,,
+3986,"Ib Thermal Power Station, Jharsuguda",Groundwater,ODISHA,2020,Safe,0.0,None,20.5,,7.2,263.5,,0.32,,,
+3987,"Belpahar Area, Jharsuguda",Groundwater,ODISHA,2020,Safe,0.0,None,22.0,,7.0,319.0,,0.49,,,
+3988,"Badapadia Market Complex, Paradeep",Groundwater,ODISHA,2020,Unsafe,10.37,High Fecal Coliform,31.5,,8.3,1642.0,1.7,1.58,790.0,1700.0,
+3989,"Musadiha, Paradeep",Groundwater,ODISHA,2020,Safe,3.81,None,32.0,,8.05,2208.0,1.1,1.6,21.0,654.0,
+3990,"Tisco, Sukinda",Groundwater,ODISHA,2020,Safe,0.0,None,22.0,,6.9,337.0,,1.809,,,
+3991,"Saruabil, Sukinda",Groundwater,ODISHA,2020,Safe,0.18,None,22.0,,6.7,217.0,,0.32,16.5,56.0,
+3992,"Kaliapani, Sukinda",Groundwater,ODISHA,2020,Safe,0.19,None,22.0,,7.3,272.0,,2.289,13.0,79.0,
+3993,"Kamarda, Sukinda",Groundwater,ODISHA,2020,Safe,0.05,None,22.0,,7.1,283.0,,0.49,5.0,15.0,
+3994,"Chakulia, Balasore",Groundwater,ODISHA,2020,Safe,0.21,None,25.0,,6.8,398.5,,5.19,14.0,89.5,
+3995,"Kuanrpur, Balasore",Groundwater,ODISHA,2020,Safe,0.0,None,25.0,,7.45,413.0,,0.32,,,
+3996,"Naigopalpur, Balasore",Groundwater,ODISHA,2020,Safe,0.28,None,24.5,,7.0,158.0,,0.38,14.0,136.5,
+2439,Puri,CREEK,ODISHA,2020,Safe,6.29,None,27.0,7.1,7.65,40850.0,2.6,2.039,95.0,174.0,
+2440,Paradeep,CREEK,ODISHA,2020,Safe,6.22,None,26.5,6.0,7.5,49085.0,2.2,1.284,254.0,404.0,
+2441,Gopalpur,CREEK,ODISHA,2020,Safe,4.47,None,21.5,9.4,8.05,44650.0,1.9,1.4,48.0,75.0,
+3961,Atharabanki Creek,CREEK,ODISHA,2020,Unsafe,42.39,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",26.5,4.3,7.4,7433.0,6.2,4.27,4035.0,12110.0,
+2437,Chilka Lake At Satapada (Ramsar Site),Pond/Tank,ODISHA,2020,Unsafe,20.53,High BOD,,27.0,7.15,7.7,500.0,1.15,1.62,651.0,1222.5
+2438,Anshupa Lake Kadalibari,Pond/Tank,ODISHA,2020,Unsafe,21.11,"pH Out of Range, High BOD",,28.5,6.45,7.65,500.0,1.55,0.94,1185.0,2945.0
+3953,Chilka At Rambha,Pond/Tank,ODISHA,2020,Unsafe,20.09,High BOD,,22.0,7.15,8.0,500.0,1.75,0.53,111.0,560.0
+3954,Tampada Lake At Chhatrapur,Pond/Tank,ODISHA,2020,Unsafe,21.84,"pH Out of Range, High BOD",,21.0,6.35,8.25,500.0,5.2,0.95,1715.0,8615.0
+3955,Anshupa At Subaranapur,Pond/Tank,ODISHA,2020,Unsafe,21.42,"pH Out of Range, High BOD",,28.0,6.2,7.5,173.5,1.35,2.34,605.0,1860.0
+3956,Anshupa At Bishnupur,Pond/Tank,ODISHA,2020,Unsafe,21.81,"pH Out of Range, High BOD",,26.5,6.2,7.4,160.5,1.45,0.82,1110.0,1805.0
+3957,Anshupa At Sarandagarh,Pond/Tank,ODISHA,2020,Unsafe,20.54,High BOD,,27.5,7.0,7.45,154.5,1.5,0.545,672.5,1835.0
+2431,Bindusagar ( Religious Pond Of Bhubaneswar,Pond/Tank,ODISHA,2020,Unsafe,28.81,"High BOD, High Total Coliform",,24.5,8.0,7.6,353.0,2.1,0.845,11010.0,80245.0
+2432,Narendra Pokhari ( Riligious Pond Of Puri City),Canal,ODISHA,2020,Unsafe,25.6,"High BOD, High Total Coliform",,27.5,8.45,8.3,500.0,4.3,1.02,7001.0,11010.0
+2433,Markanda Pokhari ( Riligious Pond Of Puri City),Canal,ODISHA,2020,Unsafe,23.99,"pH Out of Range, High BOD",,27.5,9.9,8.25,500.0,6.25,4.57,851.0,2468.0
+2434,Indradyumna Tank ( Riligious Pond Of Puri City),Canal,ODISHA,2020,Unsafe,23.19,"High BOD, High Total Coliform",,26.0,7.0,7.95,500.0,5.1,7.295,3951.0,12039.0
+2435,Swetaganga ( Riligious Pond Of Puri City),Canal,ODISHA,2020,Unsafe,29.12,"pH Out of Range, High BOD, High Total Coliform",,27.0,10.5,8.4,500.0,6.15,3.45,5501.0,11001.0
+2436,Parvati Sagar ( Riligious Pond Of Puri City),Canal,ODISHA,2020,Unsafe,23.17,"High BOD, High Total Coliform",,24.0,7.9,7.85,403.5,5.85,2.24,3951.0,12022.5
+3962,Jagannath Sagar Pond Of Jeypore,Canal,ODISHA,2020,Unsafe,21.41,High BOD,,24.0,6.9,7.65,272.5,1.8,1.16,1760.0,4345.0
+3963,Raniguda Pond,Canal,ODISHA,2020,Unsafe,23.41,"pH Out of Range, High BOD, High Total Coliform",,24.0,6.45,7.65,500.0,5.2,1.41,4060.0,6895.0
+2428,Taladanda Canal At Jobra( Origin Of Taladanda Canal),Canal,ODISHA,2020,Unsafe,26.7,"High Fecal Coliform, High Total Coliform",27.5,8.35,8.0,172.0,1.2,0.481,8745.0,5050.0,
+2429,"Taladanda Canal At Naubazar, Cuttack City",Canal,ODISHA,2020,Unsafe,44.33,"High Fecal Coliform, High Total Coliform",27.0,7.0,7.7,178.0,1.95,0.7305,27850.0,81750.0,
+2430,"Taladanda Canal At Atharabanki(Water Intake Point Of Ppl, Iffco & Ppt)",Canal,ODISHA,2020,Unsafe,45.33,"High Fecal Coliform, High Total Coliform",27.0,5.45,7.3,344.5,2.4,2.358,80110.0,80550.0,
+3950,Taladanda Canal At Ranihat,Canal,ODISHA,2020,Unsafe,44.22,"High Fecal Coliform, High Total Coliform",26.5,7.45,7.8,179.0,1.9,0.751,80150.0,80700.0,
+3951,Taladanda Canal At Chhatrabazar,Canal,ODISHA,2020,Unsafe,44.0,"High Fecal Coliform, High Total Coliform",28.0,7.25,7.9,187.0,1.8,0.656,80390.0,81350.0,
+3952,Taladanda Canal At Biribati,Canal,ODISHA,2020,Unsafe,36.28,"High Fecal Coliform, High Total Coliform",28.0,8.0,7.6,164.5,2.2,1.0255,5565.0,14245.0,14.0
+3958,Puri Canal At Hansapal,Canal,ODISHA,2020,Unsafe,30.59,"High Fecal Coliform, High Total Coliform",26.5,7.65,7.65,215.5,1.4,2.26,5745.0,9350.0,
+3959,Puri Canal At Jagannathpur,Canal,ODISHA,2020,Unsafe,14.65,"High Fecal Coliform, High Total Coliform",26.5,7.4,7.65,314.5,1.85,0.65,1315.0,6600.0,
+3960,Puri Canal At Chandanpur,Canal,ODISHA,2020,Unsafe,10.56,High Fecal Coliform,26.5,7.65,7.25,212.0,1.85,2.0155,1139.0,2370.0,
+38,3923,Canal,ODISHA,2020,Unsafe,38.06,"pH Out of Range, High BOD, High Total Coliform",,26.5,4.05,460.0,7.4,6.45,5.36,17585.0,46110.0
+39,3930,Canal,ODISHA,2020,Unsafe,17.51,High BOD,,24.5,7.4,649.5,7.55,1.6,1.1505,935.0,1995.0
+40,3934,Canal,ODISHA,2020,Unsafe,16.44,High BOD,,24.0,7.0,331.5,7.3,1.6,7.06,255.0,2474.5
+41,3939,Canal,ODISHA,2020,Unsafe,17.69,High BOD,,20.0,6.55,154.5,7.35,1.6,1.242,1705.0,2695.0
+1281,Mahanadi At Hirakud Reservoir,River,ODISHA,2020,Safe,5.36,None,26.5,8.1,7.55,169.5,1.5,1.23,255.0,1265.0,
+1270,Mahanadi At Sambalpur U/S,River,ODISHA,2020,Unsafe,7.45,High Fecal Coliform,25.5,7.6,7.4,221.0,1.4,0.88,722.5,1815.0,6.5
+1271,Mahanadi At Sambalpur D/S,River,ODISHA,2020,Unsafe,11.78,"High Fecal Coliform, High Total Coliform",26.5,7.7,7.7,249.5,1.85,1.8,1165.0,3770.0,40.5
+2405,Sambhalpur Fd/S At Huma,River,ODISHA,2020,Unsafe,9.52,High Fecal Coliform,26.0,7.6,7.65,173.0,1.5,1.02,1165.0,1915.0,9.5
+1272,Odisha,River,ODISHA,2020,Unsafe,7.26,High Fecal Coliform,26.5,7.8,7.7,191.5,1.5,1.29,651.0,1660.0,9.5
+1274,Mahanadi A/C With Tel (Sonepur D/S),River,ODISHA,2020,Unsafe,9.09,High Fecal Coliform,27.0,7.5,7.7,217.0,1.9,2.24,860.0,1785.0,36.0
+2404,Mahanadi Power Channel D/S Near Burla,River,ODISHA,2020,Unsafe,7.44,High Fecal Coliform,26.0,7.4,7.5,175.5,1.7,1.23,660.0,1285.0,
+2406,Odisha,River,ODISHA,2020,Safe,5.76,None,26.0,7.95,7.8,177.0,1.4,2.49,405.0,1285.0,17.0
+3887,Sambalpur Fd/S T Shankarmath,River,ODISHA,2020,Unsafe,10.01,"High Fecal Coliform, High Total Coliform",26.0,6.75,7.3,274.0,1.8,1.07,935.0,2845.0,12.0
+1275,Mahanadi At Tikarpada,River,ODISHA,2020,Safe,5.83,None,23.0,8.1,7.55,208.5,1.6,1.91,391.0,889.0,25.5
+1276,Mahanadi At Narsinghpur,River,ODISHA,2020,Unsafe,7.85,High Fecal Coliform,27.0,8.2,7.8,185.5,1.7,1.82,722.5,1485.0,12.0
+1277,Mahanadi At Cuttack U/S,River,ODISHA,2020,Unsafe,7.58,High Fecal Coliform,26.0,8.1,7.9,145.5,1.5,1.62,689.0,1865.0,25.5
+1278,Mahanadi At Cuttack D/S,River,ODISHA,2020,Unsafe,13.09,"High Fecal Coliform, High Total Coliform",25.5,7.6,7.8,182.5,2.6,1.99,1260.0,2845.0,36.0
+3888,Mahanadi Power Channel U/S,River,ODISHA,2020,Safe,4.12,None,26.5,7.5,7.5,170.5,1.4,1.18,166.0,434.0,
+3890,Mahanadi At Cuttack Fd/S At Gatirautapatna,River,ODISHA,2020,Unsafe,8.97,High Fecal Coliform,24.5,7.4,7.75,168.0,1.7,1.61,915.0,1915.0,40.5
+2407,Odisha,River,ODISHA,2020,Safe,4.55,None,27.0,7.5,7.6,3946.0,1.3,1.06,246.0,851.0,11.5
+1639,Mahanadi At Paradeep D/S,River,ODISHA,2020,Safe,7.41,None,27.5,7.3,7.75,21426.0,2.4,2.13,351.0,851.0,40.5
+1267,Ib At Sundargarh,River,ODISHA,2020,Unsafe,7.42,High Fecal Coliform,25.5,7.3,7.55,124.5,1.6,7.43,755.0,1065.0,
+1268,Ib At Jharsuguda (Intake),River,ODISHA,2020,Unsafe,7.26,High Fecal Coliform,23.5,8.0,7.55,156.5,1.8,1.07,572.5,1215.0,2.0
+1269,Ib At Brajarajnagar (Intake) D/S,River,ODISHA,2020,Unsafe,10.25,High Fecal Coliform,23.0,8.1,7.5,175.0,1.8,0.941,1165.0,1995.0,2.0
+1300,Ib At Brajarajnagar U/S,River,ODISHA,2020,Safe,7.2,None,24.0,8.2,7.6,169.5,1.8,0.81,417.5,1915.0,2.0
+2409,Serua At Cuttack Fd/S (Serua) At Sankhatrasa,River,ODISHA,2020,Unsafe,48.44,"High BOD, High Fecal Coliform, High Total Coliform",25.5,7.45,7.75,214.5,3.8,2.51,11065.0,27245.0,28.5
+1279,Kuakhai At Bhubaneswar U/S,River,ODISHA,2020,Unsafe,12.36,"High Fecal Coliform, High Total Coliform",24.5,7.15,7.7,199.5,1.9,0.81,1365.0,3350.0,14.5
+1280,Kuakhai At Bhubaneswar D/S,River,ODISHA,2020,Unsafe,47.66,"High BOD, High Fecal Coliform, High Total Coliform",24.5,6.5,7.7,271.5,3.45,8.2,46650.0,81200.0,86.0
+2410,Kuakhai At Bhubaneswar Fu/S,River,ODISHA,2020,Unsafe,9.03,High Fecal Coliform,24.5,7.2,7.85,182.0,1.7,0.7,915.0,1995.0,24.0
+1301,Kathajodi At Cuttack D/S,River,ODISHA,2020,Unsafe,47.99,"High BOD, High Fecal Coliform, High Total Coliform",24.5,7.25,8.0,240.0,3.6,2.34,12650.0,27850.0,72.5
+1640,Birupa At Choudwar D/S,River,ODISHA,2020,Unsafe,15.67,"High Fecal Coliform, High Total Coliform",26.5,7.4,7.75,173.5,1.3,1.42,2472.5,3615.0,
+2411,Odisha,River,ODISHA,2020,Unsafe,46.55,"High Fecal Coliform, High Total Coliform",24.5,6.5,7.55,275.0,2.95,9.25,80395.0,81200.0,111.0
+3894,River Daya At Gelapur,River,ODISHA,2020,Unsafe,37.67,"High Fecal Coliform, High Total Coliform",24.5,7.1,7.65,248.5,1.4,1.3,6745.0,18200.0,10.5
+3895,River Daya At Kanas,River,ODISHA,2020,Unsafe,41.0,"High Fecal Coliform, High Total Coliform",25.0,7.0,7.45,296.0,2.9,3.52,8725.0,18200.0,41.5
+3891,Kathajodi At Cuttack U/S,River,ODISHA,2020,Unsafe,7.84,High Fecal Coliform,26.0,8.0,8.0,180.5,1.3,1.42,872.5,1835.0,9.5
+3892,Kathjodi At Cuttack Fd/S At Mattagajpur,River,ODISHA,2020,Unsafe,30.19,"High BOD, High Fecal Coliform, High Total Coliform",27.0,7.3,7.7,240.5,3.3,2.08,3984.0,8665.0,87.0
+3893,Kathjodi At Cuttack Fd/S At Kamasasan,River,ODISHA,2020,Unsafe,8.65,"High Fecal Coliform, High Total Coliform",27.0,7.7,7.8,208.5,1.4,1.37,872.5,2565.0,
+3900,Gobari At Kendrapara U/S,River,ODISHA,2020,Unsafe,7.0,High Fecal Coliform,28.0,6.7,7.6,877.0,1.6,1.92,560.0,1515.0,
+3901,Gobari At Kendrapara D/S,River,ODISHA,2020,Unsafe,11.89,"High Fecal Coliform, High Total Coliform",28.0,6.3,7.5,911.5,2.4,1.96,1122.5,2585.0,
+3902,Devi At Macchgaon,River,ODISHA,2020,Unsafe,8.6,High Fecal Coliform,26.5,7.1,7.55,12553.5,2.1,1.28,651.0,1672.5,
+3896,Gangua Near Rajdhani Engineering College,River,ODISHA,2020,Unsafe,70.43,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",25.5,2.0,7.4,288.5,8.3,9.93,87000.0,126000.0,195.0
+3897,Gangua At Palasuni,River,ODISHA,2020,Unsafe,74.6,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",24.5,1.35,6.85,411.0,11.85,9.05,88000.0,107000.0,525.0
+3898,Gangua At Samantarapur,River,ODISHA,2020,Unsafe,73.2,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",25.0,1.7,6.75,361.5,9.45,11.92,86500.0,97500.0,214.5
+3899,Gangua At Vadimula,River,ODISHA,2020,Unsafe,54.01,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",24.5,4.8,7.0,288.0,5.95,9.52,28050.0,49950.0,96.5
+3903,Kushabhadra At Bhingarpur,River,ODISHA,2020,Unsafe,28.46,"High Fecal Coliform, High Total Coliform",27.5,8.4,7.4,265.5,2.2,5.64,4115.0,8895.0,49.0
+3904,Kushabhadra At Nimapara,River,ODISHA,2020,Unsafe,19.97,"High Fecal Coliform, High Total Coliform",27.5,8.05,7.4,283.5,2.0,3.64,2505.0,6890.0,
+3905,Kushabhadra At Gop,River,ODISHA,2020,Unsafe,33.98,"High Fecal Coliform, High Total Coliform",27.5,6.95,7.35,233.0,2.1,6.19,6850.0,11650.0,
+3906,Mangala At Puri U/S Malatipatpur,River,ODISHA,2020,Unsafe,18.12,"High Fecal Coliform, High Total Coliform",26.0,6.95,7.5,1707.0,1.7,1.4,2472.5,5565.0,13.0
+3907,Mangala At Puri D/S Golasahi,River,ODISHA,2020,Unsafe,46.55,"High Fecal Coliform, High Total Coliform",28.0,10.1,7.55,8151.5,2.95,8.86,11065.0,80245.0,71.0
+3908,Bhargavi At Chandanpur,River,ODISHA,2020,Unsafe,9.92,"High Fecal Coliform, High Total Coliform",25.5,7.05,7.4,624.0,1.4,2.24,1189.0,2565.0,
+3909,Odisha,River,ODISHA,2020,Unsafe,8.59,High Fecal Coliform,25.0,7.1,7.75,228.0,1.9,0.8,665.0,2145.0,
+3910,Badasankha Nadi Near Langaleswar,River,ODISHA,2020,Unsafe,12.61,"High Fecal Coliform, High Total Coliform",24.5,6.8,7.35,596.0,2.1,0.67,1465.0,2615.0,
+3911,Ratnachira Naadi At Kumaradihi,River,ODISHA,2020,Unsafe,9.78,"High Fecal Coliform, High Total Coliform",26.0,6.85,7.25,400.0,1.8,3.6,935.0,2560.0,25.5
+3912,Nuna Nadi At Bijipur,River,ODISHA,2020,Unsafe,44.0,"High Fecal Coliform, High Total Coliform",24.0,7.05,7.55,293.5,1.8,1.47,11055.0,27850.0,69.0
+3913,Kusumi Nadi Near Tangi (Laxmidhara Pur),River,ODISHA,2020,Unsafe,12.48,"High Fecal Coliform, High Total Coliform",25.0,7.5,7.5,198.5,2.0,1.06,1300.0,3550.0,36.0
+3914,Odisha,River,ODISHA,2020,Unsafe,12.99,"High Fecal Coliform, High Total Coliform",24.5,8.2,7.95,7229.0,2.6,0.66,1235.0,2845.0,40.5
+2412,Sankha U/S ( D/S Of Mandira Dam),River,ODISHA,2020,Unsafe,7.21,High Fecal Coliform,25.5,7.4,7.25,181.5,1.3,2.1,705.0,1885.0,
+1081,Baitarni At Joda,River,ODISHA,2020,Unsafe,8.34,"High Fecal Coliform, High Total Coliform",20.5,6.95,7.45,121.5,1.6,1.58,689.0,2535.0,120.0
+1082,Baitarni At Anandpur,River,ODISHA,2020,Unsafe,10.36,High Fecal Coliform,20.0,7.0,7.45,141.5,1.8,1.59,1235.0,1785.0,
+1083,Baitarni At Jajpur,River,ODISHA,2020,Unsafe,6.98,High Fecal Coliform,22.5,7.4,7.6,190.0,1.3,1.92,660.0,1815.0,
+3935,Baitarni River At Naigarh,River,ODISHA,2020,Unsafe,7.0,High Fecal Coliform,19.5,6.9,7.2,113.5,1.5,1.4,672.5,1220.0,
+3936,Baitarni River At Unchabali,River,ODISHA,2020,Unsafe,8.69,"High Fecal Coliform, High Total Coliform",21.0,6.7,7.2,117.5,1.4,3.46,884.0,2560.0,
+1085,Baitarni At Dhamra,River,ODISHA,2020,Safe,6.71,None,24.0,7.4,7.35,17408.0,1.8,1.84,417.5,1310.0,
+3938,Baitarni River At Tribindha,River,ODISHA,2020,Safe,6.49,None,23.0,6.75,7.3,159.5,1.6,1.85,396.0,1689.0,
+3937,Baitarni River At Champua,River,ODISHA,2020,Safe,6.99,None,22.0,7.25,7.1,150.5,1.8,1.4,405.0,1720.0,12.0
+1084,Baitarni At Chandbali U/S,River,ODISHA,2020,Unsafe,11.21,High Fecal Coliform,24.0,7.0,7.4,3174.5,2.3,0.92,1155.0,1860.0,
+10018,River Baitarni At Chandbali D/S,River,ODISHA,2020,Unsafe,12.42,"High Fecal Coliform, High Total Coliform",24.0,7.4,7.3,4061.0,2.4,0.99,1255.0,2585.0,
+3940,Salandi At Bhadrak U/S,River,ODISHA,2020,Unsafe,7.2,High Fecal Coliform,24.0,7.6,7.3,209.0,1.3,1.44,760.0,1590.0,
+3941,Salandi At Bhadrak D/S,River,ODISHA,2020,Unsafe,12.35,"High Fecal Coliform, High Total Coliform",24.0,7.8,7.5,186.5,2.0,0.95,1465.0,2565.0,
+2421,Odisha,River,ODISHA,2020,Unsafe,9.26,"High Fecal Coliform, High Total Coliform",19.5,7.1,7.7,194.0,1.6,0.85,915.0,2560.0,2.0
+1037,Brahmani At U/S Panposh,River,ODISHA,2020,Unsafe,10.08,High Fecal Coliform,23.5,7.35,7.35,170.0,1.6,0.67,1155.0,2385.0,24.0
+1038,Brahmani At D/S Panposh At Deogan,River,ODISHA,2020,Unsafe,41.3,"High BOD, High Fecal Coliform, High Total Coliform",25.5,5.0,7.4,273.5,4.55,12.6,7050.0,14000.0,18.5
+1302,Brahmani At Rourkela D/S At Jalda,River,ODISHA,2020,Unsafe,24.62,"High BOD, High Fecal Coliform, High Total Coliform",24.5,6.3,7.2,184.5,3.75,5.6,2565.0,7550.0,28.5
+2414,Rourkela Fd/S At Biritola,River,ODISHA,2020,Unsafe,12.03,"High BOD, High Fecal Coliform",26.0,7.55,7.35,161.0,3.2,2.0,860.0,1860.0,23.5
+1039,Brahmani At Bonaigarh,River,ODISHA,2020,Unsafe,6.72,High Fecal Coliform,25.5,7.25,7.6,157.0,1.4,6.91,660.0,1220.0,
+1040,Brahmani At Rengali,River,ODISHA,2020,Safe,4.94,None,25.5,7.6,7.7,131.0,1.2,0.78,396.0,860.0,
+1041,Brahmani At Samal,River,ODISHA,2020,Unsafe,7.19,High Fecal Coliform,25.5,6.8,7.6,138.5,1.3,0.76,705.0,1860.0,
+2415,Odisha,River,ODISHA,2020,Unsafe,5.8,High Fecal Coliform,25.5,8.2,7.6,143.5,1.1,0.75,554.0,1423.0,7.0
+2416,Brahmani At Talcher Fd/S,River,ODISHA,2020,Unsafe,9.04,High Fecal Coliform,24.5,7.8,7.5,172.0,1.9,0.92,861.5,1715.0,13.0
+1042,Brahmani At Kamalanga (Talcher D/S),River,ODISHA,2020,Unsafe,15.2,"High Fecal Coliform, High Total Coliform",24.0,7.5,7.55,178.0,2.4,1.9,1660.0,4035.0,11.5
+2417,"Brahamni At Dhenkanal D/S, Dhenkanal Town",River,ODISHA,2020,Unsafe,9.7,High Fecal Coliform,25.0,7.1,7.7,162.0,1.9,1.25,1122.5,1239.0,
+1303,Brahmani At Talcher U/S,River,ODISHA,2020,Unsafe,6.48,High Fecal Coliform,25.5,7.6,7.6,158.0,1.1,0.77,666.5,1720.0,8.0
+1043,Brahmani At Bhuban,River,ODISHA,2020,Unsafe,10.4,High Fecal Coliform,25.0,7.4,7.65,151.5,2.4,0.73,889.0,1895.0,
+2418,Odisha,River,ODISHA,2020,Unsafe,7.84,High Fecal Coliform,22.5,7.35,7.5,147.5,1.6,1.42,689.0,1915.0,
+1044,Brahmani At Dharmashala U/S,River,ODISHA,2020,Unsafe,8.87,High Fecal Coliform,23.5,7.6,7.6,182.5,1.9,1.18,735.0,2145.0,
+1045,Brahmani At Pattamundai,River,ODISHA,2020,Safe,7.4,None,28.0,7.05,7.55,300.0,1.8,1.0,480.0,1860.0,
+3916,Rourkela Fd/S At Attaghat,River,ODISHA,2020,Unsafe,17.2,"High Fecal Coliform, High Total Coliform",26.0,7.8,7.2,170.5,2.75,2.29,1660.0,5565.0,9.5
+3917,Brahmani At Mandapal,River,ODISHA,2020,Unsafe,15.69,"High Fecal Coliform, High Total Coliform",25.0,8.0,7.6,156.0,1.6,0.67,1285.0,8745.0,
+3918,Brahmani At Dhenkanal U/S,River,ODISHA,2020,Unsafe,6.56,High Fecal Coliform,25.5,7.6,7.65,150.0,1.3,1.81,672.5,1235.0,
+2419,Odisha,River,ODISHA,2020,Safe,6.5,None,23.0,7.65,7.5,158.0,1.8,2.31,403.5,1115.0,
+2420,Kharasrota At Aul,River,ODISHA,2020,Unsafe,8.94,High Fecal Coliform,28.0,7.1,7.55,310.5,1.6,1.07,889.0,2285.0,
+3922,Kharasrota At Binjharpur,River,ODISHA,2020,Unsafe,6.41,High Fecal Coliform,23.5,7.8,7.4,155.5,1.1,1.08,689.0,1510.0,
+3931,Bangurusingada Jhor,River,ODISHA,2020,Unsafe,10.1,High Fecal Coliform,25.0,7.7,7.85,353.5,1.8,0.69,1080.0,2225.0,
+3915,Karo River T Badbil,River,ODISHA,2020,Unsafe,7.73,High Fecal Coliform,23.0,7.35,7.45,195.5,1.8,1.67,672.5,1305.0,
+1641,Subarnarekha At Rajghat (Thengudia),River,ODISHA,2020,Unsafe,9.47,High Fecal Coliform,24.0,7.4,7.8,679.0,1.4,4.75,1222.5,1835.0,

@@ -1,0 +1,13 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg,latitude,longitude,geocode_query,geocoded
+3106,River Dibang At Roing (U/S),River,ARUNACHAL PRADESH,2022,Unsafe,11.47,High BOD,24.55,9.2,7.405,252.5,3.1,,,,,28.140898,95.7156641,"dibang roing, Arunachal Pradesh, India",True
+3107,River Dihing At Miao (U/S Of Noa Dihing),River,ARUNACHAL PRADESH,2022,Safe,6.84,,23.4,9.0,7.275,238.5,1.85,,,,,27.6704698,95.8224575,"dihing, Arunachal Pradesh, India",True
+3095,"River Senki At Chandranagar, Itanagar, (U/S Of Pachin River)",River,ARUNACHAL PRADESH,2022,Unsafe,9.08,pH Out of Range,23.7,5.3,8.74,536.0,2.2,,,,,27.2625467,92.8937806,"river, Arunachal Pradesh, India",True
+3096,River Dikrong At Nirjuli (U/S),River,ARUNACHAL PRADESH,2022,Safe,6.29,,27.05,5.1,7.4,853.5,1.7,,,,,27.1349237,93.7531102,"dikrong nirjuli, Arunachal Pradesh, India",True
+3097,River Subansiri At Gerukamukh,River,ARUNACHAL PRADESH,2022,Safe,8.69,,26.8,9.1,7.18,171.0,2.35,,,,,,,,False
+3098,"River Siang At Ranaghat, Near Rcc Bridge, Pasighat(U/S)",River,ARUNACHAL PRADESH,2022,Unsafe,10.88,Low DO,23.75,4.7,7.505,214.0,2.4,,,,,28.0589676,95.3324944,"pasighat, Arunachal Pradesh, India",True
+3105,"River Gai Nadi, Near Hss Likabali (D/S)",River,ARUNACHAL PRADESH,2022,Safe,6.84,,26.5,9.05,7.875,301.0,1.85,,,,,27.6588306,94.6977781,"likabali, Arunachal Pradesh, India",True
+3108,River Bereng At Chowkham,River,ARUNACHAL PRADESH,2022,Safe,7.21,,25.8,8.35,7.435,298.5,1.95,,,,,27.8099085,96.0842123,"chowkham, Arunachal Pradesh, India",True
+3099,River Lohit At Alubari (D/S),River,ARUNACHAL PRADESH,2022,Safe,5.92,,27.5,8.85,7.36,329.5,1.6,,,,,27.8343989,96.010927,"alubari, Arunachal Pradesh, India",True
+3100,River Namchik At Kharsang,River,ARUNACHAL PRADESH,2022,Safe,10.54,,26.3,9.15,7.15,180.5,2.85,,,,,27.4139573,95.9742451,"namchik kharsang, Arunachal Pradesh, India",True
+3109,"River Noa Dihing At Namsai, (D/S Of Dihing)",River,ARUNACHAL PRADESH,2022,Safe,6.48,,25.9,8.75,7.32,233.5,1.75,,,,,27.6704698,95.8224575,"dihing, Arunachal Pradesh, India",True
+3103,"River Pachin At Naharlagun (Below Barapani Bridge), (D/S Of River Senki)",River,ARUNACHAL PRADESH,2022,Safe,8.51,,26.3,5.25,7.485,700.0,2.3,,,,,,,,False

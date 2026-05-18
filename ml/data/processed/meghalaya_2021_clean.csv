@@ -1,0 +1,79 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+4323,Borewell At Good Shaphard Parish In Ladrymbai,Groundwater,MEGHALAYA,2021,Safe,4.04,None,17.05,,6.75,194.0,1.45,0.565,2.0,2.0,
+4324,Borewell At Khliehwah Shasem - A In Khliehriat,Groundwater,MEGHALAYA,2021,Unsafe,9.12,pH Out of Range,17.55,,5.25,131.0,1.55,0.325,2.0,2.0,
+4325,Borewell At Khliehwah Shasem - B In Khliehriat,Groundwater,MEGHALAYA,2021,Unsafe,5.81,pH Out of Range,17.2,,5.75,87.5,1.05,0.55,2.0,2.0,
+4904,"Deep Tube Well At Dongkamon Nongmensong, Shillong",Groundwater,MEGHALAYA,2021,Safe,4.05,None,20.5,,6.8,92.0,1.45,9.0,2.0,19.0,
+4906,"Deep Tube Well At Laban Last Stop, Shillong",Groundwater,MEGHALAYA,2021,Unsafe,7.17,pH Out of Range,21.5,,5.65,61.0,1.4,0.3,2.0,5.5,
+4905,"Dug Well At Forest Colony, Polo, Shillong",Groundwater,MEGHALAYA,2021,Safe,4.75,None,21.5,,6.6,146.5,1.65,4.45,12.0,112.0,
+1636,"Industrial Estate, Byrnihat (Narbong Well - Spring)",Groundwater,MEGHALAYA,2021,Safe,5.84,None,17.0,,6.55,158.5,1.9,0.59,2.0,556.0,
+3386,Jakrem Hot Spring At Jakrem,Groundwater,MEGHALAYA,2021,Unsafe,5.68,pH Out of Range,43.5,,9.2,313.5,1.3,0.735,2.0,2.0,
+1635,"Mawlai, Shillong (Mawpdang Spring)",Groundwater,MEGHALAYA,2021,Unsafe,6.38,pH Out of Range,22.0,,6.0,272.0,1.6,10.85,2.0,2.0,
+3385,Mawthadrishan Well At Markasa,Groundwater,MEGHALAYA,2021,Safe,3.9,None,18.55,,6.65,53.0,1.4,0.3,2.0,7.5,
+1634,"Police Bazar, Shillong (Police Bazaar Spring)",Groundwater,MEGHALAYA,2021,Unsafe,5.14,pH Out of Range,21.5,,6.15,242.0,1.35,6.55,3.0,35.0,
+1638,Shangpung (Umsahep Spring),Groundwater,MEGHALAYA,2021,Unsafe,6.8,pH Out of Range,16.0,,5.6,141.0,1.2,6.25,2.0,2.0,
+1637,"Sohra, Cherrapunjee (Wah U Dkhar - Spring)",Groundwater,MEGHALAYA,2021,Unsafe,7.55,pH Out of Range,17.5,,5.55,110.0,1.4,4.2,2.0,2.0,
+3349,"Tasek Lake At Songsak (Naphak),",Pond/Tank,MEGHALAYA,2021,Unsafe,20.11,High BOD,,23.05,6.75,7.1,69.5,1.85,0.49,140.0,495.0
+1459,"Thadlaskein Lake, Jowai",Pond/Tank,MEGHALAYA,2021,Unsafe,20.01,High BOD,,16.5,7.2,7.1,53.5,1.65,0.42,13.5,150.0
+1347,Umiam Lake At Barapani,Pond/Tank,MEGHALAYA,2021,Unsafe,21.09,"pH Out of Range, High BOD",,19.05,6.25,7.4,95.5,6.5,0.72,400.0,1400.0
+3347,Umiam Lake At Middle Point,Pond/Tank,MEGHALAYA,2021,Unsafe,21.37,"pH Out of Range, High BOD",,19.0,6.15,7.45,89.0,6.15,0.685,360.0,1065.0
+3346,Umiam Lake At Outfall Of Umiam Into Lake,Pond/Tank,MEGHALAYA,2021,Unsafe,24.35,"pH Out of Range, High BOD",,18.55,5.2,7.55,163.5,7.5,0.77,435.0,1510.0
+3348,Umiam Lake Atnear United Christian College,Pond/Tank,MEGHALAYA,2021,Unsafe,21.55,"pH Out of Range, High BOD",,19.1,6.1,7.3,99.5,6.15,0.49,400.0,1320.0
+1348,Ward'S Lake At Shillong,Pond/Tank,MEGHALAYA,2021,Unsafe,20.08,High BOD,,20.0,6.9,7.4,127.5,2.85,0.555,95.0,420.0
+3384,River Bugi At Dalu,River,MEGHALAYA,2021,Safe,3.97,None,24.05,7.4,7.3,86.5,1.6,0.47,28.5,375.0,
+3383,River Bugi At Mibanpara,River,MEGHALAYA,2021,Safe,3.93,None,24.0,7.4,7.25,78.0,1.6,0.44,37.0,290.0,
+1632,River Ganol Tura,River,MEGHALAYA,2021,Safe,4.25,None,23.5,7.55,7.2,70.5,1.5,0.445,150.0,400.0,
+4112,River Garobadha,River,MEGHALAYA,2021,Safe,3.98,None,24.5,7.4,7.0,70.5,1.6,0.495,36.0,360.0,
+1428,"River Kyrhukhla Near Sutnga Khlieriat, Jaintia Hills",River,MEGHALAYA,2021,Unsafe,14.44,pH Out of Range,18.8,7.3,3.4,279.5,2.2,0.32,2.0,13.0,
+3379,"River Myntdu At Leshka, Jayantia Hills",River,MEGHALAYA,2021,Unsafe,4.83,pH Out of Range,22.1,7.4,6.05,67.0,1.45,0.46,25.5,155.0,
+4316,River Myntdu At Mihmyntdu,River,MEGHALAYA,2021,Safe,3.3,None,18.5,7.5,6.85,54.0,1.3,0.34,32.5,360.0,
+1631,River Myntdu Jowai,River,MEGHALAYA,2021,Safe,8.06,None,18.0,7.15,7.0,52.5,2.5,0.47,365.0,1310.0,
+3355,River Umiam Mawphlang At Mawphlang,River,MEGHALAYA,2021,Safe,3.71,None,16.0,7.45,6.9,38.5,1.5,0.77,22.0,370.0,
+3353,River Umiam Mawphlang At Nongkrem,River,MEGHALAYA,2021,Safe,4.27,None,16.5,6.65,6.9,72.5,1.65,0.78,47.0,525.0,
+3356,River Umiam Mawphlang At Shella,River,MEGHALAYA,2021,Safe,3.05,None,22.75,7.7,7.95,100.5,1.35,0.82,3.0,51.0,
+3354,River Umiam Mawphlang At Umtyngngar,River,MEGHALAYA,2021,Safe,4.06,None,16.0,7.5,6.95,45.5,1.65,0.57,22.0,390.0,
+3352,River Umkhen At Diengpasoh,River,MEGHALAYA,2021,Safe,3.13,None,18.5,7.75,7.15,45.0,1.35,0.545,11.5,109.5,
+3351,"River Umkhen At Ksehpongdeng,",River,MEGHALAYA,2021,Safe,3.22,None,16.5,7.3,7.05,44.0,1.4,0.34,5.0,112.0,
+3350,"River Umkhen At Wah Kdait,",River,MEGHALAYA,2021,Safe,4.58,None,17.5,7.15,7.05,60.0,1.85,2.72,25.5,470.0,
+3359,"River Umkhrah At Demthring, Shillong",River,MEGHALAYA,2021,Unsafe,70.2,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",18.0,2.45,7.1,462.5,24.5,2.275,11650.0,32000.0,
+3361,"River Umkhrah At Mawlai, Near Slaughter House",River,MEGHALAYA,2021,Unsafe,72.0,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",19.5,2.0,7.1,385.5,30.3,2.665,23000.0,79500.0,
+3362,"River Umkhrah At Mawpdang, Mawlai",River,MEGHALAYA,2021,Unsafe,70.2,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",19.0,2.45,7.2,486.5,27.55,1.15,21500.0,70000.0,
+3360,"River Umkhrah Atumkaliar, Shillong",River,MEGHALAYA,2021,Unsafe,54.4,"High BOD, High Fecal Coliform, High Total Coliform",19.0,5.3,7.2,296.0,10.2,3.14,7600.0,18000.0,
+3364,"River Umshyrpi At Law College, Dhanketi,",River,MEGHALAYA,2021,Unsafe,71.4,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",17.5,2.15,6.95,318.5,27.5,1.46,20000.0,71000.0,
+3363,River Umshyrpi At Risa Colony,River,MEGHALAYA,2021,Safe,3.66,None,17.5,7.6,7.2,42.5,1.6,0.42,9.5,84.5,
+3365,River Umshyrpi At Umshyrpi Bridge,River,MEGHALAYA,2021,Unsafe,50.76,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",18.0,4.95,7.05,252.5,15.0,2.945,6250.0,13200.0,
+1427,River Umtrew At Byrnihat East,River,MEGHALAYA,2021,Safe,8.17,None,20.55,7.15,7.15,67.5,2.5,0.42,295.0,1800.0,
+3366,"River Umtrew At Umran,",River,MEGHALAYA,2021,Safe,3.65,None,19.55,7.65,7.2,42.5,1.35,0.395,53.0,555.0,
+3380,River Damring (Krishnei River) At Resubelpara,MEGHALAYA,MEGHALAYA,2021,Safe,3.92,None,23.7,7.45,7.4,69.0,1.5,0.465,64.0,415.0,
+3381,"River Manda (Dudhai River) At Jampa,",MEGHALAYA,MEGHALAYA,2021,Safe,4.11,None,23.0,7.2,6.85,65.0,1.65,0.49,43.5,340.0,
+3382,River Manda (Dudhai River) At Wagaisi,MEGHALAYA,MEGHALAYA,2021,Safe,3.2,None,23.5,7.6,7.15,62.5,1.25,0.455,42.5,315.0,
+3372,"River Rilang At Mawkyrwat,",River,MEGHALAYA,2021,Safe,3.03,None,19.0,7.7,7.1,35.5,1.35,0.38,3.0,25.5,2.0
+3377,"River Myntang At Nartiang, Jayantia Hills",River,MEGHALAYA,2021,Safe,3.45,None,20.0,7.5,6.95,39.0,1.45,0.47,16.5,205.0,5.0
+3378,"River Myntang At Mynso, Jayantia Hills",River,MEGHALAYA,2021,Safe,2.97,None,17.5,7.95,7.0,39.0,1.3,0.37,13.0,43.0,3.0
+4110,River Nongal At Nangalbibra,River,MEGHALAYA,2021,Unsafe,7.04,pH Out of Range,24.5,7.35,5.4,133.0,1.5,0.44,31.5,245.0,
+4113,River Boldamgre,River,MEGHALAYA,2021,Safe,3.33,None,25.0,7.55,7.2,71.5,1.3,0.49,42.5,345.0,
+4304,River Sderkariah At Sohra (Cherrapunjee),River,MEGHALAYA,2021,Unsafe,10.02,pH Out of Range,18.0,7.4,4.35,132.0,1.5,0.43,7.0,58.0,3.0
+4305,River Laitryngew Stream At Laitryngew,River,MEGHALAYA,2021,Unsafe,9.42,pH Out of Range,17.0,7.4,4.5,76.0,1.45,0.43,4.0,34.5,2.0
+4306,River Wahkhlek Khlek At Saitsohpen,River,MEGHALAYA,2021,Safe,3.4,None,17.55,7.75,7.05,111.5,1.5,0.7,7.0,53.0,3.0
+4307,River Wahrew At Majai,River,MEGHALAYA,2021,Safe,2.9,None,20.75,7.75,7.0,49.5,1.25,0.475,2.0,141.0,2.0
+4308,River Umngi At Jakrem,River,MEGHALAYA,2021,Safe,2.82,None,20.0,7.75,7.25,40.5,1.25,0.395,7.0,25.5,3.0
+4309,River Umngi At Umpung,River,MEGHALAYA,2021,Safe,2.83,None,22.0,7.6,7.0,35.0,1.25,0.37,4.0,46.0,2.0
+4310,River Rwiang At Rwiang,River,MEGHALAYA,2021,Safe,3.43,None,21.0,7.3,7.15,43.5,1.5,0.37,11.5,63.5,3.0
+4311,River Kalipai At Rymbai,River,MEGHALAYA,2021,Unsafe,14.86,pH Out of Range,20.5,7.65,2.9,619.5,1.7,0.395,2.0,2.0,2.0
+4312,River Kmeum At Rymbai,River,MEGHALAYA,2021,Unsafe,16.76,pH Out of Range,21.0,6.5,2.5,1918.5,2.0,0.39,2.0,2.0,2.0
+4313,River Waikhrwi At Mookhlot,River,MEGHALAYA,2021,Unsafe,14.49,pH Out of Range,20.55,6.85,2.95,698.0,1.6,0.35,2.0,13.0,2.0
+4314,"River Kwai At Sutnga, Mawpun",River,MEGHALAYA,2021,Unsafe,10.45,pH Out of Range,19.5,7.0,4.3,262.5,1.65,0.355,2.0,13.0,2.0
+4315,River Lukha At Khaddum,River,MEGHALAYA,2021,Unsafe,6.45,pH Out of Range,21.5,6.6,5.85,377.5,1.9,0.37,20.0,190.0,8.0
+4316,River Myntdu At Mihmyntdu,River,MEGHALAYA,2021,Safe,3.3,None,18.5,7.5,6.85,54.0,1.3,0.34,32.5,360.0,10.5
+4317,River Lamu At Leshka,River,MEGHALAYA,2021,Unsafe,4.9,pH Out of Range,19.5,7.8,5.9,66.0,1.3,0.425,15.5,135.0,7.5
+4318,River Lynriang Riang At Leshka,River,MEGHALAYA,2021,Unsafe,11.83,pH Out of Range,18.5,7.45,3.75,376.0,1.5,0.405,4.0,25.5,2.0
+4319,River Umiurem At Lale,River,MEGHALAYA,2021,Unsafe,9.81,pH Out of Range,20.5,7.45,4.4,414.0,1.5,0.405,2.0,12.0,2.0
+4320,River Kupli At Looski,River,MEGHALAYA,2021,Unsafe,10.43,pH Out of Range,20.5,7.4,4.2,217.5,1.5,0.395,2.0,14.5,2.0
+4321,River Kupli At Khandong,River,MEGHALAYA,2021,Unsafe,10.72,pH Out of Range,20.0,7.5,4.05,201.5,1.4,0.405,2.0,76.0,2.0
+4322,River Thlumuwi At Thlumuwi,River,MEGHALAYA,2021,Unsafe,8.9,pH Out of Range,17.05,7.6,4.65,50.5,1.4,0.38,11.5,71.0,5.0
+3367,River Nonbah At Nangstoin Marke,River,MEGHALAYA,2021,Safe,7.91,None,18.0,7.2,7.1,47.0,2.4,0.72,365.0,1400.0,44.5
+3368,River Nonbah At Photsohsat,River,MEGHALAYA,2021,Safe,4.12,None,19.0,8.05,6.95,36.0,1.25,0.42,191.0,731.5,17.5
+3369,River Kynshi At Sohiong,River,MEGHALAYA,2021,Safe,3.22,None,17.0,7.8,6.85,33.5,1.35,0.52,18.0,190.0,
+3370,River Kynshi At Nangkhnum,River,MEGHALAYA,2021,Safe,2.74,None,17.0,7.8,7.35,37.0,1.2,0.405,6.5,61.0,4.0
+3371,River Kynshi At Ranikor,River,MEGHALAYA,2021,Safe,3.85,None,20.5,7.4,6.7,58.0,1.7,0.37,8.0,50.0,3.0
+3373,"River Wah Blei At Riangdo,",River,MEGHALAYA,2021,Safe,3.19,None,18.5,7.6,7.15,45.0,1.4,0.41,6.5,71.0,3.0
+3374,"River Wah Blei At Shdaddkhar,",River,MEGHALAYA,2021,Safe,3.35,None,18.5,7.15,6.7,93.0,1.45,0.42,10.0,120.0,4.0

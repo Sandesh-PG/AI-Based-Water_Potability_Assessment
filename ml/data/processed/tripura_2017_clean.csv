@@ -1,0 +1,30 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1405,"Well At Udaipur (Tubewell), Tripura",Groundwater,TRIPURA,2017,Safe,0.01,None,25.75,,8.15,146.0,0.0,2.0,2.0,2.0,
+1406,"Well Around Udaipur (Tubewell), Tripura",Groundwater,TRIPURA,2017,Safe,0.01,None,26.0,,7.1,231.0,0.0,2.0,2.0,0.235,
+1730,"Kunjban, Agartala, Tripura",Groundwater,TRIPURA,2017,Safe,0.01,None,26.0,,6.75,162.5,0.0,2.0,2.0,0.265,
+1731,"Lankamura, Tripura",Groundwater,TRIPURA,2017,Safe,0.01,None,26.0,,7.0,126.5,0.0,2.0,2.0,0.13,
+1732,"A.D.Nagar, Agartala, Tripura",Groundwater,TRIPURA,2017,Safe,0.01,None,26.0,,6.6,141.5,0.0,2.0,2.0,0.135,
+1733,"Shibnagar, Agartala, Tripura",Groundwater,TRIPURA,2017,Unsafe,0.39,pH Out of Range,26.0,,6.4,166.5,0.0,2.0,2.0,0.1,
+1734,"Gandhigram, Agartala, Tripura",Groundwater,TRIPURA,2017,Safe,0.01,None,26.0,,7.3,155.0,0.0,2.0,2.0,0.13,
+3423,"Tube Well At Hapania, West Tripura",Groundwater,TRIPURA,2017,Unsafe,2.32,pH Out of Range,26.0,,5.9,118.5,0.0,2.0,2.0,0.175,
+3424,"Tube Well At Nagicherra, West Tripura",Groundwater,TRIPURA,2017,Unsafe,2.51,pH Out of Range,26.0,,5.85,110.5,0.0,2.0,2.0,0.125,
+3425,"Tube Well At Bodhjung Nagar, West Tripura",Groundwater,TRIPURA,2017,Unsafe,2.7,pH Out of Range,26.0,,5.8,138.5,0.0,2.0,2.0,0.16,
+3426,"Tube Well At B.C.Manu, South Tripura",Groundwater,TRIPURA,2017,Unsafe,2.32,pH Out of Range,26.0,,5.9,108.5,0.0,2.0,2.0,0.155,
+3427,"Tube Well At Shantir Bazar, South Tripura",Groundwater,TRIPURA,2017,Safe,0.01,None,26.0,,6.65,118.5,0.0,2.0,2.0,0.12,
+3428,"Tube Well At Bagafa, South Tripura",Groundwater,TRIPURA,2017,Unsafe,0.78,pH Out of Range,26.0,,6.3,110.5,0.0,2.0,2.0,0.115,
+3429,"Tube Well At 82 Mile, Dhalai",Groundwater,TRIPURA,2017,Unsafe,1.93,pH Out of Range,26.0,,6.0,153.5,0.0,2.0,2.0,0.11,
+3430,"Tube Well At Jawahanagar, Dhalai",Groundwater,TRIPURA,2017,Safe,0.01,None,26.0,,6.65,111.5,0.0,2.0,2.0,0.105,
+3431,"Tube Well At Kulai, Dhalai",Groundwater,TRIPURA,2017,Unsafe,2.13,pH Out of Range,26.0,,5.95,112.5,0.0,2.0,2.0,0.13,
+3433,"Tube Well At Kameswar, Industrial Estate Area, North Tripura",Groundwater,TRIPURA,2017,Safe,0.01,None,26.0,,7.4,184.5,0.0,2.0,2.0,0.145,
+3435,"Tube Well At Gour Nagar, North Tripura",Groundwater,TRIPURA,2017,Safe,0.01,None,26.0,,7.6,240.0,0.0,2.0,2.0,0.14,
+1727,"Laxmi Narayan Bari Palace Compound, Tripura",Pond/Tank,TRIPURA,2017,Unsafe,20.16,High BOD,,26.0,7.9,7.95,149.0,1.75,0.88,195.0,315.0
+1728,"Rudrasagar, Sonumura, Tripura",Pond/Tank,TRIPURA,2017,Unsafe,20.16,High BOD,,26.0,7.4,7.4,179.0,1.85,0.57,195.0,315.0
+3391,"Dhambur Lake, Dhalai",Pond/Tank,TRIPURA,2017,Unsafe,20.14,High BOD,,26.0,7.45,7.45,100.0,1.25,1.11,170.0,280.0
+3392,"Shipahijala Pond, West Tripura",Pond/Tank,TRIPURA,2017,Unsafe,25.08,"pH Out of Range, High BOD",,25.5,4.9,8.55,115.0,0.55,0.43,195.0,340.0
+3393,"Bramakunda Pond, West Tripura",Pond/Tank,TRIPURA,2017,Unsafe,21.85,"pH Out of Range, High BOD",,26.0,5.95,8.1,136.5,0.95,0.715,190.0,315.0
+3394,"Kalyansagar At Matarbari, South Tripura",Pond/Tank,TRIPURA,2017,Unsafe,20.16,High BOD,,25.75,8.35,8.95,133.5,1.8,0.715,195.0,315.0
+3395,"Mahadeb Dighi, South Tripura",Pond/Tank,TRIPURA,2017,Unsafe,20.16,High BOD,,25.75,7.65,8.55,130.5,1.3,0.24,195.0,350.0
+3396,"Jagannath Dighi, South Tripura",Pond/Tank,TRIPURA,2017,Unsafe,20.16,High BOD,,25.75,8.15,7.75,132.0,1.2,0.215,195.0,315.0
+GEN-4A1165,3387,Canal,TRIPURA,2017,Safe,0.08,None,,,,,,24.5,6.15,7.5,139.5
+GEN-4EDAA1,1403,River,TRIPURA,2017,Unsafe,33.8,High BOD,,,,24.5,16.15,7.15,49.75,98.55,0.565
+GEN-186A15,1404,River,TRIPURA,2017,Unsafe,33.8,High BOD,,,,23.5,16.35,6.9,50.0,97.5,1.29

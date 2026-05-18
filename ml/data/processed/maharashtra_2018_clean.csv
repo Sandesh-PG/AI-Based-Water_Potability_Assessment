@@ -1,0 +1,74 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1985,"Kashimira,Bhayander, Thane",Groundwater,MAHARASHTRA,2018,Unsafe,9.46,High BOD,30.0,,8.05,3175.5,3.4,1.0,2.0,11.0,
+GEN-8C2496,1986,Groundwater,MAHARASHTRA,2018,Unsafe,34.22,High BOD,,,,,28.0,18.9,78.7,272.0,
+GEN-D68A18,1987,Groundwater,MAHARASHTRA,2018,Unsafe,41.49,"High BOD, High Fecal Coliform",,,,,30.0,18.7,990.75,1162.5,
+GEN-9D7311,1988,Groundwater,MAHARASHTRA,2018,Unsafe,40.2,"High BOD, High Fecal Coliform",,,,,28.0,18.7,810.4,1095.2,
+GEN-4A3E00,1989,Groundwater,MAHARASHTRA,2018,Unsafe,35.34,High BOD,,,,,28.0,18.2,147.4,766.0,
+GEN-96055F,1991,Groundwater,MAHARASHTRA,2018,Unsafe,35.21,High BOD,,,,,34.0,21.15,235.15,233.0,
+GEN-008BD5,1994,Groundwater,MAHARASHTRA,2018,Unsafe,37.24,High BOD,,,,,21.0,16.6,470.9,574.6,
+GEN-3F088E,1995,Groundwater,MAHARASHTRA,2018,Unsafe,37.54,"High BOD, High Fecal Coliform",,,,,30.0,19.6,509.85,607.8,
+GEN-6351BF,1996,Groundwater,MAHARASHTRA,2018,Unsafe,38.38,"High BOD, High Fecal Coliform",,,,,30.0,18.65,630.65,629.95,
+GEN-06964D,1997,Groundwater,MAHARASHTRA,2018,Unsafe,37.33,High BOD,,,,,27.0,17.5,500.0,497.7,
+GEN-C5B2CE,1998,Groundwater,MAHARASHTRA,2018,Unsafe,36.78,High BOD,,,,,30.0,18.75,426.95,447.4,
+GEN-5EC829,1999,Groundwater,MAHARASHTRA,2018,Safe,5.47,None,,,,,,7.8,444.1,516.55,
+GEN-D0FB96,2001,Groundwater,MAHARASHTRA,2018,Unsafe,37.2,High BOD,,,,,23.0,15.3,483.8,482.7,
+GEN-4BA29B,2002,Groundwater,MAHARASHTRA,2018,Unsafe,36.23,High BOD,,,,,25.0,17.25,347.05,434.0,
+GEN-A59102,2003,Groundwater,MAHARASHTRA,2018,Unsafe,37.61,High BOD,,,,,22.0,15.7,461.8,897.7,
+GEN-D47268,2005,Groundwater,MAHARASHTRA,2018,Unsafe,7.53,High Fecal Coliform,,,,,,7.5,549.3,1021.0,
+GEN-EA5A48,2006,Groundwater,MAHARASHTRA,2018,Safe,2.27,None,,,,,,7.2,171.45,277.1,
+GEN-A00E5E,2007,Groundwater,MAHARASHTRA,2018,Unsafe,39.58,"High BOD, High Total Coliform",,,,,22.0,15.35,354.35,2914.0,
+GEN-EF8446,2008,Groundwater,MAHARASHTRA,2018,Unsafe,37.91,High BOD,,,,,20.0,14.8,482.9,1019.1,
+GEN-0172D2,2822,River,MAHARASHTRA,2018,Unsafe,38.5,"High BOD, High Fecal Coliform",,,,27.0,17.55,100.0,774.4,1.9,21.7
+1461,"Bhatsa River At D/S Of Pise Dam, Near Pise Village, Tal. Bhiwandi",River,MAHARASHTRA,2018,Safe,6.78,None,28.0,7.0,7.7,244.0,3.0,0.9,21.0,47.0,
+1462,Patalganga River Near Intake Of Midc W/W,River,MAHARASHTRA,2018,Unsafe,7.95,High BOD,27.0,6.5,7.2,241.0,3.5,0.9,26.0,94.0,
+"CHIKHALI NALLAH MEETS GODAVARI
+RIVER, VILLAGE- CHIKHALI, TALUKA-
+NASHIK, DISTRICT- NASHIK.",Maharashtra,River,MAHARASHTRA,2018,Unsafe,24.71,"Low DO, High BOD",20.0,3.95,7.42,862.5,18.0,6.4093,12.5,570.0,
+"RABODI NALLA, VILLAGE-
+RABODI,TALUKA- THANE, DISTRICT-
+THANE.",Maharashtra,River,MAHARASHTRA,2018,Unsafe,24.28,"High BOD, High Fecal Coliform",31.0,5.2,7.25,8997.0,76.0,4.1,855.0,1070.0,
+"COLOUR CHEM NALLA, VILLAGE-
+MAJIWADA,TALUKA-
+THANE,DISTRICT- THANE.",Maharashtra,River,MAHARASHTRA,2018,Unsafe,24.2,"High BOD, High Fecal Coliform",30.5,5.7,7.45,18694.0,58.0,7.0,847.0,1015.0,
+"SANDOZ NALLA, VILLAGE-
+SANDOZBAUG,TALUKA-
+THANE,DISTRICT- THANE.",Maharashtra,River,MAHARASHTRA,2018,Unsafe,24.85,"Low DO, High BOD, High Fecal Coliform",31.5,4.9,7.5,21014.5,65.0,4.55,860.0,1260.0,
+"BPT, NAVAPUR, VILLAGE- NAVAPUR,
+TALUKA- PALGHAR, DISTRICT-
+THANE.",Maharashtra,River,MAHARASHTRA,2018,Unsafe,29.89,"High BOD, High Fecal Coliform",26.5,,7.0,10370.5,500.0,13.15,806.0,855.0,
+"TARAPUR MIDC NALLA ( NEAR SUMP
+1), VILLAGE- MIDC TARAPUR,
+TALUKA- PALGHAR, DISTRICT-
+THANE.",Maharashtra,River,MAHARASHTRA,2018,Unsafe,40.45,"Low DO, High BOD, High Fecal Coliform",26.5,1.4,7.05,2644.5,500.0,4.45,1260.0,1260.0,
+"TARAPUR MIDC NALLA ( NEAR SUMP
+2), VILLAGE- MIDC TARAPUR,
+TALUKA- PALGHAR, DISTRICT-
+THANE.",Maharashtra,River,MAHARASHTRA,2018,Unsafe,31.14,"High BOD, High Fecal Coliform",26.5,,7.3,7817.5,391.5,11.3,975.0,1260.0,
+"TARAPUR MIDC NALLA ( NEAR SUMP
+3), VILLAGE- MIDC TARAPUR,
+TALUKA- PALGHAR, DISTRICT-
+THANE.",Maharashtra,River,MAHARASHTRA,2018,Unsafe,34.6,"High BOD, High Fecal Coliform",26.0,,6.6,9373.0,500.0,6.0,1600.0,1600.0,
+"NALLA AT D/S OF AKLAI MANDIR,
+VILLAGE- AKLAI, TALUKA-
+MALSHIRAS, DISTRICT- SOLAPUR.",Maharashtra,River,MAHARASHTRA,2018,Unsafe,16.5,High BOD,25.0,5.2,8.0,618.5,7.0,0.9,130.0,550.0,
+"PIMPAL-PANERI NALLA AT
+RATNAGIRI NEAR FINOLEX
+INDUSTRIES, VILLAGE-
+YAHGANIGAON, DISTRICT-
+RATNAGIRI.",Maharashtra,River,MAHARASHTRA,2018,Unsafe,5.99,pH Out of Range,25.5,6.55,6.25,647.0,2.3,1.075,10.4,89.0,
+1314,"Tapi River At Ubad Village Near Gujratborder, Village- Ubad, Taluka- Shahada, District- Nandurbar.",River,MAHARASHTRA,2018,Unsafe,9.96,High BOD,32.0,6.45,8.05,531.0,4.4,2.13,3.0,230.0,
+1253,"Girna River At Malegaon Road Bridge, Village- Malegaon, Taluka- Malegaon, District- Nashik.",River,MAHARASHTRA,2018,Unsafe,14.6,High BOD,21.5,5.75,7.85,542.0,6.5,1.925,3.0,195.0,
+1907,"Rangavali River At D/S Of Navapur Near Rangavali Bridge, Village- Navapur, Taluka- Navapur, District- Nandurbar.",River,MAHARASHTRA,2018,Unsafe,21.45,"Low DO, High BOD",35.0,4.75,7.65,30190.5,11.0,2.88,36.0,380.0,
+2155,"Purna River At D/S Of Confluence Of Morna And Purna, At Andura Village, Village- Andura, Taluka- Balapur, District- Akola.",River,MAHARASHTRA,2018,Unsafe,19.62,High BOD,26.0,5.15,7.65,15044.5,8.6,9.17,53.5,390.0,
+2658,"Bori River, D/S Of Amalner, Village- Amalner, Taluka- Jalgaon, District- Jalgaon.",River,MAHARASHTRA,2018,Unsafe,14.4,"Low DO, High BOD",26.5,4.3,7.35,833.5,5.05,1.63,48.0,250.0,
+2666,"Gomai River D/S. Of Shahada, Village- Shahada,Taluka- Dhule,District- Dhule.",River,MAHARASHTRA,2018,Unsafe,15.64,"Low DO, High BOD",27.0,4.5,8.2,564.0,5.9,0.79,79.0,280.0,
+2684,"Panzara River, Near Panzarakan Ssk Ltd, Village- Panzara,Taluka- Dhule, District- Dhule.",River,MAHARASHTRA,2018,Unsafe,13.06,High BOD,31.5,6.15,8.0,563.5,5.8,3.34,2.0,225.0,
+2718,"Waghur River At- Sakegaon Before Confluence With Tapi River, Village- Sakegaon,Taluka- Jalgaon,District- Jalgaon.",River,MAHARASHTRA,2018,Unsafe,9.89,High BOD,27.5,6.1,8.1,495.0,4.1,1.505,86.0,560.0,
+2182,"Godavari River At Saikheda Village, Village- Saikheda, Taluka- Niphad, District- Nashik.",River,MAHARASHTRA,2018,Unsafe,10.19,High BOD,25.5,6.1,7.75,506.0,4.5,3.67,3.0,235.0,
+2159,"Godavari River At D/S Of Paithan At Pathegaon Bridge, Village- Pathegaon, Taluka- Paithan, District- Aurangabad.",River,MAHARASHTRA,2018,Unsafe,9.88,High BOD,24.5,6.25,7.9,707.0,4.4,0.4,3.0,125.0,
+1209,"Godavari River At Raher, Village- Raher, Taluka- Nayagaon, District- Nanded.",River,MAHARASHTRA,2018,Unsafe,10.11,High BOD,28.5,6.1,7.8,597.5,4.5,0.265,3.0,140.0,
+2157,"Godavari River At Latur Water Intake Near Pump House. Village- Dhamegaon, Taluka- Kalumb, District- Osmanabad.",River,MAHARASHTRA,2018,Unsafe,9.0,High BOD,24.0,6.4,7.85,656.5,4.0,0.4,3.0,140.0,
+2180,"Godavari River At Tapovan,Village- Tapovan, Taluka- Nashik, District- Nashik.",River,MAHARASHTRA,2018,Unsafe,20.9,"Low DO, High BOD",23.5,4.85,7.85,494.5,12.4,2.86,4.5,355.0,
+2181,"Godavari River At Kapila- Godavari Confluence Point, Village- Tapovan, Taluka- Nashik, District- Nashik.",River,MAHARASHTRA,2018,Unsafe,23.3,"Low DO, High BOD",24.5,4.25,7.8,565.5,18.2,2.855,4.5,355.0,
+2183,"Godavari River At Nandur- Madhmeshwar Dam, Village- Nandur, Taluka- Niphad, District- Nashik.",River,MAHARASHTRA,2018,Unsafe,11.48,High BOD,23.5,6.4,7.85,509.0,5.1,3.52,3.5,175.0,
+1096,"Godavari River At Ramkund, Village- Panchavati, Taluka- Nashik, District- Nashik.",River,MAHARASHTRA,2018,Unsafe,16.53,High BOD,23.5,6.1,7.8,537.5,7.3,2.44,4.5,380.0,

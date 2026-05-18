@@ -1,0 +1,16 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1951,Rajkot,Groundwater,J & K,2017,Safe,2.09,None,26.5,,7.55,1007.5,0.75,2.0,2.0,2.03,
+2095,"Bore Well At Stp Madhapar, Dist. Rajkot.",Groundwater,J & K,2017,Safe,2.51,None,26.5,,7.55,1985.0,0.9,2.0,2.0,0.875,
+3240,"Borewell Of Aji Gidc, Rajkot",Groundwater,J & K,2017,Safe,2.37,None,26.5,,7.65,1522.5,0.85,2.0,2.0,0.915,
+3241,"Borewell Near Municipal Solid Waste Site, Nakarwadi, Rajkot",Groundwater,J & K,2017,Safe,2.79,None,26.0,,7.35,1875.0,1.0,2.0,2.0,0.91,
+3824,"Ground Water Vill Bheemjori, Malajkh, Dist Balaghat",Groundwater,J & K,2017,Safe,0.29,None,19.0,,7.45,418.5,0.1,2.0,2.0,0.15,
+2574,"Suraj Kund At Gaya, Bihar",Pond/Tank,J & K,2017,Unsafe,29.08,"High BOD, High Total Coliform",,25.5,8.1,7.8,454.0,2.65,0.0,11350.0,17350.0
+2078,"Kuwadava Lake, Vill. Kuwadava, Dist. Rajkot.",Pond/Tank,J & K,2017,Unsafe,20.01,High BOD,,26.0,6.7,7.5,500.0,2.95,0.085,7.0,14.0
+1309,"Dal Lake At Srinagar, J&K",Pond/Tank,J & K,2017,Unsafe,33.33,High BOD,,15.3,7.6,7.85,171.5,1.55,,,
+2738,"Mid Point(Mansar Lake), J&K",Pond/Tank,J & K,2017,Unsafe,25.0,High BOD,,18.0,7.75,7.65,209.0,4.15,0.275,,
+2739,"Point Of Discharge Of Waste Water From Different Establishments Near Nag Temple, J&K",Pond/Tank,J & K,2017,Unsafe,25.0,High BOD,,18.0,7.05,7.85,213.0,5.2,0.45,,
+2740,"Mid Point(Surinsar Lake), J&K",Pond/Tank,J & K,2017,Unsafe,25.0,High BOD,,18.0,7.95,7.8,207.0,11.0,0.51,,
+2741,"Point Of Discharge Of Waste Water From Different Establishments , J&K",Pond/Tank,J & K,2017,Unsafe,25.0,High BOD,,18.0,7.65,8.0,203.5,13.5,0.61,,
+2747,"Tawi At Surajpur Chatha(10 Km D/S Tawi Bridge)Below Bridge Near Chatha Msw Dumping Site, J&K",River,J & K,2017,Unsafe,11.65,High BOD,20.0,7.65,7.9,210.0,3.15,0.15,,,
+GEN-D7FBDB,Yamuna At Khojkipur,River,J & K,2017,Unsafe,35.77,"Low DO, High BOD",0.0,1.55,7.8,134.1,500.0,27.505,16.555,2374.5,
+3305,"Banjar At Malanjkhand Near W/S Intake Point, Jabalpur",River,J & K,2017,Safe,3.41,None,11.5,8.65,7.85,369.0,1.45,1.3,20.5,135.5,

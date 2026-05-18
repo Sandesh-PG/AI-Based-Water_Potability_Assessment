@@ -1,0 +1,14 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg
+2054,Ramhlum (Northern Part),Groundwater,MIZORAM,2018,Unsafe,2.75,pH Out of Range,20.5,6.45,141.5,0.9,0.1,2.0,53.0
+GEN-9AFEFC,2055,Groundwater,MIZORAM,2018,Unsafe,34.23,High BOD,,,,14.0,13.85,62.95,356.7
+GEN-D8C24C,3730,Groundwater,MIZORAM,2018,Unsafe,34.23,High BOD,,,,17.0,14.4,60.45,372.75
+GEN-7EC3B3,3731,Groundwater,MIZORAM,2018,Unsafe,34.19,High BOD,,,,19.0,14.6,56.4,360.7
+GEN-64D52E,3733,Groundwater,MIZORAM,2018,Unsafe,34.32,High BOD,,,,17.0,14.1,62.7,427.2
+GEN-9D752C,3734,Groundwater,MIZORAM,2018,Unsafe,34.22,High BOD,,,,18.0,16.1,54.7,393.1
+GEN-DC0C39,3735,Groundwater,MIZORAM,2018,Unsafe,34.05,High BOD,,,,17.0,16.85,55.1,262.3
+GEN-3E195B,3736,Groundwater,MIZORAM,2018,Unsafe,34.12,High BOD,,,,18.0,16.6,60.5,285.55
+GEN-3DB11D,3737,Groundwater,MIZORAM,2018,Unsafe,34.53,High BOD,,,,9.0,16.0,59.2,629.4
+GEN-167384,3738,Groundwater,MIZORAM,2018,Unsafe,30.34,High BOD,,,,8.0,15.4,60.6,252.95
+GEN-20885C,3739,Groundwater,MIZORAM,2018,Unsafe,34.03,High BOD,,,,17.0,16.0,57.2,235.75
+GEN-1F72E2,3742,Groundwater,MIZORAM,2018,Unsafe,34.21,High BOD,,,,17.0,16.1,57.8,365.7
+GEN-770C0E,4128,Groundwater,MIZORAM,2018,Unsafe,33.9,High BOD,,,,16.0,14.85,67.2,85.95

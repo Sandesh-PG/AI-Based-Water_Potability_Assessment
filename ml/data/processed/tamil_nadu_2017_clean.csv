@@ -1,0 +1,43 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+32,"Well At Musiri, Tamil Nadu",Groundwater,TAMIL NADU,2017,Safe,4.96,None,27.0,,7.3,841.5,1.6,2.0,78.0,127.0,
+1449,"Collector Well At Thirupuvanam For Madurai Wat. Supply Scheme, Tamilnadu",Groundwater,TAMIL NADU,2017,Safe,0.0,None,,,,,,,,0.0,
+1420,"Kodai Kanal Lake, Tamilnadu",Pond/Tank,TAMIL NADU,2017,Unsafe,22.19,"pH Out of Range, High BOD",,21.0,5.8,7.15,114.0,4.2,0.77,42.0,55.0
+1421,"Udhagamadalem Lake (Ooty), Tamilnadu",Pond/Tank,TAMIL NADU,2017,Unsafe,24.63,"pH Out of Range, High BOD",,16.0,5.2,7.4,500.0,13.8,1.0,780.0,1750.0
+1452,"Yercaud Lake, Salem, Tamilnadu",Pond/Tank,TAMIL NADU,2017,Unsafe,20.59,High BOD,,22.0,6.7,7.55,367.5,4.8,1.0,734.0,1595.0
+3007,"Veeranam Lake At Cuddalore, Tamilnadu",Pond/Tank,TAMIL NADU,2017,Unsafe,20.49,High BOD,,29.5,6.8,8.3,500.0,3.3,1.0,605.0,1065.0
+3008,"Poondi Lake At Thiruvallur, Tamilnadu",Pond/Tank,TAMIL NADU,2017,Unsafe,24.5,"pH Out of Range, High BOD",,30.0,5.1,7.55,500.0,23.5,0.69,231.0,1080.0
+3009,"Redd Hills At Thiruvallur, Tamilnadu",Pond/Tank,TAMIL NADU,2017,Unsafe,22.9,"pH Out of Range, High BOD",,29.0,5.6,7.4,500.0,24.0,0.505,166.0,585.0
+3010,"Porur Lake At Thiruvallur, Tamilnadu",Pond/Tank,TAMIL NADU,2017,Unsafe,20.17,High BOD,,31.0,6.6,7.95,500.0,7.5,0.515,204.0,1015.0
+3011,"Pulicate Lake At Thiruvallur, Tamilnadu",Pond/Tank,TAMIL NADU,2017,Unsafe,25.87,"pH Out of Range, High BOD",,30.5,4.75,7.4,500.0,7.65,0.5,601.0,1072.5
+31,Cauvery At Musiri,River,TAMIL NADU,2017,Unsafe,8.8,High Fecal Coliform,30.5,6.95,8.08,996.0,2.45,,575.0,1330.0,
+3016,"Cauvery At Pettaivaithalai, Trichy, Tamilnadu",River,TAMIL NADU,2017,Safe,7.76,None,30.0,7.15,8.15,601.5,2.25,,435.0,1285.0,
+1202,"Cauvery At Tiruchirappalli U/S, Tamilnadu",River,TAMIL NADU,2017,Safe,7.03,None,30.0,7.5,8.05,513.5,2.0,,460.0,940.0,
+1325,"Cauvery At Tiruchirappalli D/S, Tamilnadu",River,TAMIL NADU,2017,Unsafe,60.86,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",30.0,3.75,7.55,982.0,7.45,0.6,13745.0,24150.0,
+1203,"Cauvery At Trichy, Grand Anaicut, Tamilnadu",River,TAMIL NADU,2017,Unsafe,33.67,"High BOD, High Fecal Coliform, High Total Coliform",29.5,5.4,8.05,831.5,7.0,0.65,3275.0,6290.0,
+1206,"Cauvery At Thanjavur, Tamilnadu",River,TAMIL NADU,2017,Safe,4.8,None,26.5,6.6,8.05,503.5,1.7,,160.0,480.0,
+3018,"Cauvery At Mayiladuthurai, Nagapattinam, Tamilnadu",River,TAMIL NADU,2017,Safe,5.62,None,24.0,5.7,7.5,345.0,2.0,,210.0,430.0,
+3012,"Cauvery At Komarapalayam, Namakal, Tamilnadu",River,TAMIL NADU,2017,Unsafe,16.98,"Low DO, High BOD, High Fecal Coliform",29.0,3.95,7.85,997.5,4.05,,715.0,1165.0,
+3013,"Cauvery At Urrachikottai, Erode, Tamilnadu",River,TAMIL NADU,2017,Unsafe,8.5,High Fecal Coliform,33.0,6.05,7.8,412.5,2.0,,720.0,1470.0,
+3014,"Cauvery At Vairapalayam, Namakal, Tamilnadu",River,TAMIL NADU,2017,Unsafe,10.14,"High BOD, High Fecal Coliform",28.5,5.5,8.05,671.0,3.1,,555.0,1300.0,
+3017,"Cauvery At Kumbakonam, Thanjavur, Tamilnadu",River,TAMIL NADU,2017,Safe,4.25,None,26.0,7.4,7.7,437.0,1.45,,170.0,445.0,
+1326,"Cauvery At Coleroon, Tamilnadu",River,TAMIL NADU,2017,Unsafe,22.86,"High BOD, High Fecal Coliform",28.5,5.5,7.65,39303.5,16.3,,505.0,1045.0,
+1327,"Cauvery At Pitchavaram, Tamilnadu",River,TAMIL NADU,2017,Unsafe,21.07,High BOD,28.5,5.75,7.75,39348.0,8.3,,480.0,900.0,
+50,Cauvery At Mettur,River,TAMIL NADU,2017,Safe,7.54,None,28.0,6.5,8.005,466.0,2.95,,174.0,365.0,
+51,Cauvery At Pallippalayam,River,TAMIL NADU,2017,Unsafe,19.74,"High BOD, High Fecal Coliform, High Total Coliform",29.0,6.6,7.775,1755.5,5.45,,1260.0,3250.0,
+1320,"Cauvery At Erode Near Chirapalayam, Tamilnadu",River,TAMIL NADU,2017,Unsafe,9.79,"Low DO, High Fecal Coliform",30.0,4.6,7.9,800.0,2.15,,550.0,1520.0,
+1323,"Cauvery At Velore Near Kattipalayam, Tamilnadu",River,TAMIL NADU,2017,Unsafe,15.32,"High BOD, High Fecal Coliform",29.0,6.4,8.05,875.0,5.0,,785.0,1345.0,
+3015,"Cauvery At Pugalur, Karur, Tamilnadu",River,TAMIL NADU,2017,Unsafe,11.17,"High BOD, High Fecal Coliform",27.5,7.45,8.05,720.5,3.7,,535.0,1020.0,
+1324,"Cauvery At Mohanur Near Pattaipalayam, Tamilnadu",River,TAMIL NADU,2017,Unsafe,8.25,High Fecal Coliform,28.5,7.25,8.1,1300.5,1.9,,705.0,1520.0,
+1451,"Cauvery At Thirumukkudalconfl. Pt.Of R. Amravati, Tamilnadu",River,TAMIL NADU,2017,Safe,6.12,None,27.5,7.35,8.1,740.5,1.75,,400.0,795.0,
+31,"Cauvery At 1Km. D/S Of Bhavani River Confl., Tamilnadu",River,TAMIL NADU,2017,Unsafe,13.05,"Low DO, High Fecal Coliform",30.5,3.85,7.95,647.0,2.4,,525.0,1280.0,
+1201,"Bhavani At Pathirakaliamman Koil, Tamilnadu",Canal,TAMIL NADU,2017,Safe,3.54,None,24.5,7.05,6.9,176.5,1.15,,170.0,390.0,
+1204,"Bhavani At Sirumugai, Tamilnadu",Canal,TAMIL NADU,2017,Safe,3.93,None,22.5,7.2,7.65,211.5,1.3,,185.0,380.0,
+1321,"Bhavani At Bhavani Sagar, Tamilnadu",Canal,TAMIL NADU,2017,Safe,5.99,None,32.0,5.75,7.45,218.0,1.95,,280.0,680.0,
+1205,"Bhavani At Bhavani, Tamilnadu",Canal,TAMIL NADU,2017,Unsafe,14.37,"High BOD, High Fecal Coliform, High Total Coliform",32.5,5.1,7.1,771.5,3.35,,1185.0,2745.0,
+3019,"Bhavani At D/S Of Bhavanisagar, Sathyamangalam, Erode, Tamilnadu",Canal,TAMIL NADU,2017,Unsafe,8.14,Low DO,33.0,4.65,7.3,214.5,2.55,,185.0,430.0,
+3020,"Bhavani At U/S Of Kalingarayan Canal (B5), Erode, Tamilnadu",Canal,TAMIL NADU,2017,Safe,4.54,None,30.0,6.25,7.15,344.0,0.7,,480.0,1330.0,
+3021,"Bhavani At D/S Of Kalingarayan Canal (B10), Erode, Tamilnadu",Canal,TAMIL NADU,2017,Safe,3.67,None,30.5,6.5,6.9,343.5,1.05,,240.0,480.0,
+3024,"Sarabanga At Salem, D/S Of Textile Dyeing Industries Effluent, Tamilnadu",Canal,TAMIL NADU,2017,Unsafe,74.8,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",28.5,1.3,7.45,2465.0,40.1,1.5,1000000.0,1751100.0,
+3022,"Thirumanimuthar At Salem, D/S Of Sago & Textile Dying Industries, Tamilnadu",River,TAMIL NADU,2017,Unsafe,61.2,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",28.5,4.7,7.65,2195.0,66.6,10.05,167900.0,277000.0,
+1319,Amravati At 1Km D/S From Eff.Dis. Pt. At Madhuthukkulam,River,TAMIL NADU,2017,Safe,3.18,None,28.5,7.2,6.6,131.5,1.15,0.5,105.0,255.0,
+3023,"Vasista At Salem, D/S Of Sago Indusries Effluent, Tamilnadu",River,TAMIL NADU,2017,Unsafe,74.0,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",29.5,1.5,7.55,1917.5,176.0,1.3,860500.0,1773500.0,

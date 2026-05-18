@@ -1,0 +1,43 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+15,Well At Kuyyura,Groundwater,TELANGANA,2017,Safe,0.0,None,29.0,,7.0,261.0,0.0,,,2.0,
+16,Well At Tadavai A.P.,Groundwater,TELANGANA,2017,Safe,8.35,None,29.0,,7.6,1244.0,3.0,,4.0,0.5,
+27,Well At Peddavoora,Groundwater,TELANGANA,2017,Safe,0.0,None,,,,,,,,0.0,
+1515,"B/W. - Nagaram(V), Palvoncha, Khammam Dist.",Groundwater,TELANGANA,2017,Safe,8.34,None,32.0,,7.6,2689.0,3.0,,2.0,6.3,
+1791,"B/W. - East Of Saicheruvu , Paidipally (V), Warangal Dist.",Groundwater,TELANGANA,2017,Safe,8.39,None,30.0,,7.5,1230.0,3.0,,12.0,3.7,
+1793,"O/W - Bhoomaiah Near Ashponds Of Ntpc , Kundanpally (V) , Ramagundam , Karimnagar",Groundwater,TELANGANA,2017,Safe,5.57,None,26.0,,7.7,1678.0,2.0,,4.0,0.3,
+1794,"B/W - Manakondur (V) , Karimnagar Dist.",Groundwater,TELANGANA,2017,Safe,8.36,None,26.0,,8.1,912.0,3.0,,6.0,0.5,
+1795,"B/W. - Panchayat Office , , Bollaram (V) Medak Dist.",Groundwater,TELANGANA,2017,Safe,0.15,None,26.0,,7.1,4640.0,,4.0,15.0,35.7,
+1811,"B/W. - Primary School - Rudravelli (V) , Bibinagar (M), Nalgonda Dist.",Groundwater,TELANGANA,2017,Safe,0.0,None,,,,,,,,0.0,
+3094,"B/W At Akbarnagar, Ramagundam, Karimnagar",Groundwater,TELANGANA,2017,Safe,5.56,None,29.0,,8.4,866.0,2.0,,2.0,1.3,
+1391,"Hussain Sagar Lake, Budameru",Pond/Tank,TELANGANA,2017,Unsafe,36.1,"pH Out of Range, High BOD",,26.5,1.3,7.7,500.0,17.5,4.95,104.0,410.0
+1788,"Saroonagar , Ranga Reddy Dist.",Pond/Tank,TELANGANA,2017,Unsafe,38.08,"pH Out of Range, High BOD",,27.5,0.65,7.75,500.0,29.0,4.65,75.0,550.0
+1789,"Himayat Sagar Lake , R.R.Dist.",Pond/Tank,TELANGANA,2017,Unsafe,24.64,"pH Out of Range, High BOD",,25.0,5.0,8.25,360.5,2.0,0.95,22.5,283.0
+2340,"Laxminarayana Chevuru At Edulabad, Rangareddy,",Pond/Tank,TELANGANA,2017,Unsafe,27.92,"pH Out of Range, High BOD",,24.5,3.95,8.05,500.0,14.0,2.85,77.0,350.0
+2341,"Miralam Lake Near Zoo Park, Rangareddy",Pond/Tank,TELANGANA,2017,Unsafe,36.21,"pH Out of Range, High BOD",,27.5,1.25,7.95,500.0,18.5,5.45,37.5,563.0
+2342,"Noor Md. Kunta, Kattedan, Rangareddy,",Pond/Tank,TELANGANA,2017,Unsafe,39.74,"pH Out of Range, High BOD",,27.5,0.1,7.6,500.0,37.5,3.43,42.5,590.0
+3069,"Shameerpet Lake, Shameerpet, Ranga Reddy",Pond/Tank,TELANGANA,2017,Unsafe,27.57,"pH Out of Range, High BOD",,26.0,4.05,8.05,380.5,3.5,3.05,30.0,406.0
+3070,"Fox Sagar, Jeedimetla, Ranga Reddy",Pond/Tank,TELANGANA,2017,Unsafe,31.91,"pH Out of Range, High BOD",,27.0,2.65,7.9,500.0,8.0,3.8,57.5,505.0
+3071,"Langarhouse Lake, Hyderabad",Pond/Tank,TELANGANA,2017,Unsafe,36.52,"pH Out of Range, High BOD",,29.0,1.15,7.5,500.0,19.0,2.4,64.0,420.5
+3072,"Safilguda Lake, Ranga Reddy",Pond/Tank,TELANGANA,2017,Unsafe,37.14,"pH Out of Range, High BOD",,27.0,0.95,7.7,500.0,14.0,3.2,60.0,250.0
+3073,"Hasmathpet Lake, Hasmathpet, Ranga Reddy,",Pond/Tank,TELANGANA,2017,Unsafe,36.81,"pH Out of Range, High BOD",,26.0,1.05,7.95,500.0,21.0,2.71,35.0,560.0
+3074,"Banjara Lake, Banjara Hills, Ranga Reddy,",Pond/Tank,TELANGANA,2017,Unsafe,38.36,"pH Out of Range, High BOD",,28.0,0.55,7.7,500.0,20.0,2.3,59.0,565.0
+2344,"Nalla Chevuru, Rangareddy",Pond/Tank,TELANGANA,2017,Unsafe,38.56,"pH Out of Range, High BOD",,24.5,0.5,7.8,500.0,19.5,5.15,96.0,350.0
+2345,"Sai Chevuru, Near Tannery Industries, Desaipet, Warangal",Pond/Tank,TELANGANA,2017,Unsafe,37.32,"pH Out of Range, High BOD",,28.0,0.9,7.85,500.0,100.0,14.15,40.0,230.5
+2346,"Bhadrakali Chevuru, Bhadrakali Temple, Warangal",Pond/Tank,TELANGANA,2017,Unsafe,23.16,"pH Out of Range, High BOD",,27.5,5.5,8.3,419.0,3.5,2.3,91.0,676.0
+2347,"Asani Kunta, Kajipally, Medak",Pond/Tank,TELANGANA,2017,Unsafe,39.97,"pH Out of Range, High BOD",,29.0,0.1,6.25,500.0,100.0,64.58,26.5,162.5
+2357,Durgam Chevuru,Pond/Tank,TELANGANA,2017,Unsafe,35.44,"pH Out of Range, High BOD",,23.5,1.5,7.85,500.0,8.5,5.15,48.5,385.0
+2359,Pedda Chevuru,Pond/Tank,TELANGANA,2017,Unsafe,33.76,"pH Out of Range, High BOD",,25.0,2.05,7.85,500.0,21.5,1.65,75.0,345.0
+3075,"Rangadhamuni Cheruvu, Ranga Reddy",Pond/Tank,TELANGANA,2017,Unsafe,35.13,"pH Out of Range, High BOD",,26.5,1.6,7.75,500.0,17.0,4.3,48.0,341.0
+3076,"Amber Cheruvu, Kukatpally, Ranga Reddy",Pond/Tank,TELANGANA,2017,Unsafe,35.95,"pH Out of Range, High BOD",,27.5,1.35,8.0,500.0,14.5,10.05,85.0,1078.0
+3077,"Kapra Cheruvu, Kapra, Ranga Reddy",Pond/Tank,TELANGANA,2017,Unsafe,35.33,"pH Out of Range, High BOD",,27.5,1.55,7.6,500.0,12.5,1.5,115.0,750.0
+3078,"Pragathinagar Cheruvu, Kukatpally, Ranga Reddy",Pond/Tank,TELANGANA,2017,Unsafe,34.11,"pH Out of Range, High BOD",,29.0,1.95,7.6,500.0,14.0,3.7,119.0,305.0
+1447,Dharmasagar Tank Near Warangal,Pond/Tank,TELANGANA,2017,Unsafe,22.09,"pH Out of Range, High BOD",,28.0,5.85,8.1,344.5,3.0,1.05,108.0,713.0
+1464,"Bibinagar Tank,",Pond/Tank,TELANGANA,2017,Unsafe,20.05,High BOD,,24.5,7.15,7.95,496.5,4.5,9.8,12.0,107.5
+1780,"Gandigudem , Medak District",Pond/Tank,TELANGANA,2017,Unsafe,20.27,"pH Out of Range, High BOD",,29.5,6.45,7.75,500.0,11.5,26.25,17.0,87.0
+1783,"Kistareddypet Tank , Medak Dist",Pond/Tank,TELANGANA,2017,Unsafe,20.1,High BOD,,28.0,6.7,7.3,500.0,8.0,21.0,19.0,205.5
+2343,"Premajipet Tank, Kattedan, Rangareddy",Pond/Tank,TELANGANA,2017,Unsafe,38.37,"pH Out of Range, High BOD",,25.0,0.55,6.8,500.0,26.0,2.6,60.5,181.0
+2348,"Kajipally Tank, Kajipally, Medak",Pond/Tank,TELANGANA,2017,Unsafe,20.06,High BOD,,24.5,6.65,7.45,500.0,9.0,15.0,5.0,127.5
+2358,Mallapur Tank,Pond/Tank,TELANGANA,2017,Unsafe,38.71,"pH Out of Range, High BOD",,26.0,0.45,7.8,500.0,29.0,9.05,76.0,550.0
+3084,"Waddepally Tank, Kazipet, Warangal",Pond/Tank,TELANGANA,2017,Unsafe,24.85,"pH Out of Range, High BOD",,26.0,4.95,8.2,389.0,4.0,2.25,95.0,257.5
+3085,"Chinna Waddepally Tank, Warangal",Pond/Tank,TELANGANA,2017,Unsafe,26.99,"pH Out of Range, High BOD",,27.5,4.25,8.1,500.0,20.0,7.8,49.5,580.0
+3086,"Saki Tank, Patancheru, Ranga Reddy",Pond/Tank,TELANGANA,2017,Unsafe,27.96,"pH Out of Range, High BOD",,27.5,3.95,7.75,500.0,8.0,24.0,17.5,153.0

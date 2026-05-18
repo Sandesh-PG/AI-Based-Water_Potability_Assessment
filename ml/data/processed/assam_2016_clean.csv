@@ -1,0 +1,101 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1533,"Digboi, Tinsukia Distt",Groundwater,ASSAM,2016,Safe,13.16,None,21.0,,6.6,200.0,2.8,0.1,,2100.0,
+1534,Karbi Anglong Distt,Groundwater,ASSAM,2016,Safe,11.1,None,25.0,,6.55,694.0,2.0,0.3,,,
+1535,Sibsagar,Groundwater,ASSAM,2016,Safe,9.16,None,23.5,,6.5,245.5,1.65,0.2,,,
+1536,Sibsagar,Groundwater,ASSAM,2016,Unsafe,13.26,pH Out of Range,24.0,,6.4,186.0,2.25,0.25,,,
+1537,(Jorhat,Groundwater,ASSAM,2016,Safe,11.93,None,25.0,,6.5,170.0,2.15,3.05,,,
+1538,Silchar,Groundwater,ASSAM,2016,Unsafe,5.76,pH Out of Range,26.5,,5.9,74.0,0.7,0.55,,73.0,
+1539,Barpeta,Groundwater,ASSAM,2016,Safe,10.45,None,29.0,,6.95,255.0,2.3,3.15,,1455.0,
+1540,Bonaigaon,Groundwater,ASSAM,2016,Unsafe,4.75,pH Out of Range,29.5,,6.35,426.0,1.05,7.15,,73.0,
+1541,Guwahati,Groundwater,ASSAM,2016,Unsafe,12.65,High BOD,26.5,,6.75,241.5,3.3,0.2,,330.0,
+1542,Guwahati,Groundwater,ASSAM,2016,Unsafe,20.54,High BOD,24.0,,6.6,587.5,3.7,7.4,,,
+2243,"Ground Water From Ledo, Margherita",Groundwater,ASSAM,2016,Safe,10.82,None,22.0,,6.95,223.0,1.95,0.1,,,
+2244,Ground Water From Nazira,Groundwater,ASSAM,2016,Safe,6.89,None,24.5,,7.05,197.5,1.85,0.15,,36.0,
+2245,Ground Water From Numaligarh (Near Nrl Te Labor Colony),Groundwater,ASSAM,2016,Unsafe,7.35,pH Out of Range,26.0,,6.05,102.5,0.7,1.05,,,
+2246,Ground Water From Semenchapari,Groundwater,ASSAM,2016,Safe,8.05,None,22.5,,7.05,151.0,1.45,0.2,,,
+2247,Ground Water From Silapathar,Groundwater,ASSAM,2016,Safe,9.16,None,23.0,,7.3,224.0,1.65,0.2,,,
+2248,Ground Water From Lakhimpur Town,Groundwater,ASSAM,2016,Unsafe,6.07,pH Out of Range,25.0,,6.2,191.5,1.2,0.3,,72.0,
+2249,Ground Water From Tezpur (Mission Chariali),Groundwater,ASSAM,2016,Safe,8.0,None,24.5,,6.65,126.5,2.15,0.35,,36.0,
+2250,Ground Water From Nagaon (Panigaon),Groundwater,ASSAM,2016,Unsafe,7.14,pH Out of Range,29.0,,6.35,266.5,1.55,0.2,,480.0,
+2251,Ground Water From Jagiroad Near Hpc Effluent Discharge Point,Groundwater,ASSAM,2016,Unsafe,14.78,pH Out of Range,31.0,,5.8,882.0,2.7,10.15,,900.0,
+2252,Ground Water Near Msw Dumping Site At Garchuk-Guwahati,Groundwater,ASSAM,2016,Safe,5.51,None,24.0,,6.75,295.0,0.95,0.1,,1500.0,
+2253,Ground Water From Nalbari,Groundwater,ASSAM,2016,Safe,10.82,None,25.5,,6.9,308.0,1.95,0.6,,,
+2254,Ground Water From Barpeta Road(Rly Station),Groundwater,ASSAM,2016,Safe,8.6,None,29.5,,6.95,635.5,2.0,0.85,,900.0,
+2255,"Ground Water Near Bprl, Dhaligaon",Groundwater,ASSAM,2016,Safe,5.28,None,29.0,,6.55,204.5,1.4,5.05,,73.0,
+2256,Ground Water From Kokrajhar District (Hs School ),Groundwater,ASSAM,2016,Unsafe,6.06,pH Out of Range,29.0,,6.05,148.5,1.0,0.15,,36.0,
+2257,Ground Water From Dhubri District (College Nagar ),Groundwater,ASSAM,2016,Unsafe,7.2,High Total Coliform,29.5,,7.25,440.0,0.9,0.1,,2900.0,
+2260,Ground Water From Hamren,Groundwater,ASSAM,2016,Unsafe,9.69,pH Out of Range,25.0,,6.25,164.5,1.4,0.4,,,
+2261,Ground Water From Haflong,Groundwater,ASSAM,2016,Safe,5.67,None,23.0,,7.8,131.0,1.5,0.1,,91.0,
+2262,Ground Water From Karimganj (College),Groundwater,ASSAM,2016,Unsafe,8.52,pH Out of Range,26.0,,6.15,86.0,1.05,0.1,,,
+2263,Ground Water From Hialakandi (Near,Groundwater,ASSAM,2016,Safe,7.18,None,25.5,,6.8,137.0,1.9,1.7,,110.0,
+2264,Ground Water In Panchgram Market Near Cachar Paper Mill,Groundwater,ASSAM,2016,Unsafe,12.23,pH Out of Range,25.5,,6.1,160.0,1.65,0.7,,,
+2205,Mer Beel At Madhabpur,Pond/Tank,ASSAM,2016,Unsafe,23.68,"pH Out of Range, High BOD",,25.0,5.45,7.0,131.0,12.35,3.2,550.0,55455.0
+2206,Daloni Beel Near Jogighopa,Pond/Tank,ASSAM,2016,Unsafe,23.18,"pH Out of Range, High BOD",,27.0,5.65,7.7,138.5,2.35,0.35,700.0,6360.0
+1263,Elangabeel System Pond (Connected To R. Kolang),Pond/Tank,ASSAM,2016,Unsafe,30.9,"pH Out of Range, High BOD",,30.0,3.15,9.4,500.0,45.9,3.1,730.0,8250.0
+2207,Bor Beel At Jakai,Pond/Tank,ASSAM,2016,Unsafe,23.75,"pH Out of Range, High BOD",,23.5,5.4,6.8,130.0,2.2,0.75,455.0,14865.0
+2208,"Borpukhuri, Nazira",Pond/Tank,ASSAM,2016,Unsafe,23.56,"pH Out of Range, High BOD",,25.0,5.45,7.1,77.5,3.9,0.55,410.5,55180.0
+2209,"Gaurisagar Tank, Gaurisagar",Pond/Tank,ASSAM,2016,Unsafe,24.16,"pH Out of Range, High BOD",,24.5,5.55,7.0,26.5,2.5,0.35,1550.0,23750.0
+2210,"Rajmaw Pukhuri, Jorhat",Pond/Tank,ASSAM,2016,Unsafe,24.18,"pH Out of Range, High BOD",,24.5,5.3,7.5,105.0,2.3,0.3,605.0,55700.0
+2211,"Padumpukhuri, Tezpur",Pond/Tank,ASSAM,2016,Unsafe,20.29,High BOD,,25.5,8.5,8.6,227.5,13.55,1.3,350.0,2650.0
+2212,"Gophur Tank, Gophur",Pond/Tank,ASSAM,2016,Unsafe,20.6,High BOD,,24.5,7.75,7.7,80.5,5.4,0.55,750.0,55075.0
+2213,"Jaipal Pukhuri, Sipajhar",Pond/Tank,ASSAM,2016,Unsafe,20.3,High BOD,,24.5,7.85,7.65,31.5,10.6,1.3,365.0,7500.0
+2214,"Botodriva Satra Pond, Nagaon",Pond/Tank,ASSAM,2016,Unsafe,26.32,"pH Out of Range, High BOD",,26.5,4.85,6.75,35.0,7.25,0.5,1550.0,56000.0
+2215,Saran Beel,Pond/Tank,ASSAM,2016,Unsafe,21.72,High BOD,,29.5,6.9,7.1,65.5,5.5,0.4,2150.0,55700.0
+2216,"Dighali Pukhuri, Guwahati",Pond/Tank,ASSAM,2016,Unsafe,22.53,"pH Out of Range, High BOD",,26.0,9.4,8.5,187.5,6.25,0.95,515.0,7680.0
+2217,"Subhagya Kunda Pond Kamakhya Temple, Guwahati",Pond/Tank,ASSAM,2016,Unsafe,23.06,"pH Out of Range, High BOD",,25.5,5.95,7.55,341.5,6.2,2.8,1700.0,120180.0
+2218,"Deepar Beel At Boragaon Near Iasst, Guwahati",Pond/Tank,ASSAM,2016,Unsafe,21.53,High BOD,,27.5,7.0,7.35,208.0,6.7,1.9,1900.0,6365.0
+2219,"Bishnu Puskar Pukhuri Of Hayagrib Madhab Temple, Hajo",Pond/Tank,ASSAM,2016,Unsafe,23.73,"High BOD, High Total Coliform",,28.0,7.2,7.85,208.0,9.25,1.8,4650.0,120450.0
+2220,"Chand Dubi Beel, Chand Dubi",Pond/Tank,ASSAM,2016,Unsafe,22.34,"pH Out of Range, High BOD",,27.0,6.25,7.0,33.0,3.4,2.25,1950.0,23750.0
+2221,"Ganga Pukhuri, Nalbari (Gordon School)",Pond/Tank,ASSAM,2016,Unsafe,21.04,High BOD,,28.0,7.0,7.85,72.5,4.4,0.4,1300.0,120700.0
+2222,Rajadinia Pukhuri At Abhayapuri,Pond/Tank,ASSAM,2016,Unsafe,24.11,"pH Out of Range, High BOD",,27.0,5.25,7.35,39.0,3.65,0.55,330.0,7680.0
+2223,Mahamaya Mandir Pukhuri,Pond/Tank,ASSAM,2016,Unsafe,26.35,"pH Out of Range, High BOD, High Total Coliform",,27.0,5.45,7.45,53.0,5.4,0.55,3900.0,55350.0
+2224,Rajapukhuri At Gauripur,Pond/Tank,ASSAM,2016,Unsafe,23.89,"pH Out of Range, High BOD",,27.0,5.55,7.7,65.0,7.1,1.05,1200.0,5105.0
+2225,"Baskandi Pond Inside The Baskandi Madrasa, Baskandi",Pond/Tank,ASSAM,2016,Unsafe,23.37,"pH Out of Range, High BOD",,26.0,5.5,7.05,190.0,3.3,0.55,365.0,55180.0
+2226,Sivasagar Tank (Borpukhuri) Near Sivadol,Pond/Tank,ASSAM,2016,Unsafe,22.93,"pH Out of Range, High BOD",,25.0,6.05,6.65,29.5,2.3,0.3,1930.0,15500.0
+2227,"Hordai Pukhuri, Charaidew",Pond/Tank,ASSAM,2016,Unsafe,23.54,"pH Out of Range, High BOD",,25.0,5.7,7.05,131.0,3.8,0.5,1350.0,55700.0
+2228,Gala Beel At Dergaon,Pond/Tank,ASSAM,2016,Unsafe,20.88,High BOD,,24.0,8.1,7.4,100.5,2.1,0.8,1095.5,7715.0
+1532,"Goysagar Tank, Sibsagar",Pond/Tank,ASSAM,2016,Unsafe,22.98,"pH Out of Range, High BOD",,23.5,5.65,6.9,78.0,2.0,0.2,455.0,2350.0
+1260,Brahamputra At Kherghat (A/C With Dibang & Dihang),River,ASSAM,2016,Unsafe,26.33,"High Fecal Coliform, High Total Coliform",23.5,7.4,7.5,173.5,1.5,1.1,751.0,60455.0,
+1030,Brahamputra At Dibrugarh,River,ASSAM,2016,Unsafe,11.3,"High Fecal Coliform, High Total Coliform",24.0,8.3,7.7,165.5,1.6,0.2,1150.0,3930.0,
+1262,Brahamputra At Nimatighat,River,ASSAM,2016,Unsafe,19.0,"High Fecal Coliform, High Total Coliform",21.0,6.55,7.55,115.0,2.45,0.3,900.0,12455.0,
+1526,Brahmputra At Dhenukhapahar,River,ASSAM,2016,Unsafe,22.0,"High Fecal Coliform, High Total Coliform",22.5,7.35,7.45,157.5,2.75,0.7,1001.0,14865.0,
+1031,Brahamputra At Pandu,River,ASSAM,2016,Unsafe,22.09,"High Fecal Coliform, High Total Coliform",26.0,7.0,7.6,109.0,1.75,0.8,1580.0,14860.0,
+2066,Brahmaputra At Dhubri,River,ASSAM,2016,Unsafe,28.36,"High Fecal Coliform, High Total Coliform",26.0,5.65,7.4,122.0,2.0,0.25,1230.0,23750.0,
+1299,Brahamputra At Jogijhoga Near Bridge,River,ASSAM,2016,Unsafe,16.33,"High Fecal Coliform, High Total Coliform",26.5,5.75,7.75,143.5,1.7,0.2,900.0,11200.0,
+2069,"Brahmputra Near Water Intake Point At Kacharighat, Panbazar, Guwahati",River,ASSAM,2016,Unsafe,32.31,"High Fecal Coliform, High Total Coliform",24.0,7.2,7.75,118.5,1.4,0.35,2300.0,60750.0,
+2064,"Brahmaputra River At Chandrapur, Guwahati",River,ASSAM,2016,Unsafe,30.79,"High Fecal Coliform, High Total Coliform",25.0,6.95,7.3,79.0,2.7,1.05,1200.0,55750.0,
+2067,"Brahmputra River At Sualkuchi, Dist. Kamrup",River,ASSAM,2016,Unsafe,28.46,"High Fecal Coliform, High Total Coliform",27.5,6.5,7.8,152.0,2.55,0.35,700.0,55700.0,
+2068,"Kathakal, U/S At Matijuri, Dist. Hailakandi",River,ASSAM,2016,Unsafe,12.1,"High Fecal Coliform, High Total Coliform",24.0,5.65,7.55,98.0,1.75,1.4,1051.0,5015.0,
+1259,Dhansiri At Golaghat,River,ASSAM,2016,Unsafe,19.59,"High Fecal Coliform, High Total Coliform",23.0,6.85,7.6,122.5,1.75,1.5,1736.5,10955.0,
+1928,"Dhansiri At Nagaland- Assam Border, Dimapur",River,ASSAM,2016,Unsafe,48.33,"Low DO, High BOD",25.5,2.75,7.55,260.5,13.5,1.05,,,
+2240,Barak D/S Of Silchar,River,ASSAM,2016,Unsafe,28.68,"High Fecal Coliform, High Total Coliform",26.5,5.7,7.3,105.5,2.65,0.65,700.0,55455.0,
+2238,Beki At Nh-37 Crossing At Barpeta Road,River,ASSAM,2016,Unsafe,27.88,"High Fecal Coliform, High Total Coliform",25.0,5.5,7.8,193.0,2.2,0.65,8001.0,3751.0,
+1528,Bharalu At Guwahati,River,ASSAM,2016,Unsafe,79.4,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",26.0,0.15,7.25,516.0,30.1,4.85,120360.0,121750.0,
+1527,Bhogdoi At Jorhat,River,ASSAM,2016,Unsafe,35.34,"High Fecal Coliform, High Total Coliform",24.0,5.35,7.35,96.5,2.75,0.6,2310.0,56750.0,
+2233,"Boginadi Near Bridge Nh-52, Lakhimpur",River,ASSAM,2016,Unsafe,25.49,High Total Coliform,22.0,7.7,7.6,77.5,1.65,0.15,456.0,120350.0,
+1423,Borak At Panchagram,River,ASSAM,2016,Unsafe,31.06,"High Fecal Coliform, High Total Coliform",23.5,5.7,7.4,84.0,2.1,1.3,1600.0,60455.0,
+1422,Burhidihing At Margherita,River,ASSAM,2016,Unsafe,15.65,"High Fecal Coliform, High Total Coliform",25.0,6.85,7.35,135.5,2.3,0.6,501.0,10680.0,
+2230,Burhidihing At Duliajan (Intake Point Of Oil India Ltd.),River,ASSAM,2016,Unsafe,14.18,High Total Coliform,23.5,6.45,7.45,121.0,1.6,0.45,456.0,11000.0,
+2062,Buridihing D/S Near Duliajan Tinsukia,River,ASSAM,2016,Unsafe,18.44,"High Fecal Coliform, High Total Coliform",24.5,7.65,7.6,121.0,2.2,0.35,1150.0,11200.0,
+1529,Deepar Beel,River,ASSAM,2016,Unsafe,26.59,"High BOD, High Fecal Coliform, High Total Coliform",27.5,7.65,7.5,207.5,5.9,0.95,1200.0,10865.0,
+1530,"Digboi At Lakhipathe, Reserve Forest, Digboi",River,ASSAM,2016,Unsafe,31.88,"High BOD, High Fecal Coliform, High Total Coliform",24.0,5.3,8.2,439.0,7.6,4.05,701.0,15250.0,
+2231,Dikhow At Dikhow Bridge Sivasagar,River,ASSAM,2016,Unsafe,39.6,"High Fecal Coliform, High Total Coliform",24.0,6.4,7.2,137.5,1.8,0.4,3900.0,55750.0,
+1298,Disang At Gundamghat,River,ASSAM,2016,Unsafe,30.93,"High Fecal Coliform, High Total Coliform",23.5,5.75,7.05,135.0,2.4,2.25,1401.0,55180.0,
+2058,"Disang At Dillighat, Dibrugarh Dist",River,ASSAM,2016,Unsafe,14.42,High Total Coliform,23.5,5.7,7.55,113.5,1.8,0.4,366.0,11200.0,
+2063,"Jai Bharali Near Biswanath Charali, Sonitpur",River,ASSAM,2016,Unsafe,15.94,High Total Coliform,22.5,7.65,7.6,58.0,1.25,0.6,361.0,14650.0,
+1258,Jhanji At N.H. Crossing Jorhat,River,ASSAM,2016,Unsafe,28.84,"High Fecal Coliform, High Total Coliform",23.5,6.15,7.25,80.0,2.45,1.1,850.0,55465.0,
+2237,"Kalong At U/S Of Anandaram Dekial Phukan Bridge, Nagaon",River,ASSAM,2016,Unsafe,44.99,"High Fecal Coliform, High Total Coliform",26.5,5.15,7.05,113.0,2.25,2.35,12150.0,121400.0,
+2236,"Kapili At Dharmtul Bridge, Nh- 31, Nagaon",River,ASSAM,2016,Unsafe,36.75,"High Fecal Coliform, High Total Coliform",26.5,6.65,7.1,75.0,2.05,0.6,6180.0,15250.0,
+2061,Kharsang B/C With Buridihing Near Kharsang (Assam- Arunanchal Border),River,ASSAM,2016,Unsafe,12.66,High BOD,24.5,6.7,7.45,106.0,4.1,2.0,456.0,2165.0,
+2232,"Kohora At N.H. Crossing, Kohora",River,ASSAM,2016,Unsafe,20.71,"High Fecal Coliform, High Total Coliform",24.0,6.5,7.25,49.0,2.65,1.1,1395.5,11550.0,
+2059,Kolong At Marigaon,River,ASSAM,2016,Unsafe,31.04,"High Fecal Coliform, High Total Coliform",28.5,6.15,7.5,76.0,2.45,1.65,1401.0,120750.0,
+2229,"Kundli At Kundli/ Sapakhowa, Sadia",River,ASSAM,2016,Unsafe,9.24,High Total Coliform,23.0,7.3,7.75,173.5,1.6,0.45,456.0,4830.0,
+2242,Kushiara At Karimganj,River,ASSAM,2016,Unsafe,26.69,"High Fecal Coliform, High Total Coliform",24.0,5.75,7.25,95.5,1.75,1.7,701.0,55365.0,
+2060,"Manas At Nh-31 Crossing, Barpeta, District",River,ASSAM,2016,Unsafe,8.89,High Fecal Coliform,26.5,5.85,8.0,220.5,1.55,0.6,1001.0,1801.0,
+1531,Mora Bharali At Tezpur,River,ASSAM,2016,Unsafe,31.54,"High Fecal Coliform, High Total Coliform",24.5,7.75,7.35,269.0,2.7,0.7,1751.0,23180.0,
+2065,"Pagldia Near Nalbari Town, Dist. Nalbari",River,ASSAM,2016,Unsafe,23.44,"High BOD, High Fecal Coliform, High Total Coliform",28.0,6.85,8.15,183.5,4.45,0.7,1151.0,11200.0,
+2235,"Panchnai At Nh-52 Crossing, Orang",River,ASSAM,2016,Unsafe,28.0,"High Fecal Coliform, High Total Coliform",21.5,7.6,7.65,74.0,2.25,0.55,751.0,120455.0,
+2234,Ranga Nadi D/S Of Hydel Project,River,ASSAM,2016,Unsafe,13.73,High Total Coliform,22.0,7.5,7.65,95.5,1.4,0.45,456.0,11000.0,
+2239,Sankosh Dhubri,River,ASSAM,2016,Unsafe,12.44,"High Fecal Coliform, High Total Coliform",26.5,5.15,7.3,79.0,2.05,0.6,700.0,6360.0,
+2241,Sonai River At Sonai,River,ASSAM,2016,Unsafe,17.91,"High Fecal Coliform, High Total Coliform",26.5,5.8,7.35,84.0,2.5,0.5,900.0,10955.0,
+1261,"Subansiri At Gerekamukh, B/C With Brahmaputra",River,ASSAM,2016,Safe,5.75,None,19.5,8.5,7.65,85.0,1.1,1.05,361.0,2330.0,

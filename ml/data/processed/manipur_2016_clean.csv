@@ -1,0 +1,50 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+2836,Morambamarin (Thoubal Dist.),River,MANIPUR,2016,Unsafe,28.65,"pH Out of Range, High BOD",,28.0,5.55,6.95,175.0,2.6,0.0,,25.0
+2853,Mapithel Dam On Thoubal,River,MANIPUR,2016,Unsafe,30.59,"pH Out of Range, High BOD",,27.0,10.4,7.1,136.0,2.15,0.0,,20.0
+2859,Singda Dam (Imphal West Dist.),River,MANIPUR,2016,Unsafe,25.0,High BOD,,28.0,8.4,7.7,173.0,3.8,0.0,,47.5
+2877,"Khuga Dam On Khuga River ,Cc Pur",River,MANIPUR,2016,Unsafe,25.0,High BOD,,29.0,7.5,7.95,265.5,1.25,0.0,,10.0
+2838,Barak Near Noney (Nh 35) Tml Dist.,River,MANIPUR,2016,Safe,2.55,None,27.5,7.2,7.1,106.5,0.9,0.0,,56.0,
+2852,Manipur At Sekmaijing (Tbl Dist.),River,MANIPUR,2016,Safe,6.02,None,29.0,7.35,7.7,185.0,2.15,0.0,,57.5,
+2854,Thoubal At Phadom (Tbl Dist.),River,MANIPUR,2016,Safe,5.03,None,28.0,6.9,7.55,251.0,1.8,0.0,,35.5,
+2855,Wangjing At Heirok (Tbl Dist.),River,MANIPUR,2016,Unsafe,9.35,High BOD,30.0,7.05,7.4,222.0,3.35,0.0,,57.5,
+2856,Thoubal At Yairipok (Thoubal Dist.),River,MANIPUR,2016,Unsafe,9.2,High BOD,29.5,7.3,7.8,179.0,3.3,0.0,,40.0,
+2857,Manipur At Thoubal,River,MANIPUR,2016,Safe,7.1,None,28.5,9.5,7.7,217.0,2.55,0.0,,27.5,
+2858,"Nambul At Shamushang, Uk Road (Imphal West)",River,MANIPUR,2016,Unsafe,9.44,High BOD,28.5,6.15,6.9,349.0,3.4,0.0,,7.5,
+2860,Nambul At Naoremthong (Imphal West),River,MANIPUR,2016,Unsafe,11.84,High BOD,29.0,6.05,7.05,421.0,4.25,0.0,,42.5,
+2861,Kangla Moat (Imphal West),River,MANIPUR,2016,Unsafe,13.42,High BOD,29.0,5.7,7.95,276.5,4.8,0.0,,102.5,
+2862,Imphal At Shamurou ( Imphal West),River,MANIPUR,2016,Unsafe,13.07,High BOD,28.5,6.5,7.45,130.0,4.7,0.0,,30.0,
+2863,Iril At Kangla Siphai (Imphal East),River,MANIPUR,2016,Safe,8.23,None,28.0,6.65,7.65,220.0,2.95,0.0,,42.5,
+2864,Imphal At Sekmai (Imphal East),River,MANIPUR,2016,Safe,3.09,None,28.0,7.6,7.5,180.0,1.1,0.0,,37.5,
+2865,"Jiri At Jarimukh, Jiribam (Imphal East)",River,MANIPUR,2016,Safe,5.32,None,32.0,8.2,7.4,120.0,1.9,0.0,,46.0,
+2866,Jiri At Jiri (Imphal East),River,MANIPUR,2016,Safe,3.41,None,29.5,7.1,7.05,101.0,1.2,0.0,,80.0,
+2867,Maha At Chandel,River,MANIPUR,2016,Unsafe,11.12,High BOD,28.5,7.6,7.7,136.0,4.0,0.0,,25.0,
+2868,Chakpi At Chakpikarong Chandel,River,MANIPUR,2016,Safe,4.76,None,29.5,7.65,7.75,158.5,1.7,0.0,,47.5,
+2869,Barak At Senapati,River,MANIPUR,2016,Unsafe,8.91,High BOD,28.0,7.75,7.5,184.5,3.2,0.0,,30.0,
+2870,"Thoubal At Songkhong, (Ukhrul Dist.)",River,MANIPUR,2016,Unsafe,10.89,High BOD,28.5,9.25,7.45,261.0,3.9,0.0,,67.5,
+2871,"Thoubal At Yongul Kong, (Ukhrul Dist.)",River,MANIPUR,2016,Safe,3.36,None,29.0,5.3,7.6,90.0,1.2,0.0,,35.0,
+2872,Thoubal At Litan (Ukhrul Dist.),River,MANIPUR,2016,Safe,7.67,None,28.0,7.8,7.35,175.0,2.75,0.0,,41.5,
+2873,Iril At Lilong (Thoubal Dist.),River,MANIPUR,2016,Unsafe,9.5,High BOD,28.5,7.75,7.55,230.0,3.4,0.0,,67.5,
+2874,Irang At Tamenglong,River,MANIPUR,2016,Safe,2.92,None,27.5,7.9,8.0,162.5,1.05,0.0,,10.0,
+2875,Barak At Nh 53(Tamenglong Dist.),River,MANIPUR,2016,Safe,3.7,None,25.0,5.0,7.8,81.0,1.0,0.0,,,
+2876,Wangjing At Wangjing (Thoubal Dist.),River,MANIPUR,2016,Safe,6.55,None,30.0,7.1,7.2,170.0,2.35,0.0,,30.0,
+2878,Lokchao At Bishnupur Dist.,River,MANIPUR,2016,Safe,6.82,None,28.5,7.75,8.0,165.5,2.45,0.0,,25.0,
+2879,Ethai Barrage On Manipur At Bishnupur Dist.,River,MANIPUR,2016,Safe,7.52,None,29.5,8.35,7.5,160.0,2.7,0.0,,27.5,
+2880,Nambol At Bishnupur.,River,MANIPUR,2016,Safe,7.66,None,28.0,6.8,7.8,109.0,2.75,0.0,,27.5,
+1425,Loktak Lake At Thanga,Pond/Tank,MANIPUR,2016,Unsafe,25.0,High BOD,,29.0,7.8,7.5,70.5,3.25,0.0,,42.5
+1426,Loktak Lake At Bishnupur,Pond/Tank,MANIPUR,2016,Unsafe,25.0,High BOD,,28.5,8.5,7.1,110.0,5.45,0.0,,30.0
+1629,Sendra (Loktak Lake),Pond/Tank,MANIPUR,2016,Unsafe,27.35,"pH Out of Range, High BOD",,29.0,9.3,7.4,97.5,3.65,0.0,,22.5
+1630,"Karang,Island (Loktak Lake)",Pond/Tank,MANIPUR,2016,Unsafe,25.0,High BOD,,29.5,8.05,7.25,92.0,2.7,0.0,,35.0
+2837,"Pumlen Lake ,Tokpaching (Thoubal Dist)",Pond/Tank,MANIPUR,2016,Unsafe,27.12,"pH Out of Range, High BOD",,28.0,5.95,7.0,143.0,3.3,0.0,,35.0
+2839,Pukhri At Langmeidong (Thoubal Dist.),Pond/Tank,MANIPUR,2016,Unsafe,25.0,High BOD,,30.0,7.35,7.35,197.0,5.8,0.0,,15.0
+2840,Lamjao Pukhri Achouba (Thoubal Dist.),Pond/Tank,MANIPUR,2016,Unsafe,25.0,High BOD,,30.0,7.15,7.55,166.5,2.2,0.0,,27.5
+2841,Hiranmei Pukhri (Thoubal Dist.),Pond/Tank,MANIPUR,2016,Unsafe,25.0,High BOD,,30.0,7.15,7.15,150.0,3.9,0.0,,20.0
+2842,Langmeidong Pukhri (Thoubal Dist.),Pond/Tank,MANIPUR,2016,Unsafe,27.31,"pH Out of Range, High BOD",,29.5,5.9,7.1,173.0,2.3,0.0,,15.0
+2843,Pond At Lalambung (Imphal West Dist.),Pond/Tank,MANIPUR,2016,Unsafe,25.0,High BOD,,29.5,7.7,7.7,312.5,5.05,0.0,,32.5
+2844,Lilong Pukhri (Imphal West Dist.),Pond/Tank,MANIPUR,2016,Unsafe,25.77,"pH Out of Range, High BOD",,28.5,6.3,7.6,314.0,7.1,0.0,,45.0
+2845,Pond At Ngairangbam (Imphal West Dist.),Pond/Tank,MANIPUR,2016,Unsafe,25.0,High BOD,,28.5,7.3,7.5,279.0,2.55,0.0,,17.5
+2846,Pond At Moidangpok (Imphal West Dist.),Pond/Tank,MANIPUR,2016,Unsafe,25.19,"pH Out of Range, High BOD",,28.5,6.45,7.45,379.5,2.4,0.0,,22.5
+2847,Pond At Maibam Lokpaching (Bsp Dist.),Pond/Tank,MANIPUR,2016,Unsafe,31.54,"pH Out of Range, High BOD",,29.0,4.8,7.85,115.5,1.9,0.0,,22.5
+2848,Pond At Kakwa Bazar (Imphal West Dist.),Pond/Tank,MANIPUR,2016,Unsafe,33.46,"pH Out of Range, High BOD",,28.5,4.3,7.2,330.0,7.2,0.0,,62.5
+2849,Chanam Pukhri (Imphal West Dist.),Pond/Tank,MANIPUR,2016,Unsafe,29.62,"pH Out of Range, High BOD",,28.5,5.3,7.15,324.0,8.6,0.0,,25.0
+2850,Ningthem Pukhri (Imphal East Dist.),Pond/Tank,MANIPUR,2016,Unsafe,25.0,High BOD,,29.0,6.9,7.4,214.0,4.95,0.0,,37.5
+2851,Pond At Kongba Bazar (Imphal East Dist.),Pond/Tank,MANIPUR,2016,Unsafe,32.69,"pH Out of Range, High BOD",,29.0,4.5,7.5,262.0,13.9,0.0,,35.0

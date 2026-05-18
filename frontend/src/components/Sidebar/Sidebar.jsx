@@ -13,6 +13,16 @@ function Sidebar({
   onThemeToggle,
 }) {
   const themeToggleHandler = onThemeToggle;
+  const isValidCoordinate = (lat, lon) => {
+    const latitude = Number(lat);
+    const longitude = Number(lon);
+    if (!Number.isFinite(latitude) || !Number.isFinite(longitude)) return false;
+    return latitude >= -90 && latitude <= 90 && longitude >= -180 && longitude <= 180;
+  };
+
+  const plottedCount = locations.filter((item) => (
+    item?.id !== null && item?.id !== undefined && isValidCoordinate(item?.lat, item?.lon)
+  )).length;
 
   return (
     <aside className="app-sidebar" data-theme={theme} data-toggle-handler={Boolean(themeToggleHandler)}>
@@ -35,15 +45,15 @@ function Sidebar({
       <div className="sidebar-stats">
         <div className="stat-row">
           <span className="stat-row-label">Stations</span>
-          <span className="stat-row-val">{locations.length}</span>
+          <span className="stat-row-val">{plottedCount} <span className="stat-row-sub">({locations.length} total)</span></span>
         </div>
         <div className="stat-row">
           <span className="stat-row-label safe-label">Safe</span>
-          <span className="stat-row-val">{locations.filter((item) => item.safety_label === 'Safe').length}</span>
+          <span className="stat-row-val">{locations.filter((item) => item.safety_label === 'Safe' && isValidCoordinate(item?.lat, item?.lon)).length}</span>
         </div>
         <div className="stat-row">
           <span className="stat-row-label unsafe-label">Unsafe</span>
-          <span className="stat-row-val">{locations.filter((item) => item.safety_label === 'Unsafe').length}</span>
+          <span className="stat-row-val">{locations.filter((item) => item.safety_label === 'Unsafe' && isValidCoordinate(item?.lat, item?.lon)).length}</span>
         </div>
       </div>
     </aside>

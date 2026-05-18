@@ -1,0 +1,21 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+GEN-D97313,1398,Groundwater,PUDUCHERRY,2018,Unsafe,38.85,"High BOD, High Fecal Coliform",,,,,31.0,19.85,684.3,719.0,
+GEN-536A76,1453,Groundwater,PUDUCHERRY,2018,Unsafe,35.91,High BOD,,,,,30.0,18.8,316.3,347.5,
+GEN-AE614C,1688,Groundwater,PUDUCHERRY,2018,Unsafe,35.82,High BOD,,,,,30.0,18.65,304.75,338.5,
+GEN-F1981E,2009,Groundwater,PUDUCHERRY,2018,Unsafe,35.61,High BOD,,,,,31.0,18.75,283.85,287.0,
+GEN-D7A846,2010,Groundwater,PUDUCHERRY,2018,Unsafe,38.11,"High BOD, High Fecal Coliform",,,,,31.0,19.25,595.8,600.0,
+GEN-C8758B,2011,Groundwater,PUDUCHERRY,2018,Unsafe,55.83,"High BOD, High Fecal Coliform, High Total Coliform",,,,,31.0,19.8,2804.05,2855.0,
+GEN-253614,2012,Groundwater,PUDUCHERRY,2018,Unsafe,39.09,"High BOD, High Fecal Coliform",,,,,30.0,19.0,603.85,1300.0,
+GEN-8038DA,2013,Groundwater,PUDUCHERRY,2018,Unsafe,40.73,"High BOD, High Fecal Coliform",,,,,29.0,21.65,917.2,960.0,
+GEN-CEE8D6,2014,Groundwater,PUDUCHERRY,2018,Unsafe,38.45,"High BOD, High Fecal Coliform",,,,,29.0,21.15,622.15,725.0,
+GEN-2F4FE0,2446,Groundwater,PUDUCHERRY,2018,Unsafe,34.67,High BOD,,,,,28.0,17.1,167.1,164.0,
+GEN-2C3DDF,2447,Groundwater,PUDUCHERRY,2018,Unsafe,33.92,High BOD,,,,,28.0,17.1,74.1,71.0,
+GEN-DF42E2,3882,Groundwater,PUDUCHERRY,2018,Unsafe,35.12,High BOD,,,,,32.0,19.8,221.35,235.5,
+GEN-51F3EB,3883,Groundwater,PUDUCHERRY,2018,Unsafe,34.81,High BOD,,,,,31.0,19.0,184.3,185.0,
+GEN-311ABB,3885,Groundwater,PUDUCHERRY,2018,Unsafe,51.55,"High BOD, High Fecal Coliform, High Total Coliform",,,,,30.0,19.5,992.3,8704.5,
+GEN-096628,1396,Pond/Tank,PUDUCHERRY,2018,Safe,0.14,None,,,,,,29.0,,35.0,8.0
+GEN-B618C3,1686,Pond/Tank,PUDUCHERRY,2018,Safe,0.14,None,,,,,,29.0,,34.0,5.5
+1685,"Arasalar River Karaikal Region, Pondicherry",River,PUDUCHERRY,2018,Safe,5.55,None,30.0,6.3,7.95,530.0,1.5,0.67,,,
+2442,Gautami-Godavari River Near Balayogi Bridge,River,PUDUCHERRY,2018,Safe,0.0,None,31.0,7.0,8.1,28200.0,,0.06,,,
+2443,Gautami-Godavari River Near Adavipolam,River,PUDUCHERRY,2018,Safe,7.4,None,31.0,6.5,7.9,31400.0,2.0,0.06,,,
+GEN-9ED932,2445,River,PUDUCHERRY,2018,Unsafe,50.01,High BOD,,,,,30.0,30.0,,6.3,6.3

@@ -1,0 +1,10 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+2095,"Bore Well At Stp Madhapar, Dist. Rajkot.",Groundwater,J & K,2019,Unsafe,48.73,"pH Out of Range, High BOD",27.0,,3.5,7.5,500.0,0.85,1.19,,
+3241,"Borewell Near Municipal Solid Waste Site, Nakarwadi, Rajkot",Groundwater,J & K,2019,Unsafe,53.09,"pH Out of Range, High BOD",27.0,,2.65,7.6,500.0,1.0,1.295,,
+3824,"Ground Water Vill Bheemjori, Malajkh, Dist Balaghat",Groundwater,J & K,2019,Unsafe,33.34,High BOD,22.0,,,7.9,464.5,0.2,1.0,2.0,
+2574,Suraj Kund At Gaya,Pond/Tank,J & K,2019,Unsafe,27.88,"pH Out of Range, High BOD, High Total Coliform",,26.5,8.8,8.2,500.0,3.3,1.015,8965.0,19150.0
+2078,"Kuwadava Lake, Vill. Kuwadava, Dist. Rajkot.",Pond/Tank,J & K,2019,Unsafe,26.54,"pH Out of Range, High BOD",,25.0,6.1,8.0,500.0,1.8,0.025,,
+3197,"Machhu-Ii Dam, Rafleshwar, Morbi, Rajkot",Pond/Tank,J & K,2019,Unsafe,20.47,"pH Out of Range, High BOD",,28.5,6.35,7.95,500.0,1.3,0.165,5.0,5.0
+2740,"(Mansar Lake At Mid Point(Surinsar Lake), J&K",Pond/Tank,J & K,2019,Unsafe,27.12,"pH Out of Range, High BOD",,22.5,5.95,8.3,155.0,13.75,0.03,,
+2747,"Tawi At Surajpur Chatha(10 Km D/S Tawi Bridge)Below Bridge Near Chatha Msw Dumping Site, J&K",River,J & K,2019,Safe,4.25,None,21.0,7.25,8.3,271.0,1.15,0.2,,,
+3305,"Banjar At Malanjkhand Near W/S Intake Point, Jabalpur",River,J & K,2019,Safe,3.28,None,22.85,7.45,7.75,1330.0,1.45,0.9,6.9,44.5,

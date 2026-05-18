@@ -1,0 +1,48 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+GEN-57C053,1842,Groundwater,BIHAR,2018,Unsafe,35.9,High BOD,,,,,27.0,17.0,242.5,710.0,
+GEN-488824,1843,Groundwater,BIHAR,2018,Unsafe,36.27,High BOD,,,,,23.0,17.45,258.5,911.0,
+GEN-EAA52F,2583,Pond/Tank,BIHAR,2018,Unsafe,44.53,"High BOD, High Fecal Coliform",,,,22.0,15.85,100.0,1680.0,0.0,1.1
+GEN-C57168,2586,Pond/Tank,BIHAR,2018,Unsafe,36.01,High BOD,,,,27.0,17.95,100.0,402.0,0.1,1.55
+GEN-E8BF0F,3139,Pond/Tank,BIHAR,2018,Unsafe,34.75,High BOD,,,,28.0,18.4,73.9,212.0,0.1,1.05
+GEN-0AFA92,3143,Pond/Tank,BIHAR,2018,Unsafe,37.15,"High BOD, High Fecal Coliform",,,,22.0,15.6,100.0,573.0,0.0,1.15
+GEN-5D4AE7,3146,Pond/Tank,BIHAR,2018,Unsafe,38.96,"High BOD, High Fecal Coliform",,,,25.0,16.6,100.0,844.0,0.1,1.25
+GEN-FDBD31,3154,River,BIHAR,2018,Unsafe,38.94,"High BOD, High Fecal Coliform",,,,26.0,17.0,100.0,841.0,0.1,1.15
+GEN-B22B25,3155,River,BIHAR,2018,Unsafe,35.35,High BOD,,,,29.0,18.0,100.0,303.0,0.0,1.5
+GEN-2227D7,3156,River,BIHAR,2018,Unsafe,57.36,"High BOD, High Fecal Coliform",,,,30.0,18.6,100.0,736.0,,
+GEN-55D99A,3158,River,BIHAR,2018,Unsafe,39.26,"High BOD, High Fecal Coliform",,,,26.0,18.0,100.0,889.0,0.1,1.1
+GEN-29539E,3161,River,BIHAR,2018,Unsafe,35.09,High BOD,,,,28.0,17.45,100.0,264.0,0.0,2.35
+GEN-168082,2557,Pond/Tank,BIHAR,2018,Safe,0.13,None,,,,,,17.0,,33.0,8.2
+GEN-60519C,2573,Pond/Tank,BIHAR,2018,Safe,0.15,None,,,,,,18.0,,38.0,5.6
+INLET TO STP,Bihar,River,BIHAR,2018,Unsafe,50.0,High BOD,,,7.2,,105.0,,,,
+10162,Arrah-Chhapra Road Bridge (Koilwer Banura- Chhapra),River,BIHAR,2018,Unsafe,17.73,"High Fecal Coliform, High Total Coliform",23.75,8.35,7.85,414.5,1.75,0.425,2500.0,4800.0,
+2564,Ganga At The Confluence Of Sone River Doriganj,River,BIHAR,2018,Unsafe,40.43,"High Fecal Coliform, High Total Coliform",24.0,8.9,7.4,343.0,1.85,0.395,7800.0,20400.0,
+4301,"Bakhtiyarpur- Tajpur Bridge On Ganga, Athmalgola",River,BIHAR,2018,Unsafe,24.56,"High Fecal Coliform, High Total Coliform",24.5,8.45,7.3,307.5,2.0,0.215,3300.0,8650.0,
+3117,Ganga At U/S Sulatanganj,River,BIHAR,2018,Unsafe,38.73,"High Fecal Coliform, High Total Coliform",25.0,8.55,7.45,310.0,1.95,0.35,12400.0,18000.0,
+1816,Ganga At Kahalgaon,River,BIHAR,2018,Unsafe,41.46,"High Fecal Coliform, High Total Coliform",25.0,8.0,7.6,327.0,2.1,0.225,12400.0,21000.0,
+1075,"Sone At Koelwar, Bihar",River,BIHAR,2018,Unsafe,38.67,"High Fecal Coliform, High Total Coliform",24.0,8.1,7.75,210.5,2.05,0.31,11800.0,17650.0,
+3121,"Sone River Near Banzari, Bihar",River,BIHAR,2018,Unsafe,16.27,"High Fecal Coliform, High Total Coliform",23.5,9.1,7.75,213.0,1.6,0.37,2150.0,5150.0,
+3127,"Sone River At Bahiyara, Bihar",River,BIHAR,2018,Unsafe,17.49,"High Fecal Coliform, High Total Coliform",24.0,8.7,7.75,218.0,1.95,0.305,1589.5,8500.0,
+3128,"Sone River At Nasiriganj Dam, Bihar",River,BIHAR,2018,Unsafe,38.47,"High Fecal Coliform, High Total Coliform",25.0,9.25,7.8,249.0,2.05,0.36,11800.0,17400.0,
+1078,"Gandak At Sonepur, Patna (Before Confl.), Bihar",River,BIHAR,2018,Unsafe,41.4,"High Fecal Coliform, High Total Coliform",24.0,8.45,7.4,253.5,2.2,0.505,11800.0,20650.0,
+2568,"Gandak At Rewaghat, Mujaffarpur, Bihar",River,BIHAR,2018,Unsafe,25.96,"High Fecal Coliform, High Total Coliform",25.0,8.8,7.7,288.0,1.95,0.385,3508.5,9500.0,
+2570,"Gandak At Samastipur Road Bridge, Bihar",River,BIHAR,2018,Unsafe,32.18,"High Fecal Coliform, High Total Coliform",23.0,9.6,7.1,307.5,2.1,0.275,5250.0,9400.0,
+3125,Gandak River Gopalganj Piprakothi Road Bridge (Dum,River,BIHAR,2018,Unsafe,23.44,"High Fecal Coliform, High Total Coliform",24.0,8.45,7.65,292.5,2.0,0.465,3150.0,8000.0,
+3134,"Sikrahna River At Laurea, Harinagar Road Bridge",River,BIHAR,2018,Unsafe,55.72,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",25.0,4.6,6.8,1332.5,48.4,0.87,11800.0,17650.0,
+2562,"Burhi Gandak At Akharaghat, Muzaffarpur, Bihar",River,BIHAR,2018,Unsafe,32.71,"High Fecal Coliform, High Total Coliform",22.5,8.3,7.45,351.0,2.25,0.54,5250.0,9650.0,
+2558,"Harbora River At Narkatiaganj, Bihar",River,BIHAR,2018,Unsafe,60.8,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",22.5,3.4,6.6,534.0,63.8,0.78,12050.0,18000.0,
+3126,"U/S Harbora River, Bihar",River,BIHAR,2018,Unsafe,36.09,"High Fecal Coliform, High Total Coliform",22.5,7.95,7.1,386.0,2.15,0.385,6800.0,14150.0,
+2567,"Kamala River At Benipatti (Madhubani), Bihar",River,BIHAR,2018,Unsafe,36.31,"High Fecal Coliform, High Total Coliform",24.0,8.85,7.25,286.0,2.25,0.455,6800.0,14150.0,
+3133,"Kamala River At Jaynagar, Bihar",River,BIHAR,2018,Unsafe,27.02,"High Fecal Coliform, High Total Coliform",24.0,9.5,7.6,315.0,1.9,0.48,3900.0,9000.0,
+2563,"Manusmar River At Riga, Sitamarhi, Bihar",River,BIHAR,2018,Unsafe,39.03,"High Fecal Coliform, High Total Coliform",23.5,6.95,7.0,402.5,2.3,0.34,12050.0,17400.0,
+2565,"Koshi River At Kurshela At Katihar, Bihar",River,BIHAR,2018,Unsafe,18.16,"High Fecal Coliform, High Total Coliform",22.5,8.0,7.85,223.0,2.0,0.405,2400.0,5150.0,
+3137,"Koshi River At Beerpur, Bihar",River,BIHAR,2018,Unsafe,27.82,"High Fecal Coliform, High Total Coliform",22.0,8.8,7.55,210.5,1.9,0.305,4100.0,9000.0,
+3129,"Daha River At Meerganj, Bihar",River,BIHAR,2018,Unsafe,45.55,"High Fecal Coliform, High Total Coliform",26.0,8.5,7.75,309.5,2.5,0.44,9350.0,48000.0,
+1824,"Farmar At Jogbani, Bihar",River,BIHAR,2018,Unsafe,23.21,"High Fecal Coliform, High Total Coliform",23.0,7.75,7.55,272.0,2.15,0.395,3050.0,7800.0,
+2559,"Ram Rekha River At Harinagar,",River,BIHAR,2018,Unsafe,39.76,"High BOD, High Fecal Coliform, High Total Coliform",24.5,5.15,6.95,530.0,3.8,0.805,6800.0,14150.0,
+3130,"Ramrekha River At U/S Harinagar, Bihar",River,BIHAR,2018,Unsafe,26.91,"High BOD, High Fecal Coliform, High Total Coliform",23.5,6.0,7.2,346.0,3.15,0.72,3300.0,8400.0,
+1822,"Siriswaa At Ruxol,",River,BIHAR,2018,Unsafe,58.01,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",22.0,3.15,7.25,644.0,7.3,0.98,12050.0,18000.0,
+3136,"Siriswa River D/S Raxaul (Koeria Tola), Bihar",River,BIHAR,2018,Unsafe,63.63,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",22.0,2.8,7.3,670.0,7.4,1.305,13550.0,23000.0,
+3132,Bagmati River At Muzaffarpur-,River,BIHAR,2018,Unsafe,18.73,"High Fecal Coliform, High Total Coliform",24.5,7.95,7.35,276.0,1.95,0.375,2500.0,5500.0,
+3135,"Bagmati River At Darbanga, Samastipur Road Bridge,",River,BIHAR,2018,Unsafe,35.89,"High Fecal Coliform, High Total Coliform",23.0,9.4,7.2,318.0,2.15,0.47,6800.0,13900.0,
+3119,"Poonpun River Near Poonpun Rail Bridge, Bihar",River,BIHAR,2018,Unsafe,27.74,"High Fecal Coliform, High Total Coliform",22.5,9.45,7.7,319.5,2.35,0.485,3900.0,8650.0,
+3120,"Poonpun River Near Kinzer Road Bridge, Bihar",River,BIHAR,2018,Unsafe,28.28,"High Fecal Coliform, High Total Coliform",25.0,11.05,7.9,314.5,2.0,0.45,4100.0,9300.0,

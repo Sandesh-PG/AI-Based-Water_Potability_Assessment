@@ -1,0 +1,25 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+GEN-7DE321,3440,Groundwater,UTTARAKHAND,2018,Unsafe,35.0,High BOD,,,,,25.0,16.1,208.6,205.7,
+GEN-B20043,3441,Groundwater,UTTARAKHAND,2018,Unsafe,34.56,High BOD,,,,,26.0,16.6,138.65,225.6,
+GEN-586F9B,3442,Groundwater,UTTARAKHAND,2018,Unsafe,34.51,High BOD,,,,,24.0,16.6,143.7,160.6,
+GEN-12092A,3443,Groundwater,UTTARAKHAND,2018,Unsafe,34.6,High BOD,,,,,25.0,16.6,158.65,155.6,
+GEN-758BE1,3444,Groundwater,UTTARAKHAND,2018,Unsafe,34.44,High BOD,,,,,23.0,16.1,128.65,185.7,
+GEN-09BA3F,3445,Groundwater,UTTARAKHAND,2018,Unsafe,35.16,High BOD,,,,,25.0,15.9,228.4,225.6,
+GEN-5B4A21,3446,Groundwater,UTTARAKHAND,2018,Unsafe,35.06,High BOD,,,,,25.0,17.1,208.7,250.6,
+GEN-2E1B24,3447,Groundwater,UTTARAKHAND,2018,Unsafe,34.7,High BOD,,,,,25.0,16.55,168.6,185.6,
+GEN-C5BBD9,3448,Groundwater,UTTARAKHAND,2018,Unsafe,34.45,High BOD,,,,,24.0,16.2,123.7,220.6,
+GEN-86A179,3449,Groundwater,UTTARAKHAND,2018,Unsafe,34.57,High BOD,,,,,25.0,16.05,153.8,155.6,
+GEN-C2F325,3437,Pond/Tank,UTTARAKHAND,2018,Safe,0.08,None,,,,,,8.0,,19.0,6.8
+"UPPER GANGA CANAL D/S
+HARIKIPAURI, HARIDWAR",Uttarakhand,River,UTTARAKHAND,2018,Safe,2.89,None,19.0,8.9,7.945,,1.0,,,120.0,
+"UPP ER GANGA CANAL AT LALITA
+RAO BRIDGE, HARIDWAR",Uttarakhand,River,UTTARAKHAND,2018,Safe,2.89,None,18.5,9.5,7.885,,1.0,,,120.0,
+"UPPER GANGA CANAL AT DAM
+KOTHI, HARIDWAR",Uttarakhand,River,UTTARAKHAND,2018,Safe,2.86,None,19.0,9.5,7.96,,1.0,,,85.0,
+20048,Swarg-Ashram -1,River,UTTARAKHAND,2018,Unsafe,50.0,High BOD,,,7.45,,10.0,,,,
+10148,River Ganga At Har Ki Pauri Ghat,River,UTTARAKHAND,2018,Safe,2.89,None,18.5,9.4,7.9,,1.0,,,115.0,
+20050,Jagjitpur,River,UTTARAKHAND,2018,Unsafe,50.0,High BOD,,,7.7,,10.4,,,,
+2732,Dhela River U-S At Kashipur Moradabad Road Bridge,River,UTTARAKHAND,2018,Unsafe,29.6,High BOD,22.5,5.5,7.25,270.0,8.0,,,,
+2730,Pilkhar River After Bilaspur Rampur,River,UTTARAKHAND,2018,Unsafe,40.51,"pH Out of Range, High BOD",,23.5,5.1,7.5,415.0,9.6,,,
+2736,"Nandaur River U/S Sitarganj Industrial Area, Us Nagar",River,UTTARAKHAND,2018,Unsafe,22.2,High BOD,25.5,6.6,7.6,390.0,6.0,,,,
+2737,"Nandaur River D-S Sitarganj Industrial Area, Us Nagar",River,UTTARAKHAND,2018,Unsafe,22.2,High BOD,23.5,6.6,7.6,450.0,6.0,,,,

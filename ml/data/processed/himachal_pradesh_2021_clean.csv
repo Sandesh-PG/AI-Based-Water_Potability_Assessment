@@ -1,0 +1,169 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+4434,Borewell Of Dic Una At Ia Jeetpur Behri,Groundwater,HIMACHAL PRADESH,2021,Safe,2.82,None,22.25,,7.35,395.0,1.0,0.415,2.0,33.0,
+1877,Ground Water At Baddi Industrial Area,Groundwater,HIMACHAL PRADESH,2021,Safe,2.79,None,25.5,,8.0,561.5,1.0,,2.0,2.0,
+1559,Ground Water At Barotiwala,Groundwater,HIMACHAL PRADESH,2021,Safe,2.79,None,24.0,,8.1,591.0,1.0,,2.0,2.0,
+1878,Ground Water At Barotiwala Industrial Area,Groundwater,HIMACHAL PRADESH,2021,Safe,2.79,None,24.0,,7.8,564.0,1.0,,2.0,2.0,
+1561,Ground Water At Damtal,Groundwater,HIMACHAL PRADESH,2021,Safe,5.55,None,19.0,,7.0,534.0,1.0,0.3,,,
+1873,Ground Water At Dharamshala Kangra D/S Of Msw Dumping Site,Groundwater,HIMACHAL PRADESH,2021,Safe,5.55,None,16.0,,7.15,328.5,1.0,0.445,,,
+1880,Ground Water At Kala Amb Industrial Area,Groundwater,HIMACHAL PRADESH,2021,Safe,2.79,None,,,7.45,663.5,1.0,1.285,2.0,2.0,
+1882,Ground Water At Mehatpur Industrial Area,Groundwater,HIMACHAL PRADESH,2021,Safe,2.82,None,22.75,,7.05,644.5,1.0,0.375,2.0,33.0,
+1560,Ground Water At Nalagarh,Groundwater,HIMACHAL PRADESH,2021,Safe,2.79,None,23.0,,8.2,981.0,1.0,,2.0,2.0,
+1879,Ground Water At Nalagarh Industrial Area,Groundwater,HIMACHAL PRADESH,2021,Safe,2.79,None,24.0,,7.9,660.0,1.0,,2.0,2.0,
+1881,Ground Water At Paonta Sahib Industrial Area,Groundwater,HIMACHAL PRADESH,2021,Safe,2.79,None,23.0,,7.8,422.5,1.0,0.455,2.0,2.0,
+1876,Ground Water At Parwanoo Industrial Area,Groundwater,HIMACHAL PRADESH,2021,Safe,2.79,None,15.5,,7.9,502.0,1.0,,2.0,2.0,
+1872,Ground Water At Shimla D/S Of Msw Dumping Site,Groundwater,HIMACHAL PRADESH,2021,Unsafe,34.6,"High BOD, High Fecal Coliform",11.5,,7.6,6569.5,47.9,3.8,1600.0,1600.0,
+1874,Ground Water At Solan-D/S Of Msw Dumping Site Salogra,Groundwater,HIMACHAL PRADESH,2021,Safe,2.79,None,19.0,,8.25,565.5,1.0,,2.0,2.0,
+1883,Ground Water At Una Industrial Area,Groundwater,HIMACHAL PRADESH,2021,Safe,2.81,None,25.25,,7.55,592.5,1.0,0.385,2.0,25.0,
+4483,Ground Water Supply Scheme (Mc Una),Groundwater,HIMACHAL PRADESH,2021,Safe,2.82,None,25.0,,7.3,463.0,1.0,0.32,2.0,31.0,
+2632,Hand Pump At Bilaspur Town,Groundwater,HIMACHAL PRADESH,2021,Safe,2.79,None,19.0,,7.45,684.5,1.0,2.505,2.0,2.0,
+2641,Hand Pump At Chamba Town,Groundwater,HIMACHAL PRADESH,2021,Safe,5.55,None,12.5,,7.25,575.5,1.0,0.3,,,
+2639,Hand Pump At Chamunda Devi Temple/ Town,Groundwater,HIMACHAL PRADESH,2021,Safe,5.55,None,18.0,,7.45,185.5,1.0,0.385,,,
+2638,Hand Pump At Chintpurni Temple/ Town,Groundwater,HIMACHAL PRADESH,2021,Safe,2.82,None,22.0,,7.4,362.0,1.0,0.34,2.0,31.0,
+2630,Hand Pump At Hamirpur Town,Groundwater,HIMACHAL PRADESH,2021,Safe,5.55,None,,,7.6,514.5,1.0,0.3,,,
+2637,Hand Pump At Jwalaji Temple,Groundwater,HIMACHAL PRADESH,2021,Safe,2.79,None,19.0,,7.0,586.5,1.0,0.3,2.0,2.0,
+2646,Hand Pump At Kala Amb,Groundwater,HIMACHAL PRADESH,2021,Safe,2.79,None,,,6.9,580.0,1.0,2.2,2.0,2.0,
+2648,Hand Pump At Keylong,Groundwater,HIMACHAL PRADESH,2021,Safe,2.79,None,9.0,,7.7,305.0,1.0,0.3,2.0,2.0,
+2629,Hand Pump At Mandi Town,Groundwater,HIMACHAL PRADESH,2021,Safe,2.79,None,22.0,,7.7,424.0,1.0,0.5,2.0,2.0,
+2631,Hand Pump At Nadaun Town,Groundwater,HIMACHAL PRADESH,2021,Safe,2.8,None,,,7.3,483.5,1.0,0.3,2.0,17.0,
+2645,Hand Pump At Nahan,Groundwater,HIMACHAL PRADESH,2021,Safe,2.79,None,,,7.25,693.0,1.0,1.2,2.0,2.0,
+2635,Hand Pump At Rampur,Groundwater,HIMACHAL PRADESH,2021,Safe,5.55,None,,,7.8,2391.0,1.0,1.0,,,
+2640,Hand Pump At Sansarpur Terrace Ia,Groundwater,HIMACHAL PRADESH,2021,Safe,5.55,None,,,7.65,313.0,1.0,0.645,,,
+2628,Hand Pump At Shamshi,Groundwater,HIMACHAL PRADESH,2021,Safe,2.79,None,21.0,,7.3,342.0,1.0,0.52,2.0,2.0,
+2647,Hand Pump At Tahliwal Ia,Groundwater,HIMACHAL PRADESH,2021,Safe,2.81,None,25.0,,7.7,510.5,1.0,0.3,2.0,26.0,
+4456,Handpump At Village Mugia Near Shiv Temple,Groundwater,HIMACHAL PRADESH,2021,Safe,5.55,None,13.5,,6.75,369.0,1.0,0.32,,,
+4478,"Infting Water Suply Scheme Samshi, Near Sabji Mandi Bhuntar, Tehsil Kullu, Distt Kullu",Groundwater,HIMACHAL PRADESH,2021,Safe,3.1,None,14.5,,7.35,242.0,1.0,1.3,35.5,150.0,
+4467,"Lift Water Supply Scheme For Dharamshala Town, Near Hotel Dhauladhar Heights Dari, Dharamshala",Groundwater,HIMACHAL PRADESH,2021,Safe,2.81,None,16.0,,7.25,367.5,1.0,0.405,2.0,24.5,
+4468,"Water Supply Scheme Dari, Mela Ground Dari, Dharamshala",Groundwater,HIMACHAL PRADESH,2021,Safe,2.81,None,15.0,,6.95,188.0,1.0,0.3,2.0,26.0,
+4472,"Water Supply Scheme Nagrota Town, Near Police Station, Nagrota Bagwan",Groundwater,HIMACHAL PRADESH,2021,Safe,2.81,None,19.0,,6.8,186.0,1.0,0.3,2.0,26.0,
+1558,Well At Baddi,Groundwater,HIMACHAL PRADESH,2021,Safe,2.79,None,24.0,,8.1,1150.0,1.0,,2.0,2.0,
+1555,"Well At Kala Amb,",Groundwater,HIMACHAL PRADESH,2021,Safe,2.79,None,,,7.65,579.5,1.0,1.275,2.0,2.0,
+1556,Well At Paonta Sahib,Groundwater,HIMACHAL PRADESH,2021,Safe,2.79,None,23.5,,7.4,617.5,1.0,0.98,2.0,2.0,
+1557,Well At Parwanoo,Groundwater,HIMACHAL PRADESH,2021,Unsafe,2.93,pH Out of Range,17.0,,8.55,699.0,1.0,,2.0,2.0,
+1562,Well At Una,Groundwater,HIMACHAL PRADESH,2021,Safe,2.82,None,25.25,,7.55,443.5,1.0,0.3,2.0,32.0,
+1291,Gobindsagar Lake At Bilaspur,Pond/Tank,HIMACHAL PRADESH,2021,Unsafe,21.55,"pH Out of Range, High BOD",,18.5,9.05,7.6,283.5,1.0,1.23,317.0,940.0
+2650,Khaziar Lake,Pond/Tank,HIMACHAL PRADESH,2021,Unsafe,20.31,"pH Out of Range, High BOD",,10.5,6.4,6.9,87.5,1.5,1.1,2.0,57.5
+1292,"Pongdam Lake At Pong Village,",Pond/Tank,HIMACHAL PRADESH,2021,Unsafe,20.0,High BOD,,19.5,7.6,7.65,167.0,1.0,0.75,2.0,44.0
+1429,"Renuka Lake , 35 Km From Patna Sahib North",Pond/Tank,HIMACHAL PRADESH,2021,Unsafe,20.03,High BOD,,16.0,7.7,7.9,498.5,1.5,0.57,36.0,240.0
+2649,Riwalsar Lake,Pond/Tank,HIMACHAL PRADESH,2021,Unsafe,20.42,High BOD,,19.0,7.55,7.6,402.0,3.0,1.075,515.0,1260.0
+30008,River Markanda At Kala Amb U/S (H.P),River,HIMACHAL PRADESH,2021,Unsafe,45.33,"High Fecal Coliform, High Total Coliform",23.5,8.65,7.6,469.5,2.4,0.725,65011.5,85011.5,
+1871,"River Markanda At Paonta, Distt. Sirmour",River,HIMACHAL PRADESH,2021,Safe,4.19,None,22.0,8.15,7.6,447.0,1.8,1.64,24.5,120.0,
+3864,River Markanda D/S Of Moginand Nala,River,HIMACHAL PRADESH,2021,Safe,5.87,None,22.0,8.05,7.6,421.0,2.5,0.575,35.5,222.0,
+3862,River Markanda D/S Of Salani Khad,River,HIMACHAL PRADESH,2021,Safe,5.07,None,21.0,6.6,7.6,2117.5,2.15,0.77,30.5,214.5,
+2624,River Markanda U/S Kala Amb,River,HIMACHAL PRADESH,2021,Safe,4.64,None,22.0,7.9,7.55,454.0,1.95,0.67,31.0,230.0,
+1001,River Beas At U/S Manali,River,HIMACHAL PRADESH,2021,Safe,2.67,None,9.0,8.8,7.6,175.0,1.0,0.51,56.0,282.5,2.0
+2601,River Beas At D/S Manali,River,HIMACHAL PRADESH,2021,Safe,3.74,None,9.0,8.55,7.45,93.0,1.0,0.6,195.0,920.0,2.0
+4444,River Beas D/S Of Wpf At Manali,River,HIMACHAL PRADESH,2021,Unsafe,5.06,High Fecal Coliform,8.0,8.75,7.4,68.5,1.0,0.62,507.0,1015.0,2.0
+4037,River Beas D/S Manalsu Nallah,River,HIMACHAL PRADESH,2021,Safe,2.81,None,8.5,8.85,7.4,69.5,1.0,0.57,86.5,300.0,2.0
+3866,River Beas Before Confluence To Manalsu Nallah,River,HIMACHAL PRADESH,2021,Safe,2.65,None,8.0,8.85,7.75,64.5,1.0,0.47,60.0,235.0,2.0
+2602,River Beas At U/S Kullu,River,HIMACHAL PRADESH,2021,Safe,3.15,None,11.0,7.45,7.7,97.0,1.0,0.77,105.0,635.0,2.0
+4445,River Beas D/S Of Wpf At Kullu,River,HIMACHAL PRADESH,2021,Safe,5.03,None,10.0,8.3,7.55,150.0,1.0,0.97,499.5,1015.0,2.0
+1002,River Beas At D/S Kulu,River,HIMACHAL PRADESH,2021,Safe,4.3,None,10.0,8.2,7.55,111.5,1.0,1.07,317.0,1015.0,2.0
+1003,River Beas At D/S Aut,River,HIMACHAL PRADESH,2021,Safe,3.23,None,11.0,8.15,7.5,91.0,1.0,0.62,133.5,600.0,2.0
+1004,River Beas At U/S Pandoh Dam,River,HIMACHAL PRADESH,2021,Safe,2.67,None,15.0,8.7,7.55,94.0,1.0,0.705,63.5,250.0,2.0
+2603,River Beas At D/S Pandoh Dam,River,HIMACHAL PRADESH,2021,Safe,2.94,None,15.0,9.25,7.45,135.0,1.0,1.12,99.0,410.0,2.0
+1005,River Beas At Exit Of Tunnel Dehal Power House,River,HIMACHAL PRADESH,2021,Safe,2.89,None,17.5,8.9,7.65,169.5,1.0,0.62,91.5,380.0,2.0
+1550,River Beas U/S Mandi,River,HIMACHAL PRADESH,2021,Safe,2.56,None,15.0,9.8,7.75,125.5,1.0,1.065,45.5,195.0,2.0
+1006,River Beas At D/S Mandi,River,HIMACHAL PRADESH,2021,Safe,3.16,None,15.5,9.45,7.8,153.5,1.0,1.47,120.0,580.0,2.0
+2604,River Beas At D/S Jaisinghpur,River,HIMACHAL PRADESH,2021,Safe,2.25,None,21.0,8.95,7.75,255.0,1.0,1.75,2.0,33.0,2.0
+1007,River Beas At D/S Alampur,River,HIMACHAL PRADESH,2021,Safe,2.25,None,21.75,9.1,7.75,244.5,1.0,1.4,2.0,30.0,2.0
+3855,"River Beas D/S Nadaun Bridge, Vill Bhadoli",River,HIMACHAL PRADESH,2021,Safe,2.25,None,24.5,8.45,7.75,299.0,1.0,0.87,2.0,29.0,2.0
+1009,River Beas At D/S Pong Dam,River,HIMACHAL PRADESH,2021,Safe,2.25,None,22.5,7.3,7.5,181.0,1.0,0.975,2.0,33.5,2.0
+1008,River Beas At D/S Dehragopipur,River,HIMACHAL PRADESH,2021,Safe,2.25,None,23.0,8.25,7.6,342.5,1.0,0.7,2.0,29.0,2.0
+4435,River Beas U/S Sujanpur Tihra,River,HIMACHAL PRADESH,2021,Safe,2.26,None,20.15,8.8,7.55,330.0,1.0,0.485,2.0,35.5,2.0
+4436,River Beas D/S Sujanpur Tihra,River,HIMACHAL PRADESH,2021,Safe,2.26,None,19.65,8.6,7.55,346.0,1.0,0.95,2.0,36.5,2.0
+4437,River Beas U/S Nadaum Town,River,HIMACHAL PRADESH,2021,Safe,2.25,None,19.6,8.8,7.65,214.5,1.0,0.7,2.0,31.5,2.0
+4438,River Beas D/S Nadaun Town After Confluence Of Maan Khad,River,HIMACHAL PRADESH,2021,Safe,2.26,None,19.6,8.75,7.65,232.0,1.0,1.42,2.0,37.5,2.0
+4443,River Beas At Raison,River,HIMACHAL PRADESH,2021,Safe,2.76,None,10.0,8.4,7.65,94.5,1.0,0.695,71.0,320.0,2.0
+1867,"River Sutlej River B/C With River Spiti At Khab, Distt.Kinnaur",River,HIMACHAL PRADESH,2021,Safe,3.51,None,10.0,9.3,7.6,3538.0,1.0,0.32,2.0,1600.0,2.0
+2611,River Sutlej At Khab,River,HIMACHAL PRADESH,2021,Safe,3.53,None,10.0,9.1,7.9,3637.0,1.0,0.32,7.0,1600.0,2.0
+3872,River Sutlej D/S Tidong Hep,River,HIMACHAL PRADESH,2021,Unsafe,6.54,High Fecal Coliform,9.5,9.05,7.95,3089.5,1.2,0.87,801.0,839.5,3.0
+4448,River Sutlej U/S Confluences Of River Tidong,River,HIMACHAL PRADESH,2021,Unsafe,6.08,High Fecal Coliform,9.75,9.0,8.0,3122.0,1.0,0.435,801.0,823.0,3.0
+4449,River Sutlej D/S Confluences Of River Tidong,River,HIMACHAL PRADESH,2021,Safe,3.37,None,9.75,9.1,8.05,3125.5,1.0,0.865,121.0,835.0,3.0
+4452,River Sutlej U/S Confluences Of River Baspa,River,HIMACHAL PRADESH,2021,Unsafe,6.09,High Fecal Coliform,10.25,9.0,7.95,2871.5,1.0,0.77,801.0,835.0,2.0
+3871,River Sutlej D/S Power House Kashang Hep,River,HIMACHAL PRADESH,2021,Safe,3.37,None,9.75,8.9,7.95,3078.5,1.0,0.77,121.0,835.0,2.0
+3870,River Sutlej At Karcham Drain,River,HIMACHAL PRADESH,2021,Safe,3.07,None,10.25,9.0,7.95,2997.5,1.0,0.82,40.5,855.0,2.0
+1389,River Sutlej At Neptha Zakhai,River,HIMACHAL PRADESH,2021,Unsafe,6.12,High Fecal Coliform,10.0,8.95,8.0,2821.0,1.0,1.07,801.0,865.0,4.5
+4453,River Sutlej D/S Confluences Of River Baspa,River,HIMACHAL PRADESH,2021,Safe,3.14,None,10.25,8.95,7.85,2851.0,1.0,0.77,56.0,865.0,2.0
+3869,River Sutlej D/S Trt Of Rampur Hydel Electric Project,River,HIMACHAL PRADESH,2021,Unsafe,6.21,High Fecal Coliform,11.45,8.8,7.75,1429.5,1.0,1.32,802.5,975.0,4.5
+1086,River Sutlej At U/S Rampur,River,HIMACHAL PRADESH,2021,Unsafe,6.29,High Fecal Coliform,11.25,8.85,8.0,2463.0,1.0,0.82,804.0,1070.0,48.0
+1087,River Sutlej At D/S Rampur,River,HIMACHAL PRADESH,2021,Unsafe,6.94,High Fecal Coliform,11.25,8.85,7.6,1850.5,1.1,1.12,804.5,1600.0,111.0
+1013,River Sutlej At U/S Tatapani,River,HIMACHAL PRADESH,2021,Safe,3.93,None,11.75,8.75,7.75,2162.5,1.0,0.83,176.0,1260.0,7.0
+4446,River Sutlej U/S Iandfill Site Rampur,River,HIMACHAL PRADESH,2021,Unsafe,6.21,High Fecal Coliform,11.25,9.0,8.0,2435.0,1.0,1.12,803.5,975.0,48.0
+4447,River Stluj D/S Landfill Site Rampur,River,HIMACHAL PRADESH,2021,Unsafe,6.72,High Fecal Coliform,11.25,8.9,7.8,1451.5,1.0,1.12,804.5,1600.0,56.0
+4032,River Sutlej U/S Khairian Solid Waste Dumping Site Bilaspur,River,HIMACHAL PRADESH,2021,Safe,3.42,None,18.5,9.05,7.7,240.5,1.0,1.05,126.5,870.0,2.0
+4033,River Sutlej D/S Khairian Solid Waste Dumping Site Bilaspur,River,HIMACHAL PRADESH,2021,Safe,4.09,None,18.5,8.95,7.65,231.0,1.0,0.87,293.0,875.0,2.0
+4450,River Sutlej U/S Confluence With Ganvi Khand,River,HIMACHAL PRADESH,2021,Unsafe,6.08,High Fecal Coliform,10.75,9.2,7.85,2398.5,1.0,1.22,801.0,824.5,2.0
+4451,River Sutlej D/S Confluence With Ganvi Khad,River,HIMACHAL PRADESH,2021,Unsafe,6.16,High Fecal Coliform,10.75,9.2,7.65,2403.5,1.0,1.42,802.5,910.0,3.5
+30009,River Sutlej At Nangal (H.P.),River,HIMACHAL PRADESH,2021,Unsafe,43.33,"High Fecal Coliform, High Total Coliform",19.5,9.3,7.4,250.0,1.5,0.52,10055.0,55245.0,169.0
+1014,River Sutlej At U/S Slapper,River,HIMACHAL PRADESH,2021,Safe,2.65,None,17.0,8.95,7.7,198.5,1.0,0.545,55.0,260.0,2.0
+1015,River Sutlej At D/S Slapper,River,HIMACHAL PRADESH,2021,Safe,2.9,None,17.0,9.05,7.6,186.5,1.0,0.72,94.5,375.0,2.0
+1016,River Sutlej At D/S Bhakhra,River,HIMACHAL PRADESH,2021,Safe,2.26,None,18.2,8.8,7.45,223.0,1.0,2.7,2.0,42.5,2.0
+1088,River Ravi At U/S Madhopur,River,HIMACHAL PRADESH,2021,Safe,2.26,None,20.0,7.2,7.55,224.5,1.0,0.505,2.0,40.0,2.0
+1089,River Ravi At U/S Chamba,River,HIMACHAL PRADESH,2021,Safe,2.25,None,10.0,8.8,7.4,147.0,1.0,0.45,2.0,24.0,2.0
+2614,River Ravi At Chamera Reservoir,River,HIMACHAL PRADESH,2021,Safe,2.25,None,10.0,8.5,7.5,159.5,1.0,0.65,2.0,29.5,2.0
+2615,River Ravi At D/S Chamera Iii Hep,River,HIMACHAL PRADESH,2021,Safe,2.26,None,10.0,8.8,7.5,136.0,1.0,0.45,2.0,37.0,2.0
+2613,River Ravi At D/S Of Chamba Town,River,HIMACHAL PRADESH,2021,Safe,2.25,None,9.5,8.65,7.5,161.0,1.0,0.56,2.0,28.5,2.0
+3873,River Ravi U/S Stp Barga (Chamba),River,HIMACHAL PRADESH,2021,Safe,2.25,None,9.5,8.7,7.5,143.0,1.0,0.55,2.0,27.5,2.0
+3874,River Ravi D/S Stp Bhagot (Chamba),River,HIMACHAL PRADESH,2021,Safe,2.25,None,9.5,8.6,7.45,153.0,1.0,0.56,2.0,32.0,2.0
+1290,River Parvati Before Conf. To River Beas,River,HIMACHAL PRADESH,2021,Safe,2.63,None,8.0,8.35,7.4,75.5,1.0,1.37,51.0,260.0,2.0
+2605,River Parvati At U/S Manikaran,River,HIMACHAL PRADESH,2021,Safe,2.41,None,7.0,8.65,7.5,73.5,1.0,1.52,29.5,86.5,2.0
+2606,River Parvati At D/S Manikaran,River,HIMACHAL PRADESH,2021,Safe,2.51,None,7.5,8.5,7.6,59.0,1.0,0.63,42.5,147.0,2.0
+1090,"River Largi At D/S, Dwada Himachal Pradesh",River,HIMACHAL PRADESH,2021,Safe,2.84,None,11.0,8.45,7.6,89.0,1.0,0.83,79.5,380.0,2.0
+1551,River Sirsa U/S Sitomajri Nallahgarh,River,HIMACHAL PRADESH,2021,Safe,3.7,None,21.5,7.65,7.7,431.5,1.6,0.31,17.0,95.5,2.0
+1552,River Sirsa D/S Nalagarh Bridge,River,HIMACHAL PRADESH,2021,Safe,5.8,None,22.0,7.25,7.8,3261.0,2.5,,30.0,160.0,2.0
+1868,River Sirsa At D/S Nalagarh Distt. Solan,River,HIMACHAL PRADESH,2021,Safe,5.09,None,22.0,8.2,7.95,798.5,2.2,,25.0,137.0,2.0
+4485,River Sirsa U/S Sandholi Nallah,River,HIMACHAL PRADESH,2021,Safe,4.18,None,21.5,5.8,7.7,522.0,1.8,,26.5,101.0,2.0
+4487,River Sirsa D/S Housing Board Nallah,River,HIMACHAL PRADESH,2021,Unsafe,20.98,"Low DO, High BOD",22.0,4.95,7.7,993.0,15.7,,93.5,502.0,2.0
+4489,River Sirsa D/S River Ratta,River,HIMACHAL PRADESH,2021,Safe,5.48,None,22.0,6.5,7.75,1243.0,2.35,,41.0,126.0,2.0
+2616,River Siuel At D/S Surgani,River,HIMACHAL PRADESH,2021,Safe,2.26,None,9.5,8.45,7.5,196.5,1.0,0.65,2.0,36.5,2.0
+2607,River Suketi Khad At D/S Mandi,River,HIMACHAL PRADESH,2021,Unsafe,5.06,High Fecal Coliform,16.0,9.15,7.95,241.5,1.0,1.02,515.0,975.0,2.0
+2608,River Binwa At D/S Paprola/Baijnath,River,HIMACHAL PRADESH,2021,Safe,2.25,None,20.5,7.05,7.4,130.5,1.0,1.1,2.0,30.0,2.0
+2609,River Neugal At D/S Thural,River,HIMACHAL PRADESH,2021,Safe,2.25,None,19.5,9.15,7.65,167.5,1.0,1.05,2.0,30.5,2.0
+2610,River Spiti At Khab,River,HIMACHAL PRADESH,2021,Safe,3.54,None,10.0,9.4,7.3,2810.0,1.0,0.32,9.0,1600.0,2.0
+2612,River Baspa At U/S Reservoir Baspa Project,River,HIMACHAL PRADESH,2021,Safe,3.08,None,10.0,9.15,7.75,2868.0,1.0,0.87,56.0,801.0,3.0
+3856,River Swan U/S Gagret,River,HIMACHAL PRADESH,2021,Safe,2.26,None,22.9,7.35,7.5,342.0,1.0,2.61,2.0,43.5,2.0
+3857,River Swan D/S Gagret,River,HIMACHAL PRADESH,2021,Safe,2.27,None,22.15,7.25,7.6,363.5,1.0,2.84,2.0,47.0,2.0
+3858,River Swan U/S Santoshgarh Bridge,River,HIMACHAL PRADESH,2021,Safe,2.28,None,21.0,7.15,7.55,389.5,1.0,1.73,3.0,63.5,2.0
+3859,River Swan U/S Una Town Ghalluwal Bridge,River,HIMACHAL PRADESH,2021,Safe,2.28,None,22.2,7.2,7.8,368.5,1.0,2.29,2.0,63.5,2.0
+4030,River Swan B/C Of Garni Khad,River,HIMACHAL PRADESH,2021,Safe,2.27,None,22.3,7.4,7.6,361.5,1.0,3.145,2.0,56.5,2.0
+4031,River Swan River A/C Garni Khad,River,HIMACHAL PRADESH,2021,Safe,2.28,None,22.35,7.25,7.7,376.0,1.0,3.02,2.0,59.0,2.0
+1869,River Swan At D/S Nangal Distt. Una,River,HIMACHAL PRADESH,2021,Safe,2.29,None,20.3,7.5,7.45,449.5,1.0,3.34,3.0,78.5,2.0
+4038,River Tirthan B/C To River Sutlej,River,HIMACHAL PRADESH,2021,Safe,2.68,None,9.5,8.35,7.6,91.5,1.0,0.695,58.5,280.0,2.0
+2617,River Pabbar At U/S Dhambari,River,HIMACHAL PRADESH,2021,Unsafe,6.08,High Fecal Coliform,10.5,8.6,7.55,1001.0,1.0,0.595,801.0,820.0,3.0
+2618,River Pabbar At U/S Rohru,River,HIMACHAL PRADESH,2021,Unsafe,6.11,High Fecal Coliform,11.0,8.1,7.6,927.5,1.0,0.63,802.5,855.0,3.5
+4039,River Pabbar U/S Hatkoti,River,HIMACHAL PRADESH,2021,Unsafe,6.1,High Fecal Coliform,12.5,8.0,7.6,968.5,1.0,1.085,802.5,835.0,2.0
+4464,River Alhi Nog(Near Water Supply Scheme,River,HIMACHAL PRADESH,2021,Safe,2.64,None,20.0,8.75,7.85,413.5,1.0,1.72,58.5,235.0,2.0
+4465,River Harabagh(Intake From Bbmb Source-Bbmb Adit Harabgh)Wate Spring,River,HIMACHAL PRADESH,2021,Safe,2.59,None,19.0,8.2,7.3,463.0,1.0,1.17,50.5,205.0,2.0
+4036,"Kunni Pul, Vill Samahu, Po Kunihar, Tehsil Arki",River,HIMACHAL PRADESH,2021,Safe,2.74,None,13.0,7.75,8.05,328.0,1.2,,9.5,45.5,2.0
+4479,River Ashwani At Sadhupul (U/S Of Bridge Towards Chail.),River,HIMACHAL PRADESH,2021,Safe,3.54,None,15.0,7.3,7.6,375.5,1.55,,11.0,70.5,2.0
+2620,River Ashwani At U/S Yashwant Nagar,River,HIMACHAL PRADESH,2021,Safe,2.54,None,14.5,7.45,7.5,399.5,1.1,,12.0,58.0,2.0
+4023,Manjhi Khad U/S Dharamshala Of Khaniyara,River,HIMACHAL PRADESH,2021,Safe,2.25,None,17.5,8.2,7.55,107.5,1.0,0.8,2.0,21.5,2.0
+4024,Manjhi Khad D/S Dharamshala At Chetru,River,HIMACHAL PRADESH,2021,Safe,2.25,None,16.0,7.9,7.65,119.5,1.0,0.8,2.0,32.0,2.0
+4025,Mol Khad U/S Palampu,River,HIMACHAL PRADESH,2021,Safe,2.25,None,20.75,8.05,7.25,119.0,1.0,1.1,2.0,30.0,2.0
+4026,Mol Khad D/S Palampu,River,HIMACHAL PRADESH,2021,Safe,2.26,None,20.5,6.95,7.2,145.5,1.0,0.92,2.0,36.0,2.0
+4457,River Baner Khad U/S Chamunda Temple,River,HIMACHAL PRADESH,2021,Safe,2.25,None,16.0,8.35,7.35,169.5,1.0,0.9,2.0,21.5,2.0
+4458,River Baner Khad D/S Chamunda Temple,River,HIMACHAL PRADESH,2021,Safe,2.25,None,16.5,8.1,7.35,183.0,1.0,0.755,2.0,32.5,2.0
+4460,Charan Khad U/S Bhagsunag,River,HIMACHAL PRADESH,2021,Safe,2.25,None,14.5,8.65,7.25,168.5,1.0,0.8,2.0,22.5,2.0
+4428,Ashwini Khad U/S Of Weir Site Of Wtp Near Ashwani Bridge,River,HIMACHAL PRADESH,2021,Unsafe,23.85,"High BOD, High Fecal Coliform",18.3,7.3,7.75,3675.5,40.5,7.175,801.0,807.0,801.0
+4424,Raw Water At Gumma Nauti Khad,River,HIMACHAL PRADESH,2021,Unsafe,6.2,High Fecal Coliform,14.0,8.15,8.15,3820.5,1.0,1.615,801.0,975.0,2.0
+4432,Dhauli Khad At Charan Ganga Medi,River,HIMACHAL PRADESH,2021,Safe,2.25,None,20.6,7.3,7.35,358.5,1.0,2.49,2.0,27.5,2.0
+4431,Shikari Khad B/ C River Pabbar Near Hrtc Rohru Bus Stand,River,HIMACHAL PRADESH,2021,Unsafe,6.36,High Fecal Coliform,12.0,6.7,7.45,1918.5,1.1,1.445,805.0,870.0,4.5
+2626,River Batta At U/S Paonta,River,HIMACHAL PRADESH,2021,Safe,3.29,None,18.0,8.2,7.65,412.0,1.4,0.66,21.5,116.5,2.0
+2627,River Batta Before Confluence To Yamuna,River,HIMACHAL PRADESH,2021,Safe,3.54,None,18.0,8.15,7.55,423.0,1.5,1.07,24.5,145.0,2.0
+30027,River Yamuna At Ponta Sahib,River,HIMACHAL PRADESH,2021,Unsafe,43.33,"High Fecal Coliform, High Total Coliform",19.5,8.4,7.85,264.5,1.5,0.77,39504.0,55011.5,6524.5
+1553,River Yamuna U/S Paonta Sahib,River,HIMACHAL PRADESH,2021,Safe,3.35,None,20.5,8.0,7.75,502.0,1.45,1.47,16.5,84.5,2.0
+1554,River Yamuna D/S Paonta Sahib,River,HIMACHAL PRADESH,2021,Safe,3.8,None,19.0,8.0,7.6,1937.5,1.6,0.82,27.0,175.0,2.0
+4439,River Yamuna U/S Ranbaxy,River,HIMACHAL PRADESH,2021,Safe,3.56,None,20.0,7.25,7.55,630.0,1.5,0.63,28.5,145.0,2.0
+4440,River Yamuna D/S Ranbaxy,River,HIMACHAL PRADESH,2021,Safe,3.33,None,19.5,8.05,7.75,435.0,1.4,0.72,28.0,134.5,2.0
+1510,River Tons Sirmaur,River,HIMACHAL PRADESH,2021,Unsafe,6.21,High Fecal Coliform,12.5,8.2,7.65,2347.5,1.0,0.565,802.5,975.0,4.5
+4027,River Giri D/S Rajgarh Town,River,HIMACHAL PRADESH,2021,Safe,3.2,None,18.0,8.85,7.7,819.5,1.35,0.74,22.0,145.0,2.0
+4028,"River Giri D/S Laigidhar Trust, Baru Sahib",River,HIMACHAL PRADESH,2021,Safe,3.8,None,18.0,8.7,7.9,388.0,1.6,0.795,26.5,179.5,2.0
+4427,River Giri U/S Chailla,River,HIMACHAL PRADESH,2021,Safe,3.23,None,13.5,7.8,7.8,2043.0,1.0,0.935,86.0,835.0,4.5
+2621,River Giri At D/S Yashwant Nagar,River,HIMACHAL PRADESH,2021,Safe,3.66,None,14.5,8.15,7.95,428.0,1.6,,15.0,59.5,2.0
+3876,"River Giri After Confluence Of Ashwani River At Giripul, Yashwant Nagar",River,HIMACHAL PRADESH,2021,Safe,3.66,None,14.5,8.35,7.5,1785.0,1.6,,15.0,54.5,2.0
+2622,River Giri At U/S Cci Mines,River,HIMACHAL PRADESH,2021,Safe,3.3,None,22.0,7.9,7.65,690.0,1.45,0.92,12.5,41.0,2.0
+2623,River Giri D/S Sataun,River,HIMACHAL PRADESH,2021,Safe,2.78,None,22.0,7.9,7.65,627.0,1.2,0.495,18.0,55.0,2.0
+3877,River Giri U/S Lwss At Sainj,River,HIMACHAL PRADESH,2021,Safe,3.33,None,13.5,7.8,8.0,2423.0,1.05,1.08,86.0,823.0,4.5
+3878,River Giri D/S Lwss At Sainj,River,HIMACHAL PRADESH,2021,Safe,3.55,None,13.5,7.75,8.1,2007.5,1.1,1.035,111.0,824.5,3.0
+3860,"River Giri D/S Cement Corporation Of India, Rajban",River,HIMACHAL PRADESH,2021,Safe,2.45,None,21.0,7.9,7.7,583.5,1.05,0.5,16.5,66.5,2.0
+2619,River Pabbar At D/S Swarakuddu,River,HIMACHAL PRADESH,2021,Unsafe,6.09,High Fecal Coliform,11.5,8.15,7.75,1899.0,1.0,0.795,803.5,823.0,3.5

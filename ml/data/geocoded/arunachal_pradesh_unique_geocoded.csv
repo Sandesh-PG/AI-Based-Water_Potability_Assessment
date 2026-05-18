@@ -1,0 +1,20 @@
+monitoring_location,stn_code,latitude,longitude,geocode_query,geocoded
+"Dikrong River At Nirjuli,",3096,27.1277793,93.7470404,"nirjuli, Arunachal Pradesh, India",True
+"Dibang River At Roing,",3106,28.1351841,95.7274752,"dibang river roing, Arunachal Pradesh, India",True
+"Dihing River At Miao,",3107,27.5113692,96.0508108,"dihing river miao, Arunachal Pradesh, India",True
+"Gai Nadi Near Hss Likabali,",3105,27.6588306,94.6977781,"likabali, Arunachal Pradesh, India",True
+"River Ganga At Chandrapur, Itanagar,",3095,27.0979659,93.6237291,"itanagar, Arunachal Pradesh, India",True
+"River Dikrong At Nirjuli,",3096,27.1349237,93.7531102,"dikrong nirjuli, Arunachal Pradesh, India",True
+"River Pachin At Naharlagun (Below Barapani Bridge),",3103,27.100935,93.687704,"barapani, Arunachal Pradesh, India",True
+River Dibang At Roing (U/S),3106,28.1351841,95.7274752,"dibang roing, Arunachal Pradesh, India",True
+River Dihing At Miao (U/S Of Noa Dihing),3107,27.6704698,95.8224575,"dihing, Arunachal Pradesh, India",True
+"River Senki At Chandranagar, Itanagar, (U/S Of Pachin River)",3095,27.2625467,92.8937806,"river, Arunachal Pradesh, India",True
+River Dikrong At Nirjuli (U/S),3096,27.1349237,93.7531102,"dikrong nirjuli, Arunachal Pradesh, India",True
+River Subansiri At Gerukamukh,3097,,,,False
+"River Siang At Ranaghat, Near Rcc Bridge, Pasighat(U/S)",3098,28.0589676,95.3324944,"pasighat, Arunachal Pradesh, India",True
+"River Gai Nadi, Near Hss Likabali (D/S)",3105,27.6588306,94.6977781,"likabali, Arunachal Pradesh, India",True
+River Bereng At Chowkham,3108,27.8099085,96.0842123,"chowkham, Arunachal Pradesh, India",True
+River Lohit At Alubari (D/S),3099,27.8343989,96.010927,"alubari, Arunachal Pradesh, India",True
+River Namchik At Kharsang,3100,27.4139573,95.9742451,"namchik kharsang, Arunachal Pradesh, India",True
+"River Noa Dihing At Namsai, (D/S Of Dihing)",3109,27.6704698,95.8224575,"dihing, Arunachal Pradesh, India",True
+"River Pachin At Naharlagun (Below Barapani Bridge), (D/S Of River Senki)",3103,,,,False

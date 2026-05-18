@@ -1,0 +1,11 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+3174,"Borewell/ Handpump In Dhanras, Ntpc, Korba, Chhatisgarh.",Groundwater,CHHATTISGARH,2021,Safe,2.79,None,26.2,,7.2,2302.0,1.0,1.05,2.0,2.0,
+3173,"Borewell/ Handpump In Parsabhata, Balco, Korba, Chhatisgarh.",Groundwater,CHHATTISGARH,2021,Safe,2.79,None,26.05,,7.15,25477.0,1.0,0.74,2.0,2.0,
+3172,"Borewell/ Handpump In Rogbahri Village, Korba, Chhatisgarh.",Groundwater,CHHATTISGARH,2021,Safe,2.79,None,26.2,,6.9,4898.0,1.0,0.645,2.0,2.0,
+1623,"Ground Water At Bilaspur Region, Chhatisgarh.",Groundwater,CHHATTISGARH,2021,Safe,0.0,None,27.4,,7.5,378.0,,0.3,,,
+1622,"Ground Water At Govind Nagar Bilaspur Region, Chhatisgarh.",Groundwater,CHHATTISGARH,2021,Safe,0.02,None,27.3,,7.4,348.0,,0.3,2.0,2.0,
+1620,"Ground Water At Janta Colony, Station Road, Raipur Region, Chhatisgarh.",Groundwater,CHHATTISGARH,2021,Safe,0.0,None,28.0,,7.4,256.0,,,,,
+1621,"Ground Water At Raipur Region, Chhatisgarh.",Groundwater,CHHATTISGARH,2021,Safe,0.0,None,25.0,,7.35,258.5,,,,,
+3171,"Hand Pump Water 17/10 Nepali Mohlla, Shankar Nagar, Heavy Industrial Area, Bhilai, Chhatisgarh.",Groundwater,CHHATTISGARH,2021,Unsafe,33.3,High BOD,25.0,,7.35,,6.0,0.6,,,
+3163,"Hitkasa Tailing Dam, Rajhara, Chhatisgarh.(Dalli Rajhara Iron Ore Mines, Dalli Rajhara)",Pond/Tank,CHHATTISGARH,2021,Unsafe,0.47,pH Out of Range,,28.0,6.4,7.45,,12.0,0.64,86.0,120.0
+3164,"Nehru Nagar Talab, Bhilai, Chhatisgarh.",Pond/Tank,CHHATTISGARH,2021,Safe,0.06,None,,26.0,7.1,7.45,,2.4,0.59,60.0,140.0

@@ -1,0 +1,10 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+2047,N-Choe (Attawa Choe),Drain/STP/WTP,CHANDIGARH,2016,Unsafe,44.48,"pH Out of Range, High BOD, High Total Coliform",,26.5,5.05,7.45,500.0,21.5,4.2,900002.7,6067803.0
+2048,Patiala Ki Rao,Drain/STP/WTP,CHANDIGARH,2016,Unsafe,50.03,"High BOD, High Total Coliform",,26.0,,7.5,500.0,100.0,6.6,5000000.0,760678.0
+2049,Sukhna Choe,Drain/STP/WTP,CHANDIGARH,2016,Unsafe,52.64,"pH Out of Range, High BOD, High Total Coliform",,26.5,2.4,7.4,500.0,32.5,7.35,606781.95,3813853.0
+2039,"Sector 15, Chandigarh",Groundwater,CHANDIGARH,2016,Unsafe,13.91,High BOD,27.5,,7.3,805.0,5.0,3.15,6.0,8.0,
+2040,"Sector 22, Chandigarh",Groundwater,CHANDIGARH,2016,Unsafe,15.11,High BOD,27.5,,7.05,765.0,5.0,3.15,175.0,357.0,
+2043,"Palsora Village, Chandigarh",Groundwater,CHANDIGARH,2016,Unsafe,16.67,High BOD,27.0,,7.1,892.5,6.0,2.75,3.5,7.0,
+2044,"Dhanas Village, Chandigarh",Groundwater,CHANDIGARH,2016,Unsafe,25.03,High BOD,26.0,,7.05,707.5,9.0,3.05,9.0,11.0,
+2045,"Dadu Majra, Chandigarh",Groundwater,CHANDIGARH,2016,Unsafe,11.13,High BOD,26.5,,7.3,576.5,4.0,3.8,4.0,6.0,
+2046,Sukhna Lake,Pond/Tank,CHANDIGARH,2016,Unsafe,35.86,"pH Out of Range, High BOD, High Fecal Coliform",,26.0,13.85,7.2,8.65,65.3,1014.5,15.5,7.65

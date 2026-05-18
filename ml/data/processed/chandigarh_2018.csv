@@ -1,0 +1,14 @@
+stn_code,monitoring_location,water_body_type,state,year,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg,total_dissolved_solids_avg,fluoride_avg,arsenic_avg
+2039,"SECTOR 15, CHANDIGARH",Groundwater,CHANDIGARH,2018,23.5,,7.3,908.0,1.0,3.8,2.0,7.0,,,,
+,2040,Groundwater,CHANDIGARH,2018,,,,,22.0,14.5,430.0,427.0,,1.3,11.8,24.0
+,2041,Groundwater,CHANDIGARH,2018,,,,,22.0,15.5,435.15,453.0,,2.85,3.6,2.0
+,2042,Groundwater,CHANDIGARH,2018,,,,,21.0,15.6,334.7,361.0,,2.8,3.45,2.0
+,2043,Groundwater,CHANDIGARH,2018,,,,,22.0,15.5,594.1,605.5,,1.2,6.0,21.5
+,2044,Groundwater,CHANDIGARH,2018,,,,,23.0,15.6,335.65,605.5,,1.5,6.8,58.0
+,2045,Groundwater,CHANDIGARH,2018,,,,,22.0,15.8,376.8,377.0,,1.75,2.4,18.0
+,2046,Pond/Tank,CHANDIGARH,2018,,,,,,16.0,,30.5,4.8,,,
+,1392,Pond/Tank,CHANDIGARH,2018,,,,,,,,,4.8,,,
+"N-CHOE (ATTAWA CHOE),
+CHANDIGARH",CHANDIGARH,Canal,CHANDIGARH,2018,23.0,0.5,7.0,637.5,105.0,3.6,4009000.0,9011000.0,,,,
+"PATIALA KI RAO, CHANDIGARH",CHANDIGARH,Canal,CHANDIGARH,2018,22.5,,7.5,674.0,245.0,4.25,5540000.0,9055000.0,,,,
+"SUKHNA CHOE, CHANDIGARH",CHANDIGARH,Canal,CHANDIGARH,2018,22.5,3.8,7.3,868.5,167.0,2.7,1605500.0,3813500.0,,,,

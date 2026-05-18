@@ -1,0 +1,152 @@
+monitoring_location,stn_code,latitude,longitude,geocode_query,geocoded
+Top Chachi Lake,2394,22.8137823,86.1983931,"lake, Jharkhand, India",True
+"Dimna Lake,Dimna",2398,22.8407033,86.2243295,"dimna, Jharkhand, India",True
+Hazaribagh Meethajhil,2402,,,,False
+Ganga At Rajmahal,1059,25.053055,87.8304516,"rajmahal, Jharkhand, India",True
+Ajay At Masanjore Dam,2401,,,,False
+Damodar D/S Bhairabi At Rajrappa,2378,23.6320271,85.7105362,"rajrappa, Jharkhand, India",True
+Damodar At Ramgarh Road Bridge,2380,23.693479,85.5215989,"ramgarh, Jharkhand, India",True
+Konar At Tilaya Dam,2388,24.5059801,85.9515346,"tilaya, Jharkhand, India",True
+Konar At Konar Dam,2389,23.8870767,85.7954244,"konar konar, Jharkhand, India",True
+Nalkari Tributary At Patratu,2379,23.6668568,85.3056514,"patratu, Jharkhand, India",True
+Damodar At Phusro Road Bridge,2382,23.7601823,85.9755003,"phusro, Jharkhand, India",True
+Damodar U/S Jamadova,2383,,,,False
+Damodar D/S Sindri,2384,23.6751544,86.4896289,"sindri, Jharkhand, India",True
+Damodar At Panchet Dam,2391,23.6892937,86.7598057,"panchet, Jharkhand, India",True
+Barakar At Maithan Dam,2392,23.7869206,86.8160406,"maithan, Jharkhand, India",True
+Konar At Tenughat Dam,2390,23.7469287,85.7543455,"tenughat, Jharkhand, India",True
+Bokaro At Jarandi,2381,,,,False
+Karo U/S Lohojimi,1035,,,,False
+"Koel At Basia,Dam U/S,Jharkhand",1033,23.3616118,84.7007194,"koel basia jharkhand, Jharkhand, India",True
+"Koel At Manoharpur After Meeting Koina River D/S,J",1036,22.3146055,85.3337946,"koina river, Jharkhand, India",True
+North Koel U/S Daltanganj,2376,,,,False
+"North Koel D/S Bccl, Rehla",2377,,,,False
+Sankh At Bolba,1034,22.4467244,84.3346708,"sankh bolba, Jharkhand, India",True
+Subarnarekha At Chandil Dam,2399,22.9158478,86.0153432,"chandil, Jharkhand, India",True
+Subarnarekha At Chandil Bridge,48,22.9158478,86.0153432,"chandil, Jharkhand, India",True
+Subarnarekha At Jamshedpur,24,22.8015194,86.2029579,"jamshedpur, Jharkhand, India",True
+"Subarnarekha At D/S Jamshedpur,(Tata Nagar),Jharka",49,,,,False
+Subarekha At Ghatisla Road Bridge,2387,,,,False
+"Subarnarekha At Ranchi,(Tatisilwai) Jharkhand",23,23.3795121,85.459822,"ranchi tatisilwai jharkhand, Jharkhand, India",True
+Subarnarekha At Namkum Road Bridge,2385,23.3295004,85.2891243,"subarnarekha namkum, Jharkhand, India",True
+Subarnarekha At Muri Road Bridge,2386,23.3776965,85.8669546,"muri, Jharkhand, India",True
+Subarnarekha At Hatia Dam,2395,23.3094048,85.3084951,"hatia, Jharkhand, India",True
+Subarnarekha At Gatalsud Dam,2397,,,,False
+Jumar At Kanke Dam,2396,23.4466068,85.3281807,"jumar kanke, Jharkhand, India",True
+"Dimna Lake, Dimna",2398,22.8407033,86.2243295,"dimna, Jharkhand, India",True
+"Shiv Ganga Pond, Deoghar",2393,24.4898318,86.6990182,"deoghar, Jharkhand, India",True
+"Ganga At Rajmahal,",1059,25.053055,87.8304516,"rajmahal, Jharkhand, India",True
+"Koel At Manoharpur After Meeting Koina River D/S, Jharkand",1036,,,,False
+"Koel At Basia, Dam U/S, Jharkhand",1033,23.3616118,84.7007194,"koel basia jharkhand, Jharkhand, India",True
+"Subarnarekha At Ranchi, (Tatisilwai)",23,23.3795121,85.459822,"ranchi tatisilwai, Jharkhand, India",True
+"Subarnarekha At D/S Jamshedpur, (Tata Nagar)",49,23.7848719,86.4172267,"tata nagar, Jharkhand, India",True
+2394,GEN-D0921D,24.8059996,76.6047585,"2394, Jharkhand, India",True
+2398,GEN-565030,24.8059996,76.6047585,"2398, Jharkhand, India",True
+2402,GEN-4DD9CE,24.8059996,76.6047585,"2402, Jharkhand, India",True
+2393,GEN-52CF49,24.8059996,76.6047585,"2393, Jharkhand, India",True
+U/S Near Lct Ghat,10144,25.1213349,87.7517171,"ghat, Jharkhand, India",True
+Sangi Dalan,10146,,,,False
+"Damodar River Near Zarangdih Bridge, Bokaro",3555,23.6991279,85.9910689,"bokaro, Jharkhand, India",True
+Confluence Of Bokaro & Damodar River Near Zarangdi,3556,,,,False
+"Koel At Manoharpur After Meeting Koina River D/S,",1036,22.3146055,85.3337946,"koina river, Jharkhand, India",True
+"Govt. Handpump Near House Of Rajendra Singh Munda, Kokrana Muri",4758,23.3776965,85.8669546,"muri, Jharkhand, India",True
+Top Chanchi Lake,2394,22.8137823,86.1983931,"lake, Jharkhand, India",True
+"Loco Talab ) Pumpu Talab), At- Barmasia, Dhanbad",4740,23.7952809,86.4309638,"dhanbad, Jharkhand, India",True
+"Ranibandh Talab Near Ism, Dhanbad",4741,23.7891971,86.4384647,"talab dhanbad, Jharkhand, India",True
+"Galudih Barrage, Galudih, E.S",4742,22.6480073,86.4115668,"galudih galudih, Jharkhand, India",True
+"Harmu River, Near Harmu Bridge, Harmu, Ranchi",4753,23.3698727,85.3246665,"harmu harmu ranchi, Jharkhand, India",True
+Harmu River Before Metting To Swarnrekha River,4754,23.449889,85.657982,"swarnrekha river, Jharkhand, India",True
+"Jamunia River Near Lohapatti Bridge, Mahuda, Dhanbad",4738,23.7478928,86.2694067,"mahuda dhanbad, Jharkhand, India",True
+"Katri River, Near Bhatinda Fall, At- Tetengabad, Moonidih, Dhanbad",4739,23.7357583,86.3625355,"moonidih dhanbad, Jharkhand, India",True
+On Kharkhai River Before Meeting Swarnrekha River,4745,23.449889,85.657982,"swarnrekha river, Jharkhand, India",True
+"Koina River, Manoharpur, W.S",4747,22.3130201,85.3316362,"koina river manoharpur, Jharkhand, India",True
+"Rucca Dam On Swarnrekha River, Rucca, Ranchi",4756,23.3700501,85.3250387,"ranchi, Jharkhand, India",True
+River Ganga U/S Near Lct Ghat,10144,25.1213349,87.7517171,"ghat, Jharkhand, India",True
+River Ganga D/S Near Janta Ghat,10145,25.1213349,87.7517171,"ghat, Jharkhand, India",True
+River Ganga At Sangi Dalan,10146,,,,False
+"Jumar River At Bit Mesra, Ranchi",4085,23.4224619,85.4185533,"mesra ranchi, Jharkhand, India",True
+"Konar River Near Swang Coal Washery, Bokaro",3554,23.6991279,85.9910689,"bokaro, Jharkhand, India",True
+Garga River Near Telmucho Bridge,4000,,,,False
+Bokaro At Zarangdih Bridge,2381,,,,False
+"Sankh At Bolba,",1034,22.4467244,84.3346708,"sankh bolba, Jharkhand, India",True
+"Damodar River Near Rohini Project, Nk Area, Po-Dakra, Ranchi",4083,23.6599238,85.0130226,"dakra ranchi, Jharkhand, India",True
+Damodar River Near Telmucho Bridge,3553,,,,False
+"Confluence Of Bokaro & Damodar River Near Zarangdih Bridge,",3556,,,,False
+"Damodar River Near Bermo Railway Station, Bokaro",3557,23.6579595,86.0839161,"railway station bokaro, Jharkhand, India",True
+Damodar U/S Jamadoba Water Works,2383,23.7068396,86.4027715,"jamadoba, Jharkhand, India",True
+Damodar At Domgarh Water Works D/S Sindri,2384,23.6751544,86.4896289,"sindri, Jharkhand, India",True
+"Karo At Lohojimi U/S, Jharkand",1035,,,,False
+"Surbarnrekha River At Hatia Road Bridge, Ranchi",4084,23.3020465,85.314865,"hatia ranchi, Jharkhand, India",True
+"Subarnrekha River U/S Hindalco Ind Ltd, Murli Works, Chhotamuri, Ranchi",4086,23.3700501,85.3250387,"ranchi, Jharkhand, India",True
+"Hand Pump Near Garbage Dump, Rakshibandh Dumka",4492,24.2677937,87.2485495,"dumka, Jharkhand, India",True
+Holy Pond At Village Sikatia,4493,,,,False
+"Holy Pond Of Shiv Ganga Jarmundi, Dumka",4491,24.4067472,87.0494822,"jarmundi dumka, Jharkhand, India",True
+River Kurwa Dumka Water Intake Point,4490,24.2476801,87.2877892,"kurwa dumka, Jharkhand, India",True
+"River Jamunia Near Lohapatti Bridge, Mahuda, Dhanbad",4738,23.7478928,86.2694067,"mahuda dhanbad, Jharkhand, India",True
+"River Katri River, Near Bhatinda Fall, At- Tetengabad, Moonidih, Dhanbad",4739,23.7357583,86.3625355,"moonidih dhanbad, Jharkhand, India",True
+"River Galudih Barrage, Galudih, E.S",4742,22.6480073,86.4115668,"galudih galudih, Jharkhand, India",True
+River Kharkhai Before Meeting Swarnrekha River,4745,23.449889,85.657982,"swarnrekha river, Jharkhand, India",True
+"River Koina River, Manoharpur, W.S",4747,22.3130201,85.3316362,"koina river manoharpur, Jharkhand, India",True
+"River Harmu Near Harmu Bridge, Harmu, Ranchi",4753,23.3698727,85.3246665,"harmu harmu harmu ranchi, Jharkhand, India",True
+River Harmu Before Metting To Swarnrekha River,4754,23.449889,85.657982,"swarnrekha river, Jharkhand, India",True
+Ajay River At Masanjore Dam,2401,,,,False
+Jharkhand,3554,23.3104522,85.2748774,"jharkhand, Jharkhand, India",True
+"Sankh At Bolba, Jharkand",1034,,,,False
+"River Ganga At Rajmahal, Jharkhand",1059,25.053055,87.8304516,"rajmahal jharkhand, Jharkhand, India",True
+"River Jumar At Bit Mesra, Ranchi",4085,23.4224619,85.4185533,"mesra ranchi, Jharkhand, India",True
+River Jumar At Kanke Dam,2396,23.4466068,85.3281807,"jumar kanke, Jharkhand, India",True
+River Ajay At Masanjore Dam,2401,,,,False
+"River Konar Near Swang Coal Washery, Bokaro",3554,23.6991279,85.9910689,"bokaro, Jharkhand, India",True
+River Konar At Tenughat Dam,2390,23.7469287,85.7543455,"tenughat, Jharkhand, India",True
+River Garga Near Telmucho Bridge,4000,,,,False
+River Bokaro At Zarangdih Bridge,2381,,,,False
+"River Sankh At Bolba, Jharkand",1034,,,,False
+River Barakar At Maithan Dam,2392,23.7869206,86.8160406,"maithan, Jharkhand, India",True
+"River Damodar Near Zarangdih Bridge, Bokaro",3555,23.6991279,85.9910689,"bokaro, Jharkhand, India",True
+"River Damodar Near Rohini Project, Nk Area, Po-Dakra, Ranchi",4083,23.6599238,85.0130226,"dakra ranchi, Jharkhand, India",True
+River Damodar Near Telmucho Bridge,3553,,,,False
+"River Damodar At Confluence Of Bokaro & Damodar Near Zarangdih Bridge, Bokaro",3556,23.6991279,85.9910689,"bokaro, Jharkhand, India",True
+"River Damodar Near Bermo Railway Station, Bokaro",3557,23.6579595,86.0839161,"railway station bokaro, Jharkhand, India",True
+River Damodar At Phusro Road Bridge,2382,23.7601823,85.9755003,"phusro, Jharkhand, India",True
+River Damodar U/S Jamadoba Water Works,2383,23.7068396,86.4027715,"jamadoba, Jharkhand, India",True
+River Damodar At Domgarh Water Works D/S Sindri,2384,23.6751544,86.4896289,"sindri, Jharkhand, India",True
+River Damodar At Panchet Dam,2391,23.6892937,86.7598057,"panchet, Jharkhand, India",True
+"River Karo At Lohojimi U/S, Jharkand",1035,,,,False
+"River Koel At Basia, Dam U/S, Jharkhand",1033,23.3616118,84.7007194,"koel basia jharkhand, Jharkhand, India",True
+"River Koel At Manoharpur After Meeting Koina River D/S, Jharkand",1036,,,,False
+River North Koel U/S Daltanganj,2376,,,,False
+"River North Koel D/S Bccl, Rehla",2377,,,,False
+"River Subarnarekha At Ranchi, (Tatisilwai)",23,23.3795121,85.459822,"ranchi tatisilwai, Jharkhand, India",True
+River Subarnarekha At Jamshedpur,24,22.8015194,86.2029579,"jamshedpur, Jharkhand, India",True
+River Subarnarekha At Chandil Bridge,48,22.9158478,86.0153432,"chandil, Jharkhand, India",True
+"River Subarnarekha At D/S Jamshedpur, (Tata Nagar)",49,23.7848719,86.4172267,"tata nagar, Jharkhand, India",True
+River Subarnarekha At Namkum Road Bridge,2385,23.3295004,85.2891243,"subarnarekha namkum, Jharkhand, India",True
+River Subarnarekha At Muri Road Bridge,2386,23.3776965,85.8669546,"muri, Jharkhand, India",True
+River Subarekha At Ghatisla Road Bridge,2387,,,,False
+River Subarnarekha At Hatia Dam,2395,23.3094048,85.3084951,"hatia, Jharkhand, India",True
+River Subarnarekha At Gatalsud Dam,2397,,,,False
+River Subarnarekha At Chandil Dam,2399,22.9158478,86.0153432,"chandil, Jharkhand, India",True
+"River Subarnrekha U/S Hcl Ghatshila, E.S",4743,22.6650418,86.507034,"ghatshila, Jharkhand, India",True
+River Subarnrekha Before Meeting Kharkai River,4744,22.7835321,86.1744326,"kharkai river, Jharkhand, India",True
+River Subarnrekha After Confluence Of Kharkai River,4746,22.7835321,86.1744326,"kharkai river, Jharkhand, India",True
+"River Swarnkekha At Baharagora Road Bridge, P.O- Baharagora, E.S",4748,22.3933382,86.757079,"baharagora baharagora, Jharkhand, India",True
+"River Subarnrekha , Near Ring Road Bridge Sembo, Nagri, Ranchi",4749,23.2973659,85.2337481,"sembo nagri ranchi, Jharkhand, India",True
+River Subarnrekha Near Intake Well Hatia Railway,4750,23.3131337,85.3058525,"hatia railway, Jharkhand, India",True
+"River Surbarnrekha At Hatia Road Bridge, Ranchi",4084,23.3020465,85.314865,"hatia ranchi, Jharkhand, India",True
+"River Subarnrekha Near Oberia Road Bridge, Hatia Ranch",4752,,,,False
+River Subarnarekha At Behragora (Jharkhand),30067,23.3104522,85.2748774,"jharkhand, Jharkhand, India",True
+"River Subarnrekha U/S Hindalco Ind Ltd, Murli Works, Chhotamuri, Ranchi",4086,23.3700501,85.3250387,"ranchi, Jharkhand, India",True
+"River Subarnrekha At Rucca Dam, Rucca, Ranchi",4756,23.3700501,85.3250387,"ranchi, Jharkhand, India",True
+River Damodar D/S Bhairabi At Rajrappa,2378,23.6320271,85.7105362,"rajrappa, Jharkhand, India",True
+River Damodar At Ramgarh Road Bridge,2380,23.693479,85.5215989,"ramgarh, Jharkhand, India",True
+River Nalkari Tributary At Patratu,2379,23.6668568,85.3056514,"patratu, Jharkhand, India",True
+River Damodar At Sindri,30066,23.6751544,86.4896289,"sindri, Jharkhand, India",True
+"River Koel At Manoharpur After Meeting Koina River D/S,",1036,22.3146055,85.3337946,"koina river, Jharkhand, India",True
+"River Swarnrekha U/S Hindalco Ind Ltd, Murli Works, Chhotamuri, Ranchi",4086,23.3700501,85.3250387,"ranchi, Jharkhand, India",True
+"River Swarnrekha U/S Hcl Ghatshila, E.S",4743,22.6650418,86.507034,"ghatshila, Jharkhand, India",True
+River Swarnrekha Before Meeting Kharkai River,4744,22.7835321,86.1744326,"kharkai river, Jharkhand, India",True
+River Swarnrekha After Confluence Of Kharkai River,4746,22.7835321,86.1744326,"kharkai river, Jharkhand, India",True
+"River Swarnrekha , Near Ring Road Bridge Sembo, Nagri, Ranchi",4749,23.2973659,85.2337481,"sembo nagri ranchi, Jharkhand, India",True
+River Swarnrekha Near Intake Well Hatia Railway,4750,23.3131337,85.3058525,"hatia railway, Jharkhand, India",True
+"River Swarnrekha Near Oberia Road Bridge, Hatia Ranch",4752,,,,False
+"River Swarnrekha At Rucca Dam, Rucca, Ranchi",4756,23.3700501,85.3250387,"ranchi, Jharkhand, India",True

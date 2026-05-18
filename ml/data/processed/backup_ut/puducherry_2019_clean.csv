@@ -1,0 +1,21 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1397,Well At Muthialpet Area(I) Ramakrishna Nagar/ Krishna Nagar,Groundwater,PUDUCHERRY,2019,Unsafe,33.4,High BOD,29.5,,,6.3,439.5,,9.91,2.0,
+1398,"Well At Thengaithittu Area, (Ii)",Groundwater,PUDUCHERRY,2019,Unsafe,33.34,High BOD,31.5,,,6.5,500.0,,0.215,2.0,
+1453,Well At Muthirappalayam (Pwd),Groundwater,PUDUCHERRY,2019,Unsafe,33.37,High BOD,30.75,,,6.85,500.0,,4.47,2.0,
+1454,"Well At Kalapet, Pondi. University Admn. Block",Groundwater,PUDUCHERRY,2019,Unsafe,33.35,High BOD,30.0,,,6.45,265.5,,1.94,2.0,
+1687,Well At Nehru Statue Mission St. - Chetty Koil,Groundwater,PUDUCHERRY,2019,Unsafe,33.66,High BOD,28.5,,,7.95,500.0,1.6,0.58,240.0,
+2012,"Well At Maruthi School, Karuvadikuppam",Groundwater,PUDUCHERRY,2019,Unsafe,33.71,High BOD,30.0,,,6.8,500.0,5.7,1.005,280.0,
+2013,"Well At T.R.Pattinam, Karaikal",Groundwater,PUDUCHERRY,2019,Unsafe,33.34,High BOD,29.5,,,8.35,500.0,,0.745,2.0,
+2014,"Well At Vadamattam, Karaikal",Groundwater,PUDUCHERRY,2019,Unsafe,33.34,High BOD,28.75,,,8.35,500.0,,0.995,2.0,
+3882,"Well At Echankadu, Kirumambakkam",Groundwater,PUDUCHERRY,2019,Unsafe,33.34,High BOD,31.5,,,6.5,422.5,,0.015,2.0,
+3884,"Well At Chevalier Sellane Government High Secondary School, Kalapet",Groundwater,PUDUCHERRY,2019,Unsafe,33.43,High BOD,30.0,,,6.75,500.0,,14.81,2.0,
+3885,"Well At Dhanderar Kulam, Sedarapet",Groundwater,PUDUCHERRY,2019,Unsafe,33.66,High BOD,31.0,,,6.9,500.0,,1.44,240.0,
+3886,"Well At Kothapurinatham, Thiruvandarkoil",Groundwater,PUDUCHERRY,2019,Unsafe,33.6,High BOD,28.5,,,7.7,500.0,,5.76,170.0,
+4631,Thirukkanur,River,PUDUCHERRY,2019,Safe,0.0,None,29.0,,8.1,1103.0,,2.45,,,
+1396,Ousteri Lake,Pond/Tank,PUDUCHERRY,2019,Unsafe,20.98,"pH Out of Range, High BOD",,25.0,6.25,7.7,383.5,2.95,0.065,260.0,500.0
+1686,Bahour Lake,Pond/Tank,PUDUCHERRY,2019,Unsafe,27.03,"pH Out of Range, High BOD",,29.0,4.3,7.55,461.0,4.7,0.045,325.0,420.0
+4634,Kanagan Lake,Pond/Tank,PUDUCHERRY,2019,Unsafe,23.47,"High BOD, High Total Coliform",,29.5,7.55,7.85,234.5,2.0,0.11,4340.0,21000.0
+2444,Coringa River (Tidal Lock),River,PUDUCHERRY,2019,Safe,0.0,None,26.5,6.6,7.7,7190.0,,0.37,,,
+2442,Gautami-Godavari River Near Balayogi Bridge,River,PUDUCHERRY,2019,Safe,0.0,None,27.0,7.0,7.7,9110.0,,0.34,,,
+2443,Gautami-Godavari River Near Adavipolam,River,PUDUCHERRY,2019,Safe,0.37,None,26.5,6.6,7.5,12940.0,0.1,0.34,,,
+2445,Mahe River,River,PUDUCHERRY,2019,Safe,0.0,None,29.0,6.3,7.4,2940.0,,0.24,,,

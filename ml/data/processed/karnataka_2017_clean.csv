@@ -1,4 +1,98 @@
 stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1388,"Ulsoor Lake Training Centre Of Fish Breeding, Karnataka",Pond/Tank,KARNATAKA,2017,Unsafe,40.01,"High BOD, High Total Coliform",,32.0,7.0,8.35,500.0,5.5,1.275,39665.0,271545.0
+1446,"Heballa Valley Lake At D-S Road Bridge Nr. Mandya, Karnataka",Pond/Tank,KARNATAKA,2017,Unsafe,24.82,"pH Out of Range, High BOD",,25.0,5.2,8.0,500.0,3.85,3.02,1015.0,4200.0
+3582,Hebbal Lake,Pond/Tank,KARNATAKA,2017,Unsafe,29.48,"pH Out of Range, High BOD",,26.5,3.9,7.8,500.0,15.65,0.74,1850.0,5850.0
+3583,Kukkarahalli Lake,Pond/Tank,KARNATAKA,2017,Unsafe,21.51,"pH Out of Range, High BOD",,28.0,6.35,8.45,500.0,6.5,0.44,1310.0,5450.0
+3584,Dalavai Lake,Pond/Tank,KARNATAKA,2017,Unsafe,35.79,"pH Out of Range, High BOD, High Total Coliform",,27.0,2.15,7.8,500.0,17.2,2.165,3000.0,7350.0
+3585,Yennehole Lake,Pond/Tank,KARNATAKA,2017,Unsafe,34.69,"pH Out of Range, High BOD",,29.5,2.3,7.9,500.0,17.6,1.92,2200.0,7350.0
+3586,Limbhabudi Lake,Pond/Tank,KARNATAKA,2017,Unsafe,27.29,"pH Out of Range, High BOD",,28.0,4.55,8.5,500.0,9.9,0.39,1615.0,5500.0
+3587,Shettykere Lake,Pond/Tank,KARNATAKA,2017,Unsafe,25.52,"pH Out of Range, High BOD",,28.0,5.1,8.55,500.0,7.4,0.42,1510.0,5450.0
+3591,Kempambudhi Lake,Pond/Tank,KARNATAKA,2017,Unsafe,23.75,"pH Out of Range, High BOD, High Total Coliform",,23.5,5.95,7.05,441.0,4.5,4.095,2555.0,11910.0
+3592,Yediyur Lake,Pond/Tank,KARNATAKA,2017,Unsafe,46.63,"pH Out of Range, High BOD, High Total Coliform",,28.0,4.35,7.25,457.0,13.5,2.44,245395.0,546740.0
+3593,"Ulsoor Lake Training Centre Of Fish Breeding, Karnataka",Pond/Tank,KARNATAKA,2017,Unsafe,40.0,"High BOD, High Total Coliform",,31.5,7.0,8.1,498.0,5.5,1.205,39635.0,271545.0
+3601,Karihobanahalli Lake,Pond/Tank,KARNATAKA,2017,Unsafe,47.72,"pH Out of Range, High BOD, High Total Coliform",,29.5,4.0,7.05,500.0,34.3,6.85,170500.0,1794500.0
+3602,Bellandur Lake,Pond/Tank,KARNATAKA,2017,Unsafe,48.47,"pH Out of Range, High BOD, High Total Coliform",,28.0,3.75,6.95,500.0,24.5,2.95,5000000.0,27170500.0
+3608,Varthur Lake,Pond/Tank,KARNATAKA,2017,Unsafe,49.71,"pH Out of Range, High BOD, High Total Coliform",,30.5,3.35,8.85,500.0,24.5,5.55,1779500.0,8774000.0
+3610,Tubrahalli Lake,Pond/Tank,KARNATAKA,2017,Unsafe,47.7,"pH Out of Range, High BOD, High Total Coliform",,29.0,4.0,7.6,500.0,25.0,2.625,651100.0,1747050.0
+3611,Kaikondanahalli Lake,Pond/Tank,KARNATAKA,2017,Unsafe,43.24,"pH Out of Range, High BOD, High Total Coliform",,28.0,5.45,8.1,500.0,7.0,1.48,245165.0,706740.0
+3612,Agaram Lake,Pond/Tank,KARNATAKA,2017,Unsafe,42.31,"pH Out of Range, High BOD, High Total Coliform",,28.0,5.75,8.0,500.0,6.5,1.5,105245.0,876740.0
+3613,Gottegre Lake,Pond/Tank,KARNATAKA,2017,Unsafe,27.71,"High BOD, High Total Coliform",,29.0,,7.1,500.0,45.0,2.0,2700.0,14100.0
+3614,Puttenahalli Lake (S),Pond/Tank,KARNATAKA,2017,Unsafe,47.88,"pH Out of Range, High BOD, High Total Coliform",,28.5,3.95,7.4,500.0,8.25,8.0,396350.0,2727400.0
+3615,Arakere Lake,Pond/Tank,KARNATAKA,2017,Unsafe,47.7,"pH Out of Range, High BOD, High Total Coliform",,28.0,4.0,7.7,500.0,8.3,1.65,860700.0,2718600.0
+3616,Kalena Agrahara Lake,Pond/Tank,KARNATAKA,2017,Unsafe,45.87,"pH Out of Range, High BOD, High Total Coliform",,29.0,4.6,7.6,500.0,12.45,5.37,166650.0,550450.0
+3617,Hulimavu Lake,Pond/Tank,KARNATAKA,2017,Unsafe,47.11,"pH Out of Range, High BOD, High Total Coliform",,28.5,4.2,7.35,500.0,10.0,7.7,1300550.0,11058600.0
+3618,Singasandra Lake,Pond/Tank,KARNATAKA,2017,Unsafe,48.16,"pH Out of Range, High BOD, High Total Coliform",,27.15,3.85,7.75,500.0,10.5,1.85,60700.0,862710.0
+3620,Parappana Agrahara Lake,Pond/Tank,KARNATAKA,2017,Unsafe,44.32,"pH Out of Range, High BOD, High Total Coliform",,27.05,5.1,7.4,500.0,7.5,2.15,395350.0,861105.0
+3621,Haralakunte Lake,Pond/Tank,KARNATAKA,2017,Unsafe,41.72,"pH Out of Range, High BOD, High Total Coliform",,27.0,5.95,7.55,500.0,6.25,7.65,245135.0,861105.0
+3622,Somasundra Palya Lake,Pond/Tank,KARNATAKA,2017,Unsafe,46.02,"pH Out of Range, High BOD, High Total Coliform",,27.1,4.55,7.6,500.0,74.0,4.5,396650.0,2715450.0
+3624,Puttenahalli Lake,Pond/Tank,KARNATAKA,2017,Unsafe,50.49,"pH Out of Range, High BOD, High Total Coliform",,28.5,3.1,6.9,500.0,100.0,6.04,1660500.0,4010000.0
+3625,Hebbal Lake,Pond/Tank,KARNATAKA,2017,Unsafe,40.02,"High BOD, High Total Coliform",,28.5,6.85,7.3,500.0,7.0,4.83,350850.0,710450.0
+3627,Jakkur Lake,Pond/Tank,KARNATAKA,2017,Unsafe,40.02,"High BOD, High Total Coliform",,30.0,6.75,8.2,500.0,14.0,5.96,245850.0,2713950.0
+3644,Mulbhagal Lake,Pond/Tank,KARNATAKA,2017,Unsafe,46.32,"pH Out of Range, High BOD, High Total Coliform",,29.0,4.45,7.95,500.0,20.25,3.59,39555.0,65600.0
+3645,Devarayasamudra Lake,Pond/Tank,KARNATAKA,2017,Unsafe,34.31,"pH Out of Range, High BOD, High Total Coliform",,29.0,3.7,8.0,500.0,14.0,2.675,7110.0,272740.0
+3646,Narasapura Lake,Pond/Tank,KARNATAKA,2017,Unsafe,21.64,High BOD,,24.5,6.75,7.35,500.0,3.5,0.975,2045.0,10340.0
+3647,Huledanahalli Lake,Pond/Tank,KARNATAKA,2017,Unsafe,22.17,"High BOD, High Total Coliform",,24.5,6.5,6.9,155.0,3.0,3.05,2695.0,28840.0
+3649,Bugudanahalli Lake,Pond/Tank,KARNATAKA,2017,Unsafe,23.23,"High BOD, High Total Coliform",,27.5,6.55,7.4,198.5,3.0,1.085,4035.0,17945.0
+3559,Hullige Tank,Pond/Tank,KARNATAKA,2017,Unsafe,20.82,High BOD,,27.0,7.2,7.6,500.0,,0.095,1020.0,2050.0
+3560,Mavenakere,Pond/Tank,KARNATAKA,2017,Unsafe,24.0,"High BOD, High Total Coliform",,29.0,7.2,8.95,500.0,,0.195,5000.0,9600.0
+3561,Hundikere (Koppal),Pond/Tank,KARNATAKA,2017,Unsafe,20.9,High BOD,,27.0,7.1,7.75,500.0,,0.095,1120.0,3650.0
+3565,Pilikula Tank,Pond/Tank,KARNATAKA,2017,Unsafe,20.15,High BOD,,30.0,6.5,7.15,211.5,2.0,1.24,176.0,802.5
+3588,Karanjikere,Pond/Tank,KARNATAKA,2017,Unsafe,22.2,"pH Out of Range, High BOD",,26.5,6.1,7.85,500.0,6.0,1.94,1200.0,5150.0
+3589,Madiwala Tank,Pond/Tank,KARNATAKA,2017,Unsafe,43.56,"pH Out of Range, High BOD, High Total Coliform",,28.5,5.35,7.7,500.0,8.75,5.5,245700.0,656500.0
+3590,Lalbagh Tank,Pond/Tank,KARNATAKA,2017,Unsafe,40.6,"pH Out of Range, High BOD, High Total Coliform",,27.5,8.75,7.35,500.0,6.5,2.62,470245.0,1106200.0
+3594,Sankey Tank,Pond/Tank,KARNATAKA,2017,Unsafe,28.62,"pH Out of Range, High BOD, High Total Coliform",,26.5,6.25,7.4,500.0,6.5,1.75,9800.0,276450.0
+3595,Byrasandra Tank,Pond/Tank,KARNATAKA,2017,Unsafe,39.77,"High BOD, High Total Coliform",,32.0,6.95,7.1,500.0,9.0,8.4,24665.0,174350.0
+3597,Hesaraghatta Tank,Pond/Tank,KARNATAKA,2017,Unsafe,34.28,"pH Out of Range, High BOD, High Total Coliform",,26.0,5.8,7.45,500.0,4.5,2.17,15150.0,99900.0
+3598,Herohalli Tank,Pond/Tank,KARNATAKA,2017,Unsafe,44.67,"pH Out of Range, High BOD, High Total Coliform",,26.5,4.75,7.35,500.0,3.5,2.495,24100.0,276450.0
+3599,Madavara Tank,Pond/Tank,KARNATAKA,2017,Unsafe,40.02,"High BOD, High Total Coliform",,27.0,6.6,7.75,500.0,76.5,5.0,110115.0,862710.0
+3600,Shivapura Tank,Pond/Tank,KARNATAKA,2017,Unsafe,48.65,"pH Out of Range, High BOD, High Total Coliform",,29.5,3.7,7.2,500.0,65.0,7.51,245165.0,1105705.0
+3603,Vengaihnakere,Pond/Tank,KARNATAKA,2017,Unsafe,44.49,"pH Out of Range, High BOD, High Total Coliform",,30.0,5.05,7.3,500.0,18.0,6.3,5000000.0,35006000.0
+3604,Doddanakundi Tank,Pond/Tank,KARNATAKA,2017,Unsafe,45.7,"pH Out of Range, High BOD, High Total Coliform",,27.0,4.65,7.35,500.0,16.0,2.525,200500.0,2749500.0
+3605,Yellamallappa Tank,Pond/Tank,KARNATAKA,2017,Unsafe,46.95,"pH Out of Range, High BOD, High Total Coliform",,29.0,4.25,7.2,500.0,11.0,6.65,1955450.0,17256500.0
+3606,Dasarahalli Tank,Pond/Tank,KARNATAKA,2017,Unsafe,41.3,"pH Out of Range, High BOD, High Total Coliform",,27.0,9.05,7.85,500.0,10.5,1.065,85165.0,545395.0
+3619,Begur Tank,Pond/Tank,KARNATAKA,2017,Unsafe,40.01,"High BOD, High Total Coliform",,27.1,6.75,7.25,500.0,23.5,1.59,651050.0,1744700.0
+3626,Nagavara Tank,Pond/Tank,KARNATAKA,2017,Unsafe,39.93,"High BOD, High Total Coliform",,31.5,7.05,7.15,500.0,5.5,4.245,24895.0,72240.0
+3629,Allasandra Tank,Pond/Tank,KARNATAKA,2017,Unsafe,40.02,"High BOD, High Total Coliform",,25.0,6.8,7.45,500.0,16.5,5.76,245130.0,1751000.0
+3630,Yelahanka Tank,Pond/Tank,KARNATAKA,2017,Unsafe,41.25,"pH Out of Range, High BOD, High Total Coliform",,30.0,6.1,7.8,500.0,13.5,3.88,86245.0,271395.0
+3632,Veerapura Tank,Pond/Tank,KARNATAKA,2017,Unsafe,40.0,"High BOD, High Total Coliform",,25.0,6.5,7.3,500.0,7.0,1.005,110850.0,548950.0
+3634,Devarakere Tank,Pond/Tank,KARNATAKA,2017,Unsafe,40.01,"High BOD, High Total Coliform",,30.0,6.6,7.3,500.0,41.5,2.85,165085.0,397710.0
+3635,Malathahalli Tank,Pond/Tank,KARNATAKA,2017,Unsafe,48.64,"pH Out of Range, High BOD, High Total Coliform",,28.9,3.7,7.55,500.0,17.5,6.49,3974500.0,11089500.0
+3637,Byramangala Tank,Pond/Tank,KARNATAKA,2017,Unsafe,47.88,"pH Out of Range, High BOD, High Total Coliform",,27.4,3.95,7.5,500.0,11.8,9.7,858500.0,4004500.0
+3638,Annayappa Tank,Pond/Tank,KARNATAKA,2017,Unsafe,41.08,"pH Out of Range, High BOD, High Total Coliform",,24.5,6.15,7.35,284.5,3.5,1.085,178000.0,631000.0
+3639,Kengeri Tank,Pond/Tank,KARNATAKA,2017,Unsafe,58.18,"pH Out of Range, High BOD, High Total Coliform",,34.7,0.6,6.8,500.0,100.0,6.0,40000.0,278000.0
+3640,Uttarahalli Doraikere,Pond/Tank,KARNATAKA,2017,Unsafe,41.86,"pH Out of Range, High BOD, High Total Coliform",,29.25,5.9,7.65,500.0,70.5,3.15,470110.0,1725650.0
+3641,Dhorekere,Pond/Tank,KARNATAKA,2017,Unsafe,40.01,"High BOD, High Total Coliform",,29.55,7.4,7.9,500.0,29.0,3.675,165070.0,350545.0
+3643,Beenniganahalli Tank,Pond/Tank,KARNATAKA,2017,Unsafe,47.4,"pH Out of Range, High BOD, High Total Coliform",,26.5,4.1,7.15,500.0,28.5,4.0,5000000.0,54503950.0
+3648,Mydala,Pond/Tank,KARNATAKA,2017,Unsafe,26.64,"pH Out of Range, High BOD, High Total Coliform",,27.0,6.2,7.65,389.5,4.0,2.39,7135.0,20110.0
+3650,Melekote,Pond/Tank,KARNATAKA,2017,Unsafe,48.96,"pH Out of Range, High BOD, High Total Coliform",,27.5,3.6,7.6,500.0,28.5,9.965,55050.0,274950.0
+3651,Bheemsandra Tank,Pond/Tank,KARNATAKA,2017,Unsafe,48.66,"pH Out of Range, High BOD, High Total Coliform",,27.5,3.7,7.25,500.0,48.0,10.94,165700.0,355450.0
+3653,Doddakere Tank,Pond/Tank,KARNATAKA,2017,Unsafe,25.79,"pH Out of Range, High BOD, High Total Coliform",,28.5,6.1,7.15,442.5,4.0,2.0,5695.0,17795.0
+3654,Gottigere Lake,Pond/Tank,KARNATAKA,2017,Unsafe,45.4,"pH Out of Range, High BOD, High Total Coliform",,29.0,4.75,7.15,500.0,30.5,4.135,39605.0,272200.0
+3659,Mathana Kere,Pond/Tank,KARNATAKA,2017,Unsafe,22.96,"High BOD, High Total Coliform",,27.0,8.45,8.55,500.0,4.5,0.4,3695.0,13050.0
+3660,Hunasina Kere,Pond/Tank,KARNATAKA,2017,Unsafe,24.78,"High BOD, High Total Coliform",,27.5,7.85,8.5,500.0,5.1,0.345,5970.0,18900.0
+3661,Kokkanaghattadoddakere,Pond/Tank,KARNATAKA,2017,Unsafe,20.55,High BOD,,26.5,7.3,8.25,500.0,4.0,0.25,685.0,4100.0
+3668,Sodharahallikere,Pond/Tank,KARNATAKA,2017,Unsafe,23.96,"pH Out of Range, High BOD",,25.0,5.3,7.8,465.0,3.0,0.15,330.0,2500.0
+3677,Sharanabaweshwara Kere,Pond/Tank,KARNATAKA,2017,Unsafe,20.5,High BOD,,28.0,6.6,8.0,500.0,17.0,0.0,620.0,2050.0
+3679,Bhutanala Lake,Pond/Tank,KARNATAKA,2017,Unsafe,20.77,High BOD,,29.5,8.2,7.9,500.0,19.75,1.71,955.0,1685.0
+3680,Killa Lake,Pond/Tank,KARNATAKA,2017,Unsafe,22.36,"High BOD, High Total Coliform",,30.0,7.05,7.75,460.0,2.2,0.885,2950.0,5300.0
+3681,Angol Mi Tanl,Pond/Tank,KARNATAKA,2017,Unsafe,29.25,"pH Out of Range, High BOD, High Total Coliform",,28.0,4.9,7.8,500.0,28.9,1.44,5400.0,9600.0
+3682,Kakati Pond,Pond/Tank,KARNATAKA,2017,Unsafe,22.24,"High BOD, High Total Coliform",,28.5,8.1,8.6,500.0,9.2,3.09,2780.0,5300.0
+3683,Herekere,Pond/Tank,KARNATAKA,2017,Unsafe,29.25,"pH Out of Range, High BOD",,26.0,3.65,7.55,500.0,94.3,3.26,587.5,1800.0
+3684,Kelegere,Pond/Tank,KARNATAKA,2017,Unsafe,20.26,High BOD,,27.0,7.25,8.65,500.0,4.85,2.005,310.0,987.5
+3685,Navalooru Lake,Pond/Tank,KARNATAKA,2017,Unsafe,20.7,"pH Out of Range, High BOD",,27.0,6.35,8.1,500.0,9.25,1.72,285.0,955.0
+3686,Nirasagarakere,Pond/Tank,KARNATAKA,2017,Unsafe,20.06,High BOD,,27.5,7.3,7.85,500.0,4.9,1.09,73.5,215.0
+3687,Nuggikere,Pond/Tank,KARNATAKA,2017,Unsafe,20.17,High BOD,,26.5,6.5,8.3,500.0,6.0,1.37,200.0,970.0
+3688,Sudanakere,Pond/Tank,KARNATAKA,2017,Unsafe,20.24,High BOD,,27.5,6.95,8.35,500.0,6.25,1.425,287.5,970.0
+3689,Someshwarakere,Pond/Tank,KARNATAKA,2017,Unsafe,21.34,"pH Out of Range, High BOD",,26.5,6.2,7.95,500.0,9.2,1.875,515.0,1175.0
+3690,Unakalkere,Pond/Tank,KARNATAKA,2017,Unsafe,20.69,High BOD,,27.5,6.95,8.05,500.0,5.8,2.555,855.0,1075.0
+3691,Vimanabhuthikere,Pond/Tank,KARNATAKA,2017,Unsafe,20.54,High BOD,,27.5,6.7,7.75,125.0,2.5,0.6,675.0,1570.0
+3692,Kunduvadakere,Pond/Tank,KARNATAKA,2017,Unsafe,20.23,High BOD,,27.5,6.5,7.75,205.0,2.65,0.7,280.0,885.0
+3693,Bhathikere,Pond/Tank,KARNATAKA,2017,Unsafe,42.32,"pH Out of Range, High BOD, High Total Coliform",,27.5,5.75,7.9,500.0,58.5,3.15,50600.0,91700.0
+3694,Shanthisagarkere,Pond/Tank,KARNATAKA,2017,Unsafe,21.06,High BOD,,30.0,6.55,7.95,167.0,3.25,0.175,1330.0,3200.0
+3695,Kondaggikere,Pond/Tank,KARNATAKA,2017,Unsafe,24.84,"pH Out of Range, High BOD, High Total Coliform",,26.0,6.2,7.4,215.0,4.15,0.095,4900.0,9200.0
+3696,Aianakere,Pond/Tank,KARNATAKA,2017,Unsafe,43.09,"pH Out of Range, High BOD, High Total Coliform",,27.5,5.5,8.15,500.0,100.0,2.4,472000.0,845000.0
+3697,Mattadakere,Pond/Tank,KARNATAKA,2017,Unsafe,31.06,"pH Out of Range, High BOD, High Total Coliform",,25.75,3.7,8.0,420.0,7.0,0.965,3050.0,6000.0
+GEN-D47844,2780,River,KARNATAKA,2017,Unsafe,33.6,High BOD,,,,25.0,17.6,7.35,30.2,47.15,1.51
 1182,"Krishna At U/S Of Ugarkhurd Barrage,",River,KARNATAKA,2017,Unsafe,6.57,High Fecal Coliform,27.0,6.25,7.425,700.0,1.5,3.26,600.0,1050.0,
 1889,Krishna Ankali Bridge Along Chikkodi Kagwad Road,River,KARNATAKA,2017,Unsafe,7.28,High Fecal Coliform,27.5,6.55,7.6,665.0,1.75,2.3,600.0,1250.0,
 1181,"Krishna At D/S Of Narayanpura Dam,",River,KARNATAKA,2017,Unsafe,6.55,High Fecal Coliform,32.0,8.85,7.74,1140.0,1.71,10.89,505.0,920.0,

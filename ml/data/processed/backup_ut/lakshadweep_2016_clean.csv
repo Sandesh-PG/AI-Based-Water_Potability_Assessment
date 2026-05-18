@@ -1,0 +1,17 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1402,"Well Near Pwd Adjacent To Chakikilum In Kavaratti,",Groundwater,LAKSHADWEEP,2016,Safe,0.0,None,29.8,,7.1,1150.0,,0.0,,,
+1593,Well Near J.B School,Groundwater,LAKSHADWEEP,2016,Safe,0.0,None,30.8,,7.2,1222.0,,0.0,,,
+1594,Well Near Ottavathil Palli,Groundwater,LAKSHADWEEP,2016,Safe,0.0,None,30.55,,7.1,1979.0,,0.0,,,
+1595,Well Near Chekkillam House,Groundwater,LAKSHADWEEP,2016,Safe,0.0,None,30.75,,7.25,810.5,,0.0,,,
+1596,Well C/O Kadat Palli,Groundwater,LAKSHADWEEP,2016,Unsafe,42.67,"High Fecal Coliform, High Total Coliform",30.7,,7.1,1101.5,,0.0,4000.0,12000.0,
+1597,Well Near Bader Palli,Groundwater,LAKSHADWEEP,2016,Safe,0.0,None,31.0,,7.2,764.5,,0.0,,,
+1598,Well C/O Puthiya Palli.,Groundwater,LAKSHADWEEP,2016,Safe,0.0,None,30.7,,7.1,716.0,,0.0,,,
+1599,Well C/O Puratha Palli,Groundwater,LAKSHADWEEP,2016,Safe,0.0,None,30.55,,7.15,873.5,,0.0,,,
+1600,Well C/O Andam Palli,Groundwater,LAKSHADWEEP,2016,Unsafe,6.0,High Total Coliform,30.6,,7.15,895.0,,0.0,,3000.0,
+1601,Well C/O Circuit Housel,Groundwater,LAKSHADWEEP,2016,Safe,0.0,None,30.9,,7.15,1975.5,,0.0,,,
+1602,Well C/O Govt. Press,Groundwater,LAKSHADWEEP,2016,Safe,0.0,None,30.65,,7.25,1507.0,,0.0,,,
+1603,Well C/O Old Police Barracks,Groundwater,LAKSHADWEEP,2016,Unsafe,17.33,"High Fecal Coliform, High Total Coliform",30.6,,7.2,3848.5,,0.0,2000.0,3000.0,
+1604,Well C/O Mpsaf Quarter,Groundwater,LAKSHADWEEP,2016,Safe,0.0,None,30.7,,7.15,5099.5,,0.0,,,
+1605,Well Near Halipad,Groundwater,LAKSHADWEEP,2016,Unsafe,12.0,"High Fecal Coliform, High Total Coliform",30.75,,7.3,1287.0,,0.0,1000.0,4000.0,
+1606,Public Well Opposite S.B.School,Groundwater,LAKSHADWEEP,2016,Safe,0.0,None,30.55,,7.2,781.0,,0.0,,,
+1401,"Pond Near Juma Masjid, Lakshawdeep",Pond/Tank,LAKSHADWEEP,2016,Unsafe,27.0,High BOD,,33.0,,7.05,500.0,,0.0,2000.0,6000.0

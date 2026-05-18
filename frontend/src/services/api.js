@@ -135,3 +135,22 @@ export async function sendBatchPredict(files, year) {
 
   return response.json();
 }
+
+export async function fetchSuggestedQuestions(stationId = null, year = null, violatedParams = [], safetyStatus = null) {
+  const body = {
+    station_id: stationId,
+    year: year,
+    violated_params: violatedParams,
+    safety_status: safetyStatus,
+  };
+
+  const res = await fetch('http://127.0.0.1:8000/chat/suggestions', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(body),
+  });
+
+  if (!res.ok) return [];
+  const payload = await res.json();
+  return payload.suggestions || [];
+}

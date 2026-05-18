@@ -1,0 +1,52 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1923,Moreh,Groundwater,MANIPUR,2017,Safe,11.22,None,23.1,,7.2,290.0,3.0,,,93.0,
+1425,"Loktak Lake At Thana, Manipur",Pond/Tank,MANIPUR,2017,Unsafe,25.0,High BOD,,21.35,6.6,7.55,287.0,2.7,0.0,,335.0
+1426,"Loktak Lake At Bishnupur, Manipur",Pond/Tank,MANIPUR,2017,Unsafe,25.0,High BOD,,22.25,6.5,7.05,340.0,2.6,0.0,,150.0
+1629,"Sendra (Loktak Lake), Manipur",Pond/Tank,MANIPUR,2017,Unsafe,25.19,"pH Out of Range, High BOD",,21.3,6.45,7.05,277.0,1.2,0.0,,215.0
+1630,"Karang Island(Loktak Lake), Manipur",Pond/Tank,MANIPUR,2017,Unsafe,25.96,"pH Out of Range, High BOD",,22.25,6.25,6.95,311.0,1.5,0.0,,200.0
+2837,"Pumlen Lake At Tokpaching, Distt. Thoubal, Manipur",Pond/Tank,MANIPUR,2017,Unsafe,25.19,"pH Out of Range, High BOD",,22.0,6.45,6.05,124.0,1.8,0.0,,380.0
+2839,"Pukhri At Langmeidong, Distt. Thoubal, Manipur",Pond/Tank,MANIPUR,2017,Unsafe,25.0,High BOD,,22.4,7.85,4.6,248.0,1.6,0.0,,144.5
+2840,"Lamjao Pukhuri At Achouba, Distt. Thoubal, Manipur",Pond/Tank,MANIPUR,2017,Unsafe,25.0,High BOD,,22.55,7.55,7.2,243.0,1.35,0.0,,123.0
+2841,"Hiranmei Pukhuri At Thoubal, Manipur",Pond/Tank,MANIPUR,2017,Unsafe,25.0,High BOD,,23.0,6.7,7.15,313.0,2.4,0.0,,217.5
+2842,"Langmeidong Pukhuri At Thoubal, Manipur",River,MANIPUR,2017,Unsafe,25.0,High BOD,,22.7,6.65,7.0,400.0,2.1,0.0,,135.0
+2843,"Pond At Lalambung, Imphal West, Manipur",River,MANIPUR,2017,Unsafe,25.0,High BOD,,22.0,6.8,6.95,435.5,1.85,0.0,,87.0
+2844,"Lilong Pukhuri At Imphal West, Manipur",River,MANIPUR,2017,Unsafe,26.15,"pH Out of Range, High BOD",,21.5,6.2,6.9,240.0,65.95,0.0,,83.5
+2845,"Pond At Ngairangbam, Imphal West, Manipur",River,MANIPUR,2017,Unsafe,27.5,"pH Out of Range, High BOD",,21.4,5.85,6.9,215.0,1.0,0.0,,32.5
+2846,"Pond At Moidangpok, Imphal West, Manipur",River,MANIPUR,2017,Unsafe,27.69,"pH Out of Range, High BOD",,22.1,5.8,7.05,335.0,1.65,0.0,,87.5
+2847,"Pond At Maibam Lokpaching, Imphal West, Manipur",River,MANIPUR,2017,Unsafe,25.19,"pH Out of Range, High BOD",,22.05,6.45,7.15,125.0,1.2,0.0,,80.0
+2848,"Pond At Kakwa Bazar, Imphal West, Manipur",River,MANIPUR,2017,Unsafe,26.35,"pH Out of Range, High BOD",,22.55,6.15,7.15,465.0,1.65,0.0,,96.0
+2849,"Chanam Pukhuri, Imphal West, Manipur",River,MANIPUR,2017,Unsafe,26.54,"pH Out of Range, High BOD",,22.75,6.1,6.75,366.5,1.45,0.0,,82.5
+2850,"Ningthem Pukhuri, Imphal East, Manipur",River,MANIPUR,2017,Unsafe,29.81,"pH Out of Range, High BOD",,22.3,5.3,7.1,500.0,1.4,38.0,,60.5
+2851,"Pond At Kongba Bazar, Imphal East, Manipur",River,MANIPUR,2017,Unsafe,25.96,"pH Out of Range, High BOD",,21.65,6.25,6.55,500.0,1.8,0.0,,80.0
+GEN-6E0E24,2836,Coastal,MANIPUR,2017,Unsafe,33.47,High BOD,,,,,21.3,14.75,7.1,63.85,73.3
+GEN-489D03,1424,River,MANIPUR,2017,Unsafe,34.67,High BOD,,,,22.1,14.85,6.75,163.7,185.85,3.9
+GEN-01D8BA,1457,River,MANIPUR,2017,Unsafe,35.01,High BOD,,,,21.0,15.0,6.6,198.6,267.45,12.1
+GEN-4DCAE3,1458,River,MANIPUR,2017,Unsafe,35.63,High BOD,,,,21.7,14.9,6.7,286.4,289.1,2.6
+GEN-932796,1624,River,MANIPUR,2017,Unsafe,34.57,High BOD,,,,21.3,14.95,6.3,148.45,187.8,2.9
+GEN-A981F2,1625,River,MANIPUR,2017,Unsafe,35.79,High BOD,,,,22.1,12.95,6.35,298.4,353.55,16.2
+GEN-BC5738,1626,River,MANIPUR,2017,Unsafe,35.82,High BOD,,,,22.4,12.75,5.5,308.55,321.8,120.0
+GEN-97D014,1627,River,MANIPUR,2017,Unsafe,35.14,High BOD,,,,23.0,13.95,6.55,213.45,285.05,28.0
+GEN-EFB76C,1628,River,MANIPUR,2017,Unsafe,34.46,High BOD,,,,22.3,13.45,6.9,128.65,201.0,6.4
+GEN-0950CA,1925,River,MANIPUR,2017,Unsafe,34.69,High BOD,,,,20.3,15.6,7.15,153.7,248.6,2.3
+GEN-5103C3,1926,River,MANIPUR,2017,Unsafe,34.25,High BOD,,,,21.4,15.7,7.4,101.7,176.3,3.7
+GEN-E5B294,1927,River,MANIPUR,2017,Unsafe,34.01,High BOD,,,,21.6,15.75,7.45,71.3,151.15,2.7
+GEN-881C6E,2852,River,MANIPUR,2017,Unsafe,34.04,High BOD,,,,21.0,14.0,6.3,81.4,126.3,3.6
+GEN-1A6727,2855,River,MANIPUR,2017,Unsafe,33.55,High BOD,,,,21.4,15.3,7.6,5.25,138.0,1.6
+GEN-139738,2856,River,MANIPUR,2017,Unsafe,34.11,High BOD,,,,21.0,15.1,7.45,88.3,140.8,2.0
+GEN-449177,2857,River,MANIPUR,2017,Unsafe,34.05,High BOD,,,,20.6,15.1,7.05,78.7,145.5,1.2
+GEN-A226E4,2859,River,MANIPUR,2017,Unsafe,33.91,High BOD,,,,22.2,15.1,6.9,64.5,106.75,3.6
+GEN-894DB6,2860,River,MANIPUR,2017,Unsafe,35.26,High BOD,,,,21.4,14.6,6.65,218.85,347.2,9.5
+GEN-1EC3E7,2862,River,MANIPUR,2017,Unsafe,34.54,High BOD,,,,22.3,15.0,6.75,128.95,263.6,1.4
+GEN-E6CBC6,2863,River,MANIPUR,2017,Unsafe,34.6,High BOD,,,,21.0,14.4,6.35,138.9,255.8,127.0
+GEN-EF0D17,2864,River,MANIPUR,2017,Unsafe,34.23,High BOD,,,,21.0,14.55,6.85,103.7,153.6,1.5
+GEN-1A99F6,2867,River,MANIPUR,2017,Unsafe,34.28,High BOD,,,,20.8,15.5,7.65,103.8,190.7,2.9
+GEN-8B3BAC,2868,River,MANIPUR,2017,Unsafe,34.11,High BOD,,,,20.9,15.15,7.75,93.7,115.55,1.7
+GEN-327708,2870,River,MANIPUR,2017,Unsafe,33.81,High BOD,,,,20.1,15.1,7.1,53.7,88.0,1.0
+GEN-7E0A02,2872,River,MANIPUR,2017,Unsafe,33.81,High BOD,,,,20.0,14.9,7.45,53.95,90.45,1.0
+GEN-EFD7E9,2873,River,MANIPUR,2017,Unsafe,33.9,High BOD,,,,20.1,14.55,7.0,66.2,95.8,2.2
+GEN-E6AF40,2874,River,MANIPUR,2017,Unsafe,33.79,High BOD,,,,19.0,14.4,5.15,51.3,84.95,1.0
+GEN-12A1D0,2876,River,MANIPUR,2017,Unsafe,34.05,High BOD,,,,21.4,15.1,7.1,73.6,170.6,1.4
+GEN-F07607,2877,River,MANIPUR,2017,Unsafe,33.95,High BOD,,,,20.0,14.4,6.9,66.3,130.0,3.6
+GEN-A6DB4E,2878,River,MANIPUR,2017,Unsafe,34.06,High BOD,,,,21.6,15.55,7.2,78.6,152.25,1.7
+GEN-EC8B57,2879,River,MANIPUR,2017,Unsafe,34.91,High BOD,,,,21.0,14.35,6.75,178.45,292.15,2.3
+GEN-C61F57,2880,River,MANIPUR,2017,Unsafe,34.91,High BOD,,,,21.6,14.95,6.65,181.1,276.65,2.1

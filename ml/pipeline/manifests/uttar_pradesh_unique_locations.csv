@@ -1,0 +1,354 @@
+monitoring_location,stn_code
+Ground Water Quality Station Sardarnagar,1736
+Ground Water Quality Station Captanganj,1737
+"Site 1, Industrial Area Near M/S Woodwarm Chemical Ltd., Unnao",1738
+"Site 2, Industrial Area Near M/S Amin Sons, Unnao",1739
+"At Roadways Bus Station, Unnao",1740
+"Magawara Industrial Area Near M/S Jamjam Tanners, Unnao",1741
+Chinhat Industrial Area In Lucknow Near M/S India Pesticides Lucknow,1742
+Aishbagh Industrial Area At Lucknow Near M/S Eveready Industries Ltd. Lucknow,1743
+Jajmau Industrial Area No. 6 Kanpur,1744
+Panki Industrial Area Near Industry Of Ammonia Fertizer Kanpur,1745
+"Nagar Palika Tube Well, Sultanpur",1746
+India Marka Hand Pump In Sarowni Block At Raibareilly,1747
+Tube Well At Meerut City,1749
+Tube Well At Bagpat City,1750
+Hapur Road Industrial Area Ghaziabad,1754
+Pilkhua Industrial Area Ghaziabad,1755
+"Gopiganj Industrial Area Bhadohi, Varanasi",1756
+Ramgarh Lake,1364
+"Samarpur Jheel, Raebareli",2499
+"Maahil Pond, Urai Tehsil, Jalaun",2500
+"Laxmi Pond, Jhansi",2501
+Ganga At Garhmukteshwar,1062
+Ganga U/S Anoopshahar,2488
+Ganga D/S Anoopshahar,2489
+Ganga At Narora (Bulandsahar),1145
+"Ganga At Kachhla Ghat, Aligarh",2490
+Ganga U/S Kannauj (Rajghat),1063
+Ganga D/S Kannauj,1066
+Ganga At Bithoor (Kanpur),1146
+Ganga U/S Kanpur (Ranighat),1067
+Ganga D/S Kanpur (Jajmau Pumping Station),1068
+Ganga At Dalmau (Rai Bareilly),1147
+"Ganga At Kala Kankar, Raebareli",2498
+Ganga At Allahabad (Rasoolabad),1046
+"Ganga At Kadaghat, Allahabad",2487
+"Ganga At Allahabad D/S (Sangam),",1049
+"Ganga U/S, Vindhyachal, Mirzapur",2485
+Ganga D/S Mirzapur,2486
+Ganga U/S Varanasi (Assighat),1070
+Ganga D/S Varanasi (Malviya Bridge),1071
+Ganga At Trighat (Ghazipur),1073
+Yamuna At Mazawali,1497
+"Yamuna At Kesighat, Vrindavan",2495
+Yamuna U/S Mathura,1123
+"Yamuna At Vishramghat, Mathura",2494
+Yamuna D/S Mathura,1124
+Yamuna U/S Agra,1125
+Yamuna D/S Agra,1126
+Yamuna At Shahpur,2493
+Yamuna At Bateswar,1498
+Yamuna At Etawah,1127
+"Yamuna At Juhika B/C With Chanbal, Etawah",1499
+Yamuna At Allahabad D/S (Balua Ghat),1069
+Ramganga B/C At Kannauj,1064
+"Kali East At Kharkhoda- Parikshit Garh Road, Vill. Kol, Meerut",2497
+Kalinad B/Ci At Kannauj,1065
+"Varuna At Rameshwar, Varanasi",2482
+Varuna B/C With Ganga At Varanasi,2483
+Sai At Unnao After Drain Outfall,1361
+"Sai At Jalalpur, Jaunpur",2484
+Gomti At Sitapur U/S At Water Intake,1350
+Gomti At Lucknow U/S At Water Intake Point,1351
+Gomti D/S Lucknow,1352
+Gomti D/S Jaunpur,1353
+Gomti At Varanasi,1072
+"Rapti At Rajghat, Gorakhpur",2491
+"Rapti A/C Of Honin Nr. Domingarh Rly Bridge, Gorakhpur",1363
+Saryu At Ayodhya At Main Bathing Ghat,1354
+Ghaghara D/S Deoria,1355
+"Ghaghra At Barhalganj, Gorakhpur",2492
+Rihand U/S Renukut,1359
+Rihand D/S Renukut,1360
+Hindon At Saharanpur D/S,1357
+"Hindon At Sardhana Budhana Road, Village Baparsi, Meerut",2496
+Hindon D/S Ghaziabad,1358
+Betwa B/C Yamuna At Hamirpur,1356
+Govind Sagar,1735
+"Ground Water Quality Station Captanganj, U.P",1737
+"Site 2, Industrial Area Near M/S Amin Sons, Unnao, U.P",1739
+"At Roadways Bus Station, Unnao, U.P",1740
+"Magawara Industrial Area Near M/S Jamjam Tanners, Unnao, U.P",1741
+"Jajmau Industrial Area No. 6 Kanpur, U.P",1744
+"Panki Industrial Area Near Industry Of Ammonia Fertizer Kanpur, U.P",1745
+"Nagar Palika Tube Well, Sultanpur, U.P",1746
+"India Marka Hand Pump In Sarowni Block At Raibareilly, U.P",1747
+"Tube Well At Meerut City, U.P",1749
+"Tube Well At Bagpat City, U.P",1750
+"Sahibabad Industrial Area, Ghaziabad, U.P",1752
+"Hapur Road Industrial Area Ghaziabad, U.P",1754
+"Pilkhua Industrial Area Ghaziabad, U.P",1755
+"Gopiganj Industrial Area Bhadohi, Varanasi, U.P",1756
+"Mirzapur Industrial Area, U.P",1757
+"Ground Around Stp Dinapur, Varanasi, U.P",1758
+"Iffco, Phoolpur, Allahabad, U.P",1759
+"M/S Kanoria Chemical Sonbhadra, U.P",1760
+"Chandpur Industrial Area, Lahartara, Varanasi",2467
+"Ramgarh Lake, U.P.",1364
+River Ganga At Gharmukteshwar,10149
+"Ganga U/S, Anoopshahar",2488
+"Ganga D/S, Anoopshahar",2489
+Ganga At Kannauj U/S (Rajghat),1063
+Ganga At Kannauj D/S,1066
+Ganga At Kanpur U/S (Ranighat),1067
+River Ganga At Bathing Ghat (Bharaoghat),10154
+D/S (Shuklaganj),10155
+River Ganga At Bathing Ghat (Gola Ghat),10156
+Ganga At Kanpur D/S (Jajmau Pumping Station),1068
+River Ganga At Bathing Ghat (Jajmau Bridge),10157
+Ganga At Allahabad D/S (Sangam),1049
+"Ganga D/S, Mirzapur",2486
+Ganga At Varanasi U/S (Assighat),1070
+Ganga At Varanasi D/S (Malviya Bridge),1071
+"Ramganga At Kannauj (Before Conf.), U.P",1064
+"River Kali East At Kharkhodaparikshit Garh Road, Vill. Kol, Meerut",2497
+"Kalinadi At Kannauj (Before Conf.), U.P",1065
+"River Varuna At Rameshwar, Varanasi",2482
+River Varuna B/C With River Ganga At Varanasi,2483
+"Sai At Unnao After Drain Outfall, U.P.",1361
+"River Sai At Jalalpur, Jaunpur",2484
+"Gomti At Sitapur U/S At Water Intake, U.P.",1350
+"Gomti At Lucknow U/S At Water Intake Point, U.P.",1351
+"Gomti At Lucknow D/S, U.P.",1352
+"Gomti At Jaunpur D/S, U.P.",1353
+"Gomti At Varanasi, U.P",1072
+River Gomti At Neemsar U/S,10083
+River Gomti At Neemsar D/S,10084
+River Gomti At Bhatpur U/S,10085
+River Gomti At Bhatpur D/S,10086
+River Gomti At Gaughat U/S,10087
+River Gomti At Gaughat D/S,10088
+River Gomti At Mohmeak U/S,10089
+River Gomti At Mohmeak D/S,10090
+River Gomti At Pipraghat U/S,10091
+River Gomti At Pipraghat D/S,10092
+River Gomti At Gangaganj U/S,10093
+River Gomti At Gangaganj D/S,10094
+River Gomti At Sultanpur U/S,10095
+River Gomti At Sultanpur D/S,10096
+River Gomti At Jaunpur U/S,10097
+"River Rapti At Rajghat, Gorakhpur",2491
+"Rapti After Confl. Of R. Honin Nr. Domingarh Rly Bridge, Gorakhpur, U.P.",1363
+"Saryu At Ayodhya At Main Bathing Ghat, U.P.",1354
+"Ghaghara At Deoria D/S, U.P.",1355
+"River Ghaghra At Barhalganj, Gorakhpur",2492
+"Rihand At Renukut U/S, U.P.",1359
+"Rihand At Renukut D/S, U.P.",1360
+1740,GEN-54F5F4
+1744,GEN-418EF6
+1746,GEN-442CDE
+1752,GEN-11C484
+1754,GEN-231141
+1755,GEN-D8D31B
+1758,GEN-2612AA
+1759,GEN-BA1B3E
+2469,GEN-57BAFB
+2470,GEN-7CC234
+2474,GEN-0BF727
+2475,GEN-FEC87A
+Bathing Ghat (Bharaoghat),10154
+Yamuna At,1499
+"Ground Water Quality Station Sardarnagar, U.P",1736
+"Site 1, Industrial Area Near M/S Woodwarm Chemical Ltd., Unnao, U.P",1738
+"Chinhat Industrial Area In Lucknow Near M/S India Pesticides Lucknow, U.P",1742
+"Aishbagh Industrial Area At Lucknow Near M/S Eveready Industries Ltd. Lucknow, U.P",1743
+"Tube Well In Industrial Area At Gajraula, Moradabad, U.P",1751
+"Meerut Road Industrial Area Ghaziabad, U.P",1753
+"Bhadohi Industrial Area, Development Authority, Sant Ravidas Nagar",2468
+"At Industrial Area. Naini, Allahabad",2469
+"Gorakhpur Industrial Development Authority Area (Gida), Gorakhpur",2471
+Unchahaar (Near Thermal Power Plant),2474
+"Industrial Area, Sultanpur Road",2475
+Near Arya Kanya Inter College. Jalaun,2477
+"Deva Road, Industrial Area, Chainhat, Lko Near Uptron Police Chowki, Lucknow",2478
+"Near Brahman Majra, Pilkhani",2480
+Water Works- Ghaziabad,3050
+"River Ganga At Madhya Ganga Barrage, Bijnor",10150
+Gharmukteshwar,10149
+River Ganga At Farukkabad,10151
+River Ganga At D/S Shuklaganj,10155
+"River Ganga A/C Tamsa River, Sirsa, Son Barsa",10158
+River Gnaga Ta Chunar,10153
+"River Ganga A/C Gomti River, Bhusaula",10152
+"Hindon At Saharanpur D/S, U.P.",1357
+River Hindon At Maheshpur U/S,10098
+River Hindon At Barnawa U/S,10100
+River Hindon At Barnawa D/S,10101
+River Hindon At Mohan Nagar U/S,10102
+River Hindon At Mohan Nagar D/S,10103
+River Hindon At Ghaziabad U/S,10106
+"Hindon After Confl. With R. Krishna & Kali Near Binauli Town, Meerut, U.P.",1483
+"River Hindon At Sardhana Budhana Road, Village Baparsi, Meerut",2496
+"Hindon At Ghaziabad D/S, U.P.",1358
+"Betwa Before Conf. Yamuna At Hamirpur, U.P.",1356
+"Betwa At Sukma Dukma Dam, Jhansi (U.P.)",30079
+"Betwa At Govind Sagar, U.P",1735
+"Ramganga At D/S Sherkot, Kalagarh (U.P.)",30077
+"River Kali East At Kharkhoda-Parikshit Garh Road, Vill. Kol, Meerut",2497
+Kalinadi At U/S Of Muzaffar Nagar U.P.,1477
+"Kalinadi At D/S Of Muzaffar Nagar, U.P.",1478
+Banganga At D/S Shukratal (Before Confluence Of Laksar Drain ),30038
+"Gomti At Lucknow U/S At Water Intake Point,",1351
+"Gomti At Lucknow D/S,",1352
+"Gomti At Jaunpur D/S,",1353
+"River Ghaghara At Barhalganj, Gorakhpur",2492
+"At Industrial Area, Fatehpur",2470
+"Village Daurala, Meerut",2472
+"Khekra, Baghpat",2473
+Uttar Pradesh,10150
+"Ganga At Garhmukteshwar, U.P",1062
+"Ganga At Narora (Bulandsahar), U.P.",1145
+River Ganga At Farrukabad,10151
+"Ganga At Kannauj U/S (Rajghat), U.P",1063
+"Ganga At Kannauj D/S, U.P",1066
+"Ganga At Bithoor (Kanpur), U.P.",1146
+"Ganga At Kanpur U/S (Ranighat), U.P",1067
+River Ganga At D/S (Shuklaganj),10155
+"Ganga At Dalmau (Rai Bareilly), U.P.",1147
+"Ganga At Allahabad (Rasoolabad), U.P.",1046
+"Ganga At Allahabad D/S (Sangam), U.P.",1049
+River Ganga At Chunar,10153
+"Ganga At Varanasi U/S (Assighat), U.P",1070
+"Ganga At Varanasi D/S (Malviya Bridge), U.P",1071
+"Ganga At Trighat (Ghazipur), U.P",1073
+"Yamuna At Mazawali, U.P",1497
+River Yamuna At Shahpur,2493
+"Yamuna At Mathura U/S , U.P.",1123
+"Yamuna At Mathura D/S , U.P.",1124
+"Yamuna At Agra U/S, U.P.",1125
+"Yamuna At D/S Of Agra, U.P.",1126
+"Yamuna At Bateswar, U.P",1498
+River Yamuna At Etawah D/S,10081
+River Yamuna At Udi,10082
+"Yamuna At Etawah, U.P.",1127
+"Yamuna At Allahabad D/S (Balua Ghat), U.P",1069
+Yamuna At Hamirpur,2283
+"Betwa Before Conf. Yamuna At Hamirpur,",1356
+"River Govind Sagar, U.P",1735
+Banganga At U/S Idrishpur (U.K.),30037
+"Saryu At Ayodhya At Main Bathing Ghat,",1354
+"Near Peer Begraj Indstrial Area, Muzaffarnagar",2481
+"Tube Well In Singrauli Industrial Area, U.P",1761
+River Ganga At Bijnor (U.P.),30006
+"River Ganga At Garhmukteshwar, U.P",1062
+"River Ganga U/S, Anoopshahar",2488
+"River Ganga D/S, Anoopshahar",2489
+River Ganga At Narora (Bulandsahar),1145
+"River Ganga At Kachhla Ghat, Aligarh",2490
+"River Ganga At Kannauj U/S (Rajghat), U.P",1063
+"River Ganga At Kannauj D/S, U.P",1066
+"River Ganga At Bithoor (Kanpur), U.P.",1146
+"River Ganga At Kanpur U/S (Ranighat), U.P",1067
+"River Ganga At Kanpur D/S (Jajmau Pumping Station), U.P",1068
+"River Ganga At Dalmau (Rai Bareilly), U.P.",1147
+"River Ganga At Kala Kankar, Raebareli",2498
+"River Ganga At Allahabad (Rasoolabad), U.P.",1046
+"River Ganga At Kadaghat, Allahabad",2487
+"River Ganga At Allahabad D/S (Sangam), U.P.",1049
+"River Ganga U/S, Vindhyachal, Mirzapur",2485
+"River Ganga D/S, Mirzapur",2486
+"River Ganga At Varanasi U/S (Assighat), U.P",1070
+"River Ganga At Varanasi D/S (Malviya Bridge), U.P",1071
+"River Ganga At Trighat (Ghazipur), U.P",1073
+River Ganga At Tarighat Ghazipur (U.P.),30075
+"River Yamuna At Asgarpur Village,U.P",30030
+"River Yamuna At Kesighat, Vrindavan",2495
+"River Yamuna At Mathura U/S , U.P.",1123
+"River Yamuna At Vishramghat, Mathura",2494
+"River Yamuna At Mathura D/S , U.P.",1124
+"River Yamuna At Agra U/S, U.P.",1125
+"River Yamuna At D/S Of Agra, U.P.",1126
+River Yamuna At Bateswar,1498
+"River Yamuna At Etawah, U.P.",1127
+"River Yamuna At Juhika B/C With Chambal, Etawah, U.P",1499
+River Yamuna At Etawah,30034
+"River Yamuna A/C Of Chambal At Shergarh, Juhika (U.P)",30033
+River Yamuna At Hamirpur,2283
+"River Yamuna At Allahabad D/S (Balua Ghat), U.P",1069
+"River Hindon After Confl. With R. Krishna & Kali Near Binauli Town, Pura Mahadev, Meerut, U.P.",1483
+"River Hindon At Ghaziabad D/S, U.P.",1358
+"River Betwa Before Conf. Yamuna At Hamirpur, U.P.",1356
+"River Betwa At Sukma Dukma Dam, Jhansi",30079
+River Ramganga At Kannauj (Before Conf.),1064
+"River Ramganga At D/S Sherkot, Kalagarh (U.P.)",30077
+"River Kali East At Kharkhoda- Parikshit Garh Road, Vill. Kol",2497
+River Kalinadi At U/S Of Muzaffar Nagar U.P.,1477
+"River Kalinadi At D/S Of Muzaffar Nagar, U.P.",1478
+River Kalinadi At U/S Of Gulaothi Town In Bulandsahar,1480
+River Kalinadi At Kannauj (Before Conf.),1065
+River Banganga At D/S Shukratal (Before Confluence Of Laksar Drain ),30038
+"River Banganga Shukra Tal, Muzaffarnagar, Near Ganga River",2502
+River Varuna B/C With Ganga At Varanasi,2483
+River Sai At Unnao After Drain Outfall,1361
+River Gomti At Sitapur U/S At Water Intake,1350
+River Gomti At Lucknow U/S At Water Intake Point,1351
+River Gomti At Lucknow D/S,1352
+River Gomti At Jaunpur D/S,1353
+"River Gomti At Varanasi, U.P",1072
+"River Rapti After Confl. Of R. Honin Nr. Domingarh Rly Bridge, Gorakhpur",1363
+"River Ghaghara At Deoria D/S, U.P.",1355
+"River Rihand At Renukut U/S, U.P.",1359
+"River Rihand At Renukut D/S, U.P.",1360
+"River Sone U/S To Rihand, Chopan (U.P.)",30081
+"River Chambal At Gwalior Road Bridge, Udi, Etawah Dist.",30086
+"Ground Water Quality Station Sardarnagar, Gorakhpur,U.P",1736
+"Site 1, Industrial Area Near Electric Convertor Repairing Workshop,Thana- Dahi Unnao",1738
+"Site 2, Industrial Area Near M/S Jaijagdamba Metaloys Unnao, U.P",1739
+"Magawara Industrial Area Near Oriental Palace Unnao, U.P",1741
+"Tube Well In Industrial Area At Gajraula, Amroha, U.P",1751
+"Iffco, Phoolpur, Prayagraj ,U.P",1759
+"Gautam Budha Junior High School Rajendra Nagar, Orai",2477
+"Ramgarh Lake, Gorakhpur U.P.",1364
+"Samaspur Jheel, Raebareli",2499
+"River Ganga At U/S Brij Ghat ,Gharmukteshwar",10149
+"River Ganga At D/S Garhmukteshwar, U.P",1062
+"River Ganga At Narora (Bulandsahar), U.P.",1145
+River Ganga At Ghatiyaghat Farrukabad,10151
+"River Ganga At Kannauj U/S (Near Mehndighat Bridge), U.P",1063
+"River Ganga At Durjanpur, Kannauj D/S, U.P",1066
+"River Ganga At Kanpur U/S (Shuklaganj U/S), U.P",1067
+"River Ganga At Kanpur D/S (Jana Village), U.P",1068
+"River Ganga At Prayagraj (Rasoolabad), U.P.",1046
+"River Ganga At Kadaghat, Kaushamabi",2487
+"River Ganga At Prayagraj D/S (Sangam), U.P.",1049
+"River Ganga At Varanasi U/S Near Vishwasundari Bridge B/C Drains( Nagwa Nala, Samne Ghat Nala,Nakhhi Nala)",1070
+"River Ganga At Varanasi D/S , A/C River Varuna , U.P",1071
+"River Ganga At Tarighat (Ghazipur), U.P",1073
+"River Ganga At Road Bridge Tarighat,Dist Ghazipur (U.P.)",30075
+"River Yamuna At Mathura U/S ,Near Gaughat U.P.",1123
+"River Yamuna At Mathura D/S , Near Shamshan Ghat U.P.",1124
+"River Yamuna At Agra U/S, U.P.(Kailash Ghat)",1125
+"River Yamuna At Bateswar, U.P",1498
+"River Yamuna At Juhika B/C With Chanbal, Etawah, U.P",1499
+"River Yamuna At Prayagraj D/S (Balua Ghat), U.P.",1069
+"River Pilkhar At Rampur, Bhot(U.P)",30000
+"River Hindon At Ghaziabad D/S Kuleshra Gb Nagar, U.P.",1358
+"River Betwa Downstream At Sukma-Dukma Dam, Dist-Jhansi (U.P.)",30079
+"River Bahela At Badli Village Lohiya Bridge , Tanda (U.P.)",30001
+"River Ramganga At Kannauj (Before Conf.), U.P",1064
+"River Ramganga At Road Bridge Sherkot, Dist.Bijnaur (U.P.)",30077
+"River Kalinadi At U/S Of Gulaothi Town In Bulandsahar, U.P.",1480
+"River Kalinadi Near Gumatiya Village ,Kannauj (Before Conf.), U.P",1065
+"Shukra Tal Ghat (Confluence Of Baanganga And Saloni River), Muzaffarnagar,",2502
+"River Sai At Unnao After Drain Outfall, U.P.",1361
+"River Gomti At Sitapur U/S Dadnamau Ghat, U.P.",1350
+"River Gomti At Lucknow U/S At Water Intake Point, U.P.",1351
+"River Gomti At Lucknow D/S Pipraghat , U.P.",1352
+"River Gomti At Jaunpur D/S, U.P.",1353
+"River Gomti At Varanasi, Rajwari U.P",1072
+"River Rapti After Confl. Of R. Honin Nr. Domingarh Rly Bridge, Gorakhpur, U.P.",1363
+"River Saryu At Ayodhya At Main Bathing Ghat, U.P.",1354
+"River Hindon At Saharanpur D/S, At Maheshpur .Deoband U.P.",1357
+"River Ghaghara At Turtipar,Deoria D/S, U.P.",1355
+"River Sone At Road Bridge Chopan,Dist- Sonebhadra (U.P.)",30081

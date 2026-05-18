@@ -1,0 +1,12 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1402,Well Near Pwd Adjacent To Chakikilum In Kavaratti,Groundwater,LAKSHADWEEP,2019,Unsafe,100.0,High BOD,28.75,,,7.2,500.0,,,,
+GEN-309FEE,1596,Groundwater,LAKSHADWEEP,2019,Unsafe,61.63,"pH Out of Range, High BOD, High Fecal Coliform",,,10.3,27.5,7.2,100.0,4190.0,,
+1603,"Well C/O Old Police Barracks,",Groundwater,LAKSHADWEEP,2019,Unsafe,100.0,High BOD,29.5,,,7.25,500.0,,,,
+1606,Well (Public )Opposite S.B.School,Groundwater,LAKSHADWEEP,2019,Unsafe,100.0,High BOD,29.4,,,7.25,500.0,,,,
+4548,Well Near Kendriya Vidyalaya,Groundwater,LAKSHADWEEP,2019,Unsafe,100.0,High BOD,29.3,,,7.25,500.0,,,,
+4551,Well Near J.B. School (E) With Motor),Groundwater,LAKSHADWEEP,2019,Unsafe,100.0,High BOD,29.1,,,7.45,500.0,,,,
+4555,Well Near Helipad 2,River,LAKSHADWEEP,2019,Safe,0.0,None,28.65,,7.45,2488.5,,,,,
+4570,Well C/O Friends Common Club,River,LAKSHADWEEP,2019,Safe,0.0,None,30.0,,,1191.0,,,,,
+1401,Pond Near Juma Masjid,Pond/Tank,LAKSHADWEEP,2019,Unsafe,50.0,High BOD,,28.8,,7.6,500.0,,,,
+4557,Pond C/O Mohidheen Palli,Pond/Tank,LAKSHADWEEP,2019,Unsafe,50.0,High BOD,,28.45,,,500.0,,,,
+4568,Pond Near Kulappinakkal,Pond/Tank,LAKSHADWEEP,2019,Unsafe,50.0,High BOD,,28.2,,,500.0,,,,

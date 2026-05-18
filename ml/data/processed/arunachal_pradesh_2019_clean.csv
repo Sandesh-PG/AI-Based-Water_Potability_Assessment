@@ -1,0 +1,5 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+3106,"Dibang River At Roing,",River,ARUNACHAL PRADESH,2019,Safe,0.0,None,18.25,,7.35,,,,,,
+3107,"Dihing River At Miao,",River,ARUNACHAL PRADESH,2019,Safe,0.0,None,17.2,,7.4,,,,,,
+3096,"Dikrong River At Nirjuli,",River,ARUNACHAL PRADESH,2019,Safe,0.0,None,21.05,,7.6,,,,,,
+3105,"Gai Nadi Near Hss Likabali,",River,ARUNACHAL PRADESH,2019,Safe,0.0,None,20.65,,7.45,,,,,,

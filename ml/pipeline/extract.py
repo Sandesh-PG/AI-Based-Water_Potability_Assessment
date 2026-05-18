@@ -229,6 +229,67 @@ def _pairwise_parameter_averages(values: list, parameter_names: list[str]) -> di
     return row_data
 
 
+# ─── Indian states lookup & detection ───────────────────────────────────────
+
+INDIAN_STATES = {
+    "ANDHRA PRADESH", "ARUNACHAL PRADESH", "ASSAM", "BIHAR",
+    "CHHATTISGARH", "GOA", "GUJARAT", "HARYANA", "HIMACHAL PRADESH",
+    "JAMMU AND KASHMIR", "JHARKHAND", "KARNATAKA", "KERALA",
+    "MADHYA PRADESH", "MAHARASHTRA", "MANIPUR", "MEGHALAYA",
+    "MIZORAM", "NAGALAND", "ODISHA", "PUNJAB", "RAJASTHAN",
+    "SIKKIM", "TAMIL NADU", "TELANGANA", "TRIPURA", "UTTAR PRADESH",
+    "UTTARAKHAND", "WEST BENGAL", "ANDAMAN AND NICOBAR",
+    "CHANDIGARH", "DADRA AND NAGAR HAVELI", "DAMAN AND DIU",
+    "DELHI", "LAKSHADWEEP", "PUDUCHERRY", "LADAKH",
+    "JAMMU & KASHMIR", "J&K", "J & K",
+}
+
+
+def _normalize_alpha(s: str) -> str:
+    """Normalize string for fuzzy comparisons: uppercase + remove non-alphanumeric."""
+    return re.sub(r"[^A-Z0-9]", "", (s or "").upper())
+
+
+def detect_state_in_row(row: list) -> str | None:
+    '''
+    Scan all cells in a row and return the detected Indian state name.
+    Uses fuzzy matching to handle OCR artifacts and case variations.
+    Returns normalized uppercase state name or None if not found.
+    '''
+    if not row:
+        return None
+
+    # Precompute normalized state forms for containment checks
+    norm_states = {s: _normalize_alpha(s) for s in INDIAN_STATES}
+
+    for cell in row:
+        if not cell:
+            continue
+        cell_upper = str(cell).strip().upper()
+        # Direct match
+        if cell_upper in INDIAN_STATES:
+            return cell_upper
+        # Collapse whitespace and try again
+        cell_clean = re.sub(r"\s+", " ", cell_upper).strip()
+        if cell_clean in INDIAN_STATES:
+            return cell_clean
+
+        # Normalized fuzzy compare (remove punctuation/spaces)
+        cell_norm = _normalize_alpha(cell_upper)
+        if not cell_norm:
+            continue
+        # Exact normalized match
+        for state, state_norm in norm_states.items():
+            if cell_norm == state_norm:
+                return state
+        # Containment of normalized state inside normalized cell (handles 'KARN ATAKA')
+        for state, state_norm in norm_states.items():
+            if state_norm in cell_norm:
+                return state
+
+    return None
+
+
 def detect_schema(page_text: str, has_type_col: bool) -> str:
     """Detect the schema for a page using the page text.
 
@@ -290,13 +351,21 @@ def river_schema_parser(row: list, water_body_type: str) -> dict | None:
     min/max pairs for the nine core parameters.
     """
     values = [c for c in row if c is not None]
-    if len(values) < 5:
+    if len(values) < 4:
         return None
 
     stn_code = str(values[0]).strip()
     location = clean_location(values[1])
-    state = str(values[2]).strip()
-    params = values[3:]
+    # Detect whether a state column exists at index 2. If present, params start at 3,
+    # otherwise params start at 2.
+    has_state_col = False
+    if len(values) > 2:
+        try:
+            has_state_col = bool(detect_state_in_row([values[2]]))
+        except Exception:
+            has_state_col = False
+
+    params = values[3:] if has_state_col else values[2:]
 
     # Standard river tables store every parameter as (min, max) pairs in order.
     # Keep this mapping explicit to prevent index drift and column shifting.
@@ -314,7 +383,6 @@ def river_schema_parser(row: list, water_body_type: str) -> dict | None:
         "stn_code": stn_code,
         "monitoring_location": location,
         "water_body_type": water_body_type,
-        "state": state,
         "temperature_avg": temperature_avg,
         "do_avg": do_avg,
         "ph_avg": ph_avg,
@@ -336,19 +404,25 @@ def groundwater_schema_parser(row: list, water_body_type: str) -> dict | None:
     the later columns do not shift into the river schema positions.
     """
     values = [c for c in row if c is not None]
-    if len(values) < 6:
+    if len(values) < 4:
         return None
 
     stn_code = str(values[0]).strip()
     location = clean_location(values[1])
-    state = str(values[2]).strip()
-    params = values[3:]
+
+    has_state_col = False
+    if len(values) > 2:
+        try:
+            has_state_col = bool(detect_state_in_row([values[2]]))
+        except Exception:
+            has_state_col = False
+
+    params = values[3:] if has_state_col else values[2:]
 
     row_data = {
         "stn_code": stn_code,
         "monitoring_location": location,
         "water_body_type": water_body_type,
-        "state": state,
     }
     row_data.update(_pairwise_parameter_averages(params, GROUNDWATER_PARAMETER_NAMES))
     return row_data
@@ -357,29 +431,33 @@ def groundwater_schema_parser(row: list, water_body_type: str) -> dict | None:
 def coastal_schema_parser(row: list, water_body_type: str) -> dict | None:
     """Parse the coastal schema, which includes an explicit water-body column."""
     values = [c for c in row if c is not None]
-    if len(values) < 6:
+    if len(values) < 4:
         return None
 
     stn_code = str(values[0]).strip()
     location = clean_location(values[1])
-    wbt = str(values[2]).strip()
-    state = str(values[3]).strip()
-    params = values[4:]
+    wbt = str(values[2]).strip() if len(values) > 2 else ""
+
+    # Determine if there's an explicit state column after the water-body-type
+    has_state_col = False
+    if len(values) > 3:
+        try:
+            has_state_col = bool(detect_state_in_row([values[3]]))
+        except Exception:
+            has_state_col = False
+
+    params = values[4:] if has_state_col else values[3:]
 
     row_data = {
         "stn_code": stn_code,
         "monitoring_location": location,
         "water_body_type": wbt if wbt else water_body_type,
-        "state": state,
     }
     row_data.update(_pairwise_parameter_averages(params, RIVER_PARAMETER_NAMES))
     return row_data
 
 
-def _row_contains_state(row: list, state_filter: str) -> bool:
-    """Return True when the extracted row text contains the requested state."""
-    row_text = " ".join(str(c).upper() for c in row if c)
-    return state_filter.upper() in row_text
+
 
 
 def parse_row_by_schema(schema: str, row: list, water_body_type: str) -> dict | None:
@@ -391,20 +469,27 @@ def parse_row_by_schema(schema: str, row: list, water_body_type: str) -> dict | 
     return river_schema_parser(row, water_body_type)
 
 
-def _parse_valid_row(row: list, state_filter: str, schema: str, water_body_type: str) -> dict | None:
-    """Return a parsed row only when it passes the shared row filters."""
+def _parse_valid_row(row: list, schema: str, water_body_type: str) -> dict | None:
+    """Return a parsed row only when it passes the shared row filters.
+
+    This now detects the state dynamically from the row and injects it into
+    the returned row_data. If no state is detected the row is skipped.
+    """
     if not row or should_skip_row(row):
         return None
-    if not _row_contains_state(row, state_filter):
+
+    detected_state = detect_state_in_row(row)
+    if not detected_state:
         return None
 
     row_data = parse_row_by_schema(schema, row, water_body_type)
     if row_data is None:
         return None
-    if not row_data["monitoring_location"]:
+    if not row_data.get("monitoring_location"):
         return None
-    if state_filter.upper() not in row_data["state"].upper():
-        return None
+
+    # Inject detected state (normalized uppercase form)
+    row_data["state"] = detected_state
 
     ph_value = row_data.get("ph_avg")
     if ph_value is not None and ph_value > 14:
@@ -417,13 +502,13 @@ def _parse_valid_row(row: list, state_filter: str, schema: str, water_body_type:
     return row_data
 
 
-def _extract_rows_from_table(table: list, state_filter: str, schema: str, water_body_type: str) -> list[dict]:
+def _extract_rows_from_table(table: list, schema: str, water_body_type: str) -> list[dict]:
     """Parse all valid rows from a single extracted table."""
     rows_out: list[dict] = []
 
     for row in table:
         try:
-            row_data = _parse_valid_row(row, state_filter, schema, water_body_type)
+            row_data = _parse_valid_row(row, schema, water_body_type)
             if row_data is not None:
                 rows_out.append(row_data)
         except (IndexError, TypeError, ValueError):
@@ -435,7 +520,7 @@ def _extract_rows_from_table(table: list, state_filter: str, schema: str, water_
 
 # ─── Core Extractor ───────────────────────────────────────────────────────────
 
-def extract_rows_from_page(page, state_filter: str, water_body_type: str, schema: str) -> list[dict]:
+def extract_rows_from_page(page, water_body_type: str, schema: str) -> list[dict]:
     """
     Extract data rows from a single PDF page.
     """
@@ -443,13 +528,15 @@ def extract_rows_from_page(page, state_filter: str, water_body_type: str, schema
     rows_out = []
 
     for table in tables:
-        rows_out.extend(_extract_rows_from_table(table, state_filter, schema, water_body_type))
+        rows_out.extend(_extract_rows_from_table(table, schema, water_body_type))
 
     return rows_out
 
 
-def extract_from_pdf(pdf_path: str, state_filter: str, year: int) -> pd.DataFrame:
-    """Extract all matching rows from a single PDF file."""
+def extract_from_pdf(pdf_path: str, year: int) -> dict[str, list]:
+    """Extract all rows from a single PDF file and return a mapping
+    state_name -> list[row_dict].
+    """
     default_water_body_type = detect_water_body_type(pdf_path)
 
     # Filename hints are kept only as a fallback for noisy pages.
@@ -457,34 +544,36 @@ def extract_from_pdf(pdf_path: str, state_filter: str, year: int) -> pd.DataFram
 
     print(f"  Processing: {os.path.basename(pdf_path)} [{default_water_body_type}]")
 
-    all_rows = []
+    rows_by_state: dict[str, list] = {}
     with pdfplumber.open(pdf_path) as pdf:
         for page_number, page in enumerate(pdf.pages, start=1):
             text = page.extract_text() or ""
-            if state_filter.upper() not in text.upper():
-                continue  # Skip pages that don't mention the state at all
-
             schema = detect_schema(text, has_type_col)
             water_body_type = detect_water_body_type(pdf_path, text, schema)
             pdf_name = os.path.basename(pdf_path)
             print(f"    {pdf_name} -> detected water body: {water_body_type}")
             print(f"    Page {page_number}: Detected schema = {schema}")
-            rows = extract_rows_from_page(page, state_filter, water_body_type, schema)
-            all_rows.extend(rows)
 
-    if not all_rows:
-        print(f"    → No {state_filter} data found.")
-        return pd.DataFrame()
+            rows = extract_rows_from_page(page, water_body_type, schema)
+            for r in rows:
+                state = r.get("state")
+                if not state:
+                    continue
+                r["year"] = year
+                rows_by_state.setdefault(state, []).append(r)
 
-    df = pd.DataFrame(all_rows)
-    df["year"] = year
-    print(f"    → {len(df)} rows extracted.")
-    return df
+    if not rows_by_state:
+        print(f"    → No state data found in PDF.")
+    else:
+        total = sum(len(v) for v in rows_by_state.values())
+        print(f"    → {total} rows extracted across {len(rows_by_state)} state(s): {', '.join(sorted(rows_by_state.keys()))}")
+
+    return rows_by_state
 
 
 # ─── Main Pipeline ────────────────────────────────────────────────────────────
 
-def run_extraction(year: int, state: str, data_dir: str, out_dir: str):
+def run_extraction(year: int, data_dir: str, out_dir: str):
     """
     Main entry point. Scans all PDFs for a given year, extracts state data,
     merges them, and saves to a CSV.
@@ -503,54 +592,68 @@ def run_extraction(year: int, state: str, data_dir: str, out_dir: str):
         raise FileNotFoundError(f"No PDF files found in {raw_dir}")
 
     print(f"\n{'='*60}")
-    print(f"Extracting {state} data for year {year}")
+    print(f"Extracting all states for year {year}")
     print(f"Found {len(pdf_files)} files in {raw_dir}")
     print(f"{'='*60}")
 
     all_dfs = []
+    # Accumulate rows per state across all PDFs
+    combined_by_state: dict[str, list] = {}
     for pdf_path in pdf_files:
-        df = extract_from_pdf(str(pdf_path), state, year)
-        if not df.empty:
-            all_dfs.append(df)
+        rows_map = extract_from_pdf(str(pdf_path), year)
+        for state, rows in rows_map.items():
+            combined_by_state.setdefault(state, []).extend(rows)
 
-    if not all_dfs:
-        print(f"\n⚠  No data found for {state} in {year}.")
+
+    if not combined_by_state:
+        print(f"\n⚠  No data found for any state in {year}.")
         return
 
-    # Merge all water body types
-    merged_df = pd.concat(all_dfs, ignore_index=True)
-
-    # Reorder columns
-    existing_cols = [c for c in FINAL_COLUMNS if c in merged_df.columns]
-    merged_df = merged_df[existing_cols]
-
-    # Drop completely empty parameter rows (all params are None)
-    param_cols = [c for c in existing_cols if c.endswith("_avg")]
-    merged_df = merged_df.dropna(subset=param_cols, how="all")
-
-    # Save output
     out_path = Path(out_dir)
     out_path.mkdir(parents=True, exist_ok=True)
-    out_file = out_path / f"{state.lower()}_{year}.csv"
-    merged_df.to_csv(out_file, index=False)
 
+    # For each detected state, create a DataFrame and save
+    summaries = []
+    for state, rows in combined_by_state.items():
+        merged_df = pd.DataFrame(rows)
+
+        # Reorder columns
+        existing_cols = [c for c in FINAL_COLUMNS if c in merged_df.columns]
+        merged_df = merged_df[existing_cols]
+
+        # Drop completely empty parameter rows (all params are None)
+        param_cols = [c for c in existing_cols if c.endswith("_avg")]
+        merged_df = merged_df.dropna(subset=param_cols, how="all")
+
+        # Normalize state name for filename
+        state_filename = state.lower().replace(" ", "_").replace("&", "and")
+        out_file = out_path / f"{state_filename}_{year}.csv"
+        merged_df.to_csv(out_file, index=False)
+
+        summaries.append((state, len(merged_df), out_file))
+
+    # Print short summary
     print(f"\n{'='*60}")
-    print(f"✓ Done! Total rows: {len(merged_df)}")
-    print(f"✓ Saved to: {out_file}")
+    total_rows = sum(n for _, n, _ in summaries)
+    print(f"✓ Done! Total rows across states: {total_rows}")
+    for state, n, path in summaries:
+        print(f"✓ {state}: {n} rows -> {path}")
     print(f"{'='*60}\n")
 
-    # Quick summary
-    print("Water body breakdown:")
-    print(merged_df["water_body_type"].value_counts().to_string())
-    print("\nSample output:")
-    print(merged_df.head(5).to_string(index=False))
+    # Water body breakdown sample for first state
+    first_df = pd.DataFrame(next(iter(combined_by_state.values())))
+    if "water_body_type" in first_df.columns:
+        print("Water body breakdown (sample state):")
+        print(first_df["water_body_type"].value_counts().to_string())
+        print("\nSample output:")
+        print(first_df.head(5).to_string(index=False))
 
-    return merged_df
+    return combined_by_state
 
 
 # ─── CLI ──────────────────────────────────────────────────────────────────────
 
-def run_for_all_years(state: str, data_dir: str, out_dir: str, exclude_years=None):
+def run_for_all_years(data_dir: str, out_dir: str, exclude_years=None):
     """
     Automatically run extraction for all year folders in raw data directory.
     """
@@ -568,8 +671,7 @@ def run_for_all_years(state: str, data_dir: str, out_dir: str, exclude_years=Non
         if year in exclude_years:
             print(f"Skipping excluded year: {year}")
             continue
-
-        run_extraction(year, state, data_dir, out_dir)
+        run_extraction(year, data_dir, out_dir)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Extract NWMP water quality data")
@@ -577,8 +679,7 @@ if __name__ == "__main__":
     parser.add_argument("--year", type=int, default=None,
                         help="Single year to extract (optional)")
 
-    parser.add_argument("--state", type=str, default="KARNATAKA",
-                        help="State to filter")
+    # Note: state filtering removed — extractor now emits per-state CSVs
 
     parser.add_argument("--data_dir", type=str, default="ml/data/raw",
                         help="Root raw data directory")
@@ -592,6 +693,6 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     if args.year:
-        run_extraction(args.year, args.state, args.data_dir, args.out_dir)
+        run_extraction(args.year, args.data_dir, args.out_dir)
     else:
-        run_for_all_years(args.state, args.data_dir, args.out_dir, args.exclude_years)
+        run_for_all_years(args.data_dir, args.out_dir, args.exclude_years)

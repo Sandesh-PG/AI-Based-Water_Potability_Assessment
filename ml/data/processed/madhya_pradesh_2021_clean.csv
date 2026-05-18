@@ -1,0 +1,230 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+3342,"Borewell Water At Village Tarpur, Sector-Ii, Pithampur, Industrial Area",Groundwater,MADHYA PRADESH,2021,Safe,2.79,None,21.5,,7.7,568.5,1.0,1.28,2.0,3.0,
+4618,"Ground Water At Industrial Area, Maneri Distt Mandla",Groundwater,MADHYA PRADESH,2021,Safe,2.79,None,21.8,,7.3,498.0,1.0,0.4,2.0,10.0,
+3838,"Ground Water Ncl, Jingurdha, Qshf-176 Metence Off, Dist Singrouli",Groundwater,MADHYA PRADESH,2021,Safe,0.0,None,28.4,,7.3,526.0,,2.4,,,
+3823,"Ground Water Near Bus Stand, Dist Balaghat",Groundwater,MADHYA PRADESH,2021,Safe,2.8,None,21.2,,7.3,418.0,1.0,0.3,2.0,14.0,
+3825,"Ground Water Near Bus Stand, Dist Mandla",Groundwater,MADHYA PRADESH,2021,Safe,2.8,None,21.0,,7.35,616.5,1.0,0.35,2.0,17.0,
+3822,"Ground Water Near Bus Stand, Dist Narsingpur",Groundwater,MADHYA PRADESH,2021,Safe,2.8,None,21.3,,7.3,438.0,1.0,0.6,2.0,13.0,
+3826,"Ground Water Near Bus Stand, Dist Seoni",Groundwater,MADHYA PRADESH,2021,Safe,2.8,None,21.3,,7.3,394.5,1.0,0.45,2.0,15.0,
+3844,Ground Water Near Commercial Auto Mobile,Groundwater,MADHYA PRADESH,2021,Safe,0.0,None,28.65,,7.3,523.5,,3.05,,,
+3843,"Ground Water Near Entrance Gage Of Vivekananad Statue, Nigahi, Singrouli",Groundwater,MADHYA PRADESH,2021,Safe,0.0,None,26.6,,7.3,413.0,,3.9,,,
+3839,"Ground Water Near Shiv Mandir, Amlori Ncl, Project Singrouli",Groundwater,MADHYA PRADESH,2021,Safe,0.0,None,28.6,,7.4,536.5,,2.2,,,
+3842,"Ground Water Near Sub Station Sector-B, Dudhichua Ncl Project, Singrouli",Groundwater,MADHYA PRADESH,2021,Safe,0.0,None,26.5,,7.6,448.0,,4.1,,,
+3840,"Ground Water Near Subjee Mandi Ncl Jayant (Beside Police Station), Singrouli",Groundwater,MADHYA PRADESH,2021,Safe,0.0,None,28.25,,7.45,285.0,,2.05,,,
+3837,"Ground Water Primary School Dhobi Ghat, Dist Singrouli",Groundwater,MADHYA PRADESH,2021,Safe,0.0,None,27.4,,7.3,526.0,,2.4,,,
+1618,"Ground Water Sampling At Two Points In Industrial Area Malanpur, M.P",Groundwater,MADHYA PRADESH,2021,Safe,0.03,None,26.0,,7.5,1500.0,,1.8,2.0,11.0,
+1619,"Ground Water Sampling At Two Points In Industrial Area Malanpur, M.P",Groundwater,MADHYA PRADESH,2021,Safe,0.03,None,24.0,,7.9,1625.0,,0.8,2.0,12.0,
+3841,"Ground Water Sarveswar Raja Colony Jayant, Singrouli",Groundwater,MADHYA PRADESH,2021,Safe,0.0,None,28.25,,7.55,429.0,,3.3,,,
+3827,"Ground Water Vill Imalia, Dist Jabalpur",Groundwater,MADHYA PRADESH,2021,Safe,2.8,None,21.6,,7.3,420.0,1.0,0.3,2.0,14.0,
+4625,Hand Pump District Hospita Bhopal,Groundwater,MADHYA PRADESH,2021,Safe,3.32,None,26.0,,7.1,1376.5,1.0,5.95,66.0,220.0,
+4630,Hand Pump District Hospital Betul,Groundwater,MADHYA PRADESH,2021,Safe,3.64,None,27.5,,7.75,723.0,1.3,1.3,3.0,15.0,
+4627,Hand Pump District Hospital Hoshangabad,Groundwater,MADHYA PRADESH,2021,Safe,2.81,None,23.5,,7.35,2253.0,1.0,20.51,2.0,23.5,
+4626,Hand Pump District Hospital Sehore,Groundwater,MADHYA PRADESH,2021,Unsafe,14.86,High BOD,26.0,,7.4,840.5,5.25,3.025,2.0,280.0,
+4628,Hand Pump District Hospital Vidisha,Groundwater,MADHYA PRADESH,2021,Safe,3.5,None,24.0,,7.05,1124.0,1.25,7.68,2.0,22.0,
+4629,Hand Pump Dstrict Hospital Taisen,Groundwater,MADHYA PRADESH,2021,Safe,7.8,None,28.0,,7.4,1178.0,2.8,15.09,2.0,24.0,
+3338,"Hand Pump Near Panchayat Bhawan, Village Tinawali Rairu",Groundwater,MADHYA PRADESH,2021,Safe,0.03,None,26.0,,7.9,386.0,,0.3,2.0,14.0,
+3333,"Hand Pump Water At Banskhedi, Bhopal",Groundwater,MADHYA PRADESH,2021,Safe,4.6,None,27.5,,7.5,794.0,1.5,6.755,46.0,210.0,
+1617,"Open Well/Tube Well Industrial Area Mandideep, Distt. Raisen, M.P",Groundwater,MADHYA PRADESH,2021,Safe,7.21,None,25.0,,7.2,1033.0,1.3,12.04,,,
+1616,"Open Well/Tube Well Industrial Area, Govindpura, Bhopal, M.P",Groundwater,MADHYA PRADESH,2021,Safe,7.58,None,28.5,,7.45,541.5,2.5,8.53,58.0,350.0,
+1897,"Tube Well At Jainabad, Near Tapti Bridge, Pumping Stn. Burhanpur, M.P.",Groundwater,MADHYA PRADESH,2021,Safe,2.79,None,22.5,,7.85,2791.5,1.0,2.445,2.0,3.0,
+3340,"Tube Well At Near Trenching Ground, Indore",Groundwater,MADHYA PRADESH,2021,Safe,2.79,None,22.0,,7.35,2352.0,1.0,2.97,2.0,4.0,
+3341,"Tube Well At Sector-Iii, Pithampur Industrial Area",Groundwater,MADHYA PRADESH,2021,Safe,2.79,None,22.0,,7.65,896.0,1.0,3.09,2.0,4.0,
+3334,Tube Well Near Bus Stand At Betul,Groundwater,MADHYA PRADESH,2021,Safe,4.19,None,28.5,,7.7,757.5,1.5,1.3,3.0,15.0,
+3343,"Tube Well Near Industrial Area Udyog Vihar , Churat, Rewa",Groundwater,MADHYA PRADESH,2021,Safe,3.07,None,27.45,,7.15,1398.5,1.1,3.4,2.0,8.0,
+3854,Tube Well Water Sample Of Sidhi City,Groundwater,MADHYA PRADESH,2021,Safe,2.79,None,26.0,,7.05,1005.5,1.0,3.5,2.0,6.0,
+3337,Tube Well/ Hand Pump At Indl Area Seoni Near Barapatthar,Groundwater,MADHYA PRADESH,2021,Safe,2.8,None,21.2,,7.35,368.0,1.0,0.5,2.0,17.0,
+3335,"Tube Well/ Hand Pump At Industrial Area Rechhai, Jabalpur",Groundwater,MADHYA PRADESH,2021,Safe,2.8,None,21.2,,7.35,282.0,1.0,0.4,2.0,13.0,
+3336,"Tube Well/ Hand Pump At Industrial Area, Chhindwara",Groundwater,MADHYA PRADESH,2021,Safe,2.8,None,29.5,,7.7,692.0,1.0,1.3,3.0,14.5,
+3332,"Tube Well/ Hand Pump At Industrial Area, Dewas",Groundwater,MADHYA PRADESH,2021,Safe,9.99,None,26.0,,7.6,2577.0,1.8,4.94,,,
+3339,"Tube Well/ Hand Pump Near Manglia Industrial Area , Indore",Groundwater,MADHYA PRADESH,2021,Safe,2.79,None,22.5,,7.0,1443.5,1.0,3.32,2.0,6.5,
+3345,"Tubewell At Indl Area, Anuppur",Groundwater,MADHYA PRADESH,2021,Safe,2.79,None,27.9,,8.05,540.0,1.0,0.74,2.0,2.0,
+3344,"Tubewell At Indl Area, Shahdolu/G Water Sample From Industrial Area,Narsarha,Distt. Shahdol(M.P.)",Groundwater,MADHYA PRADESH,2021,Safe,2.79,None,28.25,,8.05,549.5,1.0,0.76,2.0,2.0,
+2146,"Well At Bhagatpuri Village, Nagda",Groundwater,MADHYA PRADESH,2021,Safe,6.66,None,,,7.3,5341.0,1.2,10.9,,,
+2149,"Well At Culvert On A.B. Road, Maksi",Groundwater,MADHYA PRADESH,2021,Safe,6.66,None,24.0,,7.3,1861.0,1.2,8.2,,,
+2148,"Well At Dosigaon, Ratlam",Groundwater,MADHYA PRADESH,2021,Safe,4.19,None,,,7.75,2721.0,1.5,5.41,2.0,22.0,
+2153,"Well At Ibrahimganj Near Bus Stand, Bhopal",Groundwater,MADHYA PRADESH,2021,Safe,3.38,None,27.0,,7.6,816.5,1.05,9.925,48.0,230.0,
+2143,"Well At Kathoda, Jabalpur",Groundwater,MADHYA PRADESH,2021,Safe,2.8,None,21.0,,7.55,511.5,1.0,0.8,2.0,11.0,
+2144,"Well At Madai Gram, Jabalpur",Groundwater,MADHYA PRADESH,2021,Safe,2.8,None,22.3,,7.45,428.0,1.0,0.45,2.0,14.0,
+2145,"Well At Mehatwas, Nagda",Groundwater,MADHYA PRADESH,2021,Safe,8.32,None,26.0,,7.5,1692.5,1.5,4.705,,,
+2154,"Well At Near Primary School, Pilukhedi, Rajgarh.",Groundwater,MADHYA PRADESH,2021,Safe,5.87,None,25.5,,7.5,610.0,2.1,0.62,2.0,29.0,
+2147,"Well At Pratal Nagar, Dewas",Groundwater,MADHYA PRADESH,2021,Safe,6.66,None,25.0,,7.35,3179.0,1.2,6.15,,,
+2152,"Well At Trenching Ground In The Premises Of M/S Lakhani Foot Wear, Indore",Groundwater,MADHYA PRADESH,2021,Safe,2.79,None,21.5,,7.5,2342.0,1.0,4.53,2.0,7.0,
+2151,"Well At Trenching Ground In The Premises Of M/S Rishabh Masala Udyog, Indore",Groundwater,MADHYA PRADESH,2021,Safe,5.01,None,21.5,,7.65,2766.5,1.8,2.98,2.0,9.0,
+2150,"Well At Trenching Ground, Near Garden, Dev Guradiya Road, Indore",Groundwater,MADHYA PRADESH,2021,Safe,2.79,None,21.5,,7.6,1294.5,1.0,2.255,2.0,4.0,
+52,"Well, Shri Rao Prajapati Well , M. P.(T/W Of Hanif Khan S/O Jabbar Khan, Amrawati Road, Burhanpur )",Groundwater,MADHYA PRADESH,2021,Safe,2.79,None,22.0,,7.8,1555.0,1.0,3.17,2.0,6.0,
+2132,Bilawali Talab At Indore,Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.01,High BOD,,21.65,7.35,8.1,419.0,1.5,2.48,2.0,53.0
+3296,Choral Dam Near Indore,Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.0,High BOD,,22.0,7.4,7.75,449.0,1.15,0.515,2.0,49.0
+4615,Ganga Sagar Jabalpur,Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.05,High BOD,,22.6,6.55,7.65,500.0,4.35,0.535,56.0,481.5
+2135,Govindgarh Lake,Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.0,High BOD,,26.05,7.3,7.55,246.0,1.3,0.765,2.0,40.0
+2141,Janunia Talab Near W/S,Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.09,High BOD,,26.0,7.3,7.45,369.5,4.9,4.75,91.0,12024.5
+2142,"Kalisindh Reservoir At Sarangpur, Rajgarh",Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.0,High BOD,,22.0,7.45,7.55,370.0,1.9,0.4,2.0,29.0
+3845,Kanhargaon Stop Dam Water Supply Intake Of Chhindwara Town,Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.01,High BOD,,23.5,7.5,8.0,500.0,1.4,2.6,3.5,28.5
+2140,"Kerwa Dam Near Rest House, Bpl",Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.09,High BOD,,24.5,7.8,7.7,302.5,1.2,4.27,91.0,17555.0
+2128,Khandari Reservoir Water Off Take Point,Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.0,High BOD,,21.8,7.7,7.65,324.5,1.45,0.265,3.0,28.0
+4622,Koptal Lake At Water Supply Intake Point Chhatarpur,Pond/Tank,MADHYA PRADESH,2021,Unsafe,22.46,"pH Out of Range, High BOD",,26.0,5.7,7.85,472.5,1.95,0.26,2.0,21.0
+1374,Lower Lake At Bhopal Outlet M.P.,Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.41,High BOD,,26.0,6.5,7.6,367.5,4.6,9.515,461.0,60075.0
+2130,"Madhav Lake, Shivpuri",Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.01,High BOD,,23.5,6.5,7.85,500.0,2.45,0.79,5.0,71.0
+1466,"Multai Tank Lake At Villa. Khari On Betul-Amravati Road M.P(.Tapti Near Amarawati, Road Bridge At Village Kheda)",Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.01,High BOD,,24.5,7.5,7.75,500.0,1.5,2.55,5.0,45.0
+2134,Nagchun Talab At Khandwa,Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.01,High BOD,,21.4,6.95,7.3,315.5,1.4,2.35,2.0,49.5
+2136,"Shahpura Lake At Weir Near Ayushman Hospital, Bhopal",Pond/Tank,MADHYA PRADESH,2021,Unsafe,22.13,"pH Out of Range, High BOD",,26.5,6.1,7.7,500.0,8.4,12.37,1057.0,110140.0
+2133,Sirpur Talab At Indore,Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.01,High BOD,,21.5,7.25,7.8,500.0,1.2,0.95,2.0,48.5
+4614,Suptal Jabalpur,Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.14,High BOD,,22.35,6.85,7.45,500.0,3.8,0.45,176.0,823.0
+2139,Upper Lake At Bairagarh Club,Pond/Tank,MADHYA PRADESH,2021,Unsafe,22.8,"pH Out of Range, High BOD",,25.5,6.05,7.75,248.0,1.35,3.625,1751.0,46120.0
+1373,"Upper Lake At Bhopal (Intake Point), M.P.",Pond/Tank,MADHYA PRADESH,2021,Unsafe,21.89,High BOD,,25.5,6.55,7.45,256.5,2.65,3.165,2351.0,21575.0
+2138,Upper Lake At Karbala Club,Pond/Tank,MADHYA PRADESH,2021,Unsafe,21.06,High BOD,,26.0,6.8,7.7,230.5,2.6,3.63,1301.0,46055.0
+2137,Upper Lake At Yatch Club,Pond/Tank,MADHYA PRADESH,2021,Unsafe,21.41,High BOD,,25.5,6.65,7.75,249.0,2.35,3.39,1751.0,27070.0
+2131,Yashwant Sagar At Indore,Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.01,High BOD,,22.0,7.25,8.05,500.0,1.6,0.885,2.0,55.0
+3850,Bagdoon Talab Pithampur Sanjay Jalashay Pithampur,Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.01,High BOD,,22.0,7.35,7.9,375.5,1.15,1.23,2.0,218.0
+3831,"Dal Sagar Talab, Dist Seoni",Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.05,High BOD,,23.15,6.8,7.6,416.0,3.1,1.3,61.0,808.5
+3830,"Gokalpur Talab, Dist Jabalpur",Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.06,High BOD,,22.45,6.65,8.0,425.5,5.2,0.515,76.0,807.0
+3299,Hanumantal Jabalpur,Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.18,"pH Out of Range, High BOD",,22.45,6.45,7.55,448.0,3.15,0.515,36.0,820.5
+3297,"Mitha Talab, Dewas",Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.01,High BOD,,25.5,7.35,7.85,389.5,2.25,0.66,4.0,78.5
+3301,Moti Talab At Balaghat,Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.05,High BOD,,23.6,7.0,7.55,474.5,3.15,0.255,56.0,468.5
+3302,"Pipliya Pala Talab, Indore",Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.01,High BOD,,21.5,7.05,8.05,500.0,1.7,1.95,2.0,101.5
+3298,Pond Water At Lakoda,Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.01,High BOD,,18.2,7.15,7.55,401.0,1.9,0.815,3.0,48.5
+3303,"Rani Talab, Rewa",Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.0,High BOD,,24.5,6.65,8.0,351.5,1.45,0.69,2.0,40.5
+3300,"Ranital Talab, Jabalpur",Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.12,High BOD,,21.5,6.75,7.7,500.0,5.4,2.36,141.0,831.5
+3304,"Rihand Resrvoir, Singrauli",Pond/Tank,MADHYA PRADESH,2021,Unsafe,25.01,High BOD,,25.5,7.05,7.3,366.5,1.6,1.745,,
+3849,Sitapat Talab Dhar,Pond/Tank,MADHYA PRADESH,2021,Unsafe,27.54,"pH Out of Range, High BOD",,21.5,4.05,8.2,267.0,1.1,0.805,2.0,41.0
+2129,Periat Tank Near Wss Intake Point Jabalpur,Pond/Tank,MADHYA PRADESH,2021,Unsafe,20.0,High BOD,,22.0,7.45,7.55,284.0,1.4,0.305,3.0,26.5
+1614,"River Betwa Near Intake Point, Vidisha",River,MADHYA PRADESH,2021,Unsafe,24.24,High Total Coliform,24.5,8.7,7.55,2040.5,1.55,4.715,201.0,27055.0,2.0
+2107,"River Betwa At U/S At Mahuta Ghat, Agasod",River,MADHYA PRADESH,2021,Safe,2.47,None,25.0,7.2,7.8,373.5,1.1,0.34,2.0,20.0,2.0
+2108,"River Betwa At M/S J.P. Thermal Power, Bina",River,MADHYA PRADESH,2021,Safe,2.47,None,25.0,7.15,7.9,367.5,1.1,0.35,2.0,22.0,2.0
+2124,"River Betwa At Charantirghat, Vidisha",River,MADHYA PRADESH,2021,Unsafe,44.22,"High Fecal Coliform, High Total Coliform",23.5,9.75,7.55,495.0,1.9,9.37,6001.0,85110.0,11.0
+2125,River Betwa D/S After Mixing Of Bais At Vidisha,River,MADHYA PRADESH,2021,Unsafe,40.42,"High Fecal Coliform, High Total Coliform",24.0,9.75,7.75,494.0,1.9,5.54,4051.0,60140.0,3.0
+3832,River Betwa At U/S Near Road Bridge Orchha,River,MADHYA PRADESH,2021,Safe,3.13,None,24.0,6.85,7.55,310.5,1.4,0.24,2.0,19.0,2.0
+30080,"River Betwa At Kanjia Road Bridge, Ashok Nagar (M.P.)",River,MADHYA PRADESH,2021,Unsafe,42.22,"High Fecal Coliform, High Total Coliform",25.15,8.35,7.95,409.5,1.0,0.45,24950.0,121350.0,
+3309,"River Chambal At Tal Village Near Bridge, Ujjain",River,MADHYA PRADESH,2021,Unsafe,9.51,High BOD,27.0,7.4,7.85,1033.0,3.5,1.31,271.0,824.5,
+1365,River Chambal At Nagda U/S (Water Intake Point) M.P.,River,MADHYA PRADESH,2021,Safe,4.28,None,25.0,7.2,7.75,807.5,1.9,0.81,3.0,66.0,
+1366,"River Chambal At Nagda D/S, M.P.",River,MADHYA PRADESH,2021,Unsafe,65.6,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",25.5,3.6,7.25,4732.5,25.0,44.86,10270.0,85800.0,12.0
+1432,"River Parvati Near Village Bataodapar,",River,MADHYA PRADESH,2021,Safe,4.6,None,23.5,7.15,7.55,499.5,2.05,0.59,3.0,47.0,
+2109,"River Parvati River, Guna",River,MADHYA PRADESH,2021,Safe,4.15,None,21.5,7.0,7.5,363.0,1.85,0.59,3.0,34.5,
+2126,"River Parvati A/C Of Vindhyachal Nalla, Pilukhedi",River,MADHYA PRADESH,2021,Safe,5.15,None,23.0,7.1,7.5,506.0,2.3,1.49,3.0,46.0,
+1367,River Khan At Kabit Khedi (Near Indore) M.P.,River,MADHYA PRADESH,2021,Unsafe,37.0,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",22.0,2.2,8.0,1268.0,12.5,4.155,697.0,3770.0,473.5
+2110,"River Khan At Sakkar Khadi, Indore",River,MADHYA PRADESH,2021,Unsafe,33.2,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",22.0,2.9,8.0,993.0,9.5,4.61,585.0,3070.0,286.5
+2111,River Khan At Sanwer,River,MADHYA PRADESH,2021,Unsafe,17.11,"Low DO, High BOD",22.5,4.8,7.75,1045.5,6.5,3.955,271.0,990.0,93.5
+1369,"River Kshipra At Ramghat At Ujjain, M.P.",River,MADHYA PRADESH,2021,Unsafe,51.1,"High BOD, High Fecal Coliform, High Total Coliform",26.5,6.3,7.55,948.0,5.0,1.11,6003.5,120105.0,
+1370,"River Kshipra At Trivenisangam (1 Km. D/S Of Sangam), M.P.",River,MADHYA PRADESH,2021,Unsafe,49.77,"High BOD, High Fecal Coliform, High Total Coliform",27.5,7.0,7.6,787.5,4.4,0.65,46001.0,80023.5,
+1468,"River Kshipra At Siddhawat (D/S) Of Ujjain., M.P.",River,MADHYA PRADESH,2021,Unsafe,60.0,"High BOD, High Fecal Coliform, High Total Coliform",26.5,6.6,7.65,994.5,9.5,1.585,46270.0,160800.0,
+3315,"River Kshipra At Gaughat, Ujjain",River,MADHYA PRADESH,2021,Unsafe,39.24,"High BOD, High Fecal Coliform, High Total Coliform",26.5,7.05,7.9,743.5,3.8,0.71,2702.0,46047.0,
+3316,"River Kshipra At U/S Of Mahidpur City, Ujjain",River,MADHYA PRADESH,2021,Safe,4.91,None,26.5,7.2,7.75,692.0,2.1,0.98,4.0,294.0,
+3317,"River Kshipra At W/S Intake Point Of Dewas, Ujjain",River,MADHYA PRADESH,2021,Safe,3.85,None,26.0,7.1,7.4,517.0,1.7,0.865,10.0,45.0,
+3329,"River Sone At Churhat,Distt.Sidhi",River,MADHYA PRADESH,2021,Safe,3.6,None,25.25,7.65,7.75,331.5,1.6,0.665,2.0,44.0,2.0
+1143,"River Tons At Chakghat, M.P.",River,MADHYA PRADESH,2021,Safe,3.37,None,25.55,7.25,7.75,322.0,1.5,0.705,2.0,45.0,2.0
+3853,"River Tons At Baseman Mama Temple, Near Purwa Fall, Tehsil-Semariya, Dist- Rewa",River,MADHYA PRADESH,2021,Safe,3.6,None,26.0,7.2,7.85,360.5,1.6,0.685,2.0,44.0,2.0
+2117,"River Bichia, Bridge Govindgarh Road",River,MADHYA PRADESH,2021,Safe,6.59,None,24.5,6.35,7.75,390.0,2.8,0.73,27.0,330.0,5.5
+1433,"River Sankh At Tigra Reservoir, M.P.",River,MADHYA PRADESH,2021,Safe,3.25,None,22.0,7.45,7.55,170.0,1.45,1.3,3.0,27.5,2.0
+1610,"River Sone At Origin Amarkantak, M.P",River,MADHYA PRADESH,2021,Safe,2.23,None,26.2,6.7,7.35,198.5,1.0,0.32,2.0,2.0,2.0
+1142,"River Sone At Chachai, M.P.",River,MADHYA PRADESH,2021,Safe,3.04,None,26.35,5.85,7.8,351.5,1.35,0.32,2.0,48.5,2.0
+1371,"River Sone At Amlai, M.P.",River,MADHYA PRADESH,2021,Safe,3.16,None,26.35,7.4,7.85,370.5,1.4,0.32,2.0,50.5,2.0
+1612,River Sone At Devload Out Let Of Bansagar Dam,River,MADHYA PRADESH,2021,Safe,3.15,None,25.9,7.45,7.75,344.0,1.4,0.32,2.0,42.5,2.0
+3327,"River Sone At Amlai, 100 Metre D/S After Mixing Of Atps Effluent, Rewa",River,MADHYA PRADESH,2021,Safe,3.72,None,26.3,7.45,8.0,375.0,1.65,0.42,2.0,62.5,2.0
+3846,"River Sone At Jarwahi Near Road Bridge, Shahdol",River,MADHYA PRADESH,2021,Safe,3.27,None,26.5,7.3,7.8,362.5,1.45,0.32,2.0,50.5,2.0
+30082,River Sone Deora U/S Rihand (M. P.),River,MADHYA PRADESH,2021,Unsafe,38.8,"High BOD, High Fecal Coliform, High Total Coliform",24.7,7.85,7.7,229.0,4.0,0.43,4500.0,14900.0,
+3851,"River Sone Near Bhanvarsen Road Bridge After Confluence Of Banas River, Dist Sidhi",River,MADHYA PRADESH,2021,Safe,3.59,None,25.5,7.35,7.5,1603.5,1.6,0.735,2.0,41.5,2.0
+4604,"River Sone At Village- Khairpur, Near Road Bridge M.P- U.P. Boundary, Distt Sidhi",River,MADHYA PRADESH,2021,Safe,3.37,None,25.25,7.65,7.75,302.0,1.5,0.48,2.5,40.5,2.0
+3836,River Sone On Kachan Dam Near Imilya North Coal,River,MADHYA PRADESH,2021,Safe,6.1,None,26.5,7.15,7.4,641.0,1.65,0.55,,,
+1607,"River Vaishali At Gohad Dam, Gohad, M.P",River,MADHYA PRADESH,2021,Safe,5.61,None,22.0,6.9,7.8,517.0,2.45,1.97,6.5,187.0,5.0
+3313,"River Kariyari U/S Before Mixing With Waste Water Of M/S J.P. Cement , Rewa",River,MADHYA PRADESH,2021,Safe,3.71,None,18.65,6.9,7.85,460.0,1.65,0.525,2.0,44.5,2.0
+3314,"River Kariyari 100 Mtr. D/S After Mixing With Waste Water Of M/S J.P. Cement, Rewa",River,MADHYA PRADESH,2021,Safe,4.16,None,25.9,6.65,7.9,467.5,1.85,0.64,2.5,54.5,2.0
+3319,"River Newaj At W/S Intake Point, Shujalpur, Ujjain",River,MADHYA PRADESH,2021,Unsafe,10.15,pH Out of Range,24.0,6.9,4.95,456.5,2.4,0.925,3.0,51.5,
+3320,"River Newaj At U/S Near W/S Intake Point, Rajgarh, Guna",River,MADHYA PRADESH,2021,Safe,5.14,None,21.5,6.65,7.45,424.0,2.3,0.61,3.0,30.5,
+3310,"River Chamla At W/S Intake Point Badnagar, Ujjain",River,MADHYA PRADESH,2021,Safe,4.05,None,27.5,7.3,7.45,505.0,1.8,0.64,3.0,48.0,
+3306,"River Choupan At Vijaypur U/S Nfl Nalla, Guna",River,MADHYA PRADESH,2021,Safe,3.37,None,22.5,6.4,7.35,393.0,1.5,0.55,3.0,34.5,
+3307,"River Choupan At Vijaypur 100 Metre D/S Of Nfl Nalla, Guna",River,MADHYA PRADESH,2021,Safe,4.37,None,25.0,6.6,7.45,349.0,1.95,0.72,2.0,37.5,
+2100,"River Gour Bhoga Door, Jabalpur",River,MADHYA PRADESH,2021,Safe,3.27,None,21.7,7.8,7.8,283.0,1.45,0.46,6.0,30.0,
+3311,"River Jamuni At Bariyaghat U/S Near Intake Point, Tikamgarh",River,MADHYA PRADESH,2021,Safe,2.47,None,23.5,7.0,7.6,299.5,1.1,0.5,2.0,19.0,2.0
+3834,"River Sone At Chitawal Near Road Bridge Chitrangi, Dist Singrouli",River,MADHYA PRADESH,2021,Safe,5.74,None,27.0,7.3,7.55,466.5,1.55,0.46,,,
+2116,River Beehar D/S Near Forest Office,River,MADHYA PRADESH,2021,Safe,3.99,None,24.75,7.2,7.9,321.5,1.75,0.715,5.5,109.0,2.0
+2119,"River Betwa At Nayapur D/S Mandideep Indl. Area No.1, Dist.Raisen",River,MADHYA PRADESH,2021,Unsafe,31.31,"High BOD, High Total Coliform",25.0,7.55,7.8,819.5,4.65,7.45,246.0,46060.0,2.0
+2121,"River Betwa Near Road Bridge, Bhojpur",River,MADHYA PRADESH,2021,Unsafe,29.29,"High Fecal Coliform, High Total Coliform",25.0,6.1,7.85,631.0,2.2,10.995,1101.0,75023.0,2.0
+2122,River Betwa Near W/S Intake Well Point Raisen,River,MADHYA PRADESH,2021,Unsafe,24.62,High Total Coliform,24.0,7.7,8.05,511.0,1.9,7.73,101.0,29021.0,10.0
+3833,"River Betwa At Rajghat Dam, Sagar",River,MADHYA PRADESH,2021,Safe,2.24,None,25.5,6.75,7.75,290.0,1.0,0.5,2.0,14.0,2.0
+2120,"River Kaliasot Near Road Bridge, Mandideep",River,MADHYA PRADESH,2021,Unsafe,27.38,"High Fecal Coliform, High Total Coliform",25.0,7.5,7.9,656.0,3.0,11.31,1651.0,17640.0,2.0
+1615,"River Parvati Near Intake Point Pillukhedi Distt. Rajgarh, M.P",River,MADHYA PRADESH,2021,Safe,4.25,None,22.5,6.9,7.45,480.5,1.9,0.85,3.0,31.0,
+3835,"River Gopad At Nigari, Sarai Dist, Singrouli",River,MADHYA PRADESH,2021,Safe,5.74,None,25.5,7.4,7.45,285.0,1.55,1.51,,,
+1611,"River Johila Near Narojabad Near Umaria Road Bridge, M.P",River,MADHYA PRADESH,2021,Safe,3.27,None,26.4,7.3,7.75,346.5,1.45,0.35,2.0,49.5,2.0
+1608,"River Sindh At Dabra, M.P",River,MADHYA PRADESH,2021,Safe,4.61,None,23.0,7.35,7.85,548.0,2.05,1.43,4.0,52.0,3.0
+1613,"River Kolar Dam Water Supply Intake Well, Distt. Sehore, M.P",River,MADHYA PRADESH,2021,Unsafe,20.43,High Total Coliform,23.5,9.3,7.65,230.5,1.25,3.36,91.0,21610.0,2.0
+30060,"River Chambal At Fish Farm, Gandhisagar",River,MADHYA PRADESH,2021,Unsafe,18.11,"High Fecal Coliform, High Total Coliform",26.0,8.65,8.0,336.0,2.7,0.375,1209.0,9100.0,40.0
+1418,"River Chambal At Gandhi Sagar Dam, Rampura, Mp",River,MADHYA PRADESH,2021,Safe,4.16,None,27.5,7.2,7.65,347.0,1.85,0.56,3.0,48.0,
+1609,"River Chambal At Dholpur, M.P",River,MADHYA PRADESH,2021,Safe,4.05,None,23.0,7.15,7.4,444.0,1.8,1.14,3.0,50.5,3.0
+3308,"River Chambal At Jawnpawa, From Origin Point, Indore",River,MADHYA PRADESH,2021,Safe,2.47,None,20.5,7.05,7.55,337.5,1.1,0.51,2.0,29.0,
+4607,River Chambal At Itawa Road Bridge Bhind,River,MADHYA PRADESH,2021,Safe,4.05,None,22.0,7.35,7.95,341.0,1.8,1.53,4.0,48.5,3.0
+4610,River Chambal At 100M D/S Of Gandhi Sagar Dam. Mandsaur,River,MADHYA PRADESH,2021,Safe,4.6,None,27.5,7.3,7.75,345.0,2.05,0.565,2.0,48.5,
+1233,"River Mahi At Badnawar, M.P.",River,MADHYA PRADESH,2021,Safe,3.15,None,22.0,7.55,7.7,380.0,1.4,0.805,2.0,44.0,
+3318,"River Mahi At Ranisingh Village, Ratlam, Ujjain",River,MADHYA PRADESH,2021,Safe,4.05,None,25.5,7.3,7.65,355.0,1.8,0.61,5.0,44.5,
+4608,River Mahi Forest Guest House Rajapur,River,MADHYA PRADESH,2021,Safe,4.49,None,25.5,7.4,7.65,356.5,2.0,0.615,4.0,48.5,
+30058,River Mahi At Village Bajna (M.P.),River,MADHYA PRADESH,2021,Unsafe,13.03,High Total Coliform,24.0,7.65,7.65,341.5,2.4,0.505,185.0,8700.0,2.0
+3848,River Anas Near Road Bridge Jhabua,River,MADHYA PRADESH,2021,Unsafe,4.11,Low DO,22.25,4.65,7.85,380.5,1.2,0.92,2.0,48.5,
+2104,River Malei At Jaora,River,MADHYA PRADESH,2021,Safe,4.49,None,26.0,7.25,8.0,601.5,2.0,0.61,3.0,44.5,2.0
+2102,"River Shivna At Ramghat, Mandsaur",River,MADHYA PRADESH,2021,Safe,4.5,None,26.5,7.15,7.65,510.0,2.0,0.61,4.5,53.0,
+2105,River Chillar At Shajapur,River,MADHYA PRADESH,2021,Safe,3.6,None,23.0,6.95,7.55,369.5,1.6,0.7,3.0,48.0,
+2103,"River Jammer At Dholowad, Ratlam",River,MADHYA PRADESH,2021,Safe,3.82,None,25.5,7.1,7.6,292.0,1.7,0.61,3.0,44.5,
+3321,"River Narmada At Amarkantak From Origin Point, Rewa Narmada At Dindori,U/S Intake Point,Distt.Indore",River,MADHYA PRADESH,2021,Safe,3.26,None,26.75,7.95,7.8,342.0,1.45,0.37,2.0,45.0,2.0
+1242,River Narmada Near Source At Amarkantak M.P.,River,MADHYA PRADESH,2021,Safe,2.24,None,26.35,6.75,7.3,230.0,1.0,0.36,2.0,19.5,2.0
+4578,River Narmada At Puskar Dam Amarkantak,River,MADHYA PRADESH,2021,Safe,4.39,None,26.7,6.75,7.4,349.0,1.95,0.38,3.0,63.5,2.0
+1241,River Narmada At Mandla Near Road Bridge. M.P.,River,MADHYA PRADESH,2021,Unsafe,5.56,Low DO,22.25,4.4,7.75,301.0,1.4,0.35,6.0,29.5,
+1240,River Narmada At Narsinghpur M.P.,River,MADHYA PRADESH,2021,Safe,3.25,None,22.35,7.65,7.7,306.0,1.45,0.35,3.0,25.5,
+2106,River Narmada At Nemawar,River,MADHYA PRADESH,2021,Safe,3.37,None,25.0,7.25,7.9,336.5,1.5,1.77,3.0,32.5,
+4594,River Narmada At Befor Conflu. Of Jamner Vill. Nemawar,River,MADHYA PRADESH,2021,Unsafe,4.49,Low DO,25.5,4.75,7.65,601.5,1.55,0.775,3.0,44.5,
+4595,River Narmada 500 M.D/S Near Jain Mander Village Nemawar,River,MADHYA PRADESH,2021,Safe,4.0,None,25.5,7.3,7.95,309.0,1.75,1.225,19.0,43.0,
+45,River Narmada At Mandleshwar,River,MADHYA PRADESH,2021,Safe,2.37,None,21.5,7.75,8.05,313.0,1.05,0.7,2.0,41.5,
+1239,"River Narmada At Badwani, M.P.",River,MADHYA PRADESH,2021,Safe,2.48,None,21.5,7.3,8.05,342.5,1.1,0.785,2.0,43.5,
+1431,"River Narmada At Maheshwar, M. P.",River,MADHYA PRADESH,2021,Safe,2.48,None,21.5,7.6,8.05,316.0,1.1,0.74,2.0,43.0,
+1234,River Narmada Near Shahganj,River,MADHYA PRADESH,2021,Unsafe,18.39,High Total Coliform,25.0,8.1,7.85,1057.0,1.7,6.56,143.0,17555.0,2.0
+2112,"River Narmada Near Mortakka Bridge, Badwah",River,MADHYA PRADESH,2021,Safe,2.37,None,21.5,8.0,8.15,330.0,1.05,0.66,2.0,43.0,
+44,River Narmada At Sethanighat,River,MADHYA PRADESH,2021,Unsafe,11.7,High Total Coliform,24.0,7.9,7.95,287.5,1.35,3.83,71.0,10518.0,2.0
+1235,River Narmada At Hoshangabad D S M.P.,River,MADHYA PRADESH,2021,Unsafe,17.41,High Total Coliform,24.0,7.85,7.75,280.0,1.4,7.72,71.0,17521.0,2.0
+2113,"River Narmada Near Punasa Dam, Punasa",River,MADHYA PRADESH,2021,Safe,2.37,None,21.5,7.4,7.85,285.0,1.05,0.75,2.0,40.0,2.0
+1430,River Narmada At D/S Of Omkareshwar M.P.,River,MADHYA PRADESH,2021,Safe,2.48,None,21.5,7.65,8.05,304.5,1.1,0.755,2.0,43.5,
+3322,"River Narmada At Mandla, Near Shamshanghat, Jabalpur",River,MADHYA PRADESH,2021,Safe,3.25,None,21.6,7.85,7.7,309.0,1.45,0.4,4.0,23.5,
+2099,"River Narmada Lalpur, Jabalpur",River,MADHYA PRADESH,2021,Unsafe,6.76,Low DO,22.1,4.15,7.55,338.0,1.5,0.455,3.0,27.5,
+3323,"River Narmada At Lalpur, Near Water Supply Intake Point, Jabalpur",River,MADHYA PRADESH,2021,Safe,3.37,None,21.9,7.75,7.65,346.0,1.5,0.375,3.0,30.0,
+3324,"River Narmada At Panchwatighat, Before Mixing With Bawanganga River, Jabalpur",River,MADHYA PRADESH,2021,Safe,3.25,None,22.35,7.7,7.8,295.5,1.45,0.395,3.0,28.0,
+3325,"River Narmada At Sarswatighat, After Mixing With Bawanganga River, Jabalpur",River,MADHYA PRADESH,2021,Safe,3.25,None,22.25,7.55,7.85,314.0,1.45,0.75,3.0,29.5,
+2118,River Narmada At D/S Of Kapildhara,River,MADHYA PRADESH,2021,Safe,3.6,None,26.7,7.2,7.3,333.0,1.6,0.37,2.0,53.5,2.0
+2123,River Narmada At Korighat Hoshangabad,River,MADHYA PRADESH,2021,Unsafe,12.2,High Total Coliform,24.5,6.9,7.65,1568.0,1.45,3.58,43.0,11016.5,2.0
+3847,River Narmada At Dharampuri,River,MADHYA PRADESH,2021,Safe,2.48,None,21.5,7.8,7.95,316.0,1.1,0.655,2.0,43.0,2.0
+4577,River Narmada At Chandanghat Near Road Bridge,River,MADHYA PRADESH,2021,Safe,3.04,None,27.0,7.35,7.7,353.0,1.35,0.34,2.0,38.5,2.0
+4579,River Narmada At Dindori D/S After Mixing To City Domestic Near Jogotikaria Ghat,River,MADHYA PRADESH,2021,Safe,3.72,None,26.8,7.8,7.5,352.0,1.65,0.38,3.5,48.0,2.0
+4580,River Narmada Near Bhairav Tample At Shhastradhar Mandla,River,MADHYA PRADESH,2021,Safe,3.26,None,21.8,7.8,7.75,284.0,1.45,0.55,4.0,28.0,
+4581,River Narmada Near Road Bridge (D/S Bargi Dam) Jabalpur,River,MADHYA PRADESH,2021,Safe,3.25,None,21.95,7.6,7.65,336.0,1.45,0.39,3.0,29.5,2.0
+4582,"River Narmada At Jamtara, Near Railway Bridge",River,MADHYA PRADESH,2021,Safe,3.25,None,22.0,7.65,7.5,340.0,1.45,0.6,3.5,27.5,
+4583,River Narmada Near Road Bridge Jhansinghat Jabalpur,River,MADHYA PRADESH,2021,Safe,3.26,None,22.3,7.85,7.65,305.0,1.45,0.7,4.0,29.0,
+4584,River Narmada N.H. 44 Near Road Bridge At Barman. Jabalpur,River,MADHYA PRADESH,2021,Safe,3.27,None,22.15,7.55,7.65,301.0,1.45,0.35,6.0,28.0,
+4585,"River Narmada At Barmanghat, 100 Mds Of Mainghat",River,MADHYA PRADESH,2021,Safe,4.16,None,22.4,7.45,7.65,403.5,1.85,0.47,5.0,39.5,
+4586,River Narmada S.N. 44 Neae Road Bridge Near Jhilkoli Narsingpur,River,MADHYA PRADESH,2021,Safe,3.14,None,22.35,7.6,7.6,308.0,1.4,0.35,3.0,25.5,
+4587,"River Narmada At Near Road Bridge, Sandia",River,MADHYA PRADESH,2021,Safe,4.5,None,24.5,8.0,7.9,253.5,1.65,2.62,36.0,865.5,2.0
+4588,"River Narmada At U/S Of Village Jait Near Narayanapura, Dist. Sehore",River,MADHYA PRADESH,2021,Unsafe,6.32,High Total Coliform,24.0,8.55,7.65,309.5,1.45,1.8,70.5,3523.0,2.0
+4589,River Narmada At D/S Of Village Jait,River,MADHYA PRADESH,2021,Unsafe,13.18,High Total Coliform,24.5,8.35,7.8,307.0,1.5,3.275,58.5,12020.0,2.0
+4590,River Narmada U/S Befor Confluence Tawa Near Bandrabhan,River,MADHYA PRADESH,2021,Unsafe,17.36,High Total Coliform,24.5,8.3,8.0,317.0,1.3,2.68,111.0,17539.5,2.0
+4591,River Narmada D/S After Confluence Tawa Ramnagar,River,MADHYA PRADESH,2021,Unsafe,26.89,"High Fecal Coliform, High Total Coliform",25.5,8.7,7.9,309.5,1.65,2.915,807.0,46019.0,2.0
+4592,"River Narmada At Budhnighat, Budhni",River,MADHYA PRADESH,2021,Unsafe,23.83,High Total Coliform,25.0,7.9,7.7,316.0,1.55,3.04,96.5,27013.5,2.0
+4593,River Narmada At D/S Of Textile Unit Village. Holipura Budni,River,MADHYA PRADESH,2021,Unsafe,23.76,High Total Coliform,25.5,7.9,7.75,312.5,1.5,4.165,107.0,46065.0,2.0
+4596,River Narmada At Hanuwantia Dist. Khandwa,River,MADHYA PRADESH,2021,Safe,2.26,None,21.5,7.65,7.95,301.0,1.0,0.77,2.0,36.5,2.0
+4597,River Narmada At U/S Omkarewhwar Dam Khandwa,River,MADHYA PRADESH,2021,Safe,2.37,None,21.5,7.6,7.95,293.5,1.05,0.6,2.0,39.5,
+4598,River Narmada At Dhareshwar,River,MADHYA PRADESH,2021,Safe,2.48,None,21.5,7.75,8.15,302.0,1.1,0.75,2.0,40.5,
+4599,River Narmada Near W/S Intake Jallod,River,MADHYA PRADESH,2021,Safe,2.26,None,21.0,7.65,8.0,305.5,1.0,0.65,2.0,36.0,
+4600,River Narmada At Shahastradhara (Jalkoti),River,MADHYA PRADESH,2021,Safe,2.48,None,21.5,7.75,8.2,320.5,1.1,1.42,2.0,40.0,2.0
+4601,River Narmada At Khalghat,River,MADHYA PRADESH,2021,Safe,2.6,None,21.5,7.3,8.1,307.0,1.15,0.73,2.0,44.0,2.0
+4602,River Narmada At Semalda U/S Of Barwani,River,MADHYA PRADESH,2021,Safe,2.48,None,21.5,7.7,8.05,421.0,1.1,0.75,2.0,42.0,2.0
+4603,River Narmada At Koteshwar,River,MADHYA PRADESH,2021,Safe,2.48,None,21.5,7.65,7.95,336.5,1.1,0.805,2.0,41.0,2.0
+4605,"River Narmada At Kakrana, Interstate Boundry, Alirajpur",River,MADHYA PRADESH,2021,Safe,2.49,None,22.0,7.55,8.05,325.0,1.1,0.81,2.0,44.5,
+1236,"River Chota Tawa Before Confl. With Narmada, M.P.",River,MADHYA PRADESH,2021,Safe,2.72,None,21.0,6.9,7.85,463.5,1.2,0.66,2.0,55.0,
+2101,River Katni Near Nagar Nigam,River,MADHYA PRADESH,2021,Safe,4.47,None,23.8,5.55,7.75,499.5,1.9,1.05,6.0,286.0,2.0
+2114,River Kunda At Khargone,River,MADHYA PRADESH,2021,Safe,6.46,None,22.4,5.9,8.0,658.5,2.75,3.025,25.5,317.0,9.5
+3326,"River Simrar At Katni Near Acc W/S Intake Point, Jabalpur",River,MADHYA PRADESH,2021,Safe,3.94,None,23.7,5.8,7.8,447.5,1.7,1.015,3.0,187.5,2.0
+3828,"River Hiran, Nh 7 Road Bridge, Sihora, Dist Jabalpur",River,MADHYA PRADESH,2021,Safe,4.5,None,22.2,7.1,7.55,439.0,2.0,0.32,7.0,37.0,
+3829,"River Hiran, Nh -12 Road Bridge Vil Vikrampur ,Dist Narsingpur",River,MADHYA PRADESH,2021,Unsafe,9.86,High BOD,22.75,7.5,7.6,429.0,4.4,0.55,12.5,52.5,
+2115,River Tapi At Nepa Nagar 100 Metre D/S After Mixing Pandhar Nalla,River,MADHYA PRADESH,2021,Safe,4.07,None,22.25,6.9,8.3,372.5,1.8,1.27,8.5,55.0,4.0
+9,River Tapi At Nepanagar,River,MADHYA PRADESH,2021,Safe,4.37,None,24.5,6.0,8.0,481.0,1.95,1.095,2.0,41.0,2.0
+10,River Tapi At Burhanpur,River,MADHYA PRADESH,2021,Safe,4.72,None,22.5,6.9,8.0,461.0,1.9,1.415,106.0,99.0,13.0
+1250,River Tapi At Hatnur M.P.,River,MADHYA PRADESH,2021,Safe,4.74,None,23.0,6.85,8.05,2776.5,1.9,1.79,106.0,128.5,25.5
+2127,"River Denwa Near Sarni, Road Bridge",River,MADHYA PRADESH,2021,Safe,3.39,None,23.5,7.45,7.75,667.5,1.5,2.6,5.0,45.0,
+30059,River Wardha At Bangon Village Near Pandhurna (M.P.),River,MADHYA PRADESH,2021,Unsafe,23.32,"High Fecal Coliform, High Total Coliform",24.5,7.6,7.95,345.5,2.75,0.7,2701.0,8010.0,23.5
+1213,"River Wainganga At Balaghat, M.P.",River,MADHYA PRADESH,2021,Safe,3.15,None,22.4,7.6,7.55,325.5,1.4,0.3,4.0,28.0,
+3330,"River Wainganga At Chhapara, Near W/S Intake Point, Jabalpur",River,MADHYA PRADESH,2021,Safe,3.27,None,23.05,7.75,7.8,332.0,1.45,0.55,6.0,31.5,
+1214,"River Wainganga At Chindwara, M.P.",River,MADHYA PRADESH,2021,Safe,3.17,None,23.0,7.15,7.85,758.0,1.4,2.4,6.0,53.5,
+3331,"River Wainganga At Chhapara, Near Road Bridge After Mixing Moti & Chamariya Nalla, Jabalpur",River,MADHYA PRADESH,2021,Safe,4.53,None,22.95,7.0,7.85,319.0,2.0,0.5,8.0,68.5,
+3312,"River Kanhan At Chindwara Before Mixing Boregaon Growth Centre Nalla, Jabalpur",River,MADHYA PRADESH,2021,Unsafe,10.04,High BOD,26.5,7.35,7.7,789.0,4.5,2.55,5.0,39.0,

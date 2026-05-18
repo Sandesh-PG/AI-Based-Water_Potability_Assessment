@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { pdf } from '@react-pdf/renderer';
-import { fetchStationComparison, fetchStationTrends, fetchYearComparison, sendChatMessage } from '../services/api.js';
+import { fetchStationComparison, fetchStationTrends, fetchYearComparison, sendChatMessage, fetchSuggestedQuestions } from '../services/api.js';
 import { usePinnedStations } from '../contexts/PinnedStationsContext.jsx';
 import followUpQuestions from '../data/followup_questions.json';
 import AquaAIPDF from '../components/AquaAIPDFExport.jsx';
@@ -295,7 +295,7 @@ function getFollowUps(msg) {
   return general.slice(0, 3);
 }
 
-function AIChatMessage({ msg, isLast, onFollowUp }) {
+function AIChatMessage({ msg, isLast, onFollowUp, followups }) {
   if (msg.role === 'user') {
     return (
       <div className="ai-message ai-message-user">
@@ -327,6 +327,10 @@ function AIChatMessage({ msg, isLast, onFollowUp }) {
           </span>
         )}
       </div>
+
+      {msg.content && (
+        <div className="ai-message-content">{msg.content}</div>
+      )}
 
       {msg.violations?.length > 0 && (
         <div className="ai-violations-table">
@@ -385,17 +389,20 @@ function AIChatMessage({ msg, isLast, onFollowUp }) {
         </div>
       )}
 
-      {!msg.violations?.length && !msg.causes?.length && (
-        <div className="ai-message-content">{msg.content}</div>
-      )}
-
-      {isLast && onFollowUp && getFollowUps(msg).length > 0 && (
+      {isLast && (
         <div className="ai-followups">
           <div className="ai-followups-label">Suggested questions</div>
           <div className="ai-followups-chips">
-            {getFollowUps(msg).map((q) => (
-              <button key={q} className="ai-followup-chip" onClick={() => onFollowUp(q)}>
-                {q}
+            {(followups && followups.length > 0
+              ? followups.map(f => (typeof f === 'string' ? { text: f, reason: null } : f))
+              : getFollowUps(msg)).map((q) => (
+              <button
+                key={q.text || q}
+                className="ai-followup-chip"
+                onClick={() => onFollowUp(q.text || q)}
+                title={q.reason || (typeof q === 'string' ? 'Suggested follow-up' : '')}
+              >
+                {q.text || q}
               </button>
             ))}
           </div>
@@ -408,6 +415,7 @@ function AIChatMessage({ msg, isLast, onFollowUp }) {
 AIChatMessage.propTypes = {
   isLast: PropTypes.bool,
   onFollowUp: PropTypes.func,
+  followups: PropTypes.array,
   msg: PropTypes.shape({
     role: PropTypes.oneOf(['user', 'assistant']).isRequired,
     content: PropTypes.string,
@@ -440,9 +448,12 @@ function AquaAIView() {
   const [selectedYear, setSelectedYear] = useState('');
   const [trends, setTrends] = useState(null);
   const [comparison, setComparison] = useState(null);
+  const [showStationComparison, setShowStationComparison] = useState(true);
   const [yearCompare, setYearCompare] = useState({ a: '', b: '' });
   const [yearComparison, setYearComparison] = useState(null);
   const messagesEndRef = useRef(null);
+  const [suggestedQuestions, setSuggestedQuestions] = useState([]);
+  const inputRef = useRef(null);
 
   const stationOptions = useMemo(
     () => pinnedStations.map(station => ({
@@ -457,6 +468,36 @@ function AquaAIView() {
       messagesEndRef.current.scrollTop = messagesEndRef.current.scrollHeight;
     }
   }, [messages, loading]);
+
+
+  // Fetch dynamic suggested questions when assistant replies
+  useEffect(() => {
+    (async () => {
+      if (!messages || messages.length === 0) {
+        setSuggestedQuestions([]);
+        return;
+      }
+      const last = messages[messages.length - 1];
+      if (last.role !== 'assistant') {
+        setSuggestedQuestions([]);
+        return;
+      }
+
+      try {
+        // Only send a station_id when the assistant reply actually has station context.
+        const stationForSuggestions = last.has_station_context ? (selectedStationId || null) : null;
+        const suggestions = await fetchSuggestedQuestions(
+          stationForSuggestions,
+          selectedYear ? Number.parseInt(selectedYear, 10) : null,
+          last.violated_params || [],
+          last.safety_status || null,
+        );
+        setSuggestedQuestions(suggestions || []);
+      } catch (e) {
+        setSuggestedQuestions([]);
+      }
+    })();
+  }, [messages, selectedStationId, selectedYear]);
 
   useEffect(() => {
     if (!selectedStationId) { setTrends(null); return; }
@@ -474,6 +515,12 @@ function AquaAIView() {
       selectedYear || null,
     ).then(setComparison).catch(() => setComparison(null));
   }, [selectedStationId, compareStationId, selectedYear]);
+
+  useEffect(() => {
+    if (compareStationId) {
+      setShowStationComparison(true);
+    }
+  }, [compareStationId]);
 
   useEffect(() => {
     if (!selectedStationId || !yearCompare.a || !yearCompare.b
@@ -702,7 +749,18 @@ function AquaAIView() {
         </div>
       )}
       <YearComparePanel data={yearComparison} />
-      <ComparePanel comparison={comparison} />
+      {selectedStationId && compareStationId && (
+        <div className="ai-compare-toggle-row">
+          <button
+            type="button"
+            className="ai-compare-toggle-btn"
+            onClick={() => setShowStationComparison(prev => !prev)}
+          >
+            {showStationComparison ? 'Hide Station Comparison' : 'Show Station Comparison'}
+          </button>
+        </div>
+      )}
+      {showStationComparison && <ComparePanel comparison={comparison} />}
 
       <div className="ai-messages" ref={messagesEndRef}>
         {messages.map((msg, i) => (
@@ -710,7 +768,12 @@ function AquaAIView() {
             key={msg.id}
             msg={msg}
             isLast={i === messages.length - 1}
-            onFollowUp={(q) => submitMessage(q)}
+            followups={i === messages.length - 1 ? suggestedQuestions : []}
+            onFollowUp={(q) => {
+              // Prefill input and focus instead of immediate submit
+              setInput(q);
+              inputRef.current?.focus();
+            }}
           />
         ))}
 
@@ -746,6 +809,7 @@ function AquaAIView() {
 
       <form className="ai-input-bar" onSubmit={handleSubmit}>
         <input
+          ref={inputRef}
           type="text"
           value={input}
           onChange={(event) => setInput(event.target.value)}

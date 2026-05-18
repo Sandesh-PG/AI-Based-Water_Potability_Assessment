@@ -1,0 +1,51 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1425,Loktak Lake At Thana,Pond/Tank,MANIPUR,2020,Unsafe,25.02,High BOD,,24.0,7.1,7.25,177.0,3.25,,17.5,72.5
+1426,Loktak Lake At Bishnupur,Pond/Tank,MANIPUR,2020,Unsafe,25.02,High BOD,,24.5,7.2,7.1,185.0,3.15,,20.0,62.5
+1629,Loktak Lake At Sendra,Pond/Tank,MANIPUR,2020,Unsafe,25.02,High BOD,,24.0,6.9,7.3,180.0,3.25,,17.5,62.5
+1630,Loktak Lake At Karang Island,Pond/Tank,MANIPUR,2020,Unsafe,25.01,High BOD,,24.0,7.1,7.35,252.5,3.4,,6.0,35.0
+2837,Pumlen Lake At Tokpaching,Pond/Tank,MANIPUR,2020,Unsafe,25.02,High BOD,,23.0,7.2,7.4,260.0,3.5,,22.5,37.5
+2839,Pukhri At Langmeidong,Pond/Tank,MANIPUR,2020,Unsafe,25.01,High BOD,,23.0,7.25,7.45,290.0,3.55,,10.0,60.0
+2840,Lamjao Pukhuri At Achouba,Pond/Tank,MANIPUR,2020,Unsafe,25.0,High BOD,,23.5,7.0,7.5,270.0,3.25,,2.0,52.5
+2841,Hiranmei Pukhuri At Thoubal,Pond/Tank,MANIPUR,2020,Unsafe,25.23,"pH Out of Range, High BOD",,22.5,6.45,7.15,290.0,3.6,,40.0,135.0
+2842,Langmeidong Pukhuri At Thoubal,Pond/Tank,MANIPUR,2020,Unsafe,25.02,High BOD,,23.5,7.0,7.35,267.5,3.4,,15.0,70.0
+2843,Pond At Lalambung,Pond/Tank,MANIPUR,2020,Unsafe,25.01,High BOD,,23.0,6.5,7.25,230.0,3.45,,12.5,55.0
+2844,Lilong Pukhuri,Pond/Tank,MANIPUR,2020,Unsafe,25.01,High BOD,,22.0,6.9,7.65,190.0,3.6,,7.5,45.0
+2845,Pond At Ngairangbam,Pond/Tank,MANIPUR,2020,Unsafe,33.33,High BOD,,15.5,6.65,7.25,182.5,3.5,,,40.0
+2846,Pond At Moidangpok,Pond/Tank,MANIPUR,2020,Unsafe,25.01,High BOD,,23.5,6.8,7.0,132.5,3.3,,9.0,30.0
+2847,Pond At Maibam Lokpaching,Pond/Tank,MANIPUR,2020,Unsafe,25.02,High BOD,,24.5,6.8,7.15,202.0,3.45,,22.5,64.0
+2848,Pond At Kakwa Bazar,Pond/Tank,MANIPUR,2020,Unsafe,26.96,"pH Out of Range, High BOD",,23.0,6.0,7.65,410.0,3.8,,35.0,125.0
+2849,Chanam Pukhuri,Pond/Tank,MANIPUR,2020,Unsafe,26.38,"pH Out of Range, High BOD",,23.5,6.15,7.9,375.0,3.75,,30.0,110.0
+2850,Ningthem Pukhuri,Pond/Tank,MANIPUR,2020,Unsafe,25.03,High BOD,,22.5,6.6,7.45,230.0,3.75,,30.0,80.0
+2851,Pond At Kongba Bazar,Pond/Tank,MANIPUR,2020,Unsafe,27.75,"pH Out of Range, High BOD",,23.0,5.8,7.75,500.0,4.15,,57.5,305.0
+2836,Morambamarine Canal,MANIPUR,MANIPUR,2020,Unsafe,7.34,High BOD,23.0,7.0,7.35,260.0,3.25,,22.5,48.5,
+1424,River Imphal At Mahabali,River,MANIPUR,2020,Unsafe,7.31,High BOD,23.5,6.8,7.55,203.0,3.2,,27.5,120.0,
+1457,River Imphal At Koirengei,River,MANIPUR,2020,Safe,6.83,None,23.5,7.65,7.55,223.0,2.95,,42.5,140.0,
+1458,River Iril At Porampet,River,MANIPUR,2020,Unsafe,7.22,High BOD,22.5,7.15,7.55,285.0,3.15,,32.5,127.5,
+1624,River Iril At Lilong,River,MANIPUR,2020,Unsafe,7.67,High BOD,24.0,7.35,7.4,224.0,3.3,,55.0,152.5,
+1625,River Nambul At Hump Bridge,River,MANIPUR,2020,Unsafe,11.55,High BOD,16.5,5.15,7.05,472.0,4.65,,147.5,802.5,
+1626,River Nambul At Heirangoithong,River,MANIPUR,2020,Unsafe,13.25,"Low DO, High BOD",25.0,4.85,7.0,672.5,5.0,,182.5,1025.0,
+1627,River Imphal At Kiyamgi,River,MANIPUR,2020,Unsafe,7.39,High BOD,23.5,6.9,7.5,187.5,3.2,,40.0,155.0,
+1628,River Imphal At Minuthong,River,MANIPUR,2020,Unsafe,7.39,High BOD,24.5,6.95,7.5,228.0,3.2,,42.5,145.0,
+1925,River Khuga (Location Pl),River,MANIPUR,2020,Unsafe,7.52,High BOD,24.5,7.25,7.25,284.0,3.25,,45.0,152.5,
+1926,"River Khujairok River, Moreh",River,MANIPUR,2020,Unsafe,7.68,High BOD,24.5,5.05,7.45,355.0,3.2,,95.0,240.0,
+1927,"River Sekmai River, Kakching",River,MANIPUR,2020,Unsafe,7.91,High BOD,24.0,7.05,7.5,250.0,3.45,,40.0,120.0,
+2852,River Manipur At Sekmaijan,River,MANIPUR,2020,Unsafe,7.53,High BOD,19.5,7.4,7.6,266.0,3.25,,47.5,152.5,
+2855,River Wangjing At Heirok,River,MANIPUR,2020,Unsafe,7.09,High BOD,25.0,6.95,7.4,315.0,3.1,,30.0,115.0,
+2856,River Thoubal At Yairipok,River,MANIPUR,2020,Unsafe,7.29,High BOD,23.5,6.85,7.35,355.0,3.15,,37.5,190.0,
+2857,River Manipur At Thoubal,River,MANIPUR,2020,Safe,6.85,None,23.5,7.0,7.5,365.5,2.95,,42.5,162.5,
+2858,River Nambul At Samusang (U.K. Road),River,MANIPUR,2020,Unsafe,12.19,High BOD,25.5,5.05,6.65,329.0,4.85,,220.0,675.0,
+2859,River Singda Dam At Nambul River,River,MANIPUR,2020,Safe,6.57,None,25.0,7.65,7.3,161.5,2.95,,2.0,15.0,
+2860,River Nambul At Naoremthong,River,MANIPUR,2020,Unsafe,8.79,High BOD,25.0,6.15,6.75,285.5,3.65,,112.0,297.5,
+2861,"River Kangla Moat, Imphal West",River,MANIPUR,2020,Unsafe,9.36,High BOD,24.0,6.1,7.45,240.0,4.1,,37.5,130.0,
+2862,River Imphal At Samurou,River,MANIPUR,2020,Unsafe,14.58,"Low DO, High BOD",24.5,4.05,6.95,285.5,4.25,,162.0,877.5,
+2863,River Iril At Kangla Siphai,River,MANIPUR,2020,Unsafe,7.33,High BOD,23.5,6.45,7.25,231.0,3.2,,25.0,155.0,
+2864,River Imphal At Sekmai,River,MANIPUR,2020,Unsafe,7.08,High BOD,25.5,6.8,7.55,237.5,3.05,,42.5,175.0,
+2867,River Maha At Chandel,River,MANIPUR,2020,Unsafe,7.01,High BOD,24.0,7.0,7.35,252.5,3.1,,17.5,77.5,
+2870,River Thoubal At Shong Kong,River,MANIPUR,2020,Unsafe,7.05,High BOD,22.5,7.4,7.4,265.5,3.15,,10.0,20.0,
+2872,River Thoubal At Litan,River,MANIPUR,2020,Unsafe,6.85,High BOD,24.0,7.05,7.5,242.5,3.05,,10.0,42.5,
+2873,River Iril At Lilong,River,MANIPUR,2020,Unsafe,8.02,High BOD,28.0,6.8,7.45,320.0,3.45,,57.5,165.5,
+2876,"River Wangjing At Wangjing,",River,MANIPUR,2020,Unsafe,7.41,High BOD,24.0,6.95,7.4,276.5,3.2,,42.5,172.5,
+2877,River Khuga Dam On Khuga River,River,MANIPUR,2020,Unsafe,6.92,High BOD,23.5,7.3,7.3,194.0,3.1,,3.5,32.5,
+2878,River Lokchao At Bishnupur,River,MANIPUR,2020,Unsafe,7.04,High BOD,24.0,7.3,7.35,255.0,3.1,,17.5,110.0,
+2879,River Ethai Barrage On Manipur River,River,MANIPUR,2020,Unsafe,7.22,High BOD,23.5,7.4,7.35,285.0,3.1,,42.5,207.5,
+2880,River Nambul At Bishnupur,River,MANIPUR,2020,Unsafe,7.39,High BOD,24.0,7.15,7.2,257.0,3.2,,42.5,147.5,

@@ -1,0 +1,120 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1898,"Petrol Pump Opp. Hero Cycle, Ludhiana",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.5,1415.0,,1.2,,,
+1900,"Gurchaaran Singh Haibowal Dairy Complex, Ludhiana",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.85,5298.0,,2.85,,,
+1901,"Dusshera Ground Industrial Estate, Ludhiana",Groundwater,PUNJAB,2022,Safe,0.0,None,36.0,,7.4,1668.0,,1.65,,,
+1902,"Shukla Tea Stal Point, Ludhiana",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.8,1331.0,,1.0,,,
+1903,"Punjab Agricultural University, Ludhiana",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.85,455.5,,2.55,,,
+2916,"Near Landfill Site, Amritsar, Punjab",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.55,654.5,,2.22,,,
+2917,"Near Harmandir Saheb, Amritsar, Punjab",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.55,1055.0,,3.015,,,
+2918,"Dera Bassi, Punjab",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.4,2062.5,,1.445,,,
+2919,"Dera Bassi, Punjab",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.3,1980.0,,1.69,,,
+2920,"Hamira Village, Punjab",Groundwater,PUNJAB,2022,Safe,0.0,None,34.0,,7.4,1074.5,,0.81,,,
+2921,"Hamira Village, Punjab",Groundwater,PUNJAB,2022,Safe,0.0,None,33.5,,7.8,420.0,,,,,
+2922,"Leather Complex, Jalandhar, Punjab",Groundwater,PUNJAB,2022,Safe,0.0,None,34.0,,7.6,935.5,,2.86,,,
+2923,"Leather Complex, Jalandhar, Punjab",Groundwater,PUNJAB,2022,Safe,0.0,None,32.5,,7.45,1700.5,,1.135,,,
+2924,"Mandi Gobindgarh, Punjab",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.4,886.0,,0.6,,,
+2925,"Mandi Gobindgarh, Punjab",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.4,971.0,,0.85,,,
+2926,"Nangal, Punjab",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.7,857.0,,1.32,,,
+2927,"Nangal, Punjab",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.9,740.0,,0.99,,,
+2928,"Ropar, Punjab",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.8,688.0,,0.7,,,
+2929,"Ropar, Punjab",Groundwater,PUNJAB,2022,Safe,0.0,None,,,8.4,265.0,,,,,
+2930,"Toansa, Punjab",Groundwater,PUNJAB,2022,Safe,0.0,None,,,8.4,1452.0,,2.2,,,
+2931,"Toansa, Punjab",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.4,2538.0,,2.7,,,
+4134,"Tube Well At Rssb, Tibba Road, Ludhiana Industrial Area",Groundwater,PUNJAB,2022,Safe,0.0,None,,,8.0,594.5,,0.4,,,
+4135,"Msw Dumping Site, Jamalpur",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.6,1088.0,,0.865,,,
+4136,Stp Jamalpur,Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.55,1614.5,,2.72,,,
+4137,"Handpump In M/S Deep Steel Ltd, Mughal Majra, Mandi Gobbindgarh",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.35,1102.0,,1.555,,,
+4138,"Handpump, 149 Near Sant Pritam School, Ambey Majra, Mandi Gobindgarh",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.35,930.5,,0.905,,,
+4139,"Handpump At Park Adjoining To National Industries, E- 128, Ph-Iv, Focal Point Ludhiana",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.3,2125.0,,1.9,,,
+4140,"Handpump In Sahota Baghbani Farm, Vill Harian, Machiwara",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.3,1815.0,,1.6,,,
+4141,"Handpump Instrial Growth Centre, Defence Road, Pathankot",Groundwater,PUNJAB,2022,Safe,0.0,None,32.0,,7.7,325.0,,0.5,,,
+4142,"Handpump, Vill Dheriwal, Dist Pathankot",Groundwater,PUNJAB,2022,Safe,0.0,None,32.0,,7.4,310.0,,0.4,,,
+4143,"Handpump Near Ash Dykes Of Nabha Power Ltd, Vill Nalash, Rajpura",Groundwater,PUNJAB,2022,Safe,0.0,None,29.0,,7.8,832.0,,1.9,,,
+4144,Ground Water Sampling Blocation In Village Main,Groundwater,PUNJAB,2022,Safe,0.0,None,28.0,,7.95,563.5,,4.32,,,
+4145,"Sagar Para Drain Meeting With Ghaggar Near Vill Sagar Para, Patran",Groundwater,PUNJAB,2022,Safe,0.0,None,29.0,,8.2,577.0,,0.69,,,
+4147,"Near Ash Dykes Of Guru Nanak Thermal Power Plant/ Nfl, Bhatinda",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.95,2508.5,,5.06,,,
+4148,"Village Kanakwal/ Phukokari Ggs Hmel Refinery, Bhatinda",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.75,1292.5,,8.9,,,
+4149,"Ash Dykes Of Thermal Power Plant Lehra Mohabbat, Bhatinda",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.7,1049.5,,1.415,,,
+4150,"100 M D/S Of Vill Rurianwali, Dist Muktsar",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.95,2626.5,,2.04,,,
+4151,"Near Malbors Internationla P Ltd, Vill Mansoorwal, Dist Ferozpur",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.5,1985.0,,,,,
+4153,"Dashmesh Nagar, Gali No 12, Ludhiana",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.7,837.5,,4.155,,,
+4154,"Tssm Sr Sec School Shimlapuri, Ludhiana",Groundwater,PUNJAB,2022,Safe,0.0,None,36.0,,7.6,827.5,,0.85,,,
+4155,"Dairy Complex, Tajpur Road, Ludhiana Opp Satish Dairy Mear Amrit Dharam Kanta",Groundwater,PUNJAB,2022,Safe,0.0,None,,,7.55,777.5,,2.65,,,
+4156,"Handpump In Area On Sua Road Near Dhandari Kalan, Ludhiana",Groundwater,PUNJAB,2022,Safe,0.0,None,36.0,,7.45,960.0,,0.85,,,
+4157,"Handpump Shallow Tubewell In The Area Of Janta Nagar, Ludhiana",Groundwater,PUNJAB,2022,Safe,0.0,None,36.0,,7.55,1004.5,,1.0,,,
+1297,"Harike Lake At Harike Village, Punjab",Canal,PUNJAB,2022,Unsafe,20.91,High BOD,,23.5,8.1,7.95,301.5,1.85,1.35,1130.0,2300.0
+1382,"Harike Lake D/S From Canal, Punjab",Canal,PUNJAB,2022,Unsafe,20.93,High BOD,,23.0,8.0,7.95,284.5,2.05,1.65,1155.0,2615.0
+2912,"Ranjit Sagar Reservoir, Punjab",Canal,PUNJAB,2022,Unsafe,20.03,High BOD,,25.0,8.45,7.85,179.5,1.05,0.65,29.0,105.0
+4160,"River D/S After Mixing With Sagarpara Drain At Vill Rasouli, Patiala",River,PUNJAB,2022,Unsafe,67.6,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",21.5,3.1,7.6,636.5,17.0,2.45,5850.0,35500.0,
+1024,"River Ghaggar At 100M D/S Conf. With R. Saraswati (Patiala), Punjab",River,PUNJAB,2022,Unsafe,65.8,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",23.5,3.55,7.55,623.5,15.5,1.1,5200.0,31500.0,
+1698,"River Ghaggar At D/S Chhatbir, Punjab",River,PUNJAB,2022,Unsafe,66.2,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",25.0,3.25,7.6,635.5,18.5,1.15,4800.0,28500.0,
+1700,"River Ghaggar At D/S Dhakansu Nallah, Punjab",River,PUNJAB,2022,Unsafe,66.4,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",22.5,3.4,7.5,622.5,17.5,1.2,5150.0,29500.0,
+1701,"River Ghaggar At D/S Jharmal Nadi, Punjab",River,PUNJAB,2022,Unsafe,68.6,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",24.0,2.15,7.4,600.0,16.5,1.1,4300.0,28000.0,
+1704,"River Ghaggar At D/S Sardulgarh, Punjab",River,PUNJAB,2022,Unsafe,57.0,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",25.0,4.95,7.6,569.0,12.5,1.1,4200.0,28500.0,
+1703,"River Ghaggar At Moonak, Punjab",River,PUNJAB,2022,Unsafe,66.4,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",22.5,3.4,7.65,670.0,19.0,1.15,6550.0,35500.0,
+30015,River Ghaggar At Mubarakpur (Punjab),River,PUNJAB,2022,Unsafe,67.0,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",22.5,3.25,7.55,716.5,15.0,1.305,1000000.0,5000000.0,107000.0
+1023,"River Ghaggar At Mubarakpur Rest House (Patiala), Punjab",River,PUNJAB,2022,Unsafe,47.4,"High BOD, High Fecal Coliform, High Total Coliform",24.5,5.75,7.8,508.0,10.5,1.0,2750.0,20500.0,
+1473,"River Ghaggar At Ratanheri, D/S Of Patiala Nadi (After Confl.), Punjab",River,PUNJAB,2022,Unsafe,67.2,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",22.5,3.2,7.6,618.5,16.0,1.15,5200.0,29500.0,
+30019,River Ghaggar At Sirdulgarh(Punjab),River,PUNJAB,2022,Unsafe,21.89,"High BOD, High Total Coliform",25.75,5.4,7.9,1031.0,8.5,2.525,235.0,2600.0,220.0
+30016,"River Ghaggar At Tiwana Village ,(Punjab)",River,PUNJAB,2022,Unsafe,72.2,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",24.75,1.95,7.55,997.5,21.0,0.925,1000000.0,5000000.0,8230.0
+1699,"River Ghaggar At U/S Dhakansu Nallah, Punjab",River,PUNJAB,2022,Unsafe,58.4,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",22.5,3.7,7.65,566.5,15.0,1.05,3300.0,28500.0,
+1702,"River Ghaggar At U/S Jharmal Nadi, Punjab",River,PUNJAB,2022,Unsafe,58.6,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",24.0,3.65,7.5,542.5,15.0,1.1,3400.0,24500.0,
+1705,"River Ghaggar At U/S Sardulgarh, Punjab",River,PUNJAB,2022,Unsafe,49.0,"High BOD, High Fecal Coliform, High Total Coliform",26.0,5.35,7.5,516.5,11.0,1.0,2750.0,22500.0,
+4162,"River Ghaggar Confluence Point Of Sukhana Choe With Ghaggar, Vill Mubarkpur",River,PUNJAB,2022,Unsafe,77.2,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",25.0,0.7,7.55,1482.0,56.0,37.0,140000.0,390000.0,
+1295,"River Ghaggar Near Bankarpur, Dera Bassi, Punjab",River,PUNJAB,2022,Unsafe,62.2,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",24.5,3.9,7.4,598.0,17.5,1.1,4450.0,28000.0,
+4159,"River Ghaggar U/S Before Mixing With Sagarpara Drain At Vill Rasouli, Dist Patiala",River,PUNJAB,2022,Unsafe,65.0,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",23.0,3.55,7.6,588.5,15.0,1.15,4800.0,29500.0,
+20021,Jalandhar,Drain/STP/WTP,PUNJAB,2022,Unsafe,13.2,High Total Coliform,,,,6.9,,14.0,,3300.0,
+20022,"Ludhiana-1, Bhattian",Drain/STP/WTP,PUNJAB,2022,Unsafe,100.0,High Total Coliform,,,,7.25,,80.0,,140046.5,
+20023,"Ludhiana-2, Balloke",Drain/STP/WTP,PUNJAB,2022,Unsafe,100.0,High Total Coliform,,,,7.3,,100.0,,270001.0,2.0
+20025,Phagwara,Drain/STP/WTP,PUNJAB,2022,Safe,5.48,None,,,,7.4,,22.5,,1370.0,855.0
+20026,Phillaur,Drain/STP/WTP,PUNJAB,2022,Safe,3.4,None,,,,9.5,,15.5,,851.0,2.0
+20027,Kapurthala,Drain/STP/WTP,PUNJAB,2022,Safe,2.94,None,,,,7.35,,23.0,,735.0,770.0
+20028,Sultanpur Lodhi,Drain/STP/WTP,PUNJAB,2022,Unsafe,29.66,High Total Coliform,,,,7.7,,25.0,,7415.0,1070.0
+2906,"Dhanaula Drain Falling Into Lassara Drain Near Vill. Dhunas, Punjab",Drain/STP/WTP,PUNJAB,2022,Unsafe,59.1,"pH Out of Range, High BOD, High Total Coliform",,19.5,0.3,7.65,500.0,71.5,4.75,140000.0,355000.0
+2907,"Hudiara Drain At Vill. Dhahuke (Where It Enters Pakistan), Punjab",Drain/STP/WTP,PUNJAB,2022,Unsafe,59.1,"pH Out of Range, High BOD, High Total Coliform",,24.0,0.3,7.8,500.0,92.0,6.55,220000.0,565000.0
+2908,"Outlet Of Nadiala Drain Into Dhakansu Nallah, Punjab",Drain/STP/WTP,PUNJAB,2022,Unsafe,56.63,"pH Out of Range, High BOD, High Total Coliform",,22.0,1.1,7.4,500.0,41.0,3.1,45500.0,160000.0
+2909,Tallewal Drain At Bridge Jalwalan - Lohgarh Link Road,Drain/STP/WTP,PUNJAB,2022,Unsafe,56.63,"pH Out of Range, High BOD, High Total Coliform",,21.0,1.1,7.5,500.0,50.5,3.0,76000.0,235000.0
+2910,"Bridge On Tung Dhab Drain, Fatengarh Churian Road, Amritsar",Drain/STP/WTP,PUNJAB,2022,Unsafe,59.11,"pH Out of Range, High BOD, High Total Coliform",,24.0,0.3,7.45,500.0,100.0,9.5,315000.0,865000.0
+2914,"Point Sourse Budha Nallah, Punjab",Drain/STP/WTP,PUNJAB,2022,Unsafe,59.09,"pH Out of Range, High BOD, High Total Coliform",,22.0,0.3,7.3,500.0,100.0,4.4,3800000.0,7150000.0
+4158,"Sagarpara Drain At Vill Sagra Dist, Patiala",Drain/STP/WTP,PUNJAB,2022,Unsafe,43.62,"pH Out of Range, High BOD, High Total Coliform",,24.5,1.05,7.5,500.0,22.0,1.8,8550.0,77500.0
+30084,"River Beas At D/S Changarwa Village, (Punjab)",River,PUNJAB,2022,Unsafe,30.82,"High Fecal Coliform, High Total Coliform",21.0,8.95,8.15,252.0,1.9,0.62,1650.0,48300.0,49.0
+1693,"River Beas At Talwara H/W, Punjab",River,PUNJAB,2022,Safe,2.78,None,25.0,7.1,7.85,193.5,1.15,0.8,30.5,132.0,
+1694,"River Beas At U/S Pathankot, Punjab",River,PUNJAB,2022,Safe,3.53,None,26.0,8.45,8.05,260.0,1.3,0.85,105.0,285.0,
+1010,"River Beas At Mirthal Bridge, Gurdaspur",River,PUNJAB,2022,Safe,3.72,None,26.0,8.2,8.0,271.5,1.35,0.95,125.0,280.0,46.0
+1695,"River Beas D/S Pathankot, Punjab",River,PUNJAB,2022,Safe,3.65,None,26.0,8.1,8.1,253.0,1.25,0.8,141.5,385.0,
+1294,"River Beas At 1Km.D/S Of Effl. Dish. Point At Mukerian , Punjab",River,PUNJAB,2022,Safe,3.98,None,22.0,8.7,7.75,254.5,1.35,1.0,169.0,385.0,
+1696,"River Beas U/S Goindwal, Punjab",River,PUNJAB,2022,Safe,3.08,None,22.5,8.3,8.0,209.0,1.15,0.85,88.0,220.0,
+1697,"River Beas At Harike, Punjab",River,PUNJAB,2022,Safe,3.52,None,22.5,8.4,7.8,213.5,1.15,1.0,169.0,370.0,
+1011,River Beas At G.T. Road Under Bdg. Near Kapurthala,River,PUNJAB,2022,Safe,3.47,None,22.0,8.55,7.9,218.0,1.2,0.95,140.0,305.0,
+1012,River Beas At 100M D/S Indust. Disch. Goindwal,River,PUNJAB,2022,Safe,3.37,None,23.0,8.15,7.95,207.0,1.2,0.9,120.0,285.0,
+4164,"River Beas River, Nr Vill Kiri Afghana, Tehsil Batala, Gurdaspur",River,PUNJAB,2022,Safe,3.37,None,22.5,8.3,7.8,244.5,1.2,1.15,120.0,285.0,
+30010,River Sutlej At Noorpur Bedi Road (Punjab),River,PUNJAB,2022,Unsafe,13.38,"High Fecal Coliform, High Total Coliform",22.0,8.9,7.85,255.0,,0.67,1205.0,7350.0,130.0
+1814,"River Sutlej At D/S Kiratpur Sahib, Punjab",River,PUNJAB,2022,Safe,1.46,None,18.0,9.3,8.05,267.5,,1.5,171.0,600.0,
+2915,"River Sutlej At 100 Mt. D/S Of Pacl, Nangal, Punjab",River,PUNJAB,2022,Safe,0.67,None,16.5,9.5,7.85,244.0,,1.5,80.0,265.0,
+1380,"River Sutlej At D/S Nfl, Punjab",River,PUNJAB,2022,Safe,0.57,None,16.0,9.6,7.95,243.5,,1.55,60.0,275.0,
+10020,River Sutlej At Anandpur Sahib,River,PUNJAB,2022,Safe,1.17,None,19.5,8.9,7.95,311.5,,1.7,144.0,455.0,
+10021,River Sutlej At Bunga Sahib,River,PUNJAB,2022,Safe,1.6,None,18.0,9.55,7.9,247.0,,1.5,195.0,625.0,
+10022,River Sutlej At Phillaur U/S,River,PUNJAB,2022,Unsafe,13.38,"High Fecal Coliform, High Total Coliform",22.5,6.8,7.75,380.0,2.8,1.4,1230.0,2800.0,
+10023,River Sutlej At Phagwara U/S (Chaheru Bridge),River,PUNJAB,2022,Unsafe,30.56,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",21.5,4.35,7.75,734.0,12.5,1.25,1210.0,3900.0,
+10024,River Sutlej At Phagwara D/S (Kanganiwal Bridge),River,PUNJAB,2022,Unsafe,65.92,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",23.0,1.2,7.75,919.5,18.5,1.4,4950.0,13650.0,
+10027,River Sutlej At Ludhiana U/S,River,PUNJAB,2022,Unsafe,7.86,High Fecal Coliform,20.5,8.15,8.15,297.0,1.2,1.85,865.0,2170.0,
+10028,River Sutlej At Ludhiana D/S,River,PUNJAB,2022,Unsafe,64.0,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",21.0,4.0,7.6,722.0,20.3,2.25,33000.0,94000.0,
+1017,"River Sutlej At 100M U/S Of Headworks, Nangal",River,PUNJAB,2022,Safe,0.56,None,15.0,8.15,7.95,220.5,,1.5,74.0,190.0,
+1018,"River Sutlej At 100M D/S , Nangal",River,PUNJAB,2022,Safe,0.62,None,18.0,9.05,8.0,264.0,,1.45,60.5,320.0,
+1293,"River Sutlej At 1 Km. D/S Of Zenith, Punjab",River,PUNJAB,2022,Unsafe,6.17,High Fecal Coliform,18.0,8.35,7.95,353.5,,1.5,810.0,2120.0,
+1019,River Sutlej At U/S Head Works Ropar,River,PUNJAB,2022,Unsafe,4.94,High Fecal Coliform,18.0,8.45,7.95,292.5,,1.6,590.0,1990.0,
+1690,"River Sutlej At U/S Budha Nallah (Upper), Punjab",River,PUNJAB,2022,Unsafe,9.1,"High Fecal Coliform, High Total Coliform",19.5,7.1,7.8,346.0,1.25,2.1,1050.0,2650.0,
+1020,"River Sutlej At 100M D/S Budha Nala Confl., Ludhiana",River,PUNJAB,2022,Unsafe,57.25,"Low DO, High BOD, High Fecal Coliform",21.0,3.55,7.45,817.0,71.3,2.5,70000.0,,
+1022,"River Sutlej At Bridge Harike, Amritsar",River,PUNJAB,2022,Unsafe,14.73,"High Fecal Coliform, High Total Coliform",20.5,6.2,7.85,440.0,2.6,1.8,1440.0,4000.0,
+10025,River Sutlej At Jalandhar U/S (Peeru Shah Ka Dargah),River,PUNJAB,2022,Unsafe,75.0,"Low DO, High BOD, High Fecal Coliform",23.5,0.0,7.4,1001.0,67.5,4.1,33000.0,,
+10026,River Sutlej At Jalandhar D/S (Malsian Bridge),River,PUNJAB,2022,Unsafe,80.0,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",23.5,0.0,7.5,924.5,68.5,5.9,22000.0,79000.0,
+1021,"River Sutlej At Boat Bdg. Dharmkotnakodar Road, Jalandhar",River,PUNJAB,2022,Unsafe,63.6,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",20.5,3.7,7.8,671.5,35.7,2.15,4600.0,70000.0,
+1381,"River Sutlej At D/S East Bein, Punjab",River,PUNJAB,2022,Unsafe,65.6,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",21.0,3.6,7.75,676.0,19.75,2.4,31000.0,84000.0,
+1691,"River Sutlej At U/S Hussaniwala - H/W Ferozepur, Punjab",River,PUNJAB,2022,Unsafe,7.32,High Fecal Coliform,20.5,7.2,7.75,292.5,1.2,1.55,775.0,1940.0,
+1692,"River Sutlej At D/S Hussaniwala-H/W Ferozepur, Punjab",River,PUNJAB,2022,Unsafe,8.25,High Fecal Coliform,20.5,7.05,7.8,297.0,1.3,1.6,940.0,2005.0,
+30085,River Ravi At Madhopur (Punjab),River,PUNJAB,2022,Unsafe,42.66,"High Fecal Coliform, High Total Coliform",21.0,9.6,8.2,178.0,1.2,0.42,11522.5,55165.0,79.0
+1097,"River Ravi At U/S Of Madhopur Headworks, Gurdaspur, Punjab",River,PUNJAB,2022,Safe,2.76,None,24.5,8.8,7.9,189.5,1.15,0.6,25.0,132.0,
+30012,"River Sarsa At Baddi , ,Ghanoli Village) Punjab",River,PUNJAB,2022,Unsafe,60.0,"High BOD, High Fecal Coliform, High Total Coliform",24.0,6.7,8.0,1124.5,9.5,5.125,462450.0,1205500.0,615.0
+4161,"River Confluence Point Of Sarsa Nadi With With Sutlej,",River,PUNJAB,2022,Safe,5.4,None,18.0,8.55,8.05,404.0,1.2,1.85,455.0,1140.0,
+30011,"River Swan At Dhangla Village, Santoshgarh (Punjab)",River,PUNJAB,2022,Unsafe,38.98,"High Fecal Coliform, High Total Coliform",26.0,9.0,8.15,449.5,2.1,1.065,6560.0,17895.0,108.0
+2913,"River Kali Bein Falling Into Beas, Punjab",River,PUNJAB,2022,Unsafe,10.2,High Fecal Coliform,23.55,5.8,7.7,286.0,2.2,1.35,830.0,2500.0,

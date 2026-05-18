@@ -1,0 +1,105 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+19,"Well At Eloor, Kerala",Groundwater,KERALA,2017,Unsafe,11.11,"pH Out of Range, High Total Coliform",27.4,,5.75,117.5,1.2,100.0,350.0,3150.0,
+22,"Well At Chungapally, Kerala",Groundwater,KERALA,2017,Safe,3.2,None,28.0,,7.25,135.5,0.8,100.0,195.0,1.25,
+35,"Well At Punalur, Kerala",Groundwater,KERALA,2017,Safe,4.84,None,25.75,,6.55,235.5,1.6,25.0,80.0,0.505,
+1581,"Pappanamkode, Thiruvananthapuram, Kerala",Groundwater,KERALA,2017,Unsafe,4.46,pH Out of Range,31.5,,6.15,540.0,0.9,72.5,122.5,0.0,
+1583,"Kundara, Kollam Distt. , Kerala",Groundwater,KERALA,2017,Safe,2.4,None,25.25,,6.8,179.0,0.8,10.0,35.0,0.39,
+1584,"Cherthala, Alleppy, Kerala",Groundwater,KERALA,2017,Safe,6.83,None,29.0,,7.55,338.0,2.1,100.0,201.0,0.115,
+1585,"Vyttila, Ernakulam Distt. , Kerala",Groundwater,KERALA,2017,Unsafe,25.77,High Fecal Coliform,29.05,,7.25,437.5,2.35,100.0,3850.0,3.125,
+1586,"Edayar Ernakulam Distt., Kerala",Groundwater,KERALA,2017,Unsafe,9.8,pH Out of Range,27.45,,5.7,165.0,2.15,16.0,150.5,0.675,
+1587,"Kalamassery Ernakulam Distt. , Kerala",Groundwater,KERALA,2017,Unsafe,9.96,pH Out of Range,27.5,,5.9,310.5,2.2,100.0,309.5,3.515,
+1588,"Punkunnam Trissur Distt. , Kerala",Groundwater,KERALA,2017,Safe,2.74,None,30.0,,7.7,329.5,0.5,100.0,270.0,2.6,
+1589,"Malapuram , Kerala",Groundwater,KERALA,2017,Safe,4.48,None,31.0,,7.65,297.5,1.5,30.0,62.0,2.76,
+1590,"Mavoor, Kozhikkode Distt. , Kerala",Groundwater,KERALA,2017,Safe,2.01,None,28.0,,7.25,104.5,0.5,76.0,124.0,2.7,
+1591,"Kannur (Municipality) Kannur Disttm , Kerala",Groundwater,KERALA,2017,Unsafe,18.19,"pH Out of Range, High Fecal Coliform",27.0,,4.65,99.0,1.0,100.0,1660.0,2.95,
+1592,"Payyannur, Kannur Distt. , Kerala",Groundwater,KERALA,2017,Unsafe,5.09,pH Out of Range,28.5,,6.15,306.0,0.85,100.0,276.0,3.865,
+2308,Fathimapuram (Changanassery),Groundwater,KERALA,2017,Unsafe,6.96,"pH Out of Range, High Fecal Coliform",27.5,,6.2,177.5,0.2,100.0,1050.0,3.145,
+2309,Karoor (Pala),Groundwater,KERALA,2017,Unsafe,9.5,"pH Out of Range, High Fecal Coliform",27.25,,5.9,70.0,0.7,100.0,1050.0,1.93,
+2310,Vaikom,Groundwater,KERALA,2017,Safe,5.42,None,28.5,,7.2,203.0,1.95,0.0,2.0,2.605,
+2311,Vadavathoor (Kottayam),Groundwater,KERALA,2017,Unsafe,11.86,"pH Out of Range, High Fecal Coliform",27.5,,5.85,163.5,1.75,100.0,900.0,2.325,
+2313,"Sarvodapuram, Alappuzha",Groundwater,KERALA,2017,Safe,5.52,None,29.0,,7.45,600.0,1.5,100.0,271.0,0.12,
+2314,Kureepuzha (Kollam),Groundwater,KERALA,2017,Safe,6.88,None,26.0,,6.95,213.5,2.0,90.0,265.0,0.505,
+2315,K.M.M.L. (Kollam),Groundwater,KERALA,2017,Safe,7.69,None,25.75,,8.05,490.0,2.25,95.0,290.0,0.56,
+2316,Chellora Trenching Ground (Kannur),Groundwater,KERALA,2017,Unsafe,12.07,pH Out of Range,27.5,,4.7,109.5,1.25,100.0,335.0,0.745,
+2317,Punnalpettippalam (Tellicherry Municipality,Groundwater,KERALA,2017,Unsafe,6.96,pH Out of Range,27.5,,5.85,255.5,0.75,81.0,475.0,6.665,
+2320,Manjeri,Groundwater,KERALA,2017,Unsafe,10.21,High BOD,30.75,,6.85,188.5,3.6,22.0,43.0,0.975,
+2321,Laloor (Thrissur),Groundwater,KERALA,2017,Safe,5.91,None,29.5,,6.85,176.5,1.3,100.0,460.0,2.85,
+2322,Ollur (Thrissur),Groundwater,KERALA,2017,Unsafe,7.86,pH Out of Range,30.0,,6.05,258.5,1.55,65.0,365.0,4.4,
+1383,"Oruvathilkotta Lake, Kerala",Pond/Tank,KERALA,2017,Unsafe,24.43,"pH Out of Range, High BOD",,31.5,5.3,6.75,500.0,8.5,0.6,925.0,2370.0
+1385,"Sasthamcotta Lake, Kerala",Pond/Tank,KERALA,2017,Unsafe,22.56,"pH Out of Range, High BOD",,26.0,5.7,6.7,137.0,1.8,0.74,120.0,300.0
+1441,"Ashthamudi Lake At Quilon, Kerala",Pond/Tank,KERALA,2017,Unsafe,20.97,"pH Out of Range, High BOD",,24.0,6.25,7.2,500.0,1.9,1.115,250.0,580.0
+1574,"Paravur, Kerala",Pond/Tank,KERALA,2017,Unsafe,20.95,"pH Out of Range, High BOD",,26.5,6.25,7.25,500.0,2.0,1.105,220.0,490.0
+1575,"Kochi (Oil Tanker Jetty), Kerala",Pond/Tank,KERALA,2017,Unsafe,29.85,"pH Out of Range, High BOD, High Total Coliform",,30.0,5.55,7.35,500.0,2.25,0.735,8655.0,35380.0
+1576,"Thekkady, Kerala",Pond/Tank,KERALA,2017,Unsafe,26.63,"pH Out of Range, High BOD",,27.0,4.45,7.1,57.5,0.25,1.175,401.0,1401.0
+1577,"Kodungalloor, Kerala",Pond/Tank,KERALA,2017,Unsafe,42.31,"pH Out of Range, High BOD, High Total Coliform",,28.5,5.75,7.35,500.0,2.2,0.505,47200.0,60235.0
+1578,"Kayamkulam, Kerala",Pond/Tank,KERALA,2017,Unsafe,23.28,"pH Out of Range, High BOD",,28.75,5.5,7.5,500.0,2.5,0.29,250.0,435.0
+1579,"Alappuzha, Kerala",Pond/Tank,KERALA,2017,Unsafe,22.35,"pH Out of Range, High BOD",,28.0,5.8,7.15,500.0,3.5,0.275,240.0,440.0
+1580,"Pookote, Kerala",Pond/Tank,KERALA,2017,Unsafe,21.55,"pH Out of Range, High BOD",,27.75,6.0,7.15,29.0,1.3,0.115,18.0,58.0
+2312,Lake Vembanadu At Pathiramanal (Alappuzha),Pond/Tank,KERALA,2017,Unsafe,20.13,High BOD,,27.75,6.8,7.3,500.0,1.85,0.175,160.0,280.0
+2318,Pazhassi Reservoir (Kannur),Pond/Tank,KERALA,2017,Unsafe,20.23,High BOD,,28.0,7.1,7.05,500.0,1.45,0.315,282.0,690.0
+2328,Rsvr At Malampuzha,Pond/Tank,KERALA,2017,Unsafe,22.74,"pH Out of Range, High BOD",,28.5,5.65,7.55,137.5,4.45,0.495,148.0,181.0
+2329,Rsvr At Bhoothathanketu,Pond/Tank,KERALA,2017,Unsafe,23.78,"High BOD, High Total Coliform",,27.85,7.2,6.8,31.0,1.25,300.375,3225.0,3952.0
+2330,Rsvr At Edamalayar,Pond/Tank,KERALA,2017,Unsafe,39.6,"High BOD, High Total Coliform",,28.4,7.35,6.95,27.5,1.15,0.13,24501.0,39508.5
+3470,"Vellayani Lake At Vandithadom, Thiruvananthapuram",Pond/Tank,KERALA,2017,Unsafe,20.27,High BOD,,31.5,6.5,6.5,157.5,1.35,0.025,340.0,780.0
+2325,Pond At (Padmanabha) Sree Padmanabha Swamy Temple (Tvpm),Pond/Tank,KERALA,2017,Unsafe,20.61,"pH Out of Range, High BOD",,31.5,6.35,7.45,144.5,1.65,0.25,190.0,415.0
+3462,Mananchira Pond At Kozhekode,Pond/Tank,KERALA,2017,Unsafe,20.2,High BOD,,26.5,6.85,7.6,93.5,0.9,0.155,251.0,451.0
+GEN-70EFDF,17,River,KERALA,2017,Unsafe,59.97,"High BOD, High Total Coliform",,,,26.0,18.3,6.7,53.8,19705.25,2.04
+GEN-6F4922,18,River,KERALA,2017,Unsafe,33.5,High BOD,,,,26.0,17.2,7.1,18.8,31.9,0.94
+GEN-98F137,20,River,KERALA,2017,Unsafe,33.54,High BOD,,,,22.0,18.1,7.3,21.65,45.0,1.155
+GEN-3C59DC,21,River,KERALA,2017,Unsafe,60.88,"High BOD, High Total Coliform",,,,25.0,18.3,7.6,31.4,20500.25,0.62
+GEN-E22312,1156,River,KERALA,2017,Unsafe,33.54,High BOD,,,,26.0,15.75,6.35,24.35,31.6,0.655
+GEN-D10EC7,1339,River,KERALA,2017,Unsafe,33.55,High BOD,,,,27.0,17.55,6.85,23.85,46.1,1.215
+GEN-4F8765,1340,River,KERALA,2017,Unsafe,33.68,High BOD,,,,27.0,16.75,6.7,33.15,95.3,1.105
+GEN-33EBD5,1341,River,KERALA,2017,Unsafe,33.56,High BOD,,,,27.0,15.0,5.7,26.1,41.55,1.655
+GEN-5E1B18,1342,River,KERALA,2017,Unsafe,33.81,High BOD,,,,25.0,17.05,6.95,58.75,65.55,1.09
+GEN-5CA3E9,1384,River,KERALA,2017,Unsafe,33.71,High BOD,,,,22.5,17.4,6.85,33.1,119.7,1.265
+GEN-F69E50,1442,River,KERALA,2017,Unsafe,34.0,High BOD,,,,30.0,18.9,6.45,53.4,235.0,1.025
+GEN-8FB5F8,1443,River,KERALA,2017,Unsafe,33.82,High BOD,,,,24.0,16.75,6.95,58.75,72.5,0.76
+GEN-4D6E47,1563,River,KERALA,2017,Unsafe,33.69,High BOD,,,,29.0,19.5,6.4,41.4,60.45,0.525
+GEN-FACF9F,1564,River,KERALA,2017,Unsafe,33.83,High BOD,,,,24.0,15.25,6.95,58.85,79.5,1.06
+GEN-D961E9,1565,River,KERALA,2017,Unsafe,33.57,High BOD,,,,27.0,15.35,6.3,28.05,36.6,0.98
+GEN-BE53EE,1566,River,KERALA,2017,Unsafe,33.75,High BOD,,,,29.0,18.65,6.75,34.6,140.15,1.51
+GEN-18D10D,1567,River,KERALA,2017,Unsafe,33.45,High BOD,,,,26.0,18.55,7.25,13.65,17.0,2.51
+GEN-DFA92D,1568,River,KERALA,2017,Unsafe,33.52,High BOD,,,,25.0,17.65,6.95,17.65,49.0,0.525
+GEN-655EA4,1569,River,KERALA,2017,Unsafe,65.01,"High BOD, High Total Coliform",,,,25.0,18.3,6.9,50.75,23500.2,1.53
+GEN-7949E4,1570,River,KERALA,2017,Unsafe,67.01,"High BOD, High Total Coliform",,,,25.0,15.6,6.6,51.45,25000.25,1.105
+GEN-7BD28F,1571,River,KERALA,2017,Unsafe,33.58,High BOD,,,,24.0,17.35,6.75,27.55,49.05,1.5
+GEN-452BF2,1572,River,KERALA,2017,Unsafe,33.58,High BOD,,,,25.0,18.0,7.4,29.35,40.1,1.255
+GEN-A1AFC5,1573,River,KERALA,2017,Unsafe,40.22,"High BOD, High Total Coliform",,,,26.0,19.8,5.85,62.6,4850.4,2.405
+GEN-80537A,2284,River,KERALA,2017,Unsafe,33.7,High BOD,,,,30.0,19.9,6.95,38.5,81.25,0.425
+GEN-AE1EAA,2285,River,KERALA,2017,Unsafe,33.69,High BOD,,,,30.0,19.7,6.75,41.95,60.55,0.925
+GEN-FA2431,2286,River,KERALA,2017,Unsafe,33.74,High BOD,,,,30.0,19.7,6.5,47.9,65.3,0.475
+GEN-5B8E4F,2287,River,KERALA,2017,Unsafe,77.88,"High BOD, High Fecal Coliform, High Total Coliform",,,,21.0,15.05,6.9,6118.75,8410.6,1.85
+GEN-C36142,2288,River,KERALA,2017,Unsafe,33.88,High BOD,,,,25.0,17.7,7.0,65.75,80.5,1.1
+GEN-117796,2290,River,KERALA,2017,Unsafe,33.8,High BOD,,,,26.0,16.7,7.0,46.4,115.3,1.905
+GEN-98E6F1,2291,River,KERALA,2017,Unsafe,33.82,High BOD,,,,26.0,18.45,7.65,49.4,120.55,3.21
+GEN-47810F,2292,River,KERALA,2017,Unsafe,54.02,"High BOD, High Total Coliform",,,,29.5,17.3,6.35,27.7,15375.3,1.81
+GEN-5F6371,2293,River,KERALA,2017,Unsafe,33.65,High BOD,,,,29.0,18.3,7.25,32.75,71.65,1.825
+GEN-229754,2294,River,KERALA,2017,Unsafe,69.25,"High BOD, High Total Coliform",,,,22.0,15.55,5.55,387.5,25490.35,2.285
+GEN-16026D,2295,River,KERALA,2017,Unsafe,61.36,"High BOD, High Total Coliform",,,,24.0,16.7,7.3,168.4,20180.0,0.71
+GEN-130F1A,2296,River,KERALA,2017,Unsafe,34.35,High BOD,,,,25.0,15.8,7.25,32.1,600.1,1.38
+GEN-E069EA,2297,River,KERALA,2017,Unsafe,33.64,High BOD,,,,24.0,16.25,7.55,24.65,105.85,1.475
+GEN-3DE568,2298,River,KERALA,2017,Unsafe,33.54,High BOD,,,,23.0,19.25,7.5,21.75,49.55,1.025
+GEN-40B5F2,2299,River,KERALA,2017,Unsafe,67.09,"High BOD, High Total Coliform",,,,26.0,16.75,7.15,62.85,29950.1,1.525
+GEN-46A558,2300,River,KERALA,2017,Unsafe,33.54,High BOD,,,,24.0,16.95,6.95,19.7,60.05,1.97
+GEN-2B45C6,2301,River,KERALA,2017,Unsafe,35.85,High BOD,,,,24.0,16.8,6.4,22.85,1774.65,2.055
+GEN-FFEDF5,2302,River,KERALA,2017,Unsafe,60.28,"High BOD, High Total Coliform",,,,24.0,16.45,7.5,41.65,20000.15,1.105
+GEN-D827F1,2303,River,KERALA,2017,Unsafe,33.56,High BOD,,,,24.0,17.95,7.15,25.4,41.05,1.205
+GEN-E6C2DC,2304,River,KERALA,2017,Unsafe,67.53,"High BOD, High Total Coliform",,,,24.0,18.25,6.8,129.9,25500.0,1.555
+GEN-2D2CA7,2305,River,KERALA,2017,Unsafe,33.59,High BOD,,,,24.0,17.45,7.3,30.35,42.15,1.505
+GEN-F976B5,2306,River,KERALA,2017,Unsafe,67.04,"High BOD, High Total Coliform",,,,25.0,18.15,7.05,56.45,26055.1,1.6
+GEN-621108,2307,River,KERALA,2017,Unsafe,33.69,High BOD,,,,24.0,16.85,7.3,39.1,75.25,1.405
+GEN-A11F9E,2319,River,KERALA,2017,Unsafe,55.43,"High BOD, High Total Coliform",,,,25.0,17.4,7.1,28.7,16430.15,1.37
+GEN-F1E2B2,2326,River,KERALA,2017,Unsafe,35.18,High BOD,,,,28.0,15.75,8.7,181.6,477.7,1.605
+GEN-273448,2331,River,KERALA,2017,Unsafe,33.96,High BOD,,,,26.0,18.8,8.0,9.0,424.55,1.55
+GEN-E77DBA,2332,River,KERALA,2017,Unsafe,34.17,High BOD,,,,26.0,18.4,7.5,91.65,170.15,3.405
+GEN-F7E0B9,2333,River,KERALA,2017,Unsafe,33.61,High BOD,,,,22.2,18.35,6.45,26.1,74.25,1.34
+GEN-7E3B7A,2334,River,KERALA,2017,Unsafe,55.1,"High BOD, High Total Coliform",,,,26.0,17.3,7.8,15.55,16250.35,2.65
+GEN-7B4773,2335,River,KERALA,2017,Unsafe,33.66,High BOD,,,,26.0,16.7,6.2,31.5,85.3,1.855
+GEN-A3EB04,2336,River,KERALA,2017,Unsafe,46.19,"High BOD, High Total Coliform",,,,26.0,18.05,7.2,27.75,9500.2,1.26
+GEN-806FEC,2337,River,KERALA,2017,Unsafe,33.75,High BOD,,,,26.8,16.5,4.1,43.55,95.3,3.225
+GEN-B6CDA1,2338,River,KERALA,2017,Unsafe,33.68,High BOD,,,,26.0,16.0,4.85,39.15,66.6,2.65
+GEN-E3EA33,3458,River,KERALA,2017,Unsafe,33.78,High BOD,,,,27.1,16.9,7.1,52.25,70.6,1.165
+GEN-51E6D6,3464,River,KERALA,2017,Unsafe,33.53,High BOD,,,,24.0,18.8,7.3,18.0,57.0,0.565
+1207,"Kabini At Muthankara, Kerala",Canal,KERALA,2017,Safe,3.45,None,27.05,6.55,6.85,85.0,1.2,0.2,110.0,431.0,
+1208,"Bhavani At Elachivazhy, Kerala",Canal,KERALA,2017,Safe,6.69,None,27.0,7.0,7.4,228.5,2.9,0.5,41.0,105.0,

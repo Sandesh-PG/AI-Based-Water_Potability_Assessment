@@ -1,0 +1,54 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1748,Handpump In Village Damauda At Kashipur Near M/S India Glycoles Ltd.,Groundwater,UTTARAKHAND,2020,Safe,12.21,None,31.5,,7.65,304.0,2.2,,,,
+3441,Ground Water At Sitar Ganj Industrial Area- 2,Groundwater,UTTARAKHAND,2020,Unsafe,33.3,High BOD,30.0,,6.95,504.5,6.0,,,,
+3442,Ground Water At Pantnagar Industrial Area- 1,Groundwater,UTTARAKHAND,2020,Safe,8.32,None,31.5,,7.35,370.0,1.5,,,,
+3443,Ground Water At Pantnagar Industrial Area- 2,Groundwater,UTTARAKHAND,2020,Safe,11.65,None,31.5,,7.3,346.5,2.1,,,,
+3444,Ground Water At Santipuri Kichha- 1,Groundwater,UTTARAKHAND,2020,Safe,12.21,None,32.0,,7.1,376.0,2.2,,,,
+3445,Ground Water At Santipuri Kichha- 2,Groundwater,UTTARAKHAND,2020,Safe,9.99,None,31.5,,7.35,363.0,1.8,,,,
+3446,Ground Water At Kashipur Moradabad Road- 1,Groundwater,UTTARAKHAND,2020,Safe,10.27,None,28.0,,7.65,345.0,1.85,,,,
+3447,Ground Water At Kashipur Moradabad Road- 2,Groundwater,UTTARAKHAND,2020,Safe,9.99,None,28.5,,7.35,377.0,1.8,,,,
+3448,Ground Water At Kashipur Bajpur Road- 1,Groundwater,UTTARAKHAND,2020,Unsafe,33.3,High BOD,33.0,,7.2,300.0,6.0,,,,
+3449,Ground Water At Kashipur Bajpur Road- 2,Groundwater,UTTARAKHAND,2020,Safe,10.54,None,31.0,,7.4,392.0,1.9,,,,
+3450,"Ground Water At Sidcul Industrial Area- 1, Roshanabad Collectorate, Haridwar",Groundwater,UTTARAKHAND,2020,Safe,11.1,None,22.0,,7.0,555.0,2.0,,,,
+3451,"Ground Water At Sidcul Industrial Area- 2, Saleempur Chowk,Roorkee,Hari Dwar",Groundwater,UTTARAKHAND,2020,Safe,0.0,None,28.0,,7.3,604.0,,,,,
+3452,Ground Water At Bhagwan Industrial Area- 1,Groundwater,UTTARAKHAND,2020,Safe,0.0,None,26.0,,7.8,356.0,,,,,
+3453,"Ground Water At Bhagwan Industrial Area- 2, Sikanderpur, Lakheswari, Roorkee, Haridwar",Groundwater,UTTARAKHAND,2020,Safe,0.0,None,25.0,,7.3,552.0,,,,,
+3456,"Ground Water At Selaqui Industrial Area- 1, Dehradun",Groundwater,UTTARAKHAND,2020,Safe,0.0,None,17.0,,7.5,125.0,,,,2.0,
+3457,"Ground Water At Selaqui Industrial Area- 2, Dehradun",Groundwater,UTTARAKHAND,2020,Safe,0.0,None,18.0,,7.5,210.0,,,,2.0,
+1362,Naini Lake At Nainital (Water Intake Point),Pond/Tank,UTTARAKHAND,2020,Unsafe,25.41,High BOD,,17.0,7.7,7.65,400.0,1.8,,415.0,620.0
+3437,Bheemtal Lake,Pond/Tank,UTTARAKHAND,2020,Unsafe,25.22,High BOD,,18.5,7.8,7.75,195.0,1.4,,220.0,350.0
+2726,"Upper Ganga Canal D/S Harikipauri, Haridwar",Canal,UTTARAKHAND,2020,Safe,2.93,None,22.0,9.4,7.6,178.5,1.2,,50.0,80.0,
+3998,"Upper Ganga Canal At Lal Ta Rao Bridge, Haridwar",Canal,UTTARAKHAND,2020,Unsafe,8.23,High BOD,22.0,9.5,7.7,173.5,3.6,,43.5,85.0,
+3999,"Upper Ganga Canal At Dam Kothi, Haridwar",Canal,UTTARAKHAND,2020,Unsafe,17.94,High BOD,21.5,10.0,7.55,208.5,8.0,0.32,33.0,65.0,
+1491,"Bhagirathi At Gangotri,",River,UTTARAKHAND,2020,Safe,3.34,None,,9.8,7.1,109.0,1.5,0.32,2.0,2.0,2.0
+1484,Alaknanda B/C Mandakini At Rudra Prayag,River,UTTARAKHAND,2020,Safe,2.23,None,15.5,10.0,7.65,238.0,1.0,,2.0,2.0,2.0
+1486,Alaknanda A/C Mandakini At Rudraprayag,River,UTTARAKHAND,2020,Safe,2.23,None,16.5,10.4,7.7,200.0,1.0,0.35,2.0,2.0,2.0
+1488,Bhagirathi B/C With Alaknanda At Devprayag,River,UTTARAKHAND,2020,Safe,2.23,None,17.0,9.9,7.65,137.5,1.0,,2.0,2.0,2.0
+1487,Alaknanda B/C To Bhagirathi At Devprayag,River,UTTARAKHAND,2020,Safe,2.23,None,17.5,10.9,7.7,155.0,1.0,,2.0,2.0,2.0
+1489,Alaknanda A/C With Bhagirathi At Devprayag,River,UTTARAKHAND,2020,Safe,2.23,None,17.5,10.8,7.65,173.0,1.0,0.39,2.0,2.0,2.0
+1060,"Ganga At Rishikesh U/S,",River,UTTARAKHAND,2020,Safe,2.3,None,21.0,10.2,7.75,136.5,1.0,2.9,14.0,26.0,2.0
+1485,"Mandakini B/C Alkalnada At Rudraprayag,",River,UTTARAKHAND,2020,Safe,2.23,None,16.0,10.0,7.6,159.0,1.0,,2.0,2.0,2.0
+10147,River Ganga D/S Rishikesh,River,UTTARAKHAND,2020,Unsafe,8.96,High BOD,21.0,9.7,7.65,151.0,4.0,0.75,16.0,26.0,2.0
+2725,"Near Satyanarayan Temple, D/S Raiwala,",River,UTTARAKHAND,2020,Safe,3.56,None,23.0,9.5,7.75,445.0,1.5,2.59,43.0,71.0,2.0
+3997,Uttarakhand,River,UTTARAKHAND,2020,Safe,2.69,None,23.0,9.3,7.75,194.5,1.1,0.43,45.0,85.0,2.0
+10148,River Ganga At Har-Ki-Pauri Ghat,River,UTTARAKHAND,2020,Safe,2.82,None,22.0,9.4,7.65,246.0,1.2,0.36,31.0,46.0,2.0
+1061,Uttarakhand,River,UTTARAKHAND,2020,Safe,3.84,None,22.5,9.3,7.55,272.0,1.6,0.53,56.0,86.0,2.0
+30005,Ganga At Sultanpur (Uttarakhand),River,UTTARAKHAND,2020,Unsafe,22.28,"High BOD, High Total Coliform",,8.4,7.95,78.85,141.0,2.255,34.805,2675.0,27002.0
+1492,Yamuna At Yamunotri,River,UTTARAKHAND,2020,Safe,2.24,None,,10.8,7.4,79.0,1.0,,4.0,4.0,49.0
+1493,Yamuna At Hanumanchatti,River,UTTARAKHAND,2020,Safe,2.71,None,,11.6,7.9,145.0,1.0,0.32,94.0,140.0,33.0
+1494,Yamuna At U/S Of Lakhwar Dam,River,UTTARAKHAND,2020,Safe,2.25,None,19.0,9.7,8.05,231.0,1.0,0.33,5.5,16.0,2.0
+30025,Yamuna At Dak Pather (Uttarakhand),River,UTTARAKHAND,2020,Unsafe,20.9,"pH Out of Range, High BOD",,8.6,8.75,75.95,133.5,0.755,22.805,280.0,674.5
+1490,"Yamuna At U/S Dak Pather,",River,UTTARAKHAND,2020,Safe,2.59,None,20.5,9.2,8.1,134.0,1.1,0.38,25.5,55.0,2.0
+2724,"Suswa River At Mathurawala, Dehradun",River,UTTARAKHAND,2020,Unsafe,30.24,"Low DO, High BOD, High Fecal Coliform",21.5,3.4,7.45,771.5,30.0,2.85,801.0,801.0,2.0
+2734,Bhella River U/S Kashipur,River,UTTARAKHAND,2020,Unsafe,20.16,High BOD,23.5,5.8,7.55,299.0,5.45,,,,
+2735,Bhella River At Lohiya Bridge D/S Kashipur,River,UTTARAKHAND,2020,Unsafe,52.67,"Low DO, High BOD",23.5,2.1,6.9,510.0,23.0,,,,
+2732,Uttarakhand,River,UTTARAKHAND,2020,Unsafe,33.33,High BOD,23.5,5.6,7.8,380.0,9.5,,,,
+2733,Uttarakhand,River,UTTARAKHAND,2020,Unsafe,54.33,"Low DO, High BOD",20.0,1.85,7.5,530.0,16.0,,,,
+2731,Koshi River At Kashipur Bajpur Road Bridge,River,UTTARAKHAND,2020,Unsafe,14.95,"Low DO, High BOD",28.5,4.95,7.8,325.0,3.95,,,,
+2728,Gola River At Haldwani,River,UTTARAKHAND,2020,Safe,5.9,None,20.5,7.1,7.65,230.0,2.4,,110.0,170.0,
+2729,Kichha River At Kichha U.S. Nagar,River,UTTARAKHAND,2020,Unsafe,30.08,"Low DO, High BOD",24.5,4.65,7.9,565.0,7.5,,,,
+2730,Pilkhar River After Bilaspur Rampur,River,UTTARAKHAND,2020,Unsafe,24.42,High BOD,21.0,5.6,7.65,450.0,6.6,,,,
+2736,Uttarakhand,River,UTTARAKHAND,2020,Unsafe,26.23,"Low DO, High BOD",21.5,4.95,7.75,245.0,7.0,,,,
+2737,Uttarakhand,River,UTTARAKHAND,2020,Unsafe,30.49,"Low DO, High BOD",25.5,4.45,8.2,345.0,7.25,,,,
+3439,Uttarakhand,River,UTTARAKHAND,2020,Unsafe,37.67,"Low DO, High BOD",24.5,4.35,7.4,585.0,12.05,,,,
+3438,Uttarakhand,River,UTTARAKHAND,2020,Unsafe,24.05,High BOD,24.5,5.0,7.8,400.0,6.5,,,,

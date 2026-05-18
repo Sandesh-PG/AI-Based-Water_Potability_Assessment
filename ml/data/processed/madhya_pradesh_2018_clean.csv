@@ -1,0 +1,68 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+GEN-9F44E9,2143,Groundwater,MADHYA PRADESH,2018,Unsafe,34.85,High BOD,,,,,21.0,14.25,183.8,220.1,
+GEN-7DC1C7,2144,Groundwater,MADHYA PRADESH,2018,Unsafe,34.89,High BOD,,,,,22.0,14.6,187.8,230.1,
+GEN-C182F9,2145,Groundwater,MADHYA PRADESH,2018,Unsafe,39.42,"High BOD, High Fecal Coliform",,,,,26.0,16.95,761.95,758.5,
+GEN-936A40,2146,Groundwater,MADHYA PRADESH,2018,Unsafe,40.35,"High BOD, High Fecal Coliform",,,,,26.0,16.7,870.4,906.8,
+GEN-0D73A2,2147,Groundwater,MADHYA PRADESH,2018,Unsafe,44.01,"High BOD, High Fecal Coliform",,,,,21.0,14.35,1334.95,1331.6,
+GEN-E21E4E,2148,Groundwater,MADHYA PRADESH,2018,Unsafe,40.8,"High BOD, High Fecal Coliform",,,,,27.0,17.0,933.5,930.9,
+GEN-D30960,2149,Groundwater,MADHYA PRADESH,2018,Unsafe,9.22,High Fecal Coliform,,,,,,7.9,768.95,766.0,
+GEN-CB8DA6,2153,Groundwater,MADHYA PRADESH,2018,Unsafe,35.43,High BOD,,,,,25.0,17.6,259.05,273.85,
+GEN-1E8C39,2154,Groundwater,MADHYA PRADESH,2018,Unsafe,35.73,High BOD,,,,,22.0,18.3,149.85,1050.7,
+GEN-2BE9BD,3333,Groundwater,MADHYA PRADESH,2018,Unsafe,35.14,High BOD,,,,,25.0,18.15,220.9,248.85,
+GEN-331316,3334,Groundwater,MADHYA PRADESH,2018,Unsafe,34.67,High BOD,,,,,29.0,18.2,166.85,165.5,
+GEN-38A77A,3345,Groundwater,MADHYA PRADESH,2018,Unsafe,35.57,High BOD,,,,,28.0,18.5,267.0,341.55,
+GEN-A292F1,3826,Groundwater,MADHYA PRADESH,2018,Unsafe,34.83,High BOD,,,,,24.0,15.2,183.75,205.6,
+GEN-B5B8C4,3827,Groundwater,MADHYA PRADESH,2018,Unsafe,35.17,High BOD,,,,,22.0,14.6,228.8,230.15,
+GEN-31C0B3,3854,Groundwater,MADHYA PRADESH,2018,Unsafe,33.36,High BOD,,,,,26.0,18.5,4.4,0.95,
+GEN-CD4BB3,2129,Pond/Tank,MADHYA PRADESH,2018,Safe,0.12,None,,,,,,18.0,,30.0,6.7
+GEN-F15D33,2130,Pond/Tank,MADHYA PRADESH,2018,Safe,0.17,None,,,,,,12.0,,42.0,5.1
+GEN-A869CC,2131,Pond/Tank,MADHYA PRADESH,2018,Safe,0.12,None,,,,,,20.0,,30.0,5.2
+GEN-F6E794,2132,Pond/Tank,MADHYA PRADESH,2018,Safe,0.12,None,,,,,,20.0,,30.0,4.9
+GEN-C902B4,2133,Pond/Tank,MADHYA PRADESH,2018,Safe,0.12,None,,,,,,20.0,,30.0,5.3
+GEN-9A49A2,2135,Pond/Tank,MADHYA PRADESH,2018,Safe,0.13,None,,,,,,19.0,,31.5,6.3
+GEN-9BB6DE,2137,Pond/Tank,MADHYA PRADESH,2018,Safe,0.12,None,,,,,,18.0,,31.0,6.1
+GEN-194310,2138,Pond/Tank,MADHYA PRADESH,2018,Safe,0.12,None,,,,,,17.0,,30.0,6.4
+GEN-5D6646,2141,Pond/Tank,MADHYA PRADESH,2018,Safe,0.12,None,,,,,,14.0,,31.0,2.2
+GEN-42CD63,3296,Pond/Tank,MADHYA PRADESH,2018,Safe,0.12,None,,,,,,22.0,,30.0,6.5
+GEN-7A4BF9,3297,Pond/Tank,MADHYA PRADESH,2018,Safe,0.1,None,,,,,,20.0,,24.0,6.2
+GEN-FA8463,3298,Pond/Tank,MADHYA PRADESH,2018,Safe,0.11,None,,,,,,22.0,,27.0,6.8
+GEN-737136,3299,Pond/Tank,MADHYA PRADESH,2018,Safe,0.09,None,,,,,,17.7,,23.0,6.1
+GEN-63BFD6,3300,Pond/Tank,MADHYA PRADESH,2018,Safe,0.09,None,,,,,,17.0,,23.0,3.5
+GEN-8217BB,3301,Pond/Tank,MADHYA PRADESH,2018,Safe,0.14,None,,,,,,17.0,,35.0,5.5
+GEN-6FAB6E,3302,Pond/Tank,MADHYA PRADESH,2018,Safe,0.12,None,,,,,,20.0,,29.0,4.1
+GEN-F24AD6,3303,Pond/Tank,MADHYA PRADESH,2018,Safe,0.13,None,,,,,,19.5,,31.5,6.7
+GEN-0E9D93,3304,Pond/Tank,MADHYA PRADESH,2018,Safe,0.11,None,,,,,,19.0,,27.0,7.0
+GEN-CAC8E1,3831,Pond/Tank,MADHYA PRADESH,2018,Safe,0.14,None,,,,,,18.0,,35.0,6.2
+GEN-4F5A97,3849,Pond/Tank,MADHYA PRADESH,2018,Safe,0.12,None,,,,,,21.0,,30.0,6.5
+GEN-F550E0,3850,Pond/Tank,MADHYA PRADESH,2018,Safe,0.12,None,,,,,,17.0,,29.0,5.0
+1143,"Tons At Chakghat, M.P.",River,MADHYA PRADESH,2018,Safe,3.38,None,25.5,8.1,7.55,1.0,1.5,0.91,4.0,41.0,
+1144,"Tons At Madhavgarh, M.P.",River,MADHYA PRADESH,2018,Safe,3.91,None,24.0,6.4,7.65,,1.7,,9.0,119.0,
+2107,"Betwa U/S, Beena",River,MADHYA PRADESH,2018,Safe,2.45,None,26.5,7.15,7.75,363.0,1.1,0.775,2.0,2.5,
+2108,"Betwa D/S, Beena",River,MADHYA PRADESH,2018,Safe,2.56,None,25.5,7.05,7.75,338.0,1.15,0.86,2.0,4.5,
+1366,"Chambal At Nagda D/S, M.P.",River,MADHYA PRADESH,2018,Unsafe,67.8,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",26.0,3.05,7.6,6141.0,36.0,1.955,7240.0,80800.0,
+1418,"Chambal At Gandhi Sagar Dam, Rampura, Mp",River,MADHYA PRADESH,2018,Safe,4.45,None,26.0,7.2,7.3,509.5,1.9,1.065,22.0,183.5,
+2126,"Parvati A/C Of Vindhyachal Nalla, Pilukhedi",River,MADHYA PRADESH,2018,Safe,4.62,None,22.0,7.3,8.05,439.0,2.05,1.3,4.0,72.5,
+1615,Parvati Near Intake Point Pillukhedi Distt. Rajg,River,MADHYA PRADESH,2018,Safe,4.04,None,22.0,7.3,7.8,414.0,1.8,1.25,3.0,43.5,
+3313,Kariyari U/S Before Mixing With Waste Water Of M/S,River,MADHYA PRADESH,2018,Safe,2.14,None,23.0,7.7,7.4,,0.95,0.465,3.0,24.5,
+1607,"Gohad Dam, Gohad, M.P",River,MADHYA PRADESH,2018,Safe,4.78,None,29.0,7.4,7.65,729.5,2.1,2.1,4.0,127.0,
+1369,"Kshipra At Ramghat At Ujjain, M.P.",River,MADHYA PRADESH,2018,Unsafe,58.43,"High BOD, High Fecal Coliform, High Total Coliform",25.5,6.65,7.75,1038.0,8.3,2.38,8516.5,80175.0,
+1468,"Kshipra At Siddhawat (D/S) Of Ujjain., M.P.",River,MADHYA PRADESH,2018,Unsafe,60.0,"High BOD, High Fecal Coliform, High Total Coliform",27.0,6.8,7.65,1072.0,13.0,2.66,17565.0,80800.0,
+3307,River Choupan At Vijaypur 100 Metre D/S Of Nfl Nal,River,MADHYA PRADESH,2018,Safe,4.84,None,25.0,6.6,8.15,459.5,2.15,1.39,4.0,68.0,
+1433,"Sankh At Tigra Reservoir, M.P.",River,MADHYA PRADESH,2018,Safe,3.5,None,26.0,7.6,7.25,451.5,1.55,1.15,3.0,56.0,
+3311,"Jamuni At Bariyaghat U/S Near Intake Point, Tikamg",River,MADHYA PRADESH,2018,Safe,2.01,None,28.5,7.0,7.8,340.0,0.9,0.635,2.0,3.5,
+1611,"R.Johila Near Narojabad Near Umaria Road Bridge, M",River,MADHYA PRADESH,2018,Safe,3.15,None,25.5,7.55,7.9,411.5,1.4,0.61,3.5,39.5,
+1612,"R.Sone At Devload Out Let Of Bansagar Dam, M.P",River,MADHYA PRADESH,2018,Safe,2.04,None,25.0,7.45,7.85,337.0,0.9,0.32,3.0,38.5,
+3318,"Mahi At Ranisingh Village, Ratlam, Ujjain",River,MADHYA PRADESH,2018,Safe,7.24,None,24.5,7.3,7.8,383.0,2.4,0.5095,452.0,130.0,
+3848,Anas River Near Road Bridge Jhabua,River,MADHYA PRADESH,2018,Safe,3.38,None,25.5,6.7,8.2,641.5,1.5,2.7735,1.5,55.0,
+44,Narmada At Sethanighat M.P.,River,MADHYA PRADESH,2018,Safe,5.18,None,24.0,7.8,7.9,295.5,2.0,3.79,20.5,817.0,
+45,Narmada At Mandleshwar M.P.,River,MADHYA PRADESH,2018,Safe,2.82,None,24.5,7.25,8.5,381.0,1.25,0.765,2.0,42.0,
+3322,"Narmada At Mandla, Near Shamshanghat, Jabalpur",River,MADHYA PRADESH,2018,Safe,2.5,None,19.5,8.7,7.7,272.5,1.1,0.95,6.5,43.0,
+3324,"Narmada At Panchwatighat, Before Mixing With Bawan",River,MADHYA PRADESH,2018,Safe,3.5,None,22.0,7.95,7.8,310.0,1.55,0.83,8.0,36.0,
+3325,"Narmada At Sarswatighat, After Mixing With Bawanga",River,MADHYA PRADESH,2018,Safe,2.84,None,21.5,7.25,7.75,291.0,1.25,0.925,8.0,36.0,
+1430,Narmada At D S Of Omkareshwar M.P.,River,MADHYA PRADESH,2018,Safe,3.27,None,24.5,7.3,8.3,323.5,1.45,0.92,2.0,55.0,
+1431,"Narmada At Maheshwar, M. P.",River,MADHYA PRADESH,2018,Safe,2.82,None,24.5,7.35,8.25,380.5,1.25,0.85,2.0,45.0,
+3321,"Narmada At Amarkantake From Origin Point, Rewa",River,MADHYA PRADESH,2018,Safe,3.84,None,24.5,7.7,7.9,391.5,1.7,0.46,4.0,59.0,
+3828,"River Hiran, Nh 7 Road Bridge, Sihora, Dist Jabalp",River,MADHYA PRADESH,2018,Safe,4.07,None,21.0,8.85,8.0,319.5,1.75,0.75,21.0,120.5,
+3326,"Simrar At Katni Near Acc W/S Intake Point, Jablapu",River,MADHYA PRADESH,2018,Safe,4.63,None,26.5,5.7,7.85,364.5,2.0,1.15,18.0,153.0,
+1250,Tapi At Hathnur M.P.,River,MADHYA PRADESH,2018,Unsafe,20.4,High BOD,26.5,5.75,8.4,1064.0,12.6,7.53,2.0,484.5,
+2127,"Denwa Near Sarni, Road Bridge",River,MADHYA PRADESH,2018,Safe,4.69,None,23.0,7.6,7.95,465.0,1.8,1.875,2.0,860.0,

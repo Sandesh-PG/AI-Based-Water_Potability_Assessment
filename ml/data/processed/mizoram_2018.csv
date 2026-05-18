@@ -1,0 +1,14 @@
+stn_code,monitoring_location,water_body_type,state,year,temperature_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,total_dissolved_solids_avg,fluoride_avg,arsenic_avg
+2054,RAMHLUM (NORTHERN PART),Groundwater,MIZORAM,2018,20.5,6.45,141.5,0.9,0.1,2.0,53.0,,,
+,2055,Groundwater,MIZORAM,2018,,,,14.0,13.85,62.95,356.7,1.45,1.1,1201.0
+,3730,Groundwater,MIZORAM,2018,,,,17.0,14.4,60.45,372.75,0.85,0.2,
+,3731,Groundwater,MIZORAM,2018,,,,19.0,14.6,56.4,360.7,0.45,0.2,
+,3733,Groundwater,MIZORAM,2018,,,,17.0,14.1,62.7,427.2,0.75,0.3,
+,3734,Groundwater,MIZORAM,2018,,,,18.0,16.1,54.7,393.1,0.8,0.1,
+,3735,Groundwater,MIZORAM,2018,,,,17.0,16.85,55.1,262.3,0.7,0.1,
+,3736,Groundwater,MIZORAM,2018,,,,18.0,16.6,60.5,285.55,0.75,0.1,
+,3737,Groundwater,MIZORAM,2018,,,,9.0,16.0,59.2,629.4,0.7,0.2,
+,3738,Groundwater,MIZORAM,2018,,,,8.0,15.4,60.6,252.95,0.8,0.1,
+,3739,Groundwater,MIZORAM,2018,,,,17.0,16.0,57.2,235.75,1.05,0.3,
+,3742,Groundwater,MIZORAM,2018,,,,17.0,16.1,57.8,365.7,0.75,0.1,
+,4128,Groundwater,MIZORAM,2018,,,,16.0,14.85,67.2,85.95,0.95,0.1,
