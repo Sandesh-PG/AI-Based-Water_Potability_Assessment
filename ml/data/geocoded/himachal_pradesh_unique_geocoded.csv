@@ -1,0 +1,594 @@
+monitoring_location,stn_code,latitude,longitude,geocode_query,geocoded
+"At Kala Amb, H.P",1555,31.6928633,76.796236,"kala, Himachal Pradesh, India",True
+"At Paonta Sahib, H.P",1556,30.4384439,77.6211774,"paonta sahib, Himachal Pradesh, India",True
+"At Baddi, H.P",1558,30.9763026,76.7674001,"baddi, Himachal Pradesh, India",True
+"At Nalagarh, H.P",1560,31.1059814,76.6567018,"nalagarh, Himachal Pradesh, India",True
+"At Barotiwala, H.P",1559,30.9058213,76.8401329,"barotiwala, Himachal Pradesh, India",True
+"At Damtal, H.P",1561,32.2539125,75.6722344,"damtal, Himachal Pradesh, India",True
+"At Una, H.P",1562,,,,False
+Shimla D/S Of Msw Dumping Siot,1872,,,,False
+Dharamshala Kangra D/S Of Msw Dumping Siot,1873,,,,False
+Solan-D/S Of Msw Dumping Siot-,1874,,,,False
+Baddi Industrial Area,1877,31.4024304,76.4129499,"industrial, Himachal Pradesh, India",True
+Barotiwala Industrial Area,1878,31.4024304,76.4129499,"industrial, Himachal Pradesh, India",True
+Nalagarh Industrial Area,1879,31.4024304,76.4129499,"industrial, Himachal Pradesh, India",True
+Kala Amb Industrial Area,1880,31.4024304,76.4129499,"industrial, Himachal Pradesh, India",True
+Paonta Sahib Industrial Area,1881,31.4024304,76.4129499,"industrial, Himachal Pradesh, India",True
+Mehatpur Industrial Area,1882,31.4024304,76.4129499,"industrial, Himachal Pradesh, India",True
+Una Industrial Area,1883,31.4024304,76.4129499,"industrial, Himachal Pradesh, India",True
+Hand Pump At Shamshi,2628,32.1185561,77.4809484,"shamshi, Himachal Pradesh, India",True
+Hand Pump At Hamirpur Town,2630,31.6848695,76.5254488,"hamirpur town, Himachal Pradesh, India",True
+Hand Pump At Nadaun Town,2631,31.7819445,76.3434752,"nadaun town, Himachal Pradesh, India",True
+Hand Pump At Bilaspur Town,2632,32.2458877,77.1903951,"town, Himachal Pradesh, India",True
+Hand Pump At Recongpeo,2633,,,,False
+Hand Pump At Shimla,2634,31.1042517,77.2036459,"pump shimla, Himachal Pradesh, India",True
+Hand Pump At Kangra Temple/ Town,2636,31.5226761,76.8860161,"temple/ town, Himachal Pradesh, India",True
+Hand Pump At Jwalaji Temple,2637,32.1961808,76.280458,"temple, Himachal Pradesh, India",True
+Hand Pump At Chintpurni Temple/ Town,2638,31.5226761,76.8860161,"temple/ town, Himachal Pradesh, India",True
+Hand Pump At Chamunda Devi Temple/ Town,2639,31.5226761,76.8860161,"temple/ town, Himachal Pradesh, India",True
+Gobindsagar Lake At Bilaspur,1291,31.3315601,76.7590752,"lake bilaspur, Himachal Pradesh, India",True
+Pongdam Lake At Pong Village,1292,32.0083127,76.0378237,"lake pong, Himachal Pradesh, India",True
+"Renuka Lake , 35 Km From Patna Sahib North",1429,32.7699626,77.4205888,"north, Himachal Pradesh, India",True
+Riwalsar Lake,2649,30.609078,77.4615544,"lake, Himachal Pradesh, India",True
+Khaziar Lake,2650,30.609078,77.4615544,"lake, Himachal Pradesh, India",True
+Beas U/S Manali,1001,32.2397708,77.1910992,"beas manali, Himachal Pradesh, India",True
+Beas D/S Manali,2601,32.2397708,77.1910992,"beas manali, Himachal Pradesh, India",True
+Beas U/S Kullu,2602,32.2397708,77.1910992,"beas kullu, Himachal Pradesh, India",True
+Beas D/S Kulu,1002,31.938562,77.1111971,"beas kulu, Himachal Pradesh, India",True
+Beas D/S Aut,1003,31.8090021,77.1883368,"beas aut, Himachal Pradesh, India",True
+Beas Exit Of Tunnel Dehal Power House,1005,31.4130832,76.8686123,"power house, Himachal Pradesh, India",True
+Beas U/S Mandi,1550,31.8298121,76.7833034,"beas mandi, Himachal Pradesh, India",True
+Beas D/S Mandi,1006,31.8298121,76.7833034,"beas mandi, Himachal Pradesh, India",True
+Beas D/S Jaisinghpur,2604,31.827237,76.4766998,"beas jaisinghpur, Himachal Pradesh, India",True
+Beas D/S Alampur,1007,31.827237,76.4766998,"beas alampur, Himachal Pradesh, India",True
+Beas D/S Pong Dam,1009,32.003759,76.0493876,"pong, Himachal Pradesh, India",True
+Beas At D/S Pandoh Dam,2603,31.6737338,77.0493132,"beas pandoh, Himachal Pradesh, India",True
+"Satluj B/C With Spiti At Khab, Distt.Kinnaur,",1867,31.4276016,78.2646884,"distt.kinnaur, Himachal Pradesh, India",True
+Satluj At Khab,2611,31.7998055,78.6442982,"khab, Himachal Pradesh, India",True
+Satluj U/S Rampur,1086,31.5091373,77.7709741,"rampur, Himachal Pradesh, India",True
+Satluj D/S Rampur,1087,31.5091373,77.7709741,"rampur, Himachal Pradesh, India",True
+Satluj U/S Tatapani,1013,32.12184,76.7181153,"tatapani, Himachal Pradesh, India",True
+Satluj U/S Slapper,1014,31.4150054,76.8620008,"slapper, Himachal Pradesh, India",True
+Satluj D/S Slapper,1015,31.4150054,76.8620008,"slapper, Himachal Pradesh, India",True
+Satluj D/S Bhakhra,1016,,,,False
+Satluj At Neptha Zakhai,1389,,,,False
+Ravi U/S Madhopur,1088,32.2360562,75.6260843,"madhopur, Himachal Pradesh, India",True
+Ravi U/S Chamba,1089,32.6923316,76.1631552,"chamba, Himachal Pradesh, India",True
+Ravi At Chamera Reservoir,2614,32.003759,76.0493876,"reservoir, Himachal Pradesh, India",True
+Ravi D/S Chamera Iii Hep,2615,31.1550312,77.5138879,"chamera, Himachal Pradesh, India",True
+Ravid/S Of Chamba Town,2613,32.2458877,77.1903951,"town, Himachal Pradesh, India",True
+Parvati B/C To Beas,1290,32.2397708,77.1910992,"beas, Himachal Pradesh, India",True
+Parvati U/S Manikaran,2605,32.0107993,77.3159503,"parvati manikaran, Himachal Pradesh, India",True
+Parvati D/S Manikaran,2606,32.0107993,77.3159503,"parvati manikaran, Himachal Pradesh, India",True
+Largi At D/S Mandi,1090,31.6516617,77.0092542,"mandi, Himachal Pradesh, India",True
+"Sirsa , U/S Sitomajri Nallahgarh",1551,,,,False
+"Sirsa , D/S Nalagarh Bridge",1552,31.1059814,76.6567018,"nalagarh, Himachal Pradesh, India",True
+Sirsa D/S Nalagarh Distt. Solan,1868,31.1059814,76.6567018,"nalagarh distt. solan, Himachal Pradesh, India",True
+Swan D/S Nangal Distt. Una,1869,31.3918028,76.2835593,"swan nangal distt. una, Himachal Pradesh, India",True
+Siuel D/S Surgani,2616,,,,False
+Suketi Khad D/S Mandi,2607,31.6196286,76.945837,"suketi khad mandi, Himachal Pradesh, India",True
+Binwa D/S Paprola/Baijnath,2608,32.0525381,76.6348774,"paprola/baijnath, Himachal Pradesh, India",True
+Neugal D/S Thural,2609,32.019593,76.4548985,"neugal thural, Himachal Pradesh, India",True
+Spiti At Khab,2610,31.7998055,78.6442982,"khab, Himachal Pradesh, India",True
+Baspa U/S Reservoir Baspa Project,2612,31.9901471,76.8072656,"project, Himachal Pradesh, India",True
+Yamuna U/S Paonta Sahib,1553,30.4350018,77.6239468,"yamuna paonta sahib, Himachal Pradesh, India",True
+Yamuna D/S Paonta Sahib,1554,30.4350018,77.6239468,"yamuna paonta sahib, Himachal Pradesh, India",True
+Tons River,1510,30.7006048,77.7509359,"tons river, Himachal Pradesh, India",True
+Ashwani U/S Yashwant Nagar,2620,32.1135887,77.171316,"nagar, Himachal Pradesh, India",True
+Batta U/S Paonta,2626,30.4384439,77.6211774,"paonta, Himachal Pradesh, India",True
+Batta B/C To Yamuna,2627,31.1300882,77.1700544,"yamuna, Himachal Pradesh, India",True
+Giri D/S Yashwant Nagar,2621,32.1135887,77.171316,"nagar, Himachal Pradesh, India",True
+Giri U/S Cci Mines,2622,31.8039745,76.9495803,"mines, Himachal Pradesh, India",True
+Giri D/S Sataun,2623,30.5581131,77.6385378,"sataun, Himachal Pradesh, India",True
+Pabbar U/S Dhambari,2617,,,,False
+Pabbar U/S Rohru,2618,31.1973022,77.7463562,"pabbar rohru, Himachal Pradesh, India",True
+Pabbar D/S Swarakuddu,2619,,,,False
+"At Kala Amb,",1555,32.0131069,76.6687667,"kala amb, Himachal Pradesh, India",True
+At Paonta Sahib,1556,30.4384439,77.6211774,"paonta sahib, Himachal Pradesh, India",True
+At Parwanoo,1557,30.837887,76.9601747,"parwanoo, Himachal Pradesh, India",True
+At Baddi,1558,30.9763026,76.7674001,"baddi, Himachal Pradesh, India",True
+At Barotiwala,1559,30.9058213,76.8401329,"barotiwala, Himachal Pradesh, India",True
+At Nalagarh,1560,31.1059814,76.6567018,"nalagarh, Himachal Pradesh, India",True
+At Damta,1561,,,,False
+At Una,1562,31.5834642,76.2351452,"una, Himachal Pradesh, India",True
+Hand Pump At Rampur,2635,31.5091373,77.7709741,"rampur, Himachal Pradesh, India",True
+"Gobindsagar Lake At Bilaspur, H.P.",1291,31.1149319,77.101821,"h.p., Himachal Pradesh, India",True
+"Pongdam Lake At Pong Village, H.P.",1292,31.1149319,77.101821,"h.p., Himachal Pradesh, India",True
+"Renuka Lake , 35 Km From Patna Sahib North , H.P",1429,32.7699626,77.4205888,"north, Himachal Pradesh, India",True
+2624,GEN-F1748D,30.8201912,77.2390968,"2624, Himachal Pradesh, India",True
+3862,GEN-533FA7,30.8201912,77.2390968,"3862, Himachal Pradesh, India",True
+"Satluj River B/C With River Spiti At Khab, Distt.Kinnaur",1867,31.4276016,78.2646884,"distt.kinnaur, Himachal Pradesh, India",True
+Satluj At U/S Rampur,1086,31.5091373,77.7709741,"rampur, Himachal Pradesh, India",True
+Satluj At D/S Rampur,1087,31.5091373,77.7709741,"rampur, Himachal Pradesh, India",True
+Satluj At U/S Tatapani,1013,32.12184,76.7181153,"tatapani, Himachal Pradesh, India",True
+Satluj At U/S Slapper,1014,31.4150054,76.8620008,"slapper, Himachal Pradesh, India",True
+Satluj At D/S Slapper,1015,31.4150054,76.8620008,"slapper, Himachal Pradesh, India",True
+Satluj At D/S Bhakhra,1016,,,,False
+Beas At U/S Manali,1006,32.2397708,77.1910992,"beas manali, Himachal Pradesh, India",True
+Beas At D/S Manali,2604,32.2397708,77.1910992,"beas manali, Himachal Pradesh, India",True
+Beas At D/S Kulu,1007,31.938562,77.1111971,"beas kulu, Himachal Pradesh, India",True
+Beas At D/S Aut,1008,31.8090021,77.1883368,"beas aut, Himachal Pradesh, India",True
+Beas At U/S Pandon Dam,1009,32.2620161,76.8439684,"pandon, Himachal Pradesh, India",True
+Beas At Exit Of Tunnel Dehal Power House,2602,31.4130832,76.8686123,"power house, Himachal Pradesh, India",True
+Beas At D/S Mandi,3855,31.8298121,76.7833034,"beas mandi, Himachal Pradesh, India",True
+Beas At D/S Jaisinghpur,1693,31.827237,76.4766998,"beas jaisinghpur, Himachal Pradesh, India",True
+Beas At D/S Alampur,1694,31.827237,76.4766998,"beas alampur, Himachal Pradesh, India",True
+Beas At D/S Dehragopipur,1695,,,,False
+Beas At D/S Pong Dam,1010,32.003759,76.0493876,"pong, Himachal Pradesh, India",True
+Beas At U/S Kullu,1294,32.2397708,77.1910992,"beas kullu, Himachal Pradesh, India",True
+"Beas D/S Nadaun Bridge, Vill Bhadoli",1696,31.1711524,77.6802707,"bhadoli, Himachal Pradesh, India",True
+Ravi At U/S Madhopur,1088,32.2360562,75.6260843,"madhopur, Himachal Pradesh, India",True
+Ravi At U/S Chamba,1089,32.6923316,76.1631552,"chamba, Himachal Pradesh, India",True
+Ravi At At Chamera Reservoir,2614,32.003759,76.0493876,"reservoir, Himachal Pradesh, India",True
+Ravi At At D/S Chamera Iii Hep,2615,31.1550312,77.5138879,"chamera, Himachal Pradesh, India",True
+Ravi At D/S Of Chamba Town,2613,32.2458877,77.1903951,"town, Himachal Pradesh, India",True
+River Ravi U/S Stp Barga (Chamba),3873,32.6923316,76.1631552,"chamba, Himachal Pradesh, India",True
+River Ravi D/S Stp Bhagot (Chamba),3874,32.5377869,76.0873711,"bhagot chamba, Himachal Pradesh, India",True
+Swan River U/S Gagret,3856,31.6620976,76.0624707,"gagret, Himachal Pradesh, India",True
+Swan River D/S Gagret,3857,31.6620976,76.0624707,"gagret, Himachal Pradesh, India",True
+Swan River U/S Santoshgarh Bridge,3858,,,,False
+Swan River U/S Una Town Ghalluwal Bridge,3859,,,,False
+Parvati Before Conf. To River Beas,1290,32.2397708,77.1910992,"river beas, Himachal Pradesh, India",True
+Parvati At U/S Manikaran,2605,32.0107993,77.3159503,"parvati manikaran, Himachal Pradesh, India",True
+Parvati At D/S Manikaran,2606,32.0107993,77.3159503,"parvati manikaran, Himachal Pradesh, India",True
+"Largi At D/S,",1090,,,,False
+"Sirsa River , U/S Sitomajri Nallahgarh",1551,,,,False
+"Sirsa River, D/S Nalagarh Bridge",1552,31.16107,76.7978526,"river nalagarh, Himachal Pradesh, India",True
+Sirsa River At D/S Nalagarh Distt. Solan,1868,31.1059814,76.6567018,"nalagarh distt. solan, Himachal Pradesh, India",True
+Swan River At D/S Nangal Distt. Una,1869,31.3918028,76.2835593,"swan river nangal distt. una, Himachal Pradesh, India",True
+Siuel At D/S Surgani,2616,,,,False
+Suketi Khad At D/S Mandi,2607,31.6196286,76.945837,"suketi khad mandi, Himachal Pradesh, India",True
+Binwa At D/S Paprola/Baijnath,2608,32.0525381,76.6348774,"paprola/baijnath, Himachal Pradesh, India",True
+Neugal At D/S Thural,2609,32.019593,76.4548985,"neugal thural, Himachal Pradesh, India",True
+Baspa At U/S Reservoir Baspa Project,2612,31.9901471,76.8072656,"project, Himachal Pradesh, India",True
+1556,GEN-4E9CEC,30.8201912,77.2390968,"1556, Himachal Pradesh, India",True
+1557,GEN-596F71,30.8201912,77.2390968,"1557, Himachal Pradesh, India",True
+1558,GEN-299210,30.8201912,77.2390968,"1558, Himachal Pradesh, India",True
+1559,GEN-020C8B,30.8201912,77.2390968,"1559, Himachal Pradesh, India",True
+1560,GEN-3A20F6,30.8201912,77.2390968,"1560, Himachal Pradesh, India",True
+1561,GEN-B132EC,30.8201912,77.2390968,"1561, Himachal Pradesh, India",True
+1562,GEN-92AF93,30.8201912,77.2390968,"1562, Himachal Pradesh, India",True
+1872,GEN-2F25F6,30.8201912,77.2390968,"1872, Himachal Pradesh, India",True
+1874,GEN-958ADB,30.8201912,77.2390968,"1874, Himachal Pradesh, India",True
+1875,GEN-7E9E34,30.8201912,77.2390968,"1875, Himachal Pradesh, India",True
+1877,GEN-F31B20,30.8201912,77.2390968,"1877, Himachal Pradesh, India",True
+1878,GEN-DC5D63,30.8201912,77.2390968,"1878, Himachal Pradesh, India",True
+1879,GEN-44A2E0,30.8201912,77.2390968,"1879, Himachal Pradesh, India",True
+1880,GEN-3214A6,30.8201912,77.2390968,"1880, Himachal Pradesh, India",True
+1881,GEN-B4568D,30.8201912,77.2390968,"1881, Himachal Pradesh, India",True
+1882,GEN-E1314F,30.8201912,77.2390968,"1882, Himachal Pradesh, India",True
+1883,GEN-C45008,30.8201912,77.2390968,"1883, Himachal Pradesh, India",True
+2628,GEN-8E0651,30.8201912,77.2390968,"2628, Himachal Pradesh, India",True
+2629,GEN-8CFF9B,30.8201912,77.2390968,"2629, Himachal Pradesh, India",True
+2630,GEN-DD17E6,30.8201912,77.2390968,"2630, Himachal Pradesh, India",True
+2631,GEN-E113BB,30.8201912,77.2390968,"2631, Himachal Pradesh, India",True
+2632,GEN-75455E,30.8201912,77.2390968,"2632, Himachal Pradesh, India",True
+2634,GEN-B75BD2,30.8201912,77.2390968,"2634, Himachal Pradesh, India",True
+2635,GEN-ED2779,30.8201912,77.2390968,"2635, Himachal Pradesh, India",True
+2636,GEN-C61FBE,30.8201912,77.2390968,"2636, Himachal Pradesh, India",True
+2637,GEN-C60D87,30.8201912,77.2390968,"2637, Himachal Pradesh, India",True
+2638,GEN-06C284,30.8201912,77.2390968,"2638, Himachal Pradesh, India",True
+2640,GEN-9A5748,30.8201912,77.2390968,"2640, Himachal Pradesh, India",True
+2645,GEN-A7789E,30.8201912,77.2390968,"2645, Himachal Pradesh, India",True
+2646,GEN-F2E43F,30.8201912,77.2390968,"2646, Himachal Pradesh, India",True
+2647,GEN-0B7E92,30.8201912,77.2390968,"2647, Himachal Pradesh, India",True
+2648,GEN-EB06B9,30.8201912,77.2390968,"2648, Himachal Pradesh, India",True
+Himachal Pradesh,"SURAJMUKHI NALLAH U/S DWSS
+GALAYANA NEAR M/S SHOOL",31.2849567,76.7829197,"himachal pradesh, Himachal Pradesh, India",True
+"Beas At D/S Dehragopipur, H.P.",1008,31.1149319,77.101821,"h.p., Himachal Pradesh, India",True
+"River Beas D/S Nadaun Bridge, Vill Bhadoli",3855,31.1711524,77.6802707,"bhadoli, Himachal Pradesh, India",True
+"River Sirsa , D/S Nalagarh Bridge, H.P",1552,31.1059814,76.6567018,"nalagarh, Himachal Pradesh, India",True
+"Tons River, H.P",1510,30.7006048,77.7509359,"tons river, Himachal Pradesh, India",True
+Ashwani At U/S Yashwant Nagar,2620,32.1135887,77.171316,"nagar, Himachal Pradesh, India",True
+Batta At U/S Paonta,2626,30.4384439,77.6211774,"paonta, Himachal Pradesh, India",True
+Batta Before Confluence To Yamuna,2627,31.1300882,77.1700544,"yamuna, Himachal Pradesh, India",True
+Giri At D/S Yashwant Nagar,2621,32.1135887,77.171316,"nagar, Himachal Pradesh, India",True
+Giri At U/S Cci Mines,2622,31.8039745,76.9495803,"mines, Himachal Pradesh, India",True
+Pabbar At U/S Dhambari,2617,,,,False
+Pabbar At U/S Rohru,2618,31.1973022,77.7463562,"pabbar rohru, Himachal Pradesh, India",True
+Pabbar At D/S Swarakuddu,2619,,,,False
+"Well At Kala Amb,",1555,31.6928633,76.796236,"kala, Himachal Pradesh, India",True
+Ground Water At Barotiwala,1559,30.9058213,76.8401329,"barotiwala, Himachal Pradesh, India",True
+Ground Water At Shimla D/S Of Msw Dumping Site,1872,,,,False
+Ground Water At Dharamshala Kangra D/S Of Msw Dumping Site,1873,,,,False
+Ground Water At Solan-D/S Of Msw Dumping Site Salogra,1874,30.934895,77.1308917,"salogra, Himachal Pradesh, India",True
+Ground Water At Baddi Industrial Area,1877,31.4024304,76.4129499,"industrial, Himachal Pradesh, India",True
+Ground Water At Barotiwala Industrial Area,1878,31.4024304,76.4129499,"industrial, Himachal Pradesh, India",True
+Ground Water At Nalagarh Industrial Area,1879,31.4024304,76.4129499,"industrial, Himachal Pradesh, India",True
+Ground Water At Kala Amb Industrial Area,1880,31.4024304,76.4129499,"industrial, Himachal Pradesh, India",True
+Ground Water At Paonta Sahib Industrial Area,1881,31.4024304,76.4129499,"industrial, Himachal Pradesh, India",True
+Ground Water At Mehatpur Industrial Area,1882,31.4024304,76.4129499,"industrial, Himachal Pradesh, India",True
+Ground Water At Una Industrial Area,1883,31.4024304,76.4129499,"industrial, Himachal Pradesh, India",True
+2633,GEN-FC03D4,30.8201912,77.2390968,"2633, Himachal Pradesh, India",True
+Hand Pump At Sansarpur Terrace Ia,2640,32.2385995,76.3245066,"terrace, Himachal Pradesh, India",True
+Borewell Of Dic Una At Ia Jeetpur Behri,4434,31.5646505,77.0266807,"behri, Himachal Pradesh, India",True
+"Infting Water Suply Scheme Samshi, Near Sabji Mandi Bhuntar, Tehsil Kullu, Distt Kullu",4478,31.9612931,77.1089857,"kullu distt kullu, Himachal Pradesh, India",True
+Ground Water Supply Scheme (Mc Una),4483,,,,False
+"Pongdam Lake At Pong Village,",1292,32.0083127,76.0378237,"lake pong, Himachal Pradesh, India",True
+"Salani Nallah Near Bridge, Nh-7, Moginand Kala Amb",3861,31.6928633,76.796236,"kala, Himachal Pradesh, India",True
+"Roon Nallah Near Meerpur Kotla, Gurudwara",3865,31.9634943,77.1150988,"gurudwara, Himachal Pradesh, India",True
+Surajmukhi Nallah U/S Dwss Galayana Near M/S Shoolini University,3875,30.8644984,77.1181494,"shoolini university, Himachal Pradesh, India",True
+"Bhatian Nallah U/S Bhatian Village, Nalagarh",3879,31.1059814,76.6567018,"nalagarh, Himachal Pradesh, India",True
+"Bhatian Nallah D/S Sara Textile, Nalagarh",3881,31.1059814,76.6567018,"nalagarh, Himachal Pradesh, India",True
+Taalo Nala (From Nahar Town) At Khaddar Ka Bagh B/C To River Markanda,4029,31.7430361,77.208108,"markanda, Himachal Pradesh, India",True
+Sahu Nallah U/S Bhuri Singh Shep,4034,,,,False
+Sahu Nallah D/S Bhuri Singh Shep,4035,,,,False
+Raw Water From At Churat Nallah,4425,32.2637513,77.2436247,"nallah, Himachal Pradesh, India",True
+Lift Nallah Before Confluence To Ashwani Khad Near Dogrha Bridge,4430,,,,False
+Sainj Nallah (U/S Sainj Water Supply Scheme),4462,,,,False
+Dhaneson Nallah (U/S Sainj Water Supply Scheme),4463,,,,False
+"Nallah, Halog Water Supply Scheme Bag Khanerei, Halog",4474,31.1864861,77.0365941,"halog, Himachal Pradesh, India",True
+"Machada Nallah, Majhouti Water Supply Scheme New Nirsoo, Majhouti",4475,,,,False
+Manalsu Nala (( Water Supply Scheme For Manali Town U/S Of Old Manali Thesil Manali Dist Kullu,4476,32.241254,77.1886737,"manali dist kullu, Himachal Pradesh, India",True
+Khalada Nala Water Supply Scheme Kullu Town Tehsil Kullu,4477,31.9578974,77.1089232,"kullu, Himachal Pradesh, India",True
+Surajmukhi Nallah D/S Stp Samti Solan,4480,30.9077569,77.1023645,"solan, Himachal Pradesh, India",True
+Hathli Nallah Lift Water Supply Scheme For Municipal Council Hamirpur,4481,31.6539866,76.5403633,"hamirpur, Himachal Pradesh, India",True
+Lift Water Supply Scheme (Panjarar) And Bhota Ropari & Ujhan,4482,,,,False
+Markanda River At Kala Amb U/S (H.P),30008,31.6928633,76.796236,"kala, Himachal Pradesh, India",True
+Alhi River-Nog(Near Water Supply Scheme Intake)Tributary Of River Satluj,4464,31.7052776,76.9372256,"satluj, Himachal Pradesh, India",True
+Harabagh(Intake From Bbmb Source-Bbmb Adit Harabgh)Wate Spring,4465,32.2062827,76.3713131,"spring, Himachal Pradesh, India",True
+"Kunni Pul, Vill Samahu, Po Kunihar, Tehsil Arki",4036,31.1524854,76.9428892,"arki, Himachal Pradesh, India",True
+Manjhi Khad U/S Dharamshala Of Khaniyara,4023,32.2146357,76.3862567,"khad dharamshala khaniyara, Himachal Pradesh, India",True
+Manjhi Khad D/S Dharamshala At Chetru,4024,32.2002258,76.3280545,"khad dharamshala chetru, Himachal Pradesh, India",True
+"Markanda River At Paonta, Distt. Sirmour",1871,30.4968292,77.4733243,"sirmour, Himachal Pradesh, India",True
+Markanda U/S Kala Amb,2624,31.6928633,76.796236,"kala, Himachal Pradesh, India",True
+Markanda River D/S Of Salani Khad,3862,31.7776686,76.9049191,"khad, Himachal Pradesh, India",True
+Rampur Jattan Moginand Nala Before Confluence To River Markanda Near Radha Swami Satsang Bhawan,3863,32.1960814,76.3446847,"satsang bhawan, Himachal Pradesh, India",True
+Markanda River D/S Of Moginand Nala,3864,31.0743821,77.2879136,"nala, Himachal Pradesh, India",True
+Mol Khad U/S Palampu,4025,,,,False
+Mol Khad D/S Palampu,4026,,,,False
+River Tirthan B/C To River Satluj,4038,31.7052776,76.9372256,"satluj, Himachal Pradesh, India",True
+River Beas D/S Of Wpf At Manali,4444,32.2397708,77.1910992,"beas manali, Himachal Pradesh, India",True
+River Beas D/S Manalsu Nallah,4037,32.2637513,77.2436247,"nallah, Himachal Pradesh, India",True
+River Beas D/S Of Wpf At Kullu,4445,32.2397708,77.1910992,"beas kullu, Himachal Pradesh, India",True
+Beas At U/S Pandoh Dam,1004,31.6737338,77.0493132,"beas pandoh, Himachal Pradesh, India",True
+River Beas U/S Sujanpur Tihra,4435,31.755596,76.66595,"tihra, Himachal Pradesh, India",True
+River Beas D/S Sujanpur Tihra,4436,31.755596,76.66595,"tihra, Himachal Pradesh, India",True
+River Beas U/S Nadaum Town,4437,32.2458877,77.1903951,"town, Himachal Pradesh, India",True
+River Beas D/S Nadaun Town After Confluence Of Maan Khad,4438,31.7776686,76.9049191,"khad, Himachal Pradesh, India",True
+River Beas At Raison,4443,31.9865445,77.1296724,"beas raison, Himachal Pradesh, India",True
+Beas At Talwara (Pong Dam),30083,32.003759,76.0493876,"pong, Himachal Pradesh, India",True
+"Sutlej River B/C With River Spiti At Khab, Distt.Kinnaur",1867,31.4276016,78.2646884,"distt.kinnaur, Himachal Pradesh, India",True
+Sutlej At Khab,2611,31.7998055,78.6442982,"khab, Himachal Pradesh, India",True
+Sutlej River D/S Tidong Hep,3872,31.4597265,78.5667887,"river tidong, Himachal Pradesh, India",True
+River Sutlej U/S Confluences Of River Tidong,4448,31.4597265,78.5667887,"river tidong, Himachal Pradesh, India",True
+River Sutlej D/S Confluences Of River Tidong,4449,31.4597265,78.5667887,"river tidong, Himachal Pradesh, India",True
+River Sutlej U/S Confluences Of River Baspa,4452,31.350984,78.4141363,"river baspa, Himachal Pradesh, India",True
+River Sutlej D/S Confluences Of River Baspa,4453,31.350984,78.4141363,"river baspa, Himachal Pradesh, India",True
+Sutlej River D/S Power House Kashang Hep,3871,31.6043,78.18326,"kashang, Himachal Pradesh, India",True
+Sutlej B/C With Karcham Drain,3870,,,,False
+Sutlej At Neptha Zakhai,1389,,,,False
+Sutlej River D/S Trt Of Rampur Hydel Electric Project,3869,32.1833358,76.5574889,"electric project, Himachal Pradesh, India",True
+Sutlej At U/S Rampur,1086,31.4408018,77.6281589,"sutlej rampur, Himachal Pradesh, India",True
+Sutlej At D/S Rampur,1087,31.4408018,77.6281589,"sutlej rampur, Himachal Pradesh, India",True
+Sutlej At U/S Tatapani,1013,32.12184,76.7181153,"tatapani, Himachal Pradesh, India",True
+River Sutlej U/S Iandfill Site Rampur,4446,31.5091373,77.7709741,"rampur, Himachal Pradesh, India",True
+River Stluj D/S Landfill Site Rampur,4447,31.5091373,77.7709741,"rampur, Himachal Pradesh, India",True
+Sutlej At U/S Slapper,1014,31.4150054,76.8620008,"slapper, Himachal Pradesh, India",True
+Sutlej At D/S Slapper,1015,31.4150054,76.8620008,"slapper, Himachal Pradesh, India",True
+Sutlej At D/S Bhakhra,1016,,,,False
+Sutlej At U/S Khairian Solid Waste Dumping Site Bilaspur,4032,31.3380959,76.7611631,"bilaspur, Himachal Pradesh, India",True
+Sutlej At D/S Khairian Solid Waste Dumping Site Bilaspur,4033,31.3380959,76.7611631,"bilaspur, Himachal Pradesh, India",True
+River Sutlej U/S Confluence With Ganvi Khand,4450,32.7706847,75.9552687,"khand, Himachal Pradesh, India",True
+River Sutlej D/S Confluence With Ganvi Khad,4451,31.7776686,76.9049191,"khad, Himachal Pradesh, India",True
+Ravi At D/S At Chamera Iii Hep,2615,31.1550312,77.5138879,"chamera, Himachal Pradesh, India",True
+"Largi At D/S, Dwada",1090,,,,False
+"Sukhana River At Parwanoo, Distt. Solan",1870,30.837887,76.9601747,"parwanoo distt. solan, Himachal Pradesh, India",True
+Swan River B/C Of Garni Khad,4030,31.7776686,76.9049191,"khad, Himachal Pradesh, India",True
+Swan River A/C Garni Khad,4031,31.7776686,76.9049191,"khad, Himachal Pradesh, India",True
+Swan River D/S Of Una At Rampur Bridge,4433,31.5091373,77.7709741,"rampur, Himachal Pradesh, India",True
+River Tirthan B/C To River Sutlej,4038,31.5474177,76.9303228,"sutlej, Himachal Pradesh, India",True
+River Pabbar U/S Hatkoti,4039,31.1308028,77.7457165,"hatkoti, Himachal Pradesh, India",True
+Alhi River-Nog(Near Water Supply Scheme Intake)Tributary Of River Sutlej,4464,31.5474177,76.9303228,"sutlej, Himachal Pradesh, India",True
+"River Ashwani, Kunni Pul, Vill Samahu, Po Kunihar, Tehsil Arki",4036,31.1524854,76.9428892,"arki, Himachal Pradesh, India",True
+Ashwani River At Sadhupul (U/S Of Bridge Towards Chail.),4479,30.9689104,77.1981859,"chail., Himachal Pradesh, India",True
+Baner Khad U/S Chamunda Temple,4457,32.1835023,76.4370533,"chamunda temple, Himachal Pradesh, India",True
+Baner Khad D/S Chamunda Temple,4458,32.1835023,76.4370533,"chamunda temple, Himachal Pradesh, India",True
+Charan Khad U/S Bhagsunag,4460,32.2002258,76.3280545,"khad bhagsunag, Himachal Pradesh, India",True
+U/S Of Weir Site Of Wtp Near Ashwani Bridge,4428,31.0991331,77.1283501,"ashwani, Himachal Pradesh, India",True
+D/S Of Ashwani Khad (After Confluence Of Lift Nallah),4429,32.2637513,77.2436247,"nallah, Himachal Pradesh, India",True
+Raw Water From At Gumma Nauti Khad,4424,31.185854,77.2181946,"nauti khad, Himachal Pradesh, India",True
+Dhauli Khad At Charan Ganga Medi,4432,,,,False
+Shikari Before Confluence To River Pabbar Near Hrtc Rohru Bus Stand,4431,32.109274,76.5366901,"stand, Himachal Pradesh, India",True
+"Tons River, Sirmaur",1510,30.7006048,77.7509359,"tons river sirmaur, Himachal Pradesh, India",True
+River Giri D/S Rajgarh Town,4027,30.84961,77.29569,"rajgarh town, Himachal Pradesh, India",True
+River Giri U/S Proposed Site Of Sri Renukaji Dam Site.,4441,30.6108093,77.4517345,"renukaji, Himachal Pradesh, India",True
+River Giri D/S Proposed Site Of Sri Renukaji Dam Site Near Bridge At Dadahu- Renukaji,4442,30.6108093,77.4517345,"renukaji, Himachal Pradesh, India",True
+"River Giri D/S Laigidhar Trust, Baru Sahib",4028,30.7548782,77.2957224,"baru sahib, Himachal Pradesh, India",True
+River Giri U/S Chailla,4427,31.0983109,77.4261187,"chailla, Himachal Pradesh, India",True
+Giri River U/S Lwss At Sainj,3877,31.7796376,77.5258661,"sainj, Himachal Pradesh, India",True
+Giri River D/S Lwss At Sainj,3878,31.7796376,77.5258661,"sainj, Himachal Pradesh, India",True
+"Giri River D/S Cement Corporation Of India, Rajban",3860,30.5177997,77.6583134,"rajban, Himachal Pradesh, India",True
+"Giri River After Confluence Of Ashwani River At Giripul, Yashwant Nagar",3876,32.1135887,77.171316,"nagar, Himachal Pradesh, India",True
+Well At Paonta Sahib,1556,30.4384439,77.6211774,"paonta sahib, Himachal Pradesh, India",True
+Ground Water At Damtal,1561,32.2539125,75.6722344,"damtal, Himachal Pradesh, India",True
+Well At Una,1562,32.2369682,76.3248777,"well, Himachal Pradesh, India",True
+Ground Water At Solan- D/S Of Msw Dumping Site Salogra,1874,30.934895,77.1308917,"salogra, Himachal Pradesh, India",True
+Hand Pump At Mandi Town,2629,31.5231759,76.8863657,"mandi town, Himachal Pradesh, India",True
+Hand Pump At Chamba Town,2641,32.2458877,77.1903951,"town, Himachal Pradesh, India",True
+Hand Pump At Nahan,2645,30.5601803,77.2923596,"nahan, Himachal Pradesh, India",True
+Hand Pump At Kala Amb,2646,31.6928633,76.796236,"kala, Himachal Pradesh, India",True
+Hand Pump At Tahliwal Ia,2647,31.3491982,76.2691449,"tahliwal, Himachal Pradesh, India",True
+Hand Pump At Keylong,2648,32.5713398,77.0345199,"keylong, Himachal Pradesh, India",True
+Handpump At Village Mugia Near Shiv Temple,4456,31.6418174,76.8171615,"shiv temple, Himachal Pradesh, India",True
+"Lift Water Supply Scheme For Dharamshala Town, Near Hotel Dhauladhar Heights Dari, Dharamshala",4467,32.204346,76.3296843,"dari dharamshala, Himachal Pradesh, India",True
+"Water Supply Scheme Dari, Mela Ground Dari, Dharamshala",4468,32.1981113,76.3371528,"ground dari dharamshala, Himachal Pradesh, India",True
+"Water Supply Scheme Nagrota Town, Near Police Station, Nagrota Bagwan",4472,32.1085062,76.3887448,"station nagrota bagwan, Himachal Pradesh, India",True
+"River Markanda At Paonta, Distt. Sirmour",1871,30.4968292,77.4733243,"sirmour, Himachal Pradesh, India",True
+River Markanda U/S Kala Amb,2624,31.6928633,76.796236,"kala, Himachal Pradesh, India",True
+River Markanda D/S Of Salani Khad,3862,31.7776686,76.9049191,"khad, Himachal Pradesh, India",True
+River Markanda D/S Of Moginand Nala,3864,31.0743821,77.2879136,"nala, Himachal Pradesh, India",True
+River Alhi Nog(Near Water Supply Scheme Intake)Tributary Of River Satluj,4464,31.7052776,76.9372256,"satluj, Himachal Pradesh, India",True
+River Harabagh(Intake From Bbmb Source-Bbmb Adit Harabgh)Wate Spring,4465,32.2062827,76.3713131,"spring, Himachal Pradesh, India",True
+"River Gaj Water Supply Scheme Dharamshala Town, Near Dharamshala Cantt.",4469,32.1879215,76.3609254,"dharamshala cantt., Himachal Pradesh, India",True
+River Bather Water Supply Scheme Daramshala Town Near Dal Lake,4470,30.609078,77.4615544,"lake, Himachal Pradesh, India",True
+"River Neugal (Water Supply Scheme Palampur Town, Bandla, Palampur",4471,32.1137449,76.5345689,"bandla palampur, Himachal Pradesh, India",True
+River Ashwani At Sadhupul (U/S Of Bridge Towards Chail.),4479,30.9689104,77.1981859,"chail., Himachal Pradesh, India",True
+River Markanda At Kala Amb U/S (H.P),30008,31.6928633,76.796236,"kala, Himachal Pradesh, India",True
+River Koshalya At U/S Parwanoo,30013,30.837887,76.9601747,"parwanoo, Himachal Pradesh, India",True
+3861,10,30.8201912,77.2390968,"3861, Himachal Pradesh, India",True
+3863,11,30.8201912,77.2390968,"3863, Himachal Pradesh, India",True
+3865,12,30.8201912,77.2390968,"3865, Himachal Pradesh, India",True
+3867,13,30.8201912,77.2390968,"3867, Himachal Pradesh, India",True
+3868,14,30.8201912,77.2390968,"3868, Himachal Pradesh, India",True
+3875,15,30.8201912,77.2390968,"3875, Himachal Pradesh, India",True
+3879,16,30.8201912,77.2390968,"3879, Himachal Pradesh, India",True
+3881,18,30.8201912,77.2390968,"3881, Himachal Pradesh, India",True
+4029,19,30.8201912,77.2390968,"4029, Himachal Pradesh, India",True
+4034,20,30.8201912,77.2390968,"4034, Himachal Pradesh, India",True
+4035,21,30.8201912,77.2390968,"4035, Himachal Pradesh, India",True
+4425,22,30.8201912,77.2390968,"4425, Himachal Pradesh, India",True
+4430,23,30.8201912,77.2390968,"4430, Himachal Pradesh, India",True
+4454,24,30.8201912,77.2390968,"4454, Himachal Pradesh, India",True
+4455,25,30.8201912,77.2390968,"4455, Himachal Pradesh, India",True
+4462,26,30.8201912,77.2390968,"4462, Himachal Pradesh, India",True
+4463,27,30.8201912,77.2390968,"4463, Himachal Pradesh, India",True
+4466,28,30.8201912,77.2390968,"4466, Himachal Pradesh, India",True
+4474,29,30.8201912,77.2390968,"4474, Himachal Pradesh, India",True
+4475,30,30.8201912,77.2390968,"4475, Himachal Pradesh, India",True
+4476,31,30.8201912,77.2390968,"4476, Himachal Pradesh, India",True
+4477,32,30.8201912,77.2390968,"4477, Himachal Pradesh, India",True
+4480,33,30.8201912,77.2390968,"4480, Himachal Pradesh, India",True
+4481,34,30.8201912,77.2390968,"4481, Himachal Pradesh, India",True
+4482,35,30.8201912,77.2390968,"4482, Himachal Pradesh, India",True
+River Sutlej At Karcham Drain,3870,,,,False
+Charan Khand U/S Bhagsunag,4460,32.243964,76.3334748,"bhagsunag, Himachal Pradesh, India",True
+"Yamuna River, U/S Paonta Sahib",1553,30.4384439,77.6211774,"paonta sahib, Himachal Pradesh, India",True
+"Yamuna River, D/S Paonta Sahib",1554,30.4384439,77.6211774,"paonta sahib, Himachal Pradesh, India",True
+Tons River At Sirmaur,1510,30.7006048,77.7509359,"tons river sirmaur, Himachal Pradesh, India",True
+Ground Water At Nalagarh,1560,31.1059814,76.6567018,"nalagarh, Himachal Pradesh, India",True
+Ground Water At Parwanoo Industrial Area,1876,31.4024304,76.4129499,"industrial, Himachal Pradesh, India",True
+Well At Baddi,1558,30.9763026,76.7674001,"baddi, Himachal Pradesh, India",True
+Well At Parwanoo,1557,30.837887,76.9601747,"parwanoo, Himachal Pradesh, India",True
+River Beas At U/S Manali,1001,32.2397708,77.1910992,"beas manali, Himachal Pradesh, India",True
+River Beas At D/S Manali,2601,32.2397708,77.1910992,"beas manali, Himachal Pradesh, India",True
+River Beas Before Confluence To Manalsu Nallah,3866,32.2637513,77.2436247,"nallah, Himachal Pradesh, India",True
+River Beas At U/S Kullu,2602,32.2397708,77.1910992,"beas kullu, Himachal Pradesh, India",True
+River Beas At D/S Kulu,1002,31.938562,77.1111971,"beas kulu, Himachal Pradesh, India",True
+River Beas At D/S Aut,1003,31.8090021,77.1883368,"beas aut, Himachal Pradesh, India",True
+River Beas At U/S Pandoh Dam,1004,31.6737338,77.0493132,"beas pandoh, Himachal Pradesh, India",True
+River Beas At D/S Pandoh Dam,2603,31.6737338,77.0493132,"beas pandoh, Himachal Pradesh, India",True
+River Beas At Exit Of Tunnel Dehal Power House,1005,31.4130832,76.8686123,"power house, Himachal Pradesh, India",True
+River Beas U/S Mandi,1550,31.8298121,76.7833034,"beas mandi, Himachal Pradesh, India",True
+River Beas At D/S Mandi,1006,31.8298121,76.7833034,"beas mandi, Himachal Pradesh, India",True
+River Beas At D/S Jaisinghpur,2604,31.827237,76.4766998,"beas jaisinghpur, Himachal Pradesh, India",True
+River Beas At D/S Alampur,1007,31.827237,76.4766998,"beas alampur, Himachal Pradesh, India",True
+River Beas At D/S Pong Dam,1009,32.003759,76.0493876,"pong, Himachal Pradesh, India",True
+River Beas At D/S Dehragopipur,1008,,,,False
+"River Sutlej River B/C With River Spiti At Khab, Distt.Kinnaur",1867,31.4276016,78.2646884,"distt.kinnaur, Himachal Pradesh, India",True
+River Sutlej At Khab,2611,31.7998055,78.6442982,"khab, Himachal Pradesh, India",True
+River Sutlej D/S Tidong Hep,3872,31.4597265,78.5667887,"tidong, Himachal Pradesh, India",True
+River Sutlej D/S Power House Kashang Hep,3871,31.6043,78.18326,"kashang, Himachal Pradesh, India",True
+River Sutlej At Neptha Zakhai,1389,,,,False
+River Sutlej D/S Trt Of Rampur Hydel Electric Project,3869,32.1833358,76.5574889,"electric project, Himachal Pradesh, India",True
+River Sutlej At U/S Rampur,1086,31.4408018,77.6281589,"sutlej rampur, Himachal Pradesh, India",True
+River Sutlej At D/S Rampur,1087,31.4408018,77.6281589,"sutlej rampur, Himachal Pradesh, India",True
+River Sutlej At U/S Tatapani,1013,32.12184,76.7181153,"tatapani, Himachal Pradesh, India",True
+River Sutlej U/S Khairian Solid Waste Dumping Site Bilaspur,4032,31.3380959,76.7611631,"bilaspur, Himachal Pradesh, India",True
+River Sutlej D/S Khairian Solid Waste Dumping Site Bilaspur,4033,31.3380959,76.7611631,"bilaspur, Himachal Pradesh, India",True
+River Sutlej At Nangal (H.P.),30009,31.1149319,77.101821,"h.p., Himachal Pradesh, India",True
+River Sutlej At U/S Slapper,1014,31.4150054,76.8620008,"slapper, Himachal Pradesh, India",True
+River Sutlej At D/S Slapper,1015,31.4150054,76.8620008,"slapper, Himachal Pradesh, India",True
+River Sutlej At D/S Bhakhra,1016,,,,False
+River Ravi At U/S Madhopur,1088,32.2360562,75.6260843,"madhopur, Himachal Pradesh, India",True
+River Ravi At U/S Chamba,1089,32.6923316,76.1631552,"chamba, Himachal Pradesh, India",True
+River Ravi At Chamera Reservoir,2614,32.003759,76.0493876,"reservoir, Himachal Pradesh, India",True
+River Ravi At D/S Chamera Iii Hep,2615,31.1550312,77.5138879,"chamera, Himachal Pradesh, India",True
+River Ravi At D/S Of Chamba Town,2613,32.2458877,77.1903951,"town, Himachal Pradesh, India",True
+River Parvati Before Conf. To River Beas,1290,32.2397708,77.1910992,"river beas, Himachal Pradesh, India",True
+River Parvati At U/S Manikaran,2605,32.0107993,77.3159503,"parvati manikaran, Himachal Pradesh, India",True
+River Parvati At D/S Manikaran,2606,32.0107993,77.3159503,"parvati manikaran, Himachal Pradesh, India",True
+"River Largi At D/S, Dwada Himachal Pradesh",1090,31.2849567,76.7829197,"himachal pradesh, Himachal Pradesh, India",True
+River Sirsa U/S Sitomajri Nallahgarh,1551,,,,False
+River Sirsa D/S Nalagarh Bridge,1552,31.1059814,76.6567018,"nalagarh, Himachal Pradesh, India",True
+River Sirsa At D/S Nalagarh Distt. Solan,1868,31.1059814,76.6567018,"nalagarh distt. solan, Himachal Pradesh, India",True
+River Sirsa U/S Sandholi Nallah,4485,32.2637513,77.2436247,"nallah, Himachal Pradesh, India",True
+River Sirsa D/S Housing Board Nallah,4487,32.2637513,77.2436247,"nallah, Himachal Pradesh, India",True
+River Sirsa D/S River Ratta,4489,,,,False
+River Siuel At D/S Surgani,2616,,,,False
+River Suketi Khad At D/S Mandi,2607,31.6196286,76.945837,"suketi khad mandi, Himachal Pradesh, India",True
+River Binwa At D/S Paprola/Baijnath,2608,32.0525381,76.6348774,"paprola/baijnath, Himachal Pradesh, India",True
+River Neugal At D/S Thural,2609,32.019593,76.4548985,"neugal thural, Himachal Pradesh, India",True
+River Spiti At Khab,2610,31.7998055,78.6442982,"khab, Himachal Pradesh, India",True
+River Baspa At U/S Reservoir Baspa Project,2612,31.9901471,76.8072656,"project, Himachal Pradesh, India",True
+River Swan U/S Gagret,3856,31.6620976,76.0624707,"gagret, Himachal Pradesh, India",True
+River Swan D/S Gagret,3857,31.6620976,76.0624707,"gagret, Himachal Pradesh, India",True
+River Swan U/S Santoshgarh Bridge,3858,,,,False
+River Swan U/S Una Town Ghalluwal Bridge,3859,,,,False
+River Swan B/C Of Garni Khad,4030,31.7776686,76.9049191,"khad, Himachal Pradesh, India",True
+River Swan River A/C Garni Khad,4031,31.7776686,76.9049191,"khad, Himachal Pradesh, India",True
+River Swan At D/S Nangal Distt. Una,1869,31.3918028,76.2835593,"swan nangal distt. una, Himachal Pradesh, India",True
+River Pabbar At U/S Dhambari,2617,,,,False
+River Pabbar At U/S Rohru,2618,31.1973022,77.7463562,"pabbar rohru, Himachal Pradesh, India",True
+River Alhi Nog(Near Water Supply Scheme,4464,,,,False
+River Ashwani At U/S Yashwant Nagar,2620,32.1135887,77.171316,"nagar, Himachal Pradesh, India",True
+River Baner Khad U/S Chamunda Temple,4457,32.1835023,76.4370533,"chamunda temple, Himachal Pradesh, India",True
+River Baner Khad D/S Chamunda Temple,4458,32.1835023,76.4370533,"chamunda temple, Himachal Pradesh, India",True
+Ashwini Khad U/S Of Weir Site Of Wtp Near Ashwani Bridge,4428,31.0991331,77.1283501,"ashwani, Himachal Pradesh, India",True
+Raw Water At Gumma Nauti Khad,4424,31.185854,77.2181946,"nauti khad, Himachal Pradesh, India",True
+Shikari Khad B/ C River Pabbar Near Hrtc Rohru Bus Stand,4431,32.109274,76.5366901,"stand, Himachal Pradesh, India",True
+River Batta At U/S Paonta,2626,30.4384439,77.6211774,"paonta, Himachal Pradesh, India",True
+River Batta Before Confluence To Yamuna,2627,31.1300882,77.1700544,"yamuna, Himachal Pradesh, India",True
+River Yamuna At Ponta Sahib,30027,30.4384439,77.6211774,"sahib, Himachal Pradesh, India",True
+River Yamuna U/S Paonta Sahib,1553,30.4350018,77.6239468,"yamuna paonta sahib, Himachal Pradesh, India",True
+River Yamuna D/S Paonta Sahib,1554,30.4350018,77.6239468,"yamuna paonta sahib, Himachal Pradesh, India",True
+River Yamuna U/S Ranbaxy,4439,,,,False
+River Yamuna D/S Ranbaxy,4440,,,,False
+River Tons Sirmaur,1510,30.7006048,77.7509359,"tons sirmaur, Himachal Pradesh, India",True
+River Giri At D/S Yashwant Nagar,2621,32.1135887,77.171316,"nagar, Himachal Pradesh, India",True
+"River Giri After Confluence Of Ashwani River At Giripul, Yashwant Nagar",3876,32.1135887,77.171316,"nagar, Himachal Pradesh, India",True
+River Giri At U/S Cci Mines,2622,31.8039745,76.9495803,"mines, Himachal Pradesh, India",True
+River Giri D/S Sataun,2623,30.5581131,77.6385378,"sataun, Himachal Pradesh, India",True
+River Giri U/S Lwss At Sainj,3877,31.7796376,77.5258661,"sainj, Himachal Pradesh, India",True
+River Giri D/S Lwss At Sainj,3878,31.7796376,77.5258661,"sainj, Himachal Pradesh, India",True
+"River Giri D/S Cement Corporation Of India, Rajban",3860,30.5177997,77.6583134,"rajban, Himachal Pradesh, India",True
+River Pabbar At D/S Swarakuddu,2619,,,,False
+"Tubewell Near Jsv Pump Station Residential Area Kheri, Kala Amb,",1555,31.6928633,76.796236,"kala, Himachal Pradesh, India",True
+Borewell Near Jsv Tank Heerpur At Paonta Sahib,1556,30.4384439,77.6211774,"paonta sahib, Himachal Pradesh, India",True
+Borewell At Gabriel India Ltd. Industrial Area Parwanoo,1557,30.837887,76.9601747,"parwanoo, Himachal Pradesh, India",True
+Ground Water Near Vmt Spinning At Baddi,1558,30.9763026,76.7674001,"baddi, Himachal Pradesh, India",True
+Ground Water Near High Valley Residential Colony Barotiwala At Barotiwala,1559,30.9058213,76.8401329,"barotiwala barotiwala, Himachal Pradesh, India",True
+Ground Water Near Durga Temple Rajpura Road Nalagarh At Nalagarh,1560,31.042466,76.7176443,"nalagarh nalagarh, Himachal Pradesh, India",True
+Ground Water Near Ram Gopal Temple At Damtal,1561,32.2539125,75.6722344,"damtal, Himachal Pradesh, India",True
+Borewell Near Isbt Una,1562,31.4694905,76.2659132,"isbt una, Himachal Pradesh, India",True
+Ground Water U/S Of Msw Dumping Site At Dharamshala Kangra,1873,32.1978182,76.3211613,"dharamshala kangra, Himachal Pradesh, India",True
+"Spring Source (Ground Water) Below Swm Site At Salogra, Vill. Salogra, Distt. Solan",1874,30.934895,77.1308917,"salogra distt. solan, Himachal Pradesh, India",True
+Borewell At Hpmc Parwanoo,1876,30.837887,76.9601747,"parwanoo, Himachal Pradesh, India",True
+Ground Water Near Usv Limited Hpsidc Baddi At Baddi Industrial Area,1877,31.4024304,76.4129499,"industrial, Himachal Pradesh, India",True
+Ground Water (Near Electricity Office Barotiwala) Barotiwala Industrial Area,1878,31.4024304,76.4129499,"industrial, Himachal Pradesh, India",True
+Ground Water (Near Acme Formulation Nalagarh) Nalagarh Industrial Area,1879,31.4024304,76.4129499,"industrial, Himachal Pradesh, India",True
+Tubewell Opposite Iiit College Of Engineering Near Industrial Area Johron Kala Amb,1880,31.6928633,76.796236,"kala, Himachal Pradesh, India",True
+"Borewell Near Jsv Tank, Swca Office At Gondpur, Industrial Area, Paonta Sahib",1881,30.4384439,77.6211774,"paonta sahib, Himachal Pradesh, India",True
+Borewell Near Overhead Tank Of Iada Mehatpur Industrial Area,1882,31.4024304,76.4129499,"industrial, Himachal Pradesh, India",True
+Hand Pump Near The Bus Stop At Workshop Chowk,2628,31.6075891,76.9142821,"chowk, Himachal Pradesh, India",True
+Hand Pump At Mandi Town (Near Canara Bank),2629,32.2258818,76.3248047,"canara bank, Himachal Pradesh, India",True
+Handpump Near Exit Gate Of Bus Stand Hamirpur,2630,31.6539866,76.5403633,"hamirpur, Himachal Pradesh, India",True
+Hand Pump Inside The Bus Stand At Nadaun Town,2631,31.7819445,76.3434752,"nadaun town, Himachal Pradesh, India",True
+Hand Pump At Bilaspur Town (Near Laxminarayan Temple),2632,32.1961808,76.280458,"temple, Himachal Pradesh, India",True
+Hand Pump Near Vijaynagar Totu Shimla,2634,31.0996971,77.123192,"totu shimla, Himachal Pradesh, India",True
+Hand Pump Near Nogli At Rampur,2635,31.4011031,77.6385033,"nogli rampur, Himachal Pradesh, India",True
+Hand Pump Near Kangra Temple,2636,32.2332838,76.3249012,"kangra temple, Himachal Pradesh, India",True
+Borewell Near Chintpurni Temple At Una Town,2638,31.5226761,76.8860161,"temple town, Himachal Pradesh, India",True
+Hand Pump Near Chamunda Devi Temple,2639,32.1926888,76.4504114,"chamunda devi temple, Himachal Pradesh, India",True
+Hand Pump Near Sansarpur Terrace Industrial Area,2640,31.4024304,76.4129499,"industrial, Himachal Pradesh, India",True
+Hand Pump Near Texi Stand Chamba Town,2641,32.2458877,77.1903951,"town, Himachal Pradesh, India",True
+Hand Pump Near Hotel Pine Wood At Dalhousie Road,2642,32.5435755,75.9448409,"dalhousie, Himachal Pradesh, India",True
+Hand Pump At Nahan Near Police Post Gunnughat,2645,30.5620156,77.2946222,"post gunnughat, Himachal Pradesh, India",True
+Hand Pump Near Moginanad At Kala Amb,2646,31.6928633,76.796236,"kala, Himachal Pradesh, India",True
+Hand Pump At Tahliwal Bazar,2647,31.1278136,77.2291016,"bazar, Himachal Pradesh, India",True
+Borewell Near Una-Haroli Bridge Industrial Area Jeetpur Behri,4434,31.5646505,77.0266807,"behri, Himachal Pradesh, India",True
+Handpump Near Satsang Bhawan Village Mugla,4456,32.5381939,76.1369169,"mugla, Himachal Pradesh, India",True
+Ground Water Intake Point Of Bbmb At Vill. Harabagh,4465,31.4796782,76.8714881,"harabagh, Himachal Pradesh, India",True
+"Ground Water Near Lift Water Supply Scheme At Dari Dharamshala At Hotel Dhauladhar Heights Dari, Dharamshala",4467,32.204346,76.3296843,"dari dharamshala, Himachal Pradesh, India",True
+"Ground Water Supply Scheme Near Mela Ground Dari, Dharamshala",4468,32.1981113,76.3371528,"ground dari dharamshala, Himachal Pradesh, India",True
+Ground Water Near Supply Scheme At Nagrota Bhagwan,4472,,,,False
+"Lifting Water Supply Scheme Shamshi, Near Sabji Mandi Bhunter, Tehsil Kullu",4478,31.9578974,77.1089232,"kullu, Himachal Pradesh, India",True
+"Drinking Water Supply Scheme No. 7, Sanoli",4484,31.3514847,76.3403755,"sanoli, Himachal Pradesh, India",True
+Ground Water Near Pulghrat Bridge Along National Highway,5249,,,,False
+"Borewell In The Premises Of M/S Bhagwati Automobile, Plot No. 13, Indl Area Sauli Khad, Dist. Mandi",5250,31.7776686,76.9049191,"khad dist. mandi, Himachal Pradesh, India",True
+"Grouund Water At Vpo Sanoli, Sub-Tehsil Mehtapur (Drinking Water Supply Scheme)",5258,,,,False
+River Markanda After Confluence Of Rampur Jattan Moginand Nala,3864,31.0743821,77.2879136,"nala, Himachal Pradesh, India",True
+River Markanda After Confluence With Salani Khad At Moginand Kala Amb,3862,31.6928633,76.796236,"kala, Himachal Pradesh, India",True
+"River Markanda At Shambuwala, Distt. Sirmour",1871,30.4968292,77.4733243,"sirmour, Himachal Pradesh, India",True
+"Sukhana Nallah At Parwanoo Near Kalka Barrier, Exit Point Of H. P.",1870,31.4690601,76.2658278,"exit, Himachal Pradesh, India",True
+Sarvari Nallah Before Confluence To River Beas,3867,32.2397708,77.1910992,"river beas, Himachal Pradesh, India",True
+Baragram Nallah Before Confluence To River Beas,3868,32.2397708,77.1910992,"river beas, Himachal Pradesh, India",True
+Surajmukhi Nallah U/S Wss Galayana D/S Of Shoolini University,3875,30.8644984,77.1181494,"shoolini university, Himachal Pradesh, India",True
+"Bhatian Nallah U/S Bhatian Village, Near Tvs Industry, Nalagarh",3879,31.0308528,76.6218104,"industry nalagarh, Himachal Pradesh, India",True
+Raw Water For Lwss Of Churat Nallah,4425,32.2637513,77.2436247,"nallah, Himachal Pradesh, India",True
+Raw Water For Lwss Of Jagroti Nallah,4426,32.2637513,77.2436247,"nallah, Himachal Pradesh, India",True
+Jarangla Nallah U/S Water Supply Scheme,4454,,,,False
+Kluin Nallah U/S Water Supply Scheme,4455,,,,False
+Sainj Nallah (U/S Sainj Water Supply Scheme At Dargi),4462,31.223954,77.0467651,"dargi, Himachal Pradesh, India",True
+Dhaneshar Nallah (U/S Sainj Water Supply Scheme) Near Gyasi Mata Mandir,4463,32.2002156,76.3101402,"mata mandir, Himachal Pradesh, India",True
+Alhi Khad Near Intake Wss At Vill. Nog,4464,33.0906157,76.469779,"vill., Himachal Pradesh, India",True
+Jarangla Nallah D/S Water Supply Scheme,4466,,,,False
+Halog Nallah Near Halog Water Supply Scheme,4474,,,,False
+"Machada Nallah, Majhouti Water Supply Scheme Near Nirath",4475,31.3693775,77.5422891,"nirath, Himachal Pradesh, India",True
+Manalsu Nallah Near Water Supply Scheme For Manali Town,4476,32.2454608,77.1872926,"manali town, Himachal Pradesh, India",True
+Khalada Nallah Near Water Supply Scheme For Kullu Town,4477,31.9578974,77.1089232,"kullu town, Himachal Pradesh, India",True
+Surajmukhi Nallah D/S Stp At U/S Of Shoolini University Samti Solan,4480,30.9077569,77.1023645,"solan, Himachal Pradesh, India",True
+"Hurla Nalla D/S Hurla Bridge, Vpo Hurla, Tehsil Bhunter, Dis. Kullu",5253,31.9578974,77.1089232,"kullu, Himachal Pradesh, India",True
+"Kalam Nalla D/S Of Msw Processing Site At Chowri, Dist. Chamba",5257,32.226399,76.1701024,"dist. chamba, Himachal Pradesh, India",True
+River Beas D/S Of Waste Processing Facility At Manali,4444,32.2454608,77.1872926,"manali, Himachal Pradesh, India",True
+River Beas U/S Before Conf. Of Manalsu Nallah,3866,32.2637513,77.2436247,"nallah, Himachal Pradesh, India",True
+"River Beas, U/S Kullu",2602,32.2397708,77.1910992,"beas kullu, Himachal Pradesh, India",True
+River Beas D/S Of Waste Processing Facility At Kullu,4445,31.7708813,77.3084847,"facility kullu, Himachal Pradesh, India",True
+River Beas D/S Kullu,1002,32.2397708,77.1910992,"beas kullu, Himachal Pradesh, India",True
+River Beas D/S Aut,1003,31.8090021,77.1883368,"beas aut, Himachal Pradesh, India",True
+"River Beas, D/S Pandoh Dam",2603,31.6737338,77.0493132,"beas pandoh, Himachal Pradesh, India",True
+River Beas At Exit Of Dehar Power House,1005,31.4130832,76.8686123,"dehar power house, Himachal Pradesh, India",True
+"Beas River, U/S Of Mandi Town",1550,31.5231759,76.8863657,"mandi town, Himachal Pradesh, India",True
+River Beas D/S Mandi Town,1006,31.5231759,76.8863657,"mandi town, Himachal Pradesh, India",True
+River Beas At Talwara (Pong Dam),30083,32.003759,76.0493876,"pong, Himachal Pradesh, India",True
+River Sutlej Before Conf. With River Spiti At Khab,1867,31.7998055,78.6442982,"khab, Himachal Pradesh, India",True
+River Sutlej After Conf. With River Spit At Khab,2611,31.7998055,78.6442982,"khab, Himachal Pradesh, India",True
+River Sutlej Before Confluences With River Tidong,4448,31.4597265,78.5667887,"river tidong, Himachal Pradesh, India",True
+River Sutlej After Confluences With River Tidong,4449,31.4597265,78.5667887,"river tidong, Himachal Pradesh, India",True
+River Sutlej Before Confluences Of River Baspa,4452,31.350984,78.4141363,"river baspa, Himachal Pradesh, India",True
+River Sutlej After Conf. Of River Baspa At Karcham Dam,3870,31.5406846,78.0153212,"karcham, Himachal Pradesh, India",True
+River Sutlej At Wangtoo Bridge,1389,31.5406846,78.0153212,"wangtoo, Himachal Pradesh, India",True
+River Sutlej After Confluences Of River Baspa,4453,31.350984,78.4141363,"river baspa, Himachal Pradesh, India",True
+River Sutlej D/S Landfill Site Rampur,4447,31.5091373,77.7709741,"rampur, Himachal Pradesh, India",True
+River Sutlej D/S Acc Barmana,4032,31.4181948,76.8359933,"barmana, Himachal Pradesh, India",True
+River Sutlej Near Luhnoo Ground,4033,32.4808316,75.9192543,"ground, Himachal Pradesh, India",True
+River Sutlej Before Confluence With Ganvi Khand,4450,32.7706847,75.9552687,"khand, Himachal Pradesh, India",True
+River Sutlej After Confluence With Ganvi Khad,4451,31.7776686,76.9049191,"khad, Himachal Pradesh, India",True
+River Sutlej U/S Of Exit Point Of Dehar Power House,1014,31.4130832,76.8686123,"dehar power house, Himachal Pradesh, India",True
+River Sutlej D/S Of Exit Point Of Dehar Power House,1015,31.4130832,76.8686123,"dehar power house, Himachal Pradesh, India",True
+River Sutlej D/S Bhakhra,1016,,,,False
+"River Sutlej U/S At Olinda, Near Bhakra Dam, H.P.",30087,31.1149319,77.101821,"h.p., Himachal Pradesh, India",True
+"River Sutlej D/S Olinda, Near Bhakra Dam, H.P.",30088,31.1149319,77.101821,"h.p., Himachal Pradesh, India",True
+River Ravi U/S Chamba,1089,32.6923316,76.1631552,"chamba, Himachal Pradesh, India",True
+River Ravi Chamera-I Reservoir,2614,32.003759,76.0493876,"reservoir, Himachal Pradesh, India",True
+River Ravi D/S Chamera- Iii Hep Dam,2615,31.1550312,77.5138879,"chamera, Himachal Pradesh, India",True
+River Ravi U/S Stp At Bharga,3873,,,,False
+River Ravi D/S Stp At Bhagot,3874,32.5377869,76.0873711,"bhagot, Himachal Pradesh, India",True
+River Parvati Before Conf. To River Beas At Bhunter,1290,,,,False
+River Sirsa U/S Sitomajri Nallah,1551,32.2637513,77.2436247,"nallah, Himachal Pradesh, India",True
+River Sirsa D/S Nalagarh Town,1868,31.042466,76.7176443,"nalagarh town, Himachal Pradesh, India",True
+River Sirsa After Conf. To River Ratta,4489,,,,False
+River Baira Siul D/S Surgani,2616,,,,False
+Suketi Khad Before Conf. With River Beas,2607,32.2397708,77.1910992,"river beas, Himachal Pradesh, India",True
+Neugal Khad D/S Thural,2609,32.019593,76.4548985,"neugal khad thural, Himachal Pradesh, India",True
+River Spiti Before Conf.With River Sutlej At Khab,2610,31.7998055,78.6442982,"khab, Himachal Pradesh, India",True
+River Baspa U/S Reservoir Baspa Hep At Kuppa,2612,32.272048,76.1215317,"kuppa, Himachal Pradesh, India",True
+River Swan U/S Industrial Area Gagret,3856,31.6620976,76.0624707,"gagret, Himachal Pradesh, India",True
+River Swan D/S Industrial Area Gagret,3857,31.6620976,76.0624707,"gagret, Himachal Pradesh, India",True
+River Swan U/S Una Town At Ghalluwal Bridge,3859,,,,False
+River Swan Before Conf. Of Garni Khad At Chururu,4030,,,,False
+River Swan After Conf. Garni Khad At Chururu,4031,,,,False
+River Swan D/S Bela Bathari (Bhangla),1869,,,,False
+River Tirthan Before Conf. To River Sutlej,4038,31.5474177,76.9303228,"sutlej, Himachal Pradesh, India",True
+Ashwani Khad U/S Of Sadhupul Village (Nearby 800 Meters U/S Of The Bridge),4479,,,,False
+Ashwani Khad After Confluence Of Lift Nallah Near Dogrha Bridge,4429,,,,False
+"Ashwani Khad D/S Of Village Sadhupil, Tehsil Kandaghat, District Solan.",4461,31.0017985,77.094054,"kandaghat district solan., Himachal Pradesh, India",True
+Ashwani Khad U/S Of Yashwant Nagar Before Conf. With River Giri At Yashwant Nagar,2620,32.1135887,77.171316,"nagar, Himachal Pradesh, India",True
+Mol Khad U/S Palampur,4025,32.019593,76.4548985,"khad palampur, Himachal Pradesh, India",True
+Mol Khad D/S Palampur,4026,32.019593,76.4548985,"khad palampur, Himachal Pradesh, India",True
+Raw Water For Lwss Of Nauti Khad At Gumma (Basantpur),4424,31.2100303,77.1721744,"basantpur, Himachal Pradesh, India",True
+Shikari Khad Before Confluence To River Pabbar Near Hrtc Rohru Bus Stand,4431,32.109274,76.5366901,"stand, Himachal Pradesh, India",True
+River Batta U/S Paonta At Kishanpura,2626,,,,False
+River Sainj D/S Larji,1090,31.7624697,77.2640482,"sainj larji, Himachal Pradesh, India",True
+River Swan D/S Of Una At Rampur Bridge,4433,31.5091373,77.7709741,"rampur, Himachal Pradesh, India",True
+Bather Khad Water Supply Scheme At Dal Lake,4470,30.609078,77.4615544,"lake, Himachal Pradesh, India",True
+"Neugal Khad Near Water Supply Scheme At Bandla, Palampur",4471,32.1137449,76.5345689,"bandla palampur, Himachal Pradesh, India",True
+River Bald D/S Landfillsite At Baddi,4486,30.9763026,76.7674001,"baddi, Himachal Pradesh, India",True
+River Ratta Before Conf. To River Sirsa,4488,30.9439864,76.7695407,"river sirsa, Himachal Pradesh, India",True
+"River Uhl D/S Of Iit, Mandi",5248,31.6516617,77.0092542,"mandi, Himachal Pradesh, India",True
+Suketi Khad D/S Swm Site At Sunder Nagar,5251,31.5163437,76.8840473,"sunder nagar, Himachal Pradesh, India",True
+Seer Khad U/S Intake Point Of Wss Ghumarwin Town,5252,31.4421256,76.7075073,"ghumarwin town, Himachal Pradesh, India",True
+River Bhagga U/S Before Confluence To River Chenab,5254,,,,False
+River Chandra U/S Before Confluence To River Chenab,5255,,,,False
+River Chenab D/S At Tandi (L & S),5256,32.556087,76.9747132,"tandi, Himachal Pradesh, India",True
+"River Giri At Nihari, Kotkhal",5292,,,,False
+River Yamuna U/S Sun Pharmaceuticals,4439,,,,False
+River Yamuna D/S Sun Pharmaceuticals,4440,,,,False
+River Tons At Tiuni (Himachal Pradesh/Uttra Khand Border),1510,32.2344264,77.1937956,"border, Himachal Pradesh, India",True
+"River Giri D/S Kalgidhar Trust, Baru Sahib",4028,30.7548782,77.2957224,"baru sahib, Himachal Pradesh, India",True
+River Giri At D/S Yashwant Nagar After Conf. With Ashwani Khad At Yashwant Nagar- Near Shani Mandir,2621,32.1896505,76.356712,"shani mandir, Himachal Pradesh, India",True
+River Giri After Confluence Of Ashwani River At Village Maryog,3876,,,,False
+River Giri At U/S Cci Mines At Village Nadi,2622,30.5639978,77.6272916,"nadi, Himachal Pradesh, India",True
+"River Giri D/S Cement Corporation Of India, Rajban At Bangran Bridge",3860,30.5024334,77.6697564,"bangran, Himachal Pradesh, India",True
+River Pabbar D/S Swarakuddu,2619,,,,False
+River Giri D/S Proposed Site Of Renuka Dam,4473,30.6924712,77.4678417,"renuka, Himachal Pradesh, India",True

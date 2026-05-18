@@ -53,7 +53,14 @@ OUTLIER_CAPS = {
 
 def generate_stn_code(location: str) -> str:
     """Generate a unique station code from location name if missing."""
-    h = hashlib.md5(location.encode()).hexdigest()[:6].upper()
+    # Ensure location is a string (handle integers, NaN, etc.)
+    if pd.isna(location):
+        location = ""
+    else:
+        location = str(location)
+
+    location = location.strip()
+    h = hashlib.md5(location.encode("utf-8")).hexdigest()[:6].upper()
     return f"GEN-{h}"
 
 
@@ -161,7 +168,13 @@ def clean(input_path: str, output_path: str):
     print(f"\n✓ Step 1: Filled {missing_stn} missing stn_code values")
 
     # ── Step 2: Clean location strings ────────────────────────────────────────
-    df["monitoring_location"] = df["monitoring_location"].str.strip().str.title()
+    if "monitoring_location" in df.columns:
+        # Coerce to string, handle NaN and numeric values safely
+        df["monitoring_location"] = (
+            df["monitoring_location"].fillna("").astype(str).str.strip().str.title()
+        )
+    else:
+        df["monitoring_location"] = ""
     print(f"✓ Step 2: Cleaned location strings")
 
     # ── Step 3: Cap extreme outliers ──────────────────────────────────────────
@@ -238,16 +251,28 @@ def run_clean_for_all_years(input_dir: str, output_dir: str, exclude_years=None)
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
 
-    files = sorted(input_path.glob("karnataka_*.csv"))
+    files = sorted(input_path.glob("*_*.csv"))
+    # Filter out already-cleaned files and train files
+    files = [
+        f for f in files
+        if not f.stem.endswith("_clean")
+        and "train" not in f.stem
+    ]
 
     for file in files:
-        year = int(file.stem.split("_")[1])
+        # filename format: {state}_{year}.csv or {state}_{year}_something.csv
+        try:
+            year = int(file.stem.split("_")[-1])
+        except Exception:
+            # skip files that don't end with year
+            print(f"Skipping (unrecognized filename): {file.name}")
+            continue
 
         if year in exclude_years:
             print(f"Skipping year {year}")
             continue
 
-        out_file = output_path / f"karnataka_{year}_clean.csv"
+        out_file = output_path / f"{file.stem}_clean.csv"
 
         print(f"\nCleaning {file.name} → {out_file.name}")
 

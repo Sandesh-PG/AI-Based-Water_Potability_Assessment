@@ -52,5 +52,4967 @@
     "lng": 74.9005045,
     "query": "vamanjoor, Karnataka, India",
     "success": true
+  },
+  "Samarla Kota Canal, Kakinada, East Godavari|Andhra Pradesh": {
+    "lat": 16.9174762,
+    "lng": 82.0280289,
+    "query": "kakinada east godavari, Andhra Pradesh, India",
+    "success": true
+  },
+  "Tulje Bagh Canal, Tekri Drain, Kakinada, East Godavari|Andhra Pradesh": {
+    "lat": 16.9174762,
+    "lng": 82.0280289,
+    "query": "kakinada east godavari, Andhra Pradesh, India",
+    "success": true
+  },
+  "Budameru Canal Nr Bdg At Nh-5, Keesarapally, Krishna|Andhra Pradesh": {
+    "lat": 16.2135466,
+    "lng": 81.0277844,
+    "query": "krishna, Andhra Pradesh, India",
+    "success": true
+  },
+  "Guntathippa Drain B/C With Ryves Canal At Ramavarappadu, Krishna|Andhra Pradesh": {
+    "lat": 16.5218134,
+    "lng": 80.679318,
+    "query": "ramavarappadu krishna, Andhra Pradesh, India",
+    "success": true
+  },
+  "Tulia Bagh Drain At Vemulavada, East Godavari|Andhra Pradesh": {
+    "lat": 16.9956639,
+    "lng": 81.7154378,
+    "query": "east godavari, Andhra Pradesh, India",
+    "success": true
+  },
+  "Outlet Of Stp On Godavari, Rajahmundry, East Godavari|Andhra Pradesh": {
+    "lat": 17.0250475,
+    "lng": 81.7750879,
+    "query": "rajahmundry east godavari, Andhra Pradesh, India",
+    "success": true
+  },
+  "Well At Vijaywada|Andhra Pradesh": {
+    "lat": 16.511298,
+    "lng": 80.6346206,
+    "query": "vijaywada, Andhra Pradesh, India",
+    "success": true
+  },
+  "Bore Well. - Krishna Murthy, D.No. 48-16-43 Autonagar Vijjayawada, Krisna Dist|Andhra Pradesh": {
+    "lat": 16.4462453,
+    "lng": 80.5801318,
+    "query": "dist, Andhra Pradesh, India",
+    "success": true
+  },
+  "Bore Well - Vijay Kumar Autonagar Vijayawada, Krishna Dist|Andhra Pradesh": {
+    "lat": 16.5134761,
+    "lng": 80.6419944,
+    "query": "vijayawada krishna dist, Andhra Pradesh, India",
+    "success": true
+  },
+  "Bore Well Of Navlok Gardens Nellore|Andhra Pradesh": {
+    "lat": 14.4675091,
+    "lng": 80.0225997,
+    "query": "gardens nellore, Andhra Pradesh, India",
+    "success": true
+  },
+  "Bore Well. - Tungbhadra River Near Kurnool|Andhra Pradesh": {
+    "lat": 15.8416963,
+    "lng": 78.0507262,
+    "query": "river kurnool, Andhra Pradesh, India",
+    "success": true
+  },
+  "Bore Well. - Nandyal, Kurnool Dist|Andhra Pradesh": {
+    "lat": 15.7988672,
+    "lng": 78.0504789,
+    "query": "nandyal kurnool dist, Andhra Pradesh, India",
+    "success": true
+  },
+  "Bore Well - Nagiri, Chittoor Dist|Andhra Pradesh": {
+    "lat": 13.3188771,
+    "lng": 79.5854239,
+    "query": "nagiri chittoor dist, Andhra Pradesh, India",
+    "success": true
+  },
+  "Bore Well. - Swarnamukhi River, Srikalahasti, Chittoor Dist|Andhra Pradesh": {
+    "lat": 13.7516966,
+    "lng": 79.710633,
+    "query": "srikalahasti chittoor dist, Andhra Pradesh, India",
+    "success": true
+  },
+  "Bore Well. - Near Rama Temple , Ward No.2 , Mindi , Visakhapatnam|Andhra Pradesh": {
+    "lat": 17.7019054,
+    "lng": 83.2123315,
+    "query": "no.2 mindi visakhapatnam, Andhra Pradesh, India",
+    "success": true
+  },
+  "Open Well. Peddanuyyi - Vizianagaram|Andhra Pradesh": {
+    "lat": 18.1141255,
+    "lng": 83.4114389,
+    "query": "vizianagaram, Andhra Pradesh, India",
+    "success": true
+  },
+  "Bore Well - Near M/S Andhra Sugars Ltd. , Kovvur , W.G.Dist|Andhra Pradesh": {
+    "lat": 16.5447637,
+    "lng": 80.6033054,
+    "query": "w.g.dist, Andhra Pradesh, India",
+    "success": true
+  },
+  "Open Well. -Near Partap Nagar Briidge - Kakinada , E.G.Dist|Andhra Pradesh": {
+    "lat": 17.0828138,
+    "lng": 81.9068789,
+    "query": "kakinada e.g.dist, Andhra Pradesh, India",
+    "success": true
+  },
+  "Bore Well Near Village Secretariat, Pathapadu (V), Krishna|Andhra Pradesh": {
+    "lat": 16.2135466,
+    "lng": 81.0277844,
+    "query": "krishna, Andhra Pradesh, India",
+    "success": true
+  },
+  "Hand Pump At Tanam Vill., Vishakhapatnam|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "hand pump tanam vill. vishakhapatnam, Andhra Pradesh, India",
+    "success": false
+  },
+  "Hand Pump At Pittavanipalem, Vishakhapatnam|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "hand pump pittavanipalem vishakhapatnam, Andhra Pradesh, India",
+    "success": false
+  },
+  "Bore Well At Kapuluppada Dumpsite, Vishakhapatnam|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "bore well kapuluppada dumpsite vishakhapatnam, Andhra Pradesh, India",
+    "success": false
+  },
+  "Bore Well At Arinama Akkivalasa, Srikakulam|Andhra Pradesh": {
+    "lat": 18.5766509,
+    "lng": 84.0149725,
+    "query": "akkivalasa srikakulam, Andhra Pradesh, India",
+    "success": true
+  },
+  "B/W At Alladapalem Village, Pydibhimavaram, Distt Srikakulam|Andhra Pradesh": {
+    "lat": 18.2948479,
+    "lng": 83.896907,
+    "query": "distt srikakulam, Andhra Pradesh, India",
+    "success": true
+  },
+  "Nagavalli At Thotapalli Regulator|Andhra Pradesh": {
+    "lat": 16.6376159,
+    "lng": 80.5968708,
+    "query": "regulator, Andhra Pradesh, India",
+    "success": true
+  },
+  "Vamshadhara, Kalingapatnam, Vizianagaram|Andhra Pradesh": {
+    "lat": 18.1141255,
+    "lng": 83.4114389,
+    "query": "vizianagaram, Andhra Pradesh, India",
+    "success": true
+  },
+  "Pulicate Lake , Nellore District|Andhra Pradesh": {
+    "lat": 14.3503886,
+    "lng": 80.0131067,
+    "query": "lake nellore district, Andhra Pradesh, India",
+    "success": true
+  },
+  "Kondacharla-Aava Lake, Parawada Pharma City, Vishakhapatnam|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "kondacharla aava lake parawada pharma city vishakhapatnam, Andhra Pradesh, India",
+    "success": false
+  },
+  "Godavari At Polavaram|Andhra Pradesh": {
+    "lat": 17.290036,
+    "lng": 81.6441601,
+    "query": "godavari polavaram, Andhra Pradesh, India",
+    "success": true
+  },
+  "Godavari U/S Rajahmundry|Andhra Pradesh": {
+    "lat": 17.0137187,
+    "lng": 81.771957,
+    "query": "godavari rajahmundry, Andhra Pradesh, India",
+    "success": true
+  },
+  "Godavari D/S Rajamundry Of Nalla Channel|Andhra Pradesh": {
+    "lat": 16.6105665,
+    "lng": 80.550233,
+    "query": "channel, Andhra Pradesh, India",
+    "success": true
+  },
+  "Godavari D/S Rajahmundry|Andhra Pradesh": {
+    "lat": 17.0137187,
+    "lng": 81.771957,
+    "query": "godavari rajahmundry, Andhra Pradesh, India",
+    "success": true
+  },
+  "Godavari U/S Rajamundry Of Nalla Channel|Andhra Pradesh": {
+    "lat": 16.6105665,
+    "lng": 80.550233,
+    "query": "channel, Andhra Pradesh, India",
+    "success": true
+  },
+  "Krishna A/C With Tungabhadra, Sangameshwaram|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "krishna a/c with tungabhadra sangameshwaram, Andhra Pradesh, India",
+    "success": false
+  },
+  "Vedadri , Guntur Dist|Andhra Pradesh": {
+    "lat": 16.2853547,
+    "lng": 80.5686143,
+    "query": "guntur dist, Andhra Pradesh, India",
+    "success": true
+  },
+  "Amaravati , Guntur Dist|Andhra Pradesh": {
+    "lat": 16.4834031,
+    "lng": 80.5760509,
+    "query": "amaravati guntur dist, Andhra Pradesh, India",
+    "success": true
+  },
+  "Krishna At Vijaywada|Andhra Pradesh": {
+    "lat": 16.511298,
+    "lng": 80.6346206,
+    "query": "vijaywada, Andhra Pradesh, India",
+    "success": true
+  },
+  "Hamsala Deevi , Guntur Dist|Andhra Pradesh": {
+    "lat": 16.2853547,
+    "lng": 80.5686143,
+    "query": "guntur dist, Andhra Pradesh, India",
+    "success": true
+  },
+  "Krishna D/S Of Srishailam, Kurnool|Andhra Pradesh": {
+    "lat": 15.8309251,
+    "lng": 78.0425373,
+    "query": "kurnool, Andhra Pradesh, India",
+    "success": true
+  },
+  "Manthralayam , Kurnool Dist|Andhra Pradesh": {
+    "lat": 15.5478804,
+    "lng": 77.554259,
+    "query": "kurnool dist, Andhra Pradesh, India",
+    "success": true
+  },
+  "Tunghabhadra U/S Kurnool, Bavapuram|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "tunghabhadra kurnool bavapuram, Andhra Pradesh, India",
+    "success": false
+  },
+  "Palleru B/C. With Krishna, Jaggayyapet|Andhra Pradesh": {
+    "lat": 16.8916569,
+    "lng": 80.0993016,
+    "query": "jaggayyapet, Andhra Pradesh, India",
+    "success": true
+  },
+  "Hundri, Joharpur(V), Near Temple, Kurnool|Andhra Pradesh": {
+    "lat": 15.7860811,
+    "lng": 78.1117709,
+    "query": "temple kurnool, Andhra Pradesh, India",
+    "success": true
+  },
+  "Pennar B/Cwith Chitravathi, Tadpatri, Unganoor|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "pennar b/cwith chitravathi tadpatri unganoor, Andhra Pradesh, India",
+    "success": false
+  },
+  "Pennar A/C With Papagni, Puspagini|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "pennar a/c with papagni puspagini, Andhra Pradesh, India",
+    "success": false
+  },
+  "Pennar A/C With Cheyyuru, Somasile|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "pennar a/c with cheyyuru somasile, Andhra Pradesh, India",
+    "success": false
+  },
+  "Pennar Siddvata, Nellore|Andhra Pradesh": {
+    "lat": 14.4493717,
+    "lng": 79.9873763,
+    "query": "nellore, Andhra Pradesh, India",
+    "success": true
+  },
+  "Kundu, Nandyal, Near Over Bdg., Kurnool|Andhra Pradesh": {
+    "lat": 15.8309251,
+    "lng": 78.0425373,
+    "query": "kurnool, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell Krishna Murthy, D.No. 48-16-43 Autonagar Vijjayawada|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "krishna murthy d.no. 48 16 43 autonagar vijjayawada, Andhra Pradesh, India",
+    "success": false
+  },
+  "Borewell Of Navlok Gardens, Nellore|Andhra Pradesh": {
+    "lat": 14.4675091,
+    "lng": 80.0225997,
+    "query": "gardens nellore, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell Near Tungbhadra River Kurnool|Andhra Pradesh": {
+    "lat": 15.8416963,
+    "lng": 78.0507262,
+    "query": "river kurnool, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell At Nandyal (Kundu)|Andhra Pradesh": {
+    "lat": 15.2982538,
+    "lng": 78.3506278,
+    "query": "kundu, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell At Nagiri|Andhra Pradesh": {
+    "lat": 13.9423585,
+    "lng": 78.5735839,
+    "query": "nagiri, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell Near Swarnamukhi River At Srikalahasti|Andhra Pradesh": {
+    "lat": 13.6855574,
+    "lng": 79.6587873,
+    "query": "swarnamukhi river srikalahasti, Andhra Pradesh, India",
+    "success": true
+  },
+  "Open Well Peddanuvvi - Vizianagaram|Andhra Pradesh": {
+    "lat": 18.1141255,
+    "lng": 83.4114389,
+    "query": "vizianagaram, Andhra Pradesh, India",
+    "success": true
+  },
+  "Open Well Near Partap Nagar Bridge - Kakinada|Andhra Pradesh": {
+    "lat": 16.9810077,
+    "lng": 82.2410623,
+    "query": "nagar kakinada, Andhra Pradesh, India",
+    "success": true
+  },
+  "Bore Well At Alladapalem Village, Pydibhimavaram|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "bore well alladapalem pydibhimavaram, Andhra Pradesh, India",
+    "success": false
+  },
+  "Pulicate Lake , Nellore Dist.|Andhra Pradesh": {
+    "lat": 14.3503886,
+    "lng": 80.0131067,
+    "query": "lake nellore dist., Andhra Pradesh, India",
+    "success": true
+  },
+  "Godavari At Basara, Adilabad|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "godavari basara adilabad, Andhra Pradesh, India",
+    "success": false
+  },
+  "Godavari At Mancherial, Near Rly Bdg B/C Of Rallavagu|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "godavari mancherial rly b/c rallavagu, Andhra Pradesh, India",
+    "success": false
+  },
+  "Godavari At Ramagundam D/S, Near Fci Intake Well, Karimnagar|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "godavari ramagundam fci well karimnagar, Andhra Pradesh, India",
+    "success": false
+  },
+  "Godavari At Godavarikhani, Near Bathing Ghat, Karimnagar|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "godavari godavarikhani bathing ghat karimnagar, Andhra Pradesh, India",
+    "success": false
+  },
+  "Godavari At Ramagundam U/S , Karimnagar|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "godavari ramagundam karimnagar, Andhra Pradesh, India",
+    "success": false
+  },
+  "Godavari, D/S Of Ramanugundam|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "godavari ramanugundam, Andhra Pradesh, India",
+    "success": false
+  },
+  "Godavari At Kamalpur U/S M/S Ap Rayons Ltd. Intake Well, Warangal|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "godavari kamalpur m/s ap rayons ltd. well warangal, Andhra Pradesh, India",
+    "success": false
+  },
+  "Godavari At Kamalpur D/S At M/S. Ap Rayons Ltd. Discharge Point, Warangal|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "godavari kamalpur m/s. ap rayons ltd. discharge warangal, Andhra Pradesh, India",
+    "success": false
+  },
+  "Godavari At Mancherial|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "godavari mancherial, Andhra Pradesh, India",
+    "success": false
+  },
+  "Godavari At Bhadrachalam U/S Bathing Ghat, Khammam|Andhra Pradesh": {
+    "lat": 17.0767218,
+    "lng": 81.315119,
+    "query": "khammam, Andhra Pradesh, India",
+    "success": true
+  },
+  "Godavari At Bhadrachalam D/S Bathing Ghat, Khammam|Andhra Pradesh": {
+    "lat": 17.0767218,
+    "lng": 81.315119,
+    "query": "khammam, Andhra Pradesh, India",
+    "success": true
+  },
+  "Godavari At Burgampahad, Khammam|Andhra Pradesh": {
+    "lat": 17.0767218,
+    "lng": 81.315119,
+    "query": "khammam, Andhra Pradesh, India",
+    "success": true
+  },
+  "Godavari At Rajamundry D/S Of Nalla Channel, East Godavari District|Andhra Pradesh": {
+    "lat": 16.9956639,
+    "lng": 81.7154378,
+    "query": "east godavari district, Andhra Pradesh, India",
+    "success": true
+  },
+  "Godavari At Rajahmundry U/S Kumaradevam, East Godavari|Andhra Pradesh": {
+    "lat": 17.067287,
+    "lng": 81.7069025,
+    "query": "kumaradevam east godavari, Andhra Pradesh, India",
+    "success": true
+  },
+  "Godavari At Rajamun U/S Of Nalla Channel|Andhra Pradesh": {
+    "lat": 16.6105665,
+    "lng": 80.550233,
+    "query": "channel, Andhra Pradesh, India",
+    "success": true
+  },
+  "Godavari At Rajahmundry D/S Dhavaleswaram, East Godavari|Andhra Pradesh": {
+    "lat": 16.9956639,
+    "lng": 81.7154378,
+    "query": "east godavari, Andhra Pradesh, India",
+    "success": true
+  },
+  "Manjeera At Gowdicharla B/C With Nakkavagu|Andhra Pradesh": {
+    "lat": 16.1187827,
+    "lng": 80.2546962,
+    "query": "nakkavagu, Andhra Pradesh, India",
+    "success": true
+  },
+  "Manjeera At Gowdicharla A/C With Nakkavagu|Andhra Pradesh": {
+    "lat": 16.1187827,
+    "lng": 80.2546962,
+    "query": "nakkavagu, Andhra Pradesh, India",
+    "success": true
+  },
+  "Manjeera River Near Ganapathi Sugars , Medak Dist.|Andhra Pradesh": {
+    "lat": 16.4462453,
+    "lng": 80.5801318,
+    "query": "dist., Andhra Pradesh, India",
+    "success": true
+  },
+  "Manjeera At Raipallu|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "manjeera raipallu, Andhra Pradesh, India",
+    "success": false
+  },
+  "Manjeera At D/S In Intake Point To Bidar City|Andhra Pradesh": {
+    "lat": 13.5232335,
+    "lng": 79.9982202,
+    "query": "city, Andhra Pradesh, India",
+    "success": true
+  },
+  "Maner At Warangal U/S|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "maner warangal, Andhra Pradesh, India",
+    "success": false
+  },
+  "Maner At Somnapalli|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "maner somnapalli, Andhra Pradesh, India",
+    "success": false
+  },
+  "Kinnerasani A/C Of Ktps Ash Pond Effluents, Khammam|Andhra Pradesh": {
+    "lat": 17.0767218,
+    "lng": 81.315119,
+    "query": "khammam, Andhra Pradesh, India",
+    "success": true
+  },
+  "Sabari At Kunavaram, Khammam|Andhra Pradesh": {
+    "lat": 17.0767218,
+    "lng": 81.315119,
+    "query": "khammam, Andhra Pradesh, India",
+    "success": true
+  },
+  "Thangadi , Mahaboobnagar Dist.|Andhra Pradesh": {
+    "lat": 16.4462453,
+    "lng": 80.5801318,
+    "query": "dist., Andhra Pradesh, India",
+    "success": true
+  },
+  "Krishna At Gadwal Bridge|Andhra Pradesh": {
+    "lat": 15.8254039,
+    "lng": 77.4765792,
+    "query": "gadwal, Andhra Pradesh, India",
+    "success": true
+  },
+  "Krishna At Wadapally After Confl. With R. Musi|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "krishna wadapally confl. with r. musi, Andhra Pradesh, India",
+    "success": false
+  },
+  "Krishna At Vedadri|Andhra Pradesh": {
+    "lat": 16.808978,
+    "lng": 80.1300502,
+    "query": "vedadri, Andhra Pradesh, India",
+    "success": true
+  },
+  "Krishna At Amaravati|Andhra Pradesh": {
+    "lat": 16.4658458,
+    "lng": 80.5074298,
+    "query": "krishna amaravati, Andhra Pradesh, India",
+    "success": true
+  },
+  "Krishna At Hamsaladeevi|Andhra Pradesh": {
+    "lat": 15.9912796,
+    "lng": 81.0958493,
+    "query": "hamsaladeevi, Andhra Pradesh, India",
+    "success": true
+  },
+  "Tungabhadra At Kurnool U/S, Bavapuram|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "tungabhadra kurnool bavapuram, Andhra Pradesh, India",
+    "success": false
+  },
+  "Tungabhadra At Manthralayam|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "tungabhadra manthralayam, Andhra Pradesh, India",
+    "success": false
+  },
+  "Musi U/S At Hyderabad|Andhra Pradesh": {
+    "lat": 15.8142294,
+    "lng": 78.0268079,
+    "query": "hyderabad, Andhra Pradesh, India",
+    "success": true
+  },
+  "Musi D/S At Hyderabad|Andhra Pradesh": {
+    "lat": 15.8142294,
+    "lng": 78.0268079,
+    "query": "hyderabad, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Musi At Nagole, Rangareddy|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "musi nagole rangareddy, Andhra Pradesh, India",
+    "success": false
+  },
+  "Musi Reservoir At Kasaniguda, Nalgonda|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "musi reservoir kasaniguda nalgonda, Andhra Pradesh, India",
+    "success": false
+  },
+  "Palleru B/C With Krishna, Jaggayyapet|Andhra Pradesh": {
+    "lat": 16.8916569,
+    "lng": 80.0993016,
+    "query": "jaggayyapet, Andhra Pradesh, India",
+    "success": true
+  },
+  "Muneru B/C With Krishna, Nandigama|Andhra Pradesh": {
+    "lat": 16.7755431,
+    "lng": 80.2731748,
+    "query": "krishna nandigama, Andhra Pradesh, India",
+    "success": true
+  },
+  "Nakkavagu, Bachugudem, Medak|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "nakkavagu bachugudem medak, Andhra Pradesh, India",
+    "success": false
+  },
+  "River Hundri At Joharapuram(V), Near Temple, Kurnool|Andhra Pradesh": {
+    "lat": 15.7860811,
+    "lng": 78.1117709,
+    "query": "temple kurnool, Andhra Pradesh, India",
+    "success": true
+  },
+  "Pennar B/C With Chitravathi, Tadpatri, Unganoor|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "pennar b/c with chitravathi tadpatri unganoor, Andhra Pradesh, India",
+    "success": false
+  },
+  "Pennar A/C With Cheyyuru, Somasila|Andhra Pradesh": {
+    "lat": 14.4986502,
+    "lng": 79.3138784,
+    "query": "somasila, Andhra Pradesh, India",
+    "success": true
+  },
+  "Pennar At Siddvatam, Nellore|Andhra Pradesh": {
+    "lat": 14.4493717,
+    "lng": 79.9873763,
+    "query": "nellore, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Kundu, Nandyal, Near Over Bdg., Kurnool|Andhra Pradesh": {
+    "lat": 15.8309251,
+    "lng": 78.0425373,
+    "query": "kurnool, Andhra Pradesh, India",
+    "success": true
+  },
+  "1516|Andhra Pradesh": {
+    "lat": 15.7774356,
+    "lng": 80.3284858,
+    "query": "1516, Andhra Pradesh, India",
+    "success": true
+  },
+  "1517|Andhra Pradesh": {
+    "lat": 15.7774356,
+    "lng": 80.3284858,
+    "query": "1517, Andhra Pradesh, India",
+    "success": true
+  },
+  "1518|Andhra Pradesh": {
+    "lat": 15.7774356,
+    "lng": 80.3284858,
+    "query": "1518, Andhra Pradesh, India",
+    "success": true
+  },
+  "1519|Andhra Pradesh": {
+    "lat": 15.7774356,
+    "lng": 80.3284858,
+    "query": "1519, Andhra Pradesh, India",
+    "success": true
+  },
+  "1522|Andhra Pradesh": {
+    "lat": 15.7774356,
+    "lng": 80.3284858,
+    "query": "1522, Andhra Pradesh, India",
+    "success": true
+  },
+  "Nagavalli At Thotapalli Regulator, A.P.|Andhra Pradesh": {
+    "lat": 16.4418901,
+    "lng": 80.5866942,
+    "query": "a.p., Andhra Pradesh, India",
+    "success": true
+  },
+  "River Vamshadhara, Kalingapatnam, Vizianagaram, A.P|Andhra Pradesh": {
+    "lat": 18.1141255,
+    "lng": 83.4114389,
+    "query": "vizianagaram, Andhra Pradesh, India",
+    "success": true
+  },
+  "Andhra Pradesh|Andhra Pradesh": {
+    "lat": 15.7774356,
+    "lng": 80.3284858,
+    "query": "andhra pradesh, Andhra Pradesh, India",
+    "success": true
+  },
+  "Godavari At Polavaram, A.P.|Andhra Pradesh": {
+    "lat": 16.4418901,
+    "lng": 80.5866942,
+    "query": "a.p., Andhra Pradesh, India",
+    "success": true
+  },
+  "Godavari At Rajamundry D/S Of Nalla Channel, A.P|Andhra Pradesh": {
+    "lat": 16.6105665,
+    "lng": 80.550233,
+    "query": "channel, Andhra Pradesh, India",
+    "success": true
+  },
+  "Well At Gram Panchayat Office, Kaanuru, Vijaywada|Andhra Pradesh": {
+    "lat": 16.511298,
+    "lng": 80.6346206,
+    "query": "vijaywada, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell Vijay Kumar Autonagar Vijayawada|Andhra Pradesh": {
+    "lat": 16.4906913,
+    "lng": 80.6711891,
+    "query": "autonagar vijayawada, Andhra Pradesh, India",
+    "success": true
+  },
+  "Open Well Near Rama Temple , Ward No.2 , Mindi , Visakhapatnam|Andhra Pradesh": {
+    "lat": 17.7019054,
+    "lng": 83.2123315,
+    "query": "no.2 mindi visakhapatnam, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell Near M/S Andhra Sugars Ltd. , Kovvur|Andhra Pradesh": {
+    "lat": 17.0066189,
+    "lng": 81.7285405,
+    "query": "ltd. kovvur, Andhra Pradesh, India",
+    "success": true
+  },
+  "Open Well Near Partap Nagar Bridge -Kakinada|Andhra Pradesh": {
+    "lat": 16.9810077,
+    "lng": 82.2410623,
+    "query": "nagar kakinada, Andhra Pradesh, India",
+    "success": true
+  },
+  "Bore Well Near Village Secretariat, Pathapadu (V)|Andhra Pradesh": {
+    "lat": 15.3288733,
+    "lng": 78.1587396,
+    "query": "pathapadu, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell At Zp High School, Uddanam Region, Amalapadu (V) Vajrapukotturu|Andhra Pradesh": {
+    "lat": 18.6938645,
+    "lng": 84.4416143,
+    "query": "vajrapukotturu, Andhra Pradesh, India",
+    "success": true
+  },
+  "Bore Well At Mangaraju House, Gajapathinagaram Village, Payakaraopeta (M)|Andhra Pradesh": {
+    "lat": 17.3642403,
+    "lng": 82.5572144,
+    "query": "payakaraopeta, Andhra Pradesh, India",
+    "success": true
+  },
+  "Bore Well, Sri Nookatata Temple Rajayyapeta Village, Nakkapalli (M)|Andhra Pradesh": {
+    "lat": 17.4106254,
+    "lng": 82.7162611,
+    "query": "nakkapalli, Andhra Pradesh, India",
+    "success": true
+  },
+  "Bore Well, Chippada Village, Bheemunipatnam (M)|Andhra Pradesh": {
+    "lat": 17.9335011,
+    "lng": 83.4567881,
+    "query": "chippada bheemunipatnam, Andhra Pradesh, India",
+    "success": true
+  },
+  "Bore Well At Ida, Ramanayyapeta, Kkainada|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "bore well ida ramanayyapeta kkainada, Andhra Pradesh, India",
+    "success": false
+  },
+  "Borewell At Rajiv Gruha Ka;Pa, Near Ap Paper Maills Workers Colony, Mallayapeta, Katheru, Rajamahendravaram|Andhra Pradesh": {
+    "lat": 17.0050454,
+    "lng": 81.7804732,
+    "query": "rajamahendravaram, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell Water , Apiic Office, Ida Kondapalli, Ibrahimpatnam (M)|Andhra Pradesh": {
+    "lat": 16.6237078,
+    "lng": 80.5468796,
+    "query": "kondapalli ibrahimpatnam, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell At Imitation Jewellary Park, Machiliptnam|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "imitation jewellary park machiliptnam, Andhra Pradesh, India",
+    "success": false
+  },
+  "Borewell Water , Sri Venkateswara Swamy Temple, Venkatapalem (V), Tullur (M)|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "sri venkateswara swamy temple venkatapalem v tullur m, Andhra Pradesh, India",
+    "success": false
+  },
+  "Borewell Water Police Station, Autonagar, Pedakakani, Guntur|Andhra Pradesh": {
+    "lat": 16.3237852,
+    "lng": 80.4790994,
+    "query": "autonagar pedakakani guntur, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell In Front Of M/S Bhageeradha Chemicals & Industries Ltd,|Andhra Pradesh": {
+    "lat": 17.6542943,
+    "lng": 83.0885535,
+    "query": "chemicals industries, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell Near Sri Govindaraja Swamy Temple, Tirupati Town|Andhra Pradesh": {
+    "lat": 17.6960477,
+    "lng": 83.2928886,
+    "query": "town, Andhra Pradesh, India",
+    "success": true
+  },
+  "Closed Msw Dumpsite, Ukkayapalli (V), Kadapa (M)|Andhra Pradesh": {
+    "lat": 14.4752936,
+    "lng": 78.8216861,
+    "query": "kadapa, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell At Apllc Office Industrial Estate Growth Centre, Thumakunta, Hindupur (M)|Andhra Pradesh": {
+    "lat": 13.8306127,
+    "lng": 77.492635,
+    "query": "hindupur, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell At Apllc Office Industrial Estate, Anantapuram (M)|Andhra Pradesh": {
+    "lat": 14.72422,
+    "lng": 77.4306738,
+    "query": "anantapuram, Andhra Pradesh, India",
+    "success": true
+  },
+  "Pulicate Lake , Nellore Dist|Andhra Pradesh": {
+    "lat": 14.3503886,
+    "lng": 80.0131067,
+    "query": "lake nellore dist, Andhra Pradesh, India",
+    "success": true
+  },
+  "Kondakarla-Aava Lake, Parawada Pharma City, Vishakhapatnam|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "kondakarla aava lake parawada pharma city vishakhapatnam, Andhra Pradesh, India",
+    "success": false
+  },
+  "Kolleru Lake Kokkirayalanka (V), Kailalur (M)|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "kolleru lake kokkirayalanka v kailalur m, Andhra Pradesh, India",
+    "success": false
+  },
+  "Chengambakam Tank In Sri City Sez, Tirupathi|Andhra Pradesh": {
+    "lat": 16.9545281,
+    "lng": 81.2565686,
+    "query": "tirupathi, Andhra Pradesh, India",
+    "success": true
+  },
+  "Eleru Canal Near Pharma City|Andhra Pradesh": {
+    "lat": 17.6596997,
+    "lng": 83.0822719,
+    "query": "pharma city, Andhra Pradesh, India",
+    "success": true
+  },
+  "Krishna Canal At Hanuman Nagar, Near Saibaba Temple, Eliru|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "krishna canal hanuman nagar saibaba temple eliru, Andhra Pradesh, India",
+    "success": false
+  },
+  "Gostta Nadi- Velpuru Canal At Hanuman Temple, Downstream Of Tanuku Town, Attili (M)|Andhra Pradesh": {
+    "lat": 16.6872343,
+    "lng": 81.6089988,
+    "query": "town attili, Andhra Pradesh, India",
+    "success": true
+  },
+  "Sea Water , Bay Of Bengal, After Confluence Of Marine Outfall Of M/S. Aurobindo Pharma Ltd. Pydibheemavaram (V) Ranasthalam (M)|Andhra Pradesh": {
+    "lat": 18.1979491,
+    "lng": 83.703874,
+    "query": "ranasthalam, Andhra Pradesh, India",
+    "success": true
+  },
+  "Sea Waer Bay Of Bengal, After Confluence Of Marine Outfall Of M/S Matrix Laboratories Ltd Thammayyapalem (V) Pusapatirega (M)|Andhra Pradesh": {
+    "lat": 18.0453714,
+    "lng": 83.6126854,
+    "query": "thammayyapalem pusapatirega, Andhra Pradesh, India",
+    "success": true
+  },
+  "Sea Water, Bay Of Bengal After Confluence Of River Vashista Godavari At Chinnamainavanilanka (V), Narsapur (M)|Andhra Pradesh": {
+    "lat": 16.4405615,
+    "lng": 81.7024526,
+    "query": "narsapur, Andhra Pradesh, India",
+    "success": true
+  },
+  "Sea Water, Bay Of Bengal, Manginapudi Beach, Machilipatnam|Andhra Pradesh": {
+    "lat": 16.2579235,
+    "lng": 81.2529454,
+    "query": "manginapudi beach machilipatnam, Andhra Pradesh, India",
+    "success": true
+  },
+  "Sea Water Bay Of Bengal, Fishing Harbour, Nizampatnam|Andhra Pradesh": {
+    "lat": 15.8839938,
+    "lng": 80.6387154,
+    "query": "harbour nizampatnam, Andhra Pradesh, India",
+    "success": true
+  },
+  "Sea Water, Bay Of Bengal, Kothapatnam Beach|Andhra Pradesh": {
+    "lat": 17.7113918,
+    "lng": 83.3176019,
+    "query": "beach, Andhra Pradesh, India",
+    "success": true
+  },
+  "Sea Water, Bay Of Bengal, Vadarevu Beach, Chirala|Andhra Pradesh": {
+    "lat": 15.7941275,
+    "lng": 80.4128068,
+    "query": "vadarevu beach chirala, Andhra Pradesh, India",
+    "success": true
+  },
+  "Sea Water, Bay Of Bengal, Krishnapatnam Port|Andhra Pradesh": {
+    "lat": 14.2630625,
+    "lng": 80.120552,
+    "query": "krishnapatnam port, Andhra Pradesh, India",
+    "success": true
+  },
+  "Sea Water Bay Bengal, Uppada Beach Road, Kakinada|Andhra Pradesh": {
+    "lat": 17.0823074,
+    "lng": 82.3423858,
+    "query": "uppada beach kakinada, Andhra Pradesh, India",
+    "success": true
+  },
+  "Sea Water, Bay Of Bengal Near Deep Water Port, Kakinada (1Km Away From Jetty)|Andhra Pradesh": {
+    "lat": 16.3960215,
+    "lng": 80.1506745,
+    "query": "jetty, Andhra Pradesh, India",
+    "success": true
+  },
+  "Sea Water Bay Of Bengal Near Kumbhabhishekam Tempale, Kakinada|Andhra Pradesh": {
+    "lat": 16.9437385,
+    "lng": 82.2350607,
+    "query": "kakinada, Andhra Pradesh, India",
+    "success": true
+  },
+  "Guntathippa Drain B/C With Ryves Canal At Ramavarappadu, Krishna, A.P.|Andhra Pradesh": {
+    "lat": 16.9792629,
+    "lng": 82.2348523,
+    "query": "krishna a.p., Andhra Pradesh, India",
+    "success": true
+  },
+  "Tulia Bagh Drain At Vemulavada, East Godavari, A.P.|Andhra Pradesh": {
+    "lat": 16.4418901,
+    "lng": 80.5866942,
+    "query": "a.p., Andhra Pradesh, India",
+    "success": true
+  },
+  "Outlet Of Stp On Godavari, Rajahmundry, East Godavari, A.P.|Andhra Pradesh": {
+    "lat": 16.4418901,
+    "lng": 80.5866942,
+    "query": "a.p., Andhra Pradesh, India",
+    "success": true
+  },
+  "Gostani River Sample After Confluence With M/S Delta Papeer Mill Effluents, Bendra, Palakoderu (M), But Before Confluence With Yanamadurru Drain|Andhra Pradesh": {
+    "lat": 16.5694832,
+    "lng": 81.5271222,
+    "query": "yanamadurru drain, Andhra Pradesh, India",
+    "success": true
+  },
+  "Stp At Rajahmundry|Andhra Pradesh": {
+    "lat": 17.0050454,
+    "lng": 81.7804732,
+    "query": "rajahmundry, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Gowthami (Godavari) Govalanka, Injaram (V), Near Gmc Balayogi Bridge, Tallarevu (M)|Andhra Pradesh": {
+    "lat": 16.7860269,
+    "lng": 82.2326569,
+    "query": "tallarevu, Andhra Pradesh, India",
+    "success": true
+  },
+  "Nagavali At Thotapalli Regulator, Vizianagaram|Andhra Pradesh": {
+    "lat": 18.1141255,
+    "lng": 83.4114389,
+    "query": "vizianagaram, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Nagavali Near Nh- 16 Bridge, Upstream (U/S) Of Srikakulam Town, Before Confluence Of Town Sewage|Andhra Pradesh": {
+    "lat": 16.9969752,
+    "lng": 81.7852872,
+    "query": "sewage, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Nagavali Near Water Pump House (Killipalem) , Down Stream (D/S) Of Srikakulam Town, After Confluence Of Town Sewage|Andhra Pradesh": {
+    "lat": 16.9969752,
+    "lng": 81.7852872,
+    "query": "sewage, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Vamsadhara, Immediate Border Between Andhra Pradesh & Orissa States, Near Lalithamba Temple, Battili (V) Bhamini (M)|Andhra Pradesh": {
+    "lat": 18.9020032,
+    "lng": 83.8090334,
+    "query": "bhamini, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Nagavali Immediate Border Between Andhra Pradesh & Orissa States, Near Sivalayam, Kuneru (V), Komarada (M)|Andhra Pradesh": {
+    "lat": 18.9669982,
+    "lng": 83.4414512,
+    "query": "kuneru komarada, Andhra Pradesh, India",
+    "success": true
+  },
+  "Papavinasanam Reservoir, Tirumala|Andhra Pradesh": {
+    "lat": 13.7159845,
+    "lng": 79.3422155,
+    "query": "reservoir tirumala, Andhra Pradesh, India",
+    "success": true
+  },
+  "Rushikonda Beach|Andhra Pradesh": {
+    "lat": 17.7817203,
+    "lng": 83.3851591,
+    "query": "rushikonda beach, Andhra Pradesh, India",
+    "success": true
+  },
+  "Upputeru Before Confluence With Sea, At Chinagollapalem Village, Kruthivennu (M)|Andhra Pradesh": {
+    "lat": 16.367539,
+    "lng": 81.4907777,
+    "query": "chinagollapalem kruthivennu, Andhra Pradesh, India",
+    "success": true
+  },
+  "Vamsadhara, Kalingapatnam, Vizianagaram|Andhra Pradesh": {
+    "lat": 18.1141255,
+    "lng": 83.4114389,
+    "query": "vizianagaram, Andhra Pradesh, India",
+    "success": true
+  },
+  "Colling Water Blowdowns From Andhra Sugars Ltd, Tanuku Before Joining River Godavari|Andhra Pradesh": {
+    "lat": 16.9536848,
+    "lng": 81.7418238,
+    "query": "river godavari, Andhra Pradesh, India",
+    "success": true
+  },
+  "Godavari At Rajahmundry U/S, Kumaradevam, East Godavari|Andhra Pradesh": {
+    "lat": 17.067287,
+    "lng": 81.7069025,
+    "query": "kumaradevam east godavari, Andhra Pradesh, India",
+    "success": true
+  },
+  "Godavari At Rajahmundry D/S, Dhavaleswaram, East Godavari|Andhra Pradesh": {
+    "lat": 16.9956639,
+    "lng": 81.7154378,
+    "query": "east godavari, Andhra Pradesh, India",
+    "success": true
+  },
+  "Godavari At Rajamundry U/S Of Nalla Channel, East Godavari District|Andhra Pradesh": {
+    "lat": 16.9956639,
+    "lng": 81.7154378,
+    "query": "east godavari district, Andhra Pradesh, India",
+    "success": true
+  },
+  "Godavari At Polavaram, West Godavari District|Andhra Pradesh": {
+    "lat": 16.6443029,
+    "lng": 81.5885247,
+    "query": "west godavari district, Andhra Pradesh, India",
+    "success": true
+  },
+  "Krishna A/C With Tungabhadra, Sangameshwaram, Kurnool|Andhra Pradesh": {
+    "lat": 15.8309251,
+    "lng": 78.0425373,
+    "query": "kurnool, Andhra Pradesh, India",
+    "success": true
+  },
+  "Krishna At Vedadri, Kurnool|Andhra Pradesh": {
+    "lat": 15.8309251,
+    "lng": 78.0425373,
+    "query": "kurnool, Andhra Pradesh, India",
+    "success": true
+  },
+  "D/S Of River Krishna A/C With Treated Sewage Discharging From 10Mld Stp Located At Ramalingeshwarnagar, Vijayawada, Krishna|Andhra Pradesh": {
+    "lat": 16.5134761,
+    "lng": 80.6419944,
+    "query": "vijayawada krishna, Andhra Pradesh, India",
+    "success": true
+  },
+  "Krishna At Amaravati, Guntur|Andhra Pradesh": {
+    "lat": 16.4658458,
+    "lng": 80.5074298,
+    "query": "krishna amaravati guntur, Andhra Pradesh, India",
+    "success": true
+  },
+  "Krishna At Vijaywada, Krishna|Andhra Pradesh": {
+    "lat": 16.511298,
+    "lng": 80.6346206,
+    "query": "vijaywada krishna, Andhra Pradesh, India",
+    "success": true
+  },
+  "Krishna At Hamsaladeevi Puligadda Aqueduct Near Avanigadda(V)|Andhra Pradesh": {
+    "lat": 16.0193432,
+    "lng": 80.9150772,
+    "query": "avanigadda, Andhra Pradesh, India",
+    "success": true
+  },
+  "Tungabhadra At Kurnool U/S, Bhavapuram, Kurnool|Andhra Pradesh": {
+    "lat": 15.8309251,
+    "lng": 78.0425373,
+    "query": "kurnool, Andhra Pradesh, India",
+    "success": true
+  },
+  "Tungabhadra At Manthralayam, Kurnool|Andhra Pradesh": {
+    "lat": 15.8309251,
+    "lng": 78.0425373,
+    "query": "kurnool, Andhra Pradesh, India",
+    "success": true
+  },
+  "Palleru B/C With Krishna, Jaggaiapet|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "palleru b/c with krishna jaggaiapet, Andhra Pradesh, India",
+    "success": false
+  },
+  "Pennar B/C With Chitravathi, Tadipatri, Unganoor, Anantapura|Andhra Pradesh": {
+    "lat": 14.6844804,
+    "lng": 77.586515,
+    "query": "anantapura, Andhra Pradesh, India",
+    "success": true
+  },
+  "Pennar A/C With Papagni, Pushpagini, Kadapa|Andhra Pradesh": {
+    "lat": 14.4752936,
+    "lng": 78.8216861,
+    "query": "kadapa, Andhra Pradesh, India",
+    "success": true
+  },
+  "Pennar A/C With Cheyyuru, Somasila, Nellore|Andhra Pradesh": {
+    "lat": 14.4986502,
+    "lng": 79.3138784,
+    "query": "somasila nellore, Andhra Pradesh, India",
+    "success": true
+  },
+  "Pennar At Siddvatam, Kadapa|Andhra Pradesh": {
+    "lat": 14.4752936,
+    "lng": 78.8216861,
+    "query": "kadapa, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell In Front Of M/S Bhageeradha Chemicals & Industries Ltd, Cheruvukommupalem (V) Ongole (M)|Andhra Pradesh": {
+    "lat": 15.4595487,
+    "lng": 80.034757,
+    "query": "cheruvukommupalem ongole, Andhra Pradesh, India",
+    "success": true
+  },
+  "Budameru Canal Nr Bdg At Nh- 5, Keesarapally, Krishna|Andhra Pradesh": {
+    "lat": 16.2135466,
+    "lng": 81.0277844,
+    "query": "krishna, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Nagavali At Thotapalli Regulator, Vizianagaram|Andhra Pradesh": {
+    "lat": 18.1141255,
+    "lng": 83.4114389,
+    "query": "vizianagaram, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Vamsadhara, Kalingapatnam, Vizianagaram|Andhra Pradesh": {
+    "lat": 18.1141255,
+    "lng": 83.4114389,
+    "query": "vizianagaram, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Upputeru Before Confluence With Sea, At Chinagollapalem Village, Kruthivennu (M)|Andhra Pradesh": {
+    "lat": 16.367539,
+    "lng": 81.4907777,
+    "query": "chinagollapalem kruthivennu, Andhra Pradesh, India",
+    "success": true
+  },
+  "Alaganoor Reservoir|Andhra Pradesh": {
+    "lat": 17.6691831,
+    "lng": 83.1560445,
+    "query": "reservoir, Andhra Pradesh, India",
+    "success": true
+  },
+  "3052|Andhra Pradesh": {
+    "lat": 15.7774356,
+    "lng": 80.3284858,
+    "query": "3052, Andhra Pradesh, India",
+    "success": true
+  },
+  "3053|Andhra Pradesh": {
+    "lat": 15.7774356,
+    "lng": 80.3284858,
+    "query": "3053, Andhra Pradesh, India",
+    "success": true
+  },
+  "3067S|Andhra Pradesh": {
+    "lat": 15.7774356,
+    "lng": 80.3284858,
+    "query": "3067s, Andhra Pradesh, India",
+    "success": true
+  },
+  "4369|Andhra Pradesh": {
+    "lat": 15.7774356,
+    "lng": 80.3284858,
+    "query": "4369, Andhra Pradesh, India",
+    "success": true
+  },
+  "4373|Andhra Pradesh": {
+    "lat": 15.7774356,
+    "lng": 80.3284858,
+    "query": "4373, Andhra Pradesh, India",
+    "success": true
+  },
+  "20004|Andhra Pradesh": {
+    "lat": 15.7774356,
+    "lng": 80.3284858,
+    "query": "20004, Andhra Pradesh, India",
+    "success": true
+  },
+  "Kukunur (M), Border Between A.P. &|Andhra Pradesh": {
+    "lat": 16.4418901,
+    "lng": 80.5866942,
+    "query": "a.p., Andhra Pradesh, India",
+    "success": true
+  },
+  "Discharging From Stp Located At|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "discharging from stp located, Andhra Pradesh, India",
+    "success": false
+  },
+  "Musi At Vadapalli (V) Between A.P. &|Andhra Pradesh": {
+    "lat": 16.4418901,
+    "lng": 80.5866942,
+    "query": "a.p., Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell At Rajiv Gruha Ka;Pa, Near Ap Paper Maills Workers Colony,|Andhra Pradesh": {
+    "lat": 16.5850077,
+    "lng": 81.9654807,
+    "query": "colony, Andhra Pradesh, India",
+    "success": true
+  },
+  "Annamayya Project On Cheyyeru Reservoir|Andhra Pradesh": {
+    "lat": 17.6691831,
+    "lng": 83.1560445,
+    "query": "reservoir, Andhra Pradesh, India",
+    "success": true
+  },
+  "Anumanapalle Cheruvu|Andhra Pradesh": {
+    "lat": 16.4590472,
+    "lng": 80.7182091,
+    "query": "cheruvu, Andhra Pradesh, India",
+    "success": true
+  },
+  "Bramhasagar|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "bramhasagar, Andhra Pradesh, India",
+    "success": false
+  },
+  "Dali Tank|Andhra Pradesh": {
+    "lat": 13.608373,
+    "lng": 79.4492721,
+    "query": "tank, Andhra Pradesh, India",
+    "success": true
+  },
+  "Gacchakayala Pora (Lagoon)|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "gacchakayala pora lagoon, Andhra Pradesh, India",
+    "success": false
+  },
+  "Gangineni Cheruvu|Andhra Pradesh": {
+    "lat": 13.2047048,
+    "lng": 79.0995936,
+    "query": "gangineni cheruvu, Andhra Pradesh, India",
+    "success": true
+  },
+  "Interu Swamps|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "interu swamps, Andhra Pradesh, India",
+    "success": false
+  },
+  "Kattamanchi Cheruvu|Andhra Pradesh": {
+    "lat": 16.4590472,
+    "lng": 80.7182091,
+    "query": "cheruvu, Andhra Pradesh, India",
+    "success": true
+  },
+  "Krishna Mangroves|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "krishna mangroves, Andhra Pradesh, India",
+    "success": false
+  },
+  "Mid Pennar Reservoir|Andhra Pradesh": {
+    "lat": 14.311944,
+    "lng": 77.3526926,
+    "query": "pennar reservoir, Andhra Pradesh, India",
+    "success": true
+  },
+  "Naupada Swamps|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "naupada swamps, Andhra Pradesh, India",
+    "success": false
+  },
+  "P .S. Chinnaiah Palem|Andhra Pradesh": {
+    "lat": 17.1749396,
+    "lng": 82.118169,
+    "query": "palem, Andhra Pradesh, India",
+    "success": true
+  },
+  "Patatekalli Cheruvu|Andhra Pradesh": {
+    "lat": 16.4590472,
+    "lng": 80.7182091,
+    "query": "cheruvu, Andhra Pradesh, India",
+    "success": true
+  },
+  "Pathakotha Cheruvu|Andhra Pradesh": {
+    "lat": 16.4590472,
+    "lng": 80.7182091,
+    "query": "cheruvu, Andhra Pradesh, India",
+    "success": true
+  },
+  "Pedda Cheruvu|Andhra Pradesh": {
+    "lat": 14.0230123,
+    "lng": 80.088645,
+    "query": "pedda cheruvu, Andhra Pradesh, India",
+    "success": true
+  },
+  "Sangameswara Backwaters|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "sangameswara backwaters, Andhra Pradesh, India",
+    "success": false
+  },
+  "Somasila Back Water|Andhra Pradesh": {
+    "lat": 16.5123101,
+    "lng": 80.7086966,
+    "query": "back, Andhra Pradesh, India",
+    "success": true
+  },
+  "Tatipudi Reservoir|Andhra Pradesh": {
+    "lat": 18.171726,
+    "lng": 83.1964764,
+    "query": "tatipudi reservoir, Andhra Pradesh, India",
+    "success": true
+  },
+  "Uppalanka Mudflats|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "uppalanka mudflats, Andhra Pradesh, India",
+    "success": false
+  },
+  "Uppalapadu Tank|Andhra Pradesh": {
+    "lat": 13.608373,
+    "lng": 79.4492721,
+    "query": "tank, Andhra Pradesh, India",
+    "success": true
+  },
+  "Yerrakaluva Reservoir|Andhra Pradesh": {
+    "lat": 17.1080335,
+    "lng": 81.2280908,
+    "query": "yerrakaluva reservoir, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Godavari At Rajahmundry U/S, Kumaradevam, East Godavari|Andhra Pradesh": {
+    "lat": 17.067287,
+    "lng": 81.7069025,
+    "query": "kumaradevam east godavari, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Godavari At Rajahmundry D/S, Dhavaleswaram, East Godavari|Andhra Pradesh": {
+    "lat": 16.9956639,
+    "lng": 81.7154378,
+    "query": "east godavari, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Godavari At Rajamundry U/S Of Nalla Channel, East Godavari District|Andhra Pradesh": {
+    "lat": 16.9956639,
+    "lng": 81.7154378,
+    "query": "east godavari district, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Godavari At Rajamundry D/S Of Nalla Channel, East Godavari District|Andhra Pradesh": {
+    "lat": 16.9956639,
+    "lng": 81.7154378,
+    "query": "east godavari district, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Godavari After Confluence With Sabari Tributary, (Kunavaram) At Waddigudem(V) V.R. Puram (M)|Andhra Pradesh": {
+    "lat": 18.2057111,
+    "lng": 83.6921346,
+    "query": "v.r. puram, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Godavari At Polavaram, West Godavari District|Andhra Pradesh": {
+    "lat": 16.6443029,
+    "lng": 81.5885247,
+    "query": "west godavari district, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Sabari At Kunavaram, Khammam|Andhra Pradesh": {
+    "lat": 17.0767218,
+    "lng": 81.315119,
+    "query": "khammam, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Krishna A/C With Tungabhadra,|Andhra Pradesh": {
+    "lat": 15.9939021,
+    "lng": 80.5406921,
+    "query": "tungabhadra, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Krishna At Vedadri, Kurnool|Andhra Pradesh": {
+    "lat": 15.8309251,
+    "lng": 78.0425373,
+    "query": "kurnool, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Krishna D/S Of Srishailam, Kurnool|Andhra Pradesh": {
+    "lat": 15.8309251,
+    "lng": 78.0425373,
+    "query": "kurnool, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Krishna D/S Of Ramalingeshwarnagar A/C With Treated Sewage Discharging From 10Mld Stp Located At Ramalingeshwarnagar, Vijayawada, Krishna|Andhra Pradesh": {
+    "lat": 16.5134761,
+    "lng": 80.6419944,
+    "query": "vijayawada krishna, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Krishna At Amaravati, Guntur|Andhra Pradesh": {
+    "lat": 16.4658458,
+    "lng": 80.5074298,
+    "query": "krishna amaravati guntur, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Krishna At Vijaywada, Krishna|Andhra Pradesh": {
+    "lat": 16.511298,
+    "lng": 80.6346206,
+    "query": "vijaywada krishna, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Krishna At Hamsaladeevi Puligadda Aqueduct Near Avanigadda(V), Krishna District|Andhra Pradesh": {
+    "lat": 16.0231629,
+    "lng": 80.9150221,
+    "query": "avanigadda krishna district, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Krishna, Pavithra Sangamam, After Confluence With River Godavari Water Lbrahimpatnam (M)|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "krishna pavithra sangamam with river godavari lbrahimpatnam m, Andhra Pradesh, India",
+    "success": false
+  },
+  "River Tungabhadra, Upstream Of Kurnool Town Before Joining City Domestic Sewage And After M/S Rayalaseema Alkalies Industries Near Sivalayam Temple, Gondiparla (V) Kurnool (M)|Andhra Pradesh": {
+    "lat": 15.8332738,
+    "lng": 78.0558951,
+    "query": "temple gondiparla kurnool, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Tungabhadra, Downstream Of Kurnool Town After Joining City Domestic Sewage|Andhra Pradesh": {
+    "lat": 16.9969752,
+    "lng": 81.7852872,
+    "query": "sewage, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Tungabhadra At Kurnool U/S, Bhavapuram|Andhra Pradesh": {
+    "lat": 15.2590684,
+    "lng": 78.9815933,
+    "query": "bhavapuram, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Tungabhadra At Manthralayam, Kurnool|Andhra Pradesh": {
+    "lat": 15.8309251,
+    "lng": 78.0425373,
+    "query": "kurnool, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Palleru B/C With Krishna, Jaggaiapet|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "palleru b/c with krishna jaggaiapet, Andhra Pradesh, India",
+    "success": false
+  },
+  "River Muneru B/C With Krishna, Nandigama|Andhra Pradesh": {
+    "lat": 16.7755431,
+    "lng": 80.2731748,
+    "query": "krishna nandigama, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Pennar B/C With Chitravathi, Tadipatri, Unganoor, Anantapura|Andhra Pradesh": {
+    "lat": 14.6844804,
+    "lng": 77.586515,
+    "query": "anantapura, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Pennar A/C With Papagni, Pushpagini, Kadapa|Andhra Pradesh": {
+    "lat": 14.4752936,
+    "lng": 78.8216861,
+    "query": "kadapa, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Pennar A/C With Cheyyuru, Somasila, Nellore|Andhra Pradesh": {
+    "lat": 14.4986502,
+    "lng": 79.3138784,
+    "query": "somasila nellore, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Pennar At Siddvatam, Kadapa|Andhra Pradesh": {
+    "lat": 14.4752936,
+    "lng": 78.8216861,
+    "query": "kadapa, Andhra Pradesh, India",
+    "success": true
+  },
+  "Bore Well At Kanuru Panchayat, Vijayawada|Andhra Pradesh": {
+    "lat": 16.5094022,
+    "lng": 80.7199961,
+    "query": "panchayat vijayawada, Andhra Pradesh, India",
+    "success": true
+  },
+  "Bore Well At Autonagar, Vijayawada.( In The R/O Of Mr Satyanarayana Plot No:79 H.No:74-1-7/2C,Auto Nagar Vijayawada)|Andhra Pradesh": {
+    "lat": 16.5026776,
+    "lng": 80.6755535,
+    "query": "auto nagar vijayawada, Andhra Pradesh, India",
+    "success": true
+  },
+  "Bore Well At Autonagar, Vijayawada. ( In The R/O Of Mr. Vijay Kumar)|Andhra Pradesh": {
+    "lat": 17.6943518,
+    "lng": 83.1614532,
+    "query": "vijay kumar, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell Of Navlok Gardens, Nellore Town|Andhra Pradesh": {
+    "lat": 17.6960477,
+    "lng": 83.2928886,
+    "query": "town, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell Near Tungbhadra River, Mamidalapadu (V), Kurnool (M)|Andhra Pradesh": {
+    "lat": 15.835594,
+    "lng": 78.0221243,
+    "query": "mamidalapadu kurnool, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell At Nandyal Town|Andhra Pradesh": {
+    "lat": 17.6960477,
+    "lng": 83.2928886,
+    "query": "town, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell At Nagiri Town|Andhra Pradesh": {
+    "lat": 17.6960477,
+    "lng": 83.2928886,
+    "query": "town, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell Near Swarnamukhi River At Srikalahasti Town|Andhra Pradesh": {
+    "lat": 13.7518033,
+    "lng": 79.7002288,
+    "query": "srikalahasti town, Andhra Pradesh, India",
+    "success": true
+  },
+  "Open Well Near Rama Temple, Ward No.2, Mindi, Visakhapatnam|Andhra Pradesh": {
+    "lat": 17.7019054,
+    "lng": 83.2123315,
+    "query": "no.2 mindi visakhapatnam, Andhra Pradesh, India",
+    "success": true
+  },
+  "Open Well Peddanuvvi, Ponnada (V), Etcherla (M)|Andhra Pradesh": {
+    "lat": 18.2536177,
+    "lng": 83.9014243,
+    "query": "ponnada etcherla, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell Near M/S Andhra Sugars Ltd., Kovvur Town|Andhra Pradesh": {
+    "lat": 17.0176736,
+    "lng": 81.731434,
+    "query": "kovvur town, Andhra Pradesh, India",
+    "success": true
+  },
+  "Open Well Near Partap Nagar Bridge - Kakinada Town|Andhra Pradesh": {
+    "lat": 16.9672966,
+    "lng": 82.2334774,
+    "query": "kakinada town, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell Near Grampanchayat Office, Pathapadu (V), Vijayawada Rural|Andhra Pradesh": {
+    "lat": 16.603844,
+    "lng": 80.6313914,
+    "query": "vijayawada rural, Andhra Pradesh, India",
+    "success": true
+  },
+  "Hand Pump At Tanam (V), Parawada (M)|Andhra Pradesh": {
+    "lat": 17.629732,
+    "lng": 83.089794,
+    "query": "parawada, Andhra Pradesh, India",
+    "success": true
+  },
+  "Hand Pump At Pittavanipalem (V), Parawada (M)|Andhra Pradesh": {
+    "lat": 17.629732,
+    "lng": 83.089794,
+    "query": "parawada, Andhra Pradesh, India",
+    "success": true
+  },
+  "Bore Well At Arinam Akkivalasa (V), Etcherla (M)|Andhra Pradesh": {
+    "lat": 18.2693492,
+    "lng": 83.7786675,
+    "query": "arinam akkivalasa etcherla, Andhra Pradesh, India",
+    "success": true
+  },
+  "Bore Well At Alladapalem (V), Pusapatirega(M)|Andhra Pradesh": {
+    "lat": 18.1306852,
+    "lng": 83.6170404,
+    "query": "alladapalem pusapatirega, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell At Zp High School, Uddanam Region, Amalapadu (V), Vajrapukotturu (M)|Andhra Pradesh": {
+    "lat": 18.6938645,
+    "lng": 84.4416143,
+    "query": "vajrapukotturu, Andhra Pradesh, India",
+    "success": true
+  },
+  "Bore Well, Chippada (V), Bheemunipatnam (M)|Andhra Pradesh": {
+    "lat": 17.9335011,
+    "lng": 83.4567881,
+    "query": "chippada bheemunipatnam, Andhra Pradesh, India",
+    "success": true
+  },
+  "Bore Well At Ida, Ramanayyapeta, Kakinada Town|Andhra Pradesh": {
+    "lat": 16.9672966,
+    "lng": 82.2334774,
+    "query": "kakinada town, Andhra Pradesh, India",
+    "success": true
+  },
+  "Bore Wall At Rajiv Gruhakalapa, Near Ap Paper Mills Workers Colony, Mallayyapeta, Katheru, Rajamahendravaram|Andhra Pradesh": {
+    "lat": 17.0050454,
+    "lng": 81.7804732,
+    "query": "rajamahendravaram, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell Water , Apiic Office, Ida Kondapalli, Kondapalli (V), Ibrahimpatnam (M)|Andhra Pradesh": {
+    "lat": 16.6237078,
+    "lng": 80.5468796,
+    "query": "kondapalli kondapalli ibrahimpatnam, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell At Imitation Jewellary Park, Machiliptnam Town|Andhra Pradesh": {
+    "lat": 17.6960477,
+    "lng": 83.2928886,
+    "query": "town, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell Water , Sri Venkateswara Swamy Temple, Venkata Palem (V), Tullur (M)|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "sri venkateswara swamy temple venkata palem v tullur m, Andhra Pradesh, India",
+    "success": false
+  },
+  "Borewell At Pedakakani Police Station, Autonagar, Pedakakani (V & M)|Andhra Pradesh": {
+    "lat": 16.3350628,
+    "lng": 80.4875873,
+    "query": "station autonagar pedakakani, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell In Front Of M/S Bhageeradha Chemicals & Industries Ltd, Cheruvukommupalem (V), Ongole (M)|Andhra Pradesh": {
+    "lat": 15.4595487,
+    "lng": 80.034757,
+    "query": "cheruvukommupalem ongole, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell At Apiic Office Industrial Estate Growth Centre, Thumakunta (V), Hindupur (M)|Andhra Pradesh": {
+    "lat": 13.8306127,
+    "lng": 77.492635,
+    "query": "hindupur, Andhra Pradesh, India",
+    "success": true
+  },
+  "Borewell At Apiic Office Industrial Estate, Anantapur(M)|Andhra Pradesh": {
+    "lat": 14.6783221,
+    "lng": 77.6065039,
+    "query": "anantapur, Andhra Pradesh, India",
+    "success": true
+  },
+  "Sea Water, Bay Of Bengal, After Confluence Of Marine Outfall Of M/S.Aurobindo Pharma Ltd. Pydibheemavaram (V), Ranasthalam (M)|Andhra Pradesh": {
+    "lat": 18.1979491,
+    "lng": 83.703874,
+    "query": "ranasthalam, Andhra Pradesh, India",
+    "success": true
+  },
+  "Rushikonda Beach,Visakhapatnam|Andhra Pradesh": {
+    "lat": 17.7817203,
+    "lng": 83.3851591,
+    "query": "rushikonda beach visakhapatnam, Andhra Pradesh, India",
+    "success": true
+  },
+  "Sea Water, Bay Of Bengal, Manginapudi Beach, Machilipatnam (V & M)|Andhra Pradesh": {
+    "lat": 16.2579235,
+    "lng": 81.2529454,
+    "query": "manginapudi beach machilipatnam, Andhra Pradesh, India",
+    "success": true
+  },
+  "Sea Water Bay Of Bengal, Fishing Harbour, Nizampatnam (V & M)|Andhra Pradesh": {
+    "lat": 15.8839938,
+    "lng": 80.6387154,
+    "query": "harbour nizampatnam, Andhra Pradesh, India",
+    "success": true
+  },
+  "Sea Water, Bay Of Bengal, Vodarevu Beach, Chirala|Andhra Pradesh": {
+    "lat": 15.7942976,
+    "lng": 80.4127953,
+    "query": "vodarevu beach chirala, Andhra Pradesh, India",
+    "success": true
+  },
+  "Brahmamsagar, Kandimallayapalli (V)|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "brahmamsagar kandimallayapalli v, Andhra Pradesh, India",
+    "success": false
+  },
+  "Gangineni Cheruvu, Chittoor Town|Andhra Pradesh": {
+    "lat": 13.2167629,
+    "lng": 79.1010473,
+    "query": "chittoor town, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Nagavali At Thotapalli Regulator, Thotapalli (V), Garugubilli (M)|Andhra Pradesh": {
+    "lat": 18.785489,
+    "lng": 83.5101433,
+    "query": "thotapalli garugubilli, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Vamsadhara, Gara (V & M)|Andhra Pradesh": {
+    "lat": 18.2918301,
+    "lng": 84.0204618,
+    "query": "gara, Andhra Pradesh, India",
+    "success": true
+  },
+  "Teki Drain At Tallarevu, Tallarevu (V & M), Before Joining Coringa Wildlife Sanctuary|Andhra Pradesh": {
+    "lat": 14.5845388,
+    "lng": 78.9208494,
+    "query": "wildlife sanctuary, Andhra Pradesh, India",
+    "success": true
+  },
+  "Guntathippa Drain B/C With Rives Canal At Ramavarappadu, Vijayawada Town|Andhra Pradesh": {
+    "lat": 16.5015748,
+    "lng": 80.6441507,
+    "query": "vijayawada town, Andhra Pradesh, India",
+    "success": true
+  },
+  "Tulia Bagh Drain At Matlapalem (V), Vemulavada (M)|Andhra Pradesh": {
+    "lat": 16.8805956,
+    "lng": 82.1468777,
+    "query": "vemulavada, Andhra Pradesh, India",
+    "success": true
+  },
+  "Colling Water Blow Downs From Andhra Sugars Ltd., Kovvur, Before Joining River Godavari|Andhra Pradesh": {
+    "lat": 16.9536848,
+    "lng": 81.7418238,
+    "query": "river godavari, Andhra Pradesh, India",
+    "success": true
+  },
+  "Samarla Kota Canal,Samarla Kota (V & M)|Andhra Pradesh": {
+    "lat": 14.0939546,
+    "lng": 80.1020328,
+    "query": "kota, Andhra Pradesh, India",
+    "success": true
+  },
+  "Budameru Canal Near Bdg At Nh-5, Keesarapalli (V), Gannavaram (M)|Andhra Pradesh": {
+    "lat": 16.5561295,
+    "lng": 80.7961511,
+    "query": "gannavaram, Andhra Pradesh, India",
+    "success": true
+  },
+  "Eleru Canal, Near Pharma City,Thadi (V),Paravada (M)|Andhra Pradesh": {
+    "lat": 17.6864519,
+    "lng": 83.0667501,
+    "query": "thadi paravada, Andhra Pradesh, India",
+    "success": true
+  },
+  "Krishna Canal At Hanuman Nagar, Near Saibaba Temple, Eluru|Andhra Pradesh": {
+    "lat": 17.0026225,
+    "lng": 81.1853593,
+    "query": "saibaba temple eluru, Andhra Pradesh, India",
+    "success": true
+  },
+  "Gostta Nadi- Velpuru Canal At Hanuman Temple, Downstream Of Tanuku Town, Tanuku|Andhra Pradesh": {
+    "lat": 16.7529179,
+    "lng": 81.6760463,
+    "query": "tanuku town tanuku, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Godavari After Confluence With Sabari Tributary (Kunavaram) At Waddigudem(V) V.R. Puram (M)|Andhra Pradesh": {
+    "lat": 18.2057111,
+    "lng": 83.6921346,
+    "query": "v.r. puram, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Godavari At Rajahmundry U/S, Kumaradevam (V), Kovvur (M)|Andhra Pradesh": {
+    "lat": 17.067287,
+    "lng": 81.7069025,
+    "query": "kumaradevam kovvur, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Godavari At Rajahmundry D/S, Dowleswaram (V), Rajahmundry (M)|Andhra Pradesh": {
+    "lat": 16.950088,
+    "lng": 81.785515,
+    "query": "dowleswaram rajahmundry, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Godavari At Rajamundry U/S Of Nalla Channel,Rajamundry|Andhra Pradesh": {
+    "lat": 18.1125133,
+    "lng": 83.4115602,
+    "query": "rajamundry, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Godavari At Rajamundry D/S Of Nalla Channel, Rajamundry|Andhra Pradesh": {
+    "lat": 18.1125133,
+    "lng": 83.4115602,
+    "query": "rajamundry, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Godavari At Polavaram (V & M)|Andhra Pradesh": {
+    "lat": 17.290036,
+    "lng": 81.6441601,
+    "query": "godavari polavaram, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Godavari D/S Dowleiswaram After Confluence Of Stp Outlet, Dowleiswaram (V)|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "godavari dowleiswaram stp outlet dowleiswaram v, Andhra Pradesh, India",
+    "success": false
+  },
+  "River Sabari At Kunavaram, East Godavari Dist|Andhra Pradesh": {
+    "lat": 16.9956639,
+    "lng": 81.7154378,
+    "query": "east godavari dist, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Gostani Sample Before Confluence With M/S Delta Paper Mill Effluents, Vendra (V), Palakoderu (M)|Andhra Pradesh": {
+    "lat": 16.5797889,
+    "lng": 81.5719227,
+    "query": "vendra palakoderu, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Gostani Sample After Confluence With M/S Delta Papeer Mill Effluents, Bendra, Palakoderu (M), But Before Confluence With Yanamadurru Drain|Andhra Pradesh": {
+    "lat": 16.5694832,
+    "lng": 81.5271222,
+    "query": "yanamadurru drain, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Krishna A/C With Tungabhadra, Sangameshwaram (V), Kottapalle (M)|Andhra Pradesh": {
+    "lat": 15.946409,
+    "lng": 78.5456371,
+    "query": "kottapalle, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Krishna At Vedadri (V), Jaggayyapeta (M)|Andhra Pradesh": {
+    "lat": 16.808978,
+    "lng": 80.1300502,
+    "query": "vedadri jaggayyapeta, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Krishna D/S Of Srishailam, Srishailam|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "krishna srishailam srishailam, Andhra Pradesh, India",
+    "success": false
+  },
+  "River Krishna At Amaravati, Amaravati (V & M)|Andhra Pradesh": {
+    "lat": 16.4658458,
+    "lng": 80.5074298,
+    "query": "krishna amaravati amaravati, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Krishna At Vijaywada Town|Andhra Pradesh": {
+    "lat": 17.6960477,
+    "lng": 83.2928886,
+    "query": "town, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Krishna At Hamsaladeevi Puligadda Aqueduct Near Avanigadda (V)|Andhra Pradesh": {
+    "lat": 16.0193432,
+    "lng": 80.9150772,
+    "query": "avanigadda, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Krishna, Pavithra Sangamam, After Confluence With River Godavari Water, Ferry (V), Ibrahimpatnam (M)|Andhra Pradesh": {
+    "lat": 16.5826683,
+    "lng": 80.5152896,
+    "query": "ferry ibrahimpatnam, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Tungabhadra At Kurnool U/S, Bhavapuram (V), Kurnool (M)|Andhra Pradesh": {
+    "lat": 15.8309251,
+    "lng": 78.0425373,
+    "query": "kurnool, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Tungabhadra At Manthralayam (V & M)|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "tungabhadra manthralayam v & m, Andhra Pradesh, India",
+    "success": false
+  },
+  "River Tungabhadra, Upstream Of Kurnool Town Before Joining City Domestic Sewage And After M/S Rayalaseema Alkalies Industries Near Sivalayam Temple, Gondiparla (V), Kurnool (M)|Andhra Pradesh": {
+    "lat": 15.8332738,
+    "lng": 78.0558951,
+    "query": "temple gondiparla kurnool, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Tungabhadra, Downstream Of Kurnool Town After Joining City Domestic Sewage, Padidempadu (V),|Andhra Pradesh": {
+    "lat": 15.8116524,
+    "lng": 78.0947574,
+    "query": "padidempadu, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Palleru B/C With Krishna, Jaggaiapet (V &M)|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "palleru b/c with krishna jaggaiapet v &m, Andhra Pradesh, India",
+    "success": false
+  },
+  "River Muneru B/C With Krishna, Keesara (V & M)|Andhra Pradesh": {
+    "lat": 16.719107,
+    "lng": 80.3248697,
+    "query": "keesara, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Hundri At Laxmipuram (V), Kallur|Andhra Pradesh": {
+    "lat": 15.7567265,
+    "lng": 77.9989731,
+    "query": "laxmipuram kallur, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Upputeru Before Confluence With Sea, At Chinna Gollapalem (V), Kruthivennu (M)|Andhra Pradesh": {
+    "lat": 16.3680442,
+    "lng": 81.4921449,
+    "query": "chinna gollapalem kruthivennu, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Pennar B/C With Chitravathi, Tadipatri (M), Venganur (V)|Andhra Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "pennar b/c with chitravathi tadipatri m venganur v, Andhra Pradesh, India",
+    "success": false
+  },
+  "River Pennar A/C With Papagni, Pushpagiri (V),Vallur (M)|Andhra Pradesh": {
+    "lat": 14.5947563,
+    "lng": 78.7566217,
+    "query": "pushpagiri vallur, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Pennar A/C With Cheyyuru, Somasila (V), Ananthasagaram (M)|Andhra Pradesh": {
+    "lat": 14.4986502,
+    "lng": 79.3138784,
+    "query": "somasila ananthasagaram, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Pennar At Siddavatam (V & M)|Andhra Pradesh": {
+    "lat": 14.4682526,
+    "lng": 78.9634519,
+    "query": "siddavatam, Andhra Pradesh, India",
+    "success": true
+  },
+  "River Kundu, Nandyal, Near Over Bdg.,Nandyal Town|Andhra Pradesh": {
+    "lat": 17.6960477,
+    "lng": 83.2928886,
+    "query": "town, Andhra Pradesh, India",
+    "success": true
+  },
+  "Dikrong River At Nirjuli,|Arunachal Pradesh": {
+    "lat": 27.1277793,
+    "lng": 93.7470404,
+    "query": "nirjuli, Arunachal Pradesh, India",
+    "success": true
+  },
+  "Dibang River At Roing,|Arunachal Pradesh": {
+    "lat": 28.1351841,
+    "lng": 95.7274752,
+    "query": "dibang river roing, Arunachal Pradesh, India",
+    "success": true
+  },
+  "Dihing River At Miao,|Arunachal Pradesh": {
+    "lat": 27.5113692,
+    "lng": 96.0508108,
+    "query": "dihing river miao, Arunachal Pradesh, India",
+    "success": true
+  },
+  "Gai Nadi Near Hss Likabali,|Arunachal Pradesh": {
+    "lat": 27.6588306,
+    "lng": 94.6977781,
+    "query": "likabali, Arunachal Pradesh, India",
+    "success": true
+  },
+  "River Ganga At Chandrapur, Itanagar,|Arunachal Pradesh": {
+    "lat": 27.0979659,
+    "lng": 93.6237291,
+    "query": "itanagar, Arunachal Pradesh, India",
+    "success": true
+  },
+  "River Dikrong At Nirjuli,|Arunachal Pradesh": {
+    "lat": 27.1349237,
+    "lng": 93.7531102,
+    "query": "dikrong nirjuli, Arunachal Pradesh, India",
+    "success": true
+  },
+  "River Pachin At Naharlagun (Below Barapani Bridge),|Arunachal Pradesh": {
+    "lat": 27.100935,
+    "lng": 93.687704,
+    "query": "barapani, Arunachal Pradesh, India",
+    "success": true
+  },
+  "River Dibang At Roing (U/S)|Arunachal Pradesh": {
+    "lat": 28.140898,
+    "lng": 95.7156641,
+    "query": "dibang roing, Arunachal Pradesh, India",
+    "success": true
+  },
+  "River Dihing At Miao (U/S Of Noa Dihing)|Arunachal Pradesh": {
+    "lat": 27.6704698,
+    "lng": 95.8224575,
+    "query": "dihing, Arunachal Pradesh, India",
+    "success": true
+  },
+  "River Senki At Chandranagar, Itanagar, (U/S Of Pachin River)|Arunachal Pradesh": {
+    "lat": 27.2625467,
+    "lng": 92.8937806,
+    "query": "river, Arunachal Pradesh, India",
+    "success": true
+  },
+  "River Dikrong At Nirjuli (U/S)|Arunachal Pradesh": {
+    "lat": 27.1349237,
+    "lng": 93.7531102,
+    "query": "dikrong nirjuli, Arunachal Pradesh, India",
+    "success": true
+  },
+  "River Subansiri At Gerukamukh|Arunachal Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "subansiri gerukamukh, Arunachal Pradesh, India",
+    "success": false
+  },
+  "River Siang At Ranaghat, Near Rcc Bridge, Pasighat(U/S)|Arunachal Pradesh": {
+    "lat": 28.0589676,
+    "lng": 95.3324944,
+    "query": "pasighat, Arunachal Pradesh, India",
+    "success": true
+  },
+  "River Gai Nadi, Near Hss Likabali (D/S)|Arunachal Pradesh": {
+    "lat": 27.6588306,
+    "lng": 94.6977781,
+    "query": "likabali, Arunachal Pradesh, India",
+    "success": true
+  },
+  "River Bereng At Chowkham|Arunachal Pradesh": {
+    "lat": 27.8099085,
+    "lng": 96.0842123,
+    "query": "chowkham, Arunachal Pradesh, India",
+    "success": true
+  },
+  "River Lohit At Alubari (D/S)|Arunachal Pradesh": {
+    "lat": 27.8343989,
+    "lng": 96.010927,
+    "query": "alubari, Arunachal Pradesh, India",
+    "success": true
+  },
+  "River Namchik At Kharsang|Arunachal Pradesh": {
+    "lat": 27.4139573,
+    "lng": 95.9742451,
+    "query": "namchik kharsang, Arunachal Pradesh, India",
+    "success": true
+  },
+  "River Noa Dihing At Namsai, (D/S Of Dihing)|Arunachal Pradesh": {
+    "lat": 27.6704698,
+    "lng": 95.8224575,
+    "query": "dihing, Arunachal Pradesh, India",
+    "success": true
+  },
+  "River Pachin At Naharlagun (Below Barapani Bridge), (D/S Of River Senki)|Arunachal Pradesh": {
+    "lat": null,
+    "lng": null,
+    "query": "pachin naharlagun below barapani river senki, Arunachal Pradesh, India",
+    "success": false
+  },
+  "Digboi, Tinsukia Distt|Assam": {
+    "lat": 27.3956145,
+    "lng": 95.614868,
+    "query": "digboi tinsukia distt, Assam, India",
+    "success": true
+  },
+  "Karbi Anglong Distt|Assam": {
+    "lat": 26.0712781,
+    "lng": 93.4552969,
+    "query": "karbi anglong distt, Assam, India",
+    "success": true
+  },
+  "Sibsagar|Assam": {
+    "lat": 26.9834936,
+    "lng": 94.6394226,
+    "query": "sibsagar, Assam, India",
+    "success": true
+  },
+  "(Jorhat|Assam": {
+    "lat": 26.7577925,
+    "lng": 94.2079645,
+    "query": "jorhat, Assam, India",
+    "success": true
+  },
+  "Silchar|Assam": {
+    "lat": 24.830302,
+    "lng": 92.7875689,
+    "query": "silchar, Assam, India",
+    "success": true
+  },
+  "Barpeta|Assam": {
+    "lat": 26.345941,
+    "lng": 91.039708,
+    "query": "barpeta, Assam, India",
+    "success": true
+  },
+  "Bonaigaon|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "bonaigaon, Assam, India",
+    "success": false
+  },
+  "Guwahati|Assam": {
+    "lat": 26.1805978,
+    "lng": 91.753943,
+    "query": "guwahati, Assam, India",
+    "success": true
+  },
+  "Ground Water From Ledo, Margherita|Assam": {
+    "lat": 27.2945211,
+    "lng": 95.73688,
+    "query": "ledo margherita, Assam, India",
+    "success": true
+  },
+  "Ground Water From Nazira|Assam": {
+    "lat": 26.8622087,
+    "lng": 94.7183167,
+    "query": "nazira, Assam, India",
+    "success": true
+  },
+  "Ground Water From Numaligarh (Near Nrl Te Labor Colony)|Assam": {
+    "lat": 26.7472242,
+    "lng": 94.2480731,
+    "query": "colony, Assam, India",
+    "success": true
+  },
+  "Ground Water From Semenchapari|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "ground from semenchapari, Assam, India",
+    "success": false
+  },
+  "Ground Water From Silapathar|Assam": {
+    "lat": 27.5893833,
+    "lng": 94.7255857,
+    "query": "silapathar, Assam, India",
+    "success": true
+  },
+  "Ground Water From Lakhimpur Town|Assam": {
+    "lat": 27.236211,
+    "lng": 94.1038765,
+    "query": "lakhimpur town, Assam, India",
+    "success": true
+  },
+  "Ground Water From Tezpur (Mission Chariali)|Assam": {
+    "lat": 26.352039,
+    "lng": 92.6906592,
+    "query": "mission chariali, Assam, India",
+    "success": true
+  },
+  "Ground Water From Nagaon (Panigaon)|Assam": {
+    "lat": 26.3480551,
+    "lng": 92.698018,
+    "query": "nagaon panigaon, Assam, India",
+    "success": true
+  },
+  "Ground Water From Jagiroad Near Hpc Effluent Discharge Point|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "ground from jagiroad hpc effluent discharge, Assam, India",
+    "success": false
+  },
+  "Ground Water Near Msw Dumping Site At Garchuk-Guwahati|Assam": {
+    "lat": 26.11114,
+    "lng": 91.6853199,
+    "query": "garchuk guwahati, Assam, India",
+    "success": true
+  },
+  "Ground Water From Nalbari|Assam": {
+    "lat": 26.3533632,
+    "lng": 91.3983662,
+    "query": "nalbari, Assam, India",
+    "success": true
+  },
+  "Ground Water From Barpeta Road(Rly Station)|Assam": {
+    "lat": 26.5021259,
+    "lng": 90.9645713,
+    "query": "barpeta station, Assam, India",
+    "success": true
+  },
+  "Ground Water Near Bprl, Dhaligaon|Assam": {
+    "lat": 26.4958001,
+    "lng": 90.5226391,
+    "query": "dhaligaon, Assam, India",
+    "success": true
+  },
+  "Ground Water From Kokrajhar District (Hs School )|Assam": {
+    "lat": 26.4912104,
+    "lng": 90.1215209,
+    "query": "kokrajhar district, Assam, India",
+    "success": true
+  },
+  "Ground Water From Dhubri District (College Nagar )|Assam": {
+    "lat": 26.7503197,
+    "lng": 94.1821094,
+    "query": "district nagar, Assam, India",
+    "success": true
+  },
+  "Ground Water From Hamren|Assam": {
+    "lat": 25.8449919,
+    "lng": 92.5748777,
+    "query": "hamren, Assam, India",
+    "success": true
+  },
+  "Ground Water From Haflong|Assam": {
+    "lat": 25.1825103,
+    "lng": 92.8984045,
+    "query": "haflong, Assam, India",
+    "success": true
+  },
+  "Ground Water From Karimganj (College)|Assam": {
+    "lat": 24.5828196,
+    "lng": 92.3725487,
+    "query": "karimganj, Assam, India",
+    "success": true
+  },
+  "Ground Water From Hialakandi (Near|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "ground from hialakandi, Assam, India",
+    "success": false
+  },
+  "Ground Water In Panchgram Market Near Cachar Paper Mill|Assam": {
+    "lat": 26.1692384,
+    "lng": 91.7598512,
+    "query": "mill, Assam, India",
+    "success": true
+  },
+  "Mer Beel At Madhabpur|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "mer beel madhabpur, Assam, India",
+    "success": false
+  },
+  "Daloni Beel Near Jogighopa|Assam": {
+    "lat": 26.2222913,
+    "lng": 90.5731185,
+    "query": "jogighopa, Assam, India",
+    "success": true
+  },
+  "Elangabeel System Pond (Connected To R. Kolang)|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "elangabeel system pond connected to r. kolang, Assam, India",
+    "success": false
+  },
+  "Bor Beel At Jakai|Assam": {
+    "lat": 26.6283074,
+    "lng": 94.1137361,
+    "query": "jakai, Assam, India",
+    "success": true
+  },
+  "Borpukhuri, Nazira|Assam": {
+    "lat": 26.8622087,
+    "lng": 94.7183167,
+    "query": "nazira, Assam, India",
+    "success": true
+  },
+  "Gaurisagar Tank, Gaurisagar|Assam": {
+    "lat": 26.9484393,
+    "lng": 94.53558,
+    "query": "gaurisagar, Assam, India",
+    "success": true
+  },
+  "Rajmaw Pukhuri, Jorhat|Assam": {
+    "lat": 26.7484604,
+    "lng": 94.2176863,
+    "query": "pukhuri jorhat, Assam, India",
+    "success": true
+  },
+  "Padumpukhuri, Tezpur|Assam": {
+    "lat": 26.6229928,
+    "lng": 92.7976082,
+    "query": "tezpur, Assam, India",
+    "success": true
+  },
+  "Gophur Tank, Gophur|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "gophur tank gophur, Assam, India",
+    "success": false
+  },
+  "Jaipal Pukhuri, Sipajhar|Assam": {
+    "lat": 26.3185876,
+    "lng": 91.861363,
+    "query": "sipajhar, Assam, India",
+    "success": true
+  },
+  "Botodriva Satra Pond, Nagaon|Assam": {
+    "lat": 26.3313646,
+    "lng": 92.7524763,
+    "query": "nagaon, Assam, India",
+    "success": true
+  },
+  "Saran Beel|Assam": {
+    "lat": 26.1214488,
+    "lng": 91.6488261,
+    "query": "beel, Assam, India",
+    "success": true
+  },
+  "Dighali Pukhuri, Guwahati|Assam": {
+    "lat": 26.187556,
+    "lng": 91.751178,
+    "query": "pukhuri guwahati, Assam, India",
+    "success": true
+  },
+  "Subhagya Kunda Pond Kamakhya Temple, Guwahati|Assam": {
+    "lat": 26.165107,
+    "lng": 91.7059298,
+    "query": "kamakhya temple guwahati, Assam, India",
+    "success": true
+  },
+  "Deepar Beel At Boragaon Near Iasst, Guwahati|Assam": {
+    "lat": 26.11114,
+    "lng": 91.6853199,
+    "query": "boragaon iasst guwahati, Assam, India",
+    "success": true
+  },
+  "Bishnu Puskar Pukhuri Of Hayagrib Madhab Temple, Hajo|Assam": {
+    "lat": 26.2429185,
+    "lng": 91.526535,
+    "query": "temple hajo, Assam, India",
+    "success": true
+  },
+  "Chand Dubi Beel, Chand Dubi|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "chand dubi beel chand dubi, Assam, India",
+    "success": false
+  },
+  "Ganga Pukhuri, Nalbari (Gordon School)|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "ganga pukhuri nalbari gordon, Assam, India",
+    "success": false
+  },
+  "Rajadinia Pukhuri At Abhayapuri|Assam": {
+    "lat": 26.334307,
+    "lng": 90.6669044,
+    "query": "abhayapuri, Assam, India",
+    "success": true
+  },
+  "Mahamaya Mandir Pukhuri|Assam": {
+    "lat": 26.9524218,
+    "lng": 94.6231425,
+    "query": "pukhuri, Assam, India",
+    "success": true
+  },
+  "Rajapukhuri At Gauripur|Assam": {
+    "lat": 26.0865358,
+    "lng": 89.964662,
+    "query": "gauripur, Assam, India",
+    "success": true
+  },
+  "Baskandi Pond Inside The Baskandi Madrasa, Baskandi|Assam": {
+    "lat": 24.8100997,
+    "lng": 92.9150941,
+    "query": "baskandi madrasa baskandi, Assam, India",
+    "success": true
+  },
+  "Sivasagar Tank (Borpukhuri) Near Sivadol|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "sivasagar tank borpukhuri sivadol, Assam, India",
+    "success": false
+  },
+  "Hordai Pukhuri, Charaidew|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "hordai pukhuri charaidew, Assam, India",
+    "success": false
+  },
+  "Gala Beel At Dergaon|Assam": {
+    "lat": 26.6912061,
+    "lng": 93.9494079,
+    "query": "dergaon, Assam, India",
+    "success": true
+  },
+  "Goysagar Tank, Sibsagar|Assam": {
+    "lat": 26.9834936,
+    "lng": 94.6394226,
+    "query": "sibsagar, Assam, India",
+    "success": true
+  },
+  "Brahamputra At Kherghat (A/C With Dibang & Dihang)|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "brahamputra kherghat a/c with dibang & dihang, Assam, India",
+    "success": false
+  },
+  "Brahamputra At Dibrugarh|Assam": {
+    "lat": 27.4844597,
+    "lng": 94.9019447,
+    "query": "dibrugarh, Assam, India",
+    "success": true
+  },
+  "Brahamputra At Nimatighat|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "brahamputra nimatighat, Assam, India",
+    "success": false
+  },
+  "Brahmputra At Dhenukhapahar|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "brahmputra dhenukhapahar, Assam, India",
+    "success": false
+  },
+  "Brahamputra At Pandu|Assam": {
+    "lat": 26.1634597,
+    "lng": 91.6806078,
+    "query": "pandu, Assam, India",
+    "success": true
+  },
+  "Brahmaputra At Dhubri|Assam": {
+    "lat": 26.0202533,
+    "lng": 89.9899358,
+    "query": "brahmaputra dhubri, Assam, India",
+    "success": true
+  },
+  "Brahamputra At Jogijhoga Near Bridge|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "brahamputra jogijhoga, Assam, India",
+    "success": false
+  },
+  "Brahmputra Near Water Intake Point At Kacharighat, Panbazar, Guwahati|Assam": {
+    "lat": 26.1805978,
+    "lng": 91.753943,
+    "query": "guwahati, Assam, India",
+    "success": true
+  },
+  "Brahmaputra River At Chandrapur, Guwahati|Assam": {
+    "lat": 26.1805978,
+    "lng": 91.753943,
+    "query": "guwahati, Assam, India",
+    "success": true
+  },
+  "Brahmputra River At Sualkuchi, Dist. Kamrup|Assam": {
+    "lat": 26.1699129,
+    "lng": 91.5708517,
+    "query": "sualkuchi dist. kamrup, Assam, India",
+    "success": true
+  },
+  "Kathakal, U/S At Matijuri, Dist. Hailakandi|Assam": {
+    "lat": 24.6473519,
+    "lng": 92.6126791,
+    "query": "matijuri dist. hailakandi, Assam, India",
+    "success": true
+  },
+  "Dhansiri At Golaghat|Assam": {
+    "lat": 26.6504888,
+    "lng": 93.5855122,
+    "query": "dhansiri golaghat, Assam, India",
+    "success": true
+  },
+  "Dhansiri At Nagaland- Assam Border, Dimapur|Assam": {
+    "lat": 26.4986126,
+    "lng": 93.9348134,
+    "query": "dimapur, Assam, India",
+    "success": true
+  },
+  "Barak D/S Of Silchar|Assam": {
+    "lat": 24.8076698,
+    "lng": 92.7951287,
+    "query": "barak silchar, Assam, India",
+    "success": true
+  },
+  "Beki At Nh-37 Crossing At Barpeta Road|Assam": {
+    "lat": 26.345941,
+    "lng": 91.039708,
+    "query": "barpeta, Assam, India",
+    "success": true
+  },
+  "Bharalu At Guwahati|Assam": {
+    "lat": 26.1805978,
+    "lng": 91.753943,
+    "query": "guwahati, Assam, India",
+    "success": true
+  },
+  "Bhogdoi At Jorhat|Assam": {
+    "lat": 26.6873576,
+    "lng": 94.3021534,
+    "query": "bhogdoi jorhat, Assam, India",
+    "success": true
+  },
+  "Boginadi Near Bridge Nh-52, Lakhimpur|Assam": {
+    "lat": 27.1763356,
+    "lng": 94.1992932,
+    "query": "lakhimpur, Assam, India",
+    "success": true
+  },
+  "Borak At Panchagram|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "borak panchagram, Assam, India",
+    "success": false
+  },
+  "Burhidihing At Margherita|Assam": {
+    "lat": 27.438398,
+    "lng": 95.7409824,
+    "query": "margherita, Assam, India",
+    "success": true
+  },
+  "Burhidihing At Duliajan (Intake Point Of Oil India Ltd.)|Assam": {
+    "lat": 26.1801244,
+    "lng": 91.7357277,
+    "query": "india ltd., Assam, India",
+    "success": true
+  },
+  "Buridihing D/S Near Duliajan Tinsukia|Assam": {
+    "lat": 27.4879722,
+    "lng": 95.3601855,
+    "query": "tinsukia, Assam, India",
+    "success": true
+  },
+  "Deepar Beel|Assam": {
+    "lat": 26.1214488,
+    "lng": 91.6488261,
+    "query": "beel, Assam, India",
+    "success": true
+  },
+  "Digboi At Lakhipathe, Reserve Forest, Digboi|Assam": {
+    "lat": 27.3956145,
+    "lng": 95.614868,
+    "query": "digboi, Assam, India",
+    "success": true
+  },
+  "Dikhow At Dikhow Bridge Sivasagar|Assam": {
+    "lat": 26.9219131,
+    "lng": 94.7397334,
+    "query": "dikhow dikhow sivasagar, Assam, India",
+    "success": true
+  },
+  "Disang At Gundamghat|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "disang gundamghat, Assam, India",
+    "success": false
+  },
+  "Disang At Dillighat, Dibrugarh Dist|Assam": {
+    "lat": 27.1409392,
+    "lng": 95.3685808,
+    "query": "dillighat dibrugarh dist, Assam, India",
+    "success": true
+  },
+  "Jai Bharali Near Biswanath Charali, Sonitpur|Assam": {
+    "lat": 26.72667,
+    "lng": 93.147765,
+    "query": "biswanath charali sonitpur, Assam, India",
+    "success": true
+  },
+  "Jhanji At N.H. Crossing Jorhat|Assam": {
+    "lat": 26.7577925,
+    "lng": 94.2079645,
+    "query": "jorhat, Assam, India",
+    "success": true
+  },
+  "Kalong At U/S Of Anandaram Dekial Phukan Bridge, Nagaon|Assam": {
+    "lat": 26.3592774,
+    "lng": 92.6928657,
+    "query": "phukan nagaon, Assam, India",
+    "success": true
+  },
+  "Kapili At Dharmtul Bridge, Nh- 31, Nagaon|Assam": {
+    "lat": 26.3313646,
+    "lng": 92.7524763,
+    "query": "nagaon, Assam, India",
+    "success": true
+  },
+  "Kharsang B/C With Buridihing Near Kharsang (Assam- Arunanchal Border)|Assam": {
+    "lat": 25.9170076,
+    "lng": 89.8736159,
+    "query": "border, Assam, India",
+    "success": true
+  },
+  "Kohora At N.H. Crossing, Kohora|Assam": {
+    "lat": 26.5869979,
+    "lng": 93.4105813,
+    "query": "kohora, Assam, India",
+    "success": true
+  },
+  "Kolong At Marigaon|Assam": {
+    "lat": 26.2233129,
+    "lng": 92.4491387,
+    "query": "kolong marigaon, Assam, India",
+    "success": true
+  },
+  "Kundli At Kundli/ Sapakhowa, Sadia|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "kundli kundli/ sapakhowa sadia, Assam, India",
+    "success": false
+  },
+  "Kushiara At Karimganj|Assam": {
+    "lat": 24.5828196,
+    "lng": 92.3725487,
+    "query": "karimganj, Assam, India",
+    "success": true
+  },
+  "Manas At Nh-31 Crossing, Barpeta, District|Assam": {
+    "lat": 26.345941,
+    "lng": 91.039708,
+    "query": "barpeta district, Assam, India",
+    "success": true
+  },
+  "Mora Bharali At Tezpur|Assam": {
+    "lat": 26.6229928,
+    "lng": 92.7976082,
+    "query": "tezpur, Assam, India",
+    "success": true
+  },
+  "Pagldia Near Nalbari Town, Dist. Nalbari|Assam": {
+    "lat": 26.3533632,
+    "lng": 91.3983662,
+    "query": "dist. nalbari, Assam, India",
+    "success": true
+  },
+  "Panchnai At Nh-52 Crossing, Orang|Assam": {
+    "lat": 26.5468365,
+    "lng": 92.3134803,
+    "query": "orang, Assam, India",
+    "success": true
+  },
+  "Ranga Nadi D/S Of Hydel Project|Assam": {
+    "lat": 27.5511724,
+    "lng": 94.2600497,
+    "query": "project, Assam, India",
+    "success": true
+  },
+  "Sankosh Dhubri|Assam": {
+    "lat": 26.132275,
+    "lng": 90.1249962,
+    "query": "dhubri, Assam, India",
+    "success": true
+  },
+  "Sonai River At Sonai|Assam": {
+    "lat": 24.4891428,
+    "lng": 92.9635349,
+    "query": "sonai river sonai, Assam, India",
+    "success": true
+  },
+  "Subansiri At Gerekamukh, B/C With Brahmaputra|Assam": {
+    "lat": 26.0960868,
+    "lng": 90.859726,
+    "query": "brahmaputra, Assam, India",
+    "success": true
+  },
+  "Digboi, Tinsukia Distt., Assam|Assam": {
+    "lat": 27.3956145,
+    "lng": 95.614868,
+    "query": "digboi tinsukia distt. assam, Assam, India",
+    "success": true
+  },
+  "Ground Water At Karbi Anglong Distt., Assam|Assam": {
+    "lat": 25.8403569,
+    "lng": 93.4336966,
+    "query": "ground karbi anglong distt. assam, Assam, India",
+    "success": true
+  },
+  "Ground Water Near Bpms H.S. School Sonari Town Dist Charaideo|Assam": {
+    "lat": 27.0263746,
+    "lng": 95.0195484,
+    "query": "town dist charaideo, Assam, India",
+    "success": true
+  },
+  "Ground Water At (Jorhat, Assam)|Assam": {
+    "lat": 26.7323339,
+    "lng": 94.2237231,
+    "query": "ground jorhat assam, Assam, India",
+    "success": true
+  },
+  "Ground Water At Silchar, Assam|Assam": {
+    "lat": 24.7566951,
+    "lng": 92.780956,
+    "query": "ground silchar assam, Assam, India",
+    "success": true
+  },
+  "Ground Water At Barpeta, Assam|Assam": {
+    "lat": 26.3304208,
+    "lng": 91.006361,
+    "query": "barpeta assam, Assam, India",
+    "success": true
+  },
+  "Ground Water At Bonaigaon, Assam|Assam": {
+    "lat": 26.5123654,
+    "lng": 93.9715725,
+    "query": "assam, Assam, India",
+    "success": true
+  },
+  "Ground Water At Sijubari Mazar, Natboma Hatigaon|Assam": {
+    "lat": 26.1295619,
+    "lng": 91.767685,
+    "query": "natboma hatigaon, Assam, India",
+    "success": true
+  },
+  "Ground Water From Nazira, Assam|Assam": {
+    "lat": 26.8622087,
+    "lng": 94.7183167,
+    "query": "nazira assam, Assam, India",
+    "success": true
+  },
+  "Ground Water From Semenchapari, Assam|Assam": {
+    "lat": 26.5123654,
+    "lng": 93.9715725,
+    "query": "assam, Assam, India",
+    "success": true
+  },
+  "Ground Water From Silapathar, Assam|Assam": {
+    "lat": 27.5893833,
+    "lng": 94.7255857,
+    "query": "silapathar assam, Assam, India",
+    "success": true
+  },
+  "Ground Water From Lakhimpur Town, Assam|Assam": {
+    "lat": 27.236211,
+    "lng": 94.1038765,
+    "query": "lakhimpur town assam, Assam, India",
+    "success": true
+  },
+  "Ground Water From Nagaon (Panigaon), Assam|Assam": {
+    "lat": 26.3480551,
+    "lng": 92.698018,
+    "query": "nagaon panigaon assam, Assam, India",
+    "success": true
+  },
+  "Ground Water Near Msw Dumping Site At Garchuk-Guwahati, Assam|Assam": {
+    "lat": 26.11114,
+    "lng": 91.6853199,
+    "query": "garchuk guwahati assam, Assam, India",
+    "success": true
+  },
+  "Ground Water From Nalbari, Assam|Assam": {
+    "lat": 26.3533632,
+    "lng": 91.3983662,
+    "query": "nalbari assam, Assam, India",
+    "success": true
+  },
+  "Ground Water From Barpeta Road(Rly Station), Assam|Assam": {
+    "lat": 26.5021259,
+    "lng": 90.9645713,
+    "query": "barpeta station assam, Assam, India",
+    "success": true
+  },
+  "Ground Water Near Bprl, Dhaligaon, Assam|Assam": {
+    "lat": 26.4958001,
+    "lng": 90.5226391,
+    "query": "dhaligaon assam, Assam, India",
+    "success": true
+  },
+  "Ground Water From Kokrajhar District (Hs School ), Assam|Assam": {
+    "lat": 26.427529,
+    "lng": 90.2825461,
+    "query": "kokrajhar district assam, Assam, India",
+    "success": true
+  },
+  "Ground Water From Hamren, Assam|Assam": {
+    "lat": 25.8449919,
+    "lng": 92.5748777,
+    "query": "hamren assam, Assam, India",
+    "success": true
+  },
+  "Ground Water From Haflong, Assam|Assam": {
+    "lat": 25.1823559,
+    "lng": 93.0158028,
+    "query": "haflong assam, Assam, India",
+    "success": true
+  },
+  "Ground Water From Karimganj (College), Assam|Assam": {
+    "lat": 24.5828196,
+    "lng": 92.3725487,
+    "query": "karimganj assam, Assam, India",
+    "success": true
+  },
+  "Ground Water In Panchgram Market Near Cachar Paper Mill, Assam|Assam": {
+    "lat": 26.1692384,
+    "lng": 91.7598512,
+    "query": "mill assam, Assam, India",
+    "success": true
+  },
+  "Biswanath Chariali Town|Assam": {
+    "lat": 26.7203673,
+    "lng": 93.1428974,
+    "query": "chariali town, Assam, India",
+    "success": true
+  },
+  "Municipal Waste Processing Facility, Morabharli, Tezpur|Assam": {
+    "lat": 26.6229928,
+    "lng": 92.7976082,
+    "query": "tezpur, Assam, India",
+    "success": true
+  },
+  "Mangaldoi Town|Assam": {
+    "lat": 26.436303,
+    "lng": 92.0306569,
+    "query": "mangaldoi town, Assam, India",
+    "success": true
+  },
+  "Ground Water Near Garmur Recreation Ground, Jorhat|Assam": {
+    "lat": 26.7323339,
+    "lng": 94.2237231,
+    "query": "ground jorhat, Assam, India",
+    "success": true
+  },
+  "Ground Water From Garmur, Majuli|Assam": {
+    "lat": 27.0219529,
+    "lng": 94.327423,
+    "query": "majuli, Assam, India",
+    "success": true
+  },
+  "Tube Well At R/O Sri Tankeswar Das, Rupjyoti Colony (Nagabali) Municipality Dumping Site, Golaghat|Assam": {
+    "lat": 26.5108262,
+    "lng": 93.9743686,
+    "query": "golaghat, Assam, India",
+    "success": true
+  },
+  "Tube Well Of Wokha Goronga Girls Me School, Gorounga Tiniali, Furkating|Assam": {
+    "lat": 26.4636617,
+    "lng": 94.0025555,
+    "query": "furkating, Assam, India",
+    "success": true
+  },
+  "Ground Water From Mehepur Near A Cluster Of Nursing Home & Diagnostic Centre, Meherpur, Cachar|Assam": {
+    "lat": 24.7935332,
+    "lng": 92.7916093,
+    "query": "centre meherpur cachar, Assam, India",
+    "success": true
+  },
+  "Ground Water From Bonda, Guwahati|Assam": {
+    "lat": 26.1805978,
+    "lng": 91.753943,
+    "query": "guwahati, Assam, India",
+    "success": true
+  },
+  "Ground Water From Khanapara, Guwahati|Assam": {
+    "lat": 26.1733724,
+    "lng": 91.7594521,
+    "query": "khanapara guwahati, Assam, India",
+    "success": true
+  },
+  "Ground Water From Basistha, Guwahati|Assam": {
+    "lat": 26.0945317,
+    "lng": 91.7853471,
+    "query": "basistha guwahati, Assam, India",
+    "success": true
+  },
+  "Ground Water From Kahilipara, Guwahati|Assam": {
+    "lat": 26.1805978,
+    "lng": 91.753943,
+    "query": "guwahati, Assam, India",
+    "success": true
+  },
+  "Ground Water From Maligaon, Guwahati|Assam": {
+    "lat": 26.142124,
+    "lng": 91.7263181,
+    "query": "maligaon guwahati, Assam, India",
+    "success": true
+  },
+  "Near Panthanivas, Sambalpur|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "panthanivas sambalpur, Assam, India",
+    "success": false
+  },
+  "Daloni Beel Near Jogighopa, Assam|Assam": {
+    "lat": 26.2222913,
+    "lng": 90.5731185,
+    "query": "jogighopa assam, Assam, India",
+    "success": true
+  },
+  "Bor Beel At Jakai., Assam|Assam": {
+    "lat": 26.6283074,
+    "lng": 94.1137361,
+    "query": "jakai. assam, Assam, India",
+    "success": true
+  },
+  "Borpukhuri, Nazira, Assam|Assam": {
+    "lat": 26.8622087,
+    "lng": 94.7183167,
+    "query": "nazira assam, Assam, India",
+    "success": true
+  },
+  "Gaurisagar Tank, Gaurisagar, Assam|Assam": {
+    "lat": 26.9484393,
+    "lng": 94.53558,
+    "query": "gaurisagar assam, Assam, India",
+    "success": true
+  },
+  "Padumpukhuri, Tezpur, Assam|Assam": {
+    "lat": 26.6313381,
+    "lng": 92.7872762,
+    "query": "tezpur assam, Assam, India",
+    "success": true
+  },
+  "Jaipal Pukhuri, Sipajhar, Assam|Assam": {
+    "lat": 26.3185876,
+    "lng": 91.861363,
+    "query": "sipajhar assam, Assam, India",
+    "success": true
+  },
+  "Saran Beel, Assam|Assam": {
+    "lat": 26.1214487,
+    "lng": 91.6488261,
+    "query": "beel assam, Assam, India",
+    "success": true
+  },
+  "Subhagya Kunda Pond Kamakhya Temple, Guwahati, Assam|Assam": {
+    "lat": 26.0945819,
+    "lng": 91.5480036,
+    "query": "temple guwahati assam, Assam, India",
+    "success": true
+  },
+  "Bishnu Puskar Pukhuri Of Hayagrib Madhab Temple, Hajo, Assam|Assam": {
+    "lat": 26.2429185,
+    "lng": 91.526535,
+    "query": "temple hajo assam, Assam, India",
+    "success": true
+  },
+  "Ganga Pukhuri, Nalbari (Gordon School), Assam|Assam": {
+    "lat": 26.5123654,
+    "lng": 93.9715725,
+    "query": "assam, Assam, India",
+    "success": true
+  },
+  "Mahamaya Mandir Pukhuri, Assam|Assam": {
+    "lat": 26.7521995,
+    "lng": 94.1963673,
+    "query": "mandir pukhuri assam, Assam, India",
+    "success": true
+  },
+  "Baskandi Pond Inside The Baskandi Madrasa, Baskandi, Assam|Assam": {
+    "lat": 24.8100997,
+    "lng": 92.9150941,
+    "query": "madrasa baskandi assam, Assam, India",
+    "success": true
+  },
+  "Hordai Pukhuri, Charaidew, Assam|Assam": {
+    "lat": 26.5123654,
+    "lng": 93.9715725,
+    "query": "assam, Assam, India",
+    "success": true
+  },
+  "Borpukhuri At Sonari|Assam": {
+    "lat": 27.0268952,
+    "lng": 95.0191353,
+    "query": "borpukhuri sonari, Assam, India",
+    "success": true
+  },
+  "Pond Water From Ramkrishna Mission At Hailakandi|Assam": {
+    "lat": 24.6929298,
+    "lng": 92.5659539,
+    "query": "mission hailakandi, Assam, India",
+    "success": true
+  },
+  "Brahamputra At Kherghat (After Confl. With Dibang & Dihang), Assam|Assam": {
+    "lat": 26.5123654,
+    "lng": 93.9715725,
+    "query": "assam, Assam, India",
+    "success": true
+  },
+  "Brahamputra At Dibrugarh, Assam|Assam": {
+    "lat": 27.355045,
+    "lng": 95.3218522,
+    "query": "dibrugarh assam, Assam, India",
+    "success": true
+  },
+  "Brahamputra At Nimatighat, Assam|Assam": {
+    "lat": 26.5123654,
+    "lng": 93.9715725,
+    "query": "assam, Assam, India",
+    "success": true
+  },
+  "Brahmputra River At Dhenukhapahar, Assam|Assam": {
+    "lat": 26.5123654,
+    "lng": 93.9715725,
+    "query": "assam, Assam, India",
+    "success": true
+  },
+  "Brahamputra At Pandu, Assam|Assam": {
+    "lat": 26.1585826,
+    "lng": 91.682681,
+    "query": "pandu assam, Assam, India",
+    "success": true
+  },
+  "Brahamputra At Jogijhoga Near Bridge, Assam|Assam": {
+    "lat": 26.5123654,
+    "lng": 93.9715725,
+    "query": "assam, Assam, India",
+    "success": true
+  },
+  "Brahmputra River Near Water Intake Point At Kacharighat, Panbazar, Guwahati, Assam|Assam": {
+    "lat": 26.142124,
+    "lng": 91.7263181,
+    "query": "guwahati assam, Assam, India",
+    "success": true
+  },
+  "Brahmaputra River At Chandrapur, Guwahati, Assam|Assam": {
+    "lat": 26.142124,
+    "lng": 91.7263181,
+    "query": "guwahati assam, Assam, India",
+    "success": true
+  },
+  "Brahmputra River At Sualkuchi, Dist. Kamrup, Assam|Assam": {
+    "lat": 26.142124,
+    "lng": 91.7263181,
+    "query": "dist. kamrup assam, Assam, India",
+    "success": true
+  },
+  "Brahmaputra River At Dhubri, Assam|Assam": {
+    "lat": 26.2616211,
+    "lng": 90.1242529,
+    "query": "river dhubri assam, Assam, India",
+    "success": true
+  },
+  "Brahamputra River At Bogibeel Bridge, Bogibeel, Dibrugarh|Assam": {
+    "lat": 27.408185,
+    "lng": 94.7604982,
+    "query": "bogibeel bogibeel dibrugarh, Assam, India",
+    "success": true
+  },
+  "Dhansiri At Golaghat, Assam|Assam": {
+    "lat": 26.6504888,
+    "lng": 93.5855122,
+    "query": "dhansiri golaghat assam, Assam, India",
+    "success": true
+  },
+  "Dhansiri At Nagalandassam Border, Dimapur|Assam": {
+    "lat": 26.4986126,
+    "lng": 93.9348134,
+    "query": "dimapur, Assam, India",
+    "success": true
+  },
+  "Subansiri At Gerekamukh (Before Confl. With Brah.), Assam|Assam": {
+    "lat": 26.5123654,
+    "lng": 93.9715725,
+    "query": "assam, Assam, India",
+    "success": true
+  },
+  "Kharsang Before Confluence With Buridihing Near Kharsang (Assamarunanchal Border), Assam|Assam": {
+    "lat": 25.940805,
+    "lng": 89.8859768,
+    "query": "border assam, Assam, India",
+    "success": true
+  },
+  "Burhidihing At Margherita, Assam|Assam": {
+    "lat": 27.2893045,
+    "lng": 95.6748945,
+    "query": "margherita assam, Assam, India",
+    "success": true
+  },
+  "Burhidihing Near Duliajan At D/S, Tinsukia, Assam|Assam": {
+    "lat": 27.4872179,
+    "lng": 95.3673215,
+    "query": "tinsukia assam, Assam, India",
+    "success": true
+  },
+  "Burhidihing River At Duliajan (Intake Point Of Oil India Ltd.), Assam|Assam": {
+    "lat": 26.1801244,
+    "lng": 91.7357277,
+    "query": "india ltd. assam, Assam, India",
+    "success": true
+  },
+  "Pagldia River Near Nalbari Town, Dist. Nalbari, Assam|Assam": {
+    "lat": 26.3533632,
+    "lng": 91.3983662,
+    "query": "dist. nalbari assam, Assam, India",
+    "success": true
+  },
+  "Digboi River At Lakhipathe, Reserve Forest, Digboi, Assam|Assam": {
+    "lat": 27.3956145,
+    "lng": 95.614868,
+    "query": "digboi assam, Assam, India",
+    "success": true
+  },
+  "Jai Bharali River Near Biswanath Charali, Sonitpur, Assam|Assam": {
+    "lat": 26.6552663,
+    "lng": 92.7725588,
+    "query": "charali sonitpur assam, Assam, India",
+    "success": true
+  },
+  "Kolong River At U/S Of Anandaram Dekial Phukan Bridge, Nagaon, Assam|Assam": {
+    "lat": 26.3592774,
+    "lng": 92.6928657,
+    "query": "phukan nagaon assam, Assam, India",
+    "success": true
+  },
+  "Kolong River At Marigaon, Assam|Assam": {
+    "lat": 26.2233129,
+    "lng": 92.4491387,
+    "query": "kolong river marigaon assam, Assam, India",
+    "success": true
+  },
+  "Manas River At Nh31 Crossing, Barpeta, District, Assam|Assam": {
+    "lat": 26.3304208,
+    "lng": 91.006361,
+    "query": "barpeta district assam, Assam, India",
+    "success": true
+  },
+  "Disang River At Dillighat, Dibrugarh Dist., Assam|Assam": {
+    "lat": 27.355045,
+    "lng": 95.3218522,
+    "query": "dibrugarh dist. assam, Assam, India",
+    "success": true
+  },
+  "Disang At Gundamghat, Assam|Assam": {
+    "lat": 26.5123654,
+    "lng": 93.9715725,
+    "query": "assam, Assam, India",
+    "success": true
+  },
+  "Jhanji At N.H. Crossing Jorhat, Assam|Assam": {
+    "lat": 26.7503197,
+    "lng": 94.1821094,
+    "query": "jorhat assam, Assam, India",
+    "success": true
+  },
+  "Bhogdoi River At Jorhat , Assam|Assam": {
+    "lat": 26.749443,
+    "lng": 94.0333069,
+    "query": "bhogdoi river jorhat assam, Assam, India",
+    "success": true
+  },
+  "Mora Bharali At Tezpur, Assam|Assam": {
+    "lat": 26.6313381,
+    "lng": 92.7872762,
+    "query": "tezpur assam, Assam, India",
+    "success": true
+  },
+  "Barak At Panchagram , Assam|Assam": {
+    "lat": 26.5123654,
+    "lng": 93.9715725,
+    "query": "assam, Assam, India",
+    "success": true
+  },
+  "Barak River Near Noney Village (N.H. 53), Tamenglong|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "barak river noney n.h. 53 tamenglong, Assam, India",
+    "success": false
+  },
+  "Barak River At Senapati|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "barak river senapati, Assam, India",
+    "success": false
+  },
+  "Barak River At N.H. 53, Tamenglong .|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "barak river n.h. 53 tamenglong ., Assam, India",
+    "success": false
+  },
+  "Bharalu River At Guwahati, Assam|Assam": {
+    "lat": 26.142124,
+    "lng": 91.7263181,
+    "query": "guwahati assam, Assam, India",
+    "success": true
+  },
+  "Deepar Bill, Assam*|Assam": {
+    "lat": 26.1409361,
+    "lng": 91.6683901,
+    "query": "bill assam*, Assam, India",
+    "success": true
+  },
+  "Kathakal U/S At Matijuri, Dist. Hailakandi, Assam|Assam": {
+    "lat": 24.8325266,
+    "lng": 92.6319122,
+    "query": "dist. hailakandi assam, Assam, India",
+    "success": true
+  },
+  "Ganga River At Chandrapur, Itanagar,|Assam": {
+    "lat": 26.9698094,
+    "lng": 93.6430677,
+    "query": "itanagar, Assam, India",
+    "success": true
+  },
+  "Dikrong River At Nirjuli,|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "dikrong river nirjuli, Assam, India",
+    "success": false
+  },
+  "Lohit River At Alubari,|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "lohit river alubari, Assam, India",
+    "success": false
+  },
+  "Namchik River At Kharsang,|Assam": {
+    "lat": 27.431239,
+    "lng": 96.0256278,
+    "query": "kharsang, Assam, India",
+    "success": true
+  },
+  "Pachin River At Naharlagun (Below Barapani Bridge),|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "pachin river naharlagun below barapani, Assam, India",
+    "success": false
+  },
+  "Gai Nadi Near Hss Likabali,|Assam": {
+    "lat": 27.6389415,
+    "lng": 94.6995054,
+    "query": "likabali, Assam, India",
+    "success": true
+  },
+  "Dibang River At Roing,|Assam": {
+    "lat": 27.9329952,
+    "lng": 95.8377854,
+    "query": "river roing, Assam, India",
+    "success": true
+  },
+  "Dihing River At Miao,|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "dihing river miao, Assam, India",
+    "success": false
+  },
+  "Bhogdoi River (Pujadubi Ghat) Intake Point Of Urban Water Supply, Jorhat|Assam": {
+    "lat": 26.7587641,
+    "lng": 94.1979962,
+    "query": "urban jorhat, Assam, India",
+    "success": true
+  },
+  "Dikhow River At Nagini Mora (Interstate Boundaries, Assamnagaland)|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "dikhow river nagini mora interstate boundaries assamnagaland, Assam, India",
+    "success": false
+  },
+  "Teesta At Siliguri|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "teesta siliguri, Assam, India",
+    "success": false
+  },
+  "Dikhow River At Dikhow Bridge Sivasagar, Assam|Assam": {
+    "lat": 26.9219131,
+    "lng": 94.7397334,
+    "query": "dikhow sivasagar assam, Assam, India",
+    "success": true
+  },
+  "Kohora River At N.H. Crossing, Kohora, Assam|Assam": {
+    "lat": 26.5898934,
+    "lng": 93.4057367,
+    "query": "kohora assam, Assam, India",
+    "success": true
+  },
+  "Boginadi Near Bridge Nh52, Lakhimpur, Assam|Assam": {
+    "lat": 27.2520097,
+    "lng": 94.109902,
+    "query": "lakhimpur assam, Assam, India",
+    "success": true
+  },
+  "Ranga Nadi D/S Of Hydel Project, Assam|Assam": {
+    "lat": 27.5511724,
+    "lng": 94.2600497,
+    "query": "project assam, Assam, India",
+    "success": true
+  },
+  "Kapili River At Dharmtul Bridge, Nh31, Nagaon, Assam|Assam": {
+    "lat": 26.2957157,
+    "lng": 92.576589,
+    "query": "nagaon assam, Assam, India",
+    "success": true
+  },
+  "Beki River At Nh37 Crossing At Barpeta Road, Assam|Assam": {
+    "lat": 26.3304208,
+    "lng": 91.006361,
+    "query": "barpeta assam, Assam, India",
+    "success": true
+  },
+  "Sankosh River, Dhubri, Assam|Assam": {
+    "lat": 26.2616211,
+    "lng": 90.1242529,
+    "query": "river dhubri assam, Assam, India",
+    "success": true
+  },
+  "Barak River At D/S Of Silchar, Assam|Assam": {
+    "lat": 24.9520864,
+    "lng": 92.8538892,
+    "query": "river silchar assam, Assam, India",
+    "success": true
+  },
+  "Sonai River At Sonai, Assam|Assam": {
+    "lat": 24.4891428,
+    "lng": 92.9635349,
+    "query": "sonai river sonai assam, Assam, India",
+    "success": true
+  },
+  "Kushiara River At Karimganj, Assam|Assam": {
+    "lat": 24.7461064,
+    "lng": 92.3475605,
+    "query": "river karimganj assam, Assam, India",
+    "success": true
+  },
+  "Panchnai River At Nh52 Crossing, Orang, Assam|Assam": {
+    "lat": 26.5468365,
+    "lng": 92.3134803,
+    "query": "orang assam, Assam, India",
+    "success": true
+  },
+  "1534|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "1534, Assam, India",
+    "success": true
+  },
+  "1537|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "1537, Assam, India",
+    "success": true
+  },
+  "1538|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "1538, Assam, India",
+    "success": true
+  },
+  "1539|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "1539, Assam, India",
+    "success": true
+  },
+  "1540|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "1540, Assam, India",
+    "success": true
+  },
+  "1541|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "1541, Assam, India",
+    "success": true
+  },
+  "1542|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "1542, Assam, India",
+    "success": true
+  },
+  "2244|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "2244, Assam, India",
+    "success": true
+  },
+  "2246|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "2246, Assam, India",
+    "success": true
+  },
+  "2247|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "2247, Assam, India",
+    "success": true
+  },
+  "2253|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "2253, Assam, India",
+    "success": true
+  },
+  "2260|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "2260, Assam, India",
+    "success": true
+  },
+  "2261|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "2261, Assam, India",
+    "success": true
+  },
+  "3761|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "3761, Assam, India",
+    "success": true
+  },
+  "3766|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "3766, Assam, India",
+    "success": true
+  },
+  "3779|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "3779, Assam, India",
+    "success": true
+  },
+  "3813|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "3813, Assam, India",
+    "success": true
+  },
+  "3816|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "3816, Assam, India",
+    "success": true
+  },
+  "3817|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "3817, Assam, India",
+    "success": true
+  },
+  "3818|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "3818, Assam, India",
+    "success": true
+  },
+  "4001|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "4001, Assam, India",
+    "success": true
+  },
+  "4002|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "4002, Assam, India",
+    "success": true
+  },
+  "4007|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "4007, Assam, India",
+    "success": true
+  },
+  "4008|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "4008, Assam, India",
+    "success": true
+  },
+  "4303|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "4303, Assam, India",
+    "success": true
+  },
+  "3970|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "3970, Assam, India",
+    "success": true
+  },
+  "2207|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "2207, Assam, India",
+    "success": true
+  },
+  "2208|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "2208, Assam, India",
+    "success": true
+  },
+  "2215|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "2215, Assam, India",
+    "success": true
+  },
+  "3772|Assam": {
+    "lat": 27.3426424,
+    "lng": 95.4074089,
+    "query": "3772, Assam, India",
+    "success": true
+  },
+  "Digboi River At Lakhipathe, Reserve Forest, Digboi|Assam": {
+    "lat": 27.3956145,
+    "lng": 95.614868,
+    "query": "digboi, Assam, India",
+    "success": true
+  },
+  "Intake Point Of Urban Water Supply, Bhogdoi River|Assam": {
+    "lat": 26.749443,
+    "lng": 94.0333069,
+    "query": "bhogdoi river, Assam, India",
+    "success": true
+  },
+  "Dikhow River At Nagini Mora (Inter-State Boundarie|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "dikhow river nagini mora inter state boundarie, Assam, India",
+    "success": false
+  },
+  "Beki River At Nh-37 Crossing At Barpeta Road, Assa|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "beki river crossing barpeta assa, Assam, India",
+    "success": false
+  },
+  "Ground Water At Digboi, Tinsukia Distt., Assam|Assam": {
+    "lat": 27.4872179,
+    "lng": 95.3673215,
+    "query": "tinsukia distt. assam, Assam, India",
+    "success": true
+  },
+  "Ground Water At Sibsagar Govt Me School Ward 6, Red Cross Road , Assam|Assam": {
+    "lat": 27.4866655,
+    "lng": 94.9146622,
+    "query": "cross assam, Assam, India",
+    "success": true
+  },
+  "Ground Water At Noonmati Guwahati, Assam|Assam": {
+    "lat": 26.1979372,
+    "lng": 91.7998576,
+    "query": "noonmati guwahati assam, Assam, India",
+    "success": true
+  },
+  "Ground Water From Ledo, Margherita, Assam|Assam": {
+    "lat": 27.2945211,
+    "lng": 95.73688,
+    "query": "ledo margherita assam, Assam, India",
+    "success": true
+  },
+  "Ground Water From Numaligarh (Near Nrl Te Labor Colony), Assam|Assam": {
+    "lat": 26.7472242,
+    "lng": 94.2480731,
+    "query": "colony assam, Assam, India",
+    "success": true
+  },
+  "Ground Water From Tezpur (Mission Chariali), Assam|Assam": {
+    "lat": 26.352039,
+    "lng": 92.6906592,
+    "query": "mission chariali assam, Assam, India",
+    "success": true
+  },
+  "Ground Water From Jagiroad Near Hpc Effluent Discharge Point, Assam|Assam": {
+    "lat": 26.5123654,
+    "lng": 93.9715725,
+    "query": "assam, Assam, India",
+    "success": true
+  },
+  "Ground Water Near Msw Dumping Site At Garchuk- Guwahati, Assam|Assam": {
+    "lat": 26.11114,
+    "lng": 91.6853199,
+    "query": "garchuk guwahati assam, Assam, India",
+    "success": true
+  },
+  "Ground Water From Dhubri District (College Nagar ), Assam|Assam": {
+    "lat": 26.7503197,
+    "lng": 94.1821094,
+    "query": "district nagar assam, Assam, India",
+    "success": true
+  },
+  "Ground Water From Diphu (Govt. College), Assam|Assam": {
+    "lat": 25.8417143,
+    "lng": 93.4255332,
+    "query": "diphu govt. assam, Assam, India",
+    "success": true
+  },
+  "Ground Water From Hialakandi (Near Astc Bus Stand ), Assam|Assam": {
+    "lat": 26.4975191,
+    "lng": 90.969302,
+    "query": "astc stand assam, Assam, India",
+    "success": true
+  },
+  "Ground Water From Biswanath Chariali Town|Assam": {
+    "lat": 26.7203673,
+    "lng": 93.1428974,
+    "query": "chariali town, Assam, India",
+    "success": true
+  },
+  "Ground Water Near Municipal Waste Processing Facility, Morabharli, Tezpur|Assam": {
+    "lat": 26.6229928,
+    "lng": 92.7976082,
+    "query": "tezpur, Assam, India",
+    "success": true
+  },
+  "Ground Water From Mangaldoi Town|Assam": {
+    "lat": 26.436303,
+    "lng": 92.0306569,
+    "query": "mangaldoi town, Assam, India",
+    "success": true
+  },
+  "Ground Water From Titabar Urban Water Supply, Titabar|Assam": {
+    "lat": 26.6025309,
+    "lng": 94.2012161,
+    "query": "titabar, Assam, India",
+    "success": true
+  },
+  "Ground Water Near Gogamukh Public Water Supply Scheme, Gogamukh, Dhemaji|Assam": {
+    "lat": 27.4320635,
+    "lng": 94.3780749,
+    "query": "gogamukh dhemaji, Assam, India",
+    "success": true
+  },
+  "Tube Well At R/O Sri Anil Baora At Bosagaon Near By The Athkhalia, Namghar, Po: Pulikaitoni|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "tube well r/o sri anil baora bosagaon by the athkhalia namghar po: pulikaitoni, Assam, India",
+    "success": false
+  },
+  "Ground Water From Mehepur Trenching Ground, Meherpur, Cachar|Assam": {
+    "lat": 24.8006239,
+    "lng": 92.7920328,
+    "query": "meherpur cachar, Assam, India",
+    "success": true
+  },
+  "Ground Water Near Badarpur Industrial Area At Badarpur Ghat, Karimganj|Assam": {
+    "lat": 24.5805879,
+    "lng": 92.2956073,
+    "query": "ghat karimganj, Assam, India",
+    "success": true
+  },
+  "Ground Water From Panjabari|Assam": {
+    "lat": 26.1316998,
+    "lng": 91.8083049,
+    "query": "panjabari, Assam, India",
+    "success": true
+  },
+  "Ground Water From Santipur|Assam": {
+    "lat": 26.5158252,
+    "lng": 93.9664776,
+    "query": "santipur, Assam, India",
+    "success": true
+  },
+  "Ground Water From Tezpur Collegiate High School|Assam": {
+    "lat": 26.509785,
+    "lng": 93.9716885,
+    "query": "high, Assam, India",
+    "success": true
+  },
+  "Ground Water From Lakwah|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "ground from lakwah, Assam, India",
+    "success": false
+  },
+  "Ground Water From Satgaon|Assam": {
+    "lat": 26.158949,
+    "lng": 91.8385701,
+    "query": "satgaon, Assam, India",
+    "success": true
+  },
+  "Ground Water From Railway Station Road, Rowta|Assam": {
+    "lat": 26.7373464,
+    "lng": 92.215175,
+    "query": "railway station rowta, Assam, India",
+    "success": true
+  },
+  "Ground Water Beside Msw Dumping Site, Dhekiajuli|Assam": {
+    "lat": 26.7301754,
+    "lng": 92.4785068,
+    "query": "dhekiajuli, Assam, India",
+    "success": true
+  },
+  "Ground Water Near Pangram Stone Crasher Cluster|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "ground pangram stone crasher cluster, Assam, India",
+    "success": false
+  },
+  "Ground Water From Demow Water Supply Demow Town|Assam": {
+    "lat": 24.7930111,
+    "lng": 93.0028635,
+    "query": "town, Assam, India",
+    "success": true
+  },
+  "Ground Water From Amguri, Amguri Town|Assam": {
+    "lat": 26.8098175,
+    "lng": 94.5249646,
+    "query": "amguri amguri town, Assam, India",
+    "success": true
+  },
+  "Ground Water Form Tenga Pukhuri Kukurachowa Water Supply Tenga Pukhuri|Assam": {
+    "lat": 26.9524218,
+    "lng": 94.6231425,
+    "query": "pukhuri, Assam, India",
+    "success": true
+  },
+  "Ground Water Near Nagaon Town Pipe Water Supply Scheme(Z-111), Nagaon|Assam": {
+    "lat": 26.3313646,
+    "lng": 92.7524763,
+    "query": "nagaon, Assam, India",
+    "success": true
+  },
+  "Ground Water From Nagaon College, Nagaon|Assam": {
+    "lat": 26.2957157,
+    "lng": 92.576589,
+    "query": "nagaon nagaon, Assam, India",
+    "success": true
+  },
+  "Deepar Beel, Assam|Assam": {
+    "lat": 26.1214488,
+    "lng": 91.6488261,
+    "query": "beel assam, Assam, India",
+    "success": true
+  },
+  "Mer Beel At Madhabpur, Assam|Assam": {
+    "lat": 26.5123654,
+    "lng": 93.9715725,
+    "query": "assam, Assam, India",
+    "success": true
+  },
+  "Deepar Beel At Boragaon Near Iasst, Guwahati, Assam|Assam": {
+    "lat": 26.11114,
+    "lng": 91.6853199,
+    "query": "iasst guwahati assam, Assam, India",
+    "success": true
+  },
+  "Son Beel Water At Karimganj|Assam": {
+    "lat": 24.7032895,
+    "lng": 92.438051,
+    "query": "son beel karimganj, Assam, India",
+    "success": true
+  },
+  "Kamalabari Lake Inside Kamalabari Children,S Park, Geleky|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "kamalabari lake inside kamalabari children s park geleky, Assam, India",
+    "success": false
+  },
+  "Elangabeel System Pond (Connected To R. Kolang), Assam|Assam": {
+    "lat": 26.5123654,
+    "lng": 93.9715725,
+    "query": "assam, Assam, India",
+    "success": true
+  },
+  "Rajmaw Pukhuri, Jorhat, Assam|Assam": {
+    "lat": 26.7484604,
+    "lng": 94.2176863,
+    "query": "pukhuri jorhat assam, Assam, India",
+    "success": true
+  },
+  "Gophur Tank, Gophur, Assam|Assam": {
+    "lat": 26.5123654,
+    "lng": 93.9715725,
+    "query": "assam, Assam, India",
+    "success": true
+  },
+  "Botodriva Satra Pond, Nagaon, Assam|Assam": {
+    "lat": 26.2957157,
+    "lng": 92.576589,
+    "query": "nagaon assam, Assam, India",
+    "success": true
+  },
+  "Dighali Pukhuri, Guwahati, Assam|Assam": {
+    "lat": 26.187556,
+    "lng": 91.751178,
+    "query": "pukhuri guwahati assam, Assam, India",
+    "success": true
+  },
+  "Chand Dubi Beel, Chand Dubi, Assam|Assam": {
+    "lat": 26.5123654,
+    "lng": 93.9715725,
+    "query": "assam, Assam, India",
+    "success": true
+  },
+  "Rajadinia Pukhuri At Abhayapuri, Assam|Assam": {
+    "lat": 26.334307,
+    "lng": 90.6669044,
+    "query": "abhayapuri assam, Assam, India",
+    "success": true
+  },
+  "Rajapukhuri At Gauripur, Assam|Assam": {
+    "lat": 26.0865358,
+    "lng": 89.964662,
+    "query": "gauripur assam, Assam, India",
+    "success": true
+  },
+  "Sivasagar Tank (Borpukhuri) Near Sivadol, Assam|Assam": {
+    "lat": 26.5123654,
+    "lng": 93.9715725,
+    "query": "assam, Assam, India",
+    "success": true
+  },
+  "Gala Beel At Dergaon, Assam|Assam": {
+    "lat": 26.6912061,
+    "lng": 93.9494079,
+    "query": "dergaon assam, Assam, India",
+    "success": true
+  },
+  "Jorpukhuri At Uzanbazar (Ugratala Temple)|Assam": {
+    "lat": 26.3996203,
+    "lng": 90.5458155,
+    "query": "temple, Assam, India",
+    "success": true
+  },
+  "Netai Pukhuri At Netai Pukhuri|Assam": {
+    "lat": 26.9524218,
+    "lng": 94.6231425,
+    "query": "pukhuri, Assam, India",
+    "success": true
+  },
+  "Thowradole Pukhuri, Thowradole G.P. Demow Block|Assam": {
+    "lat": 26.1818258,
+    "lng": 91.7370021,
+    "query": "block, Assam, India",
+    "success": true
+  },
+  "Goysagar Tank, Sibsagar, Assam|Assam": {
+    "lat": 26.9834936,
+    "lng": 94.6394226,
+    "query": "sibsagar assam, Assam, India",
+    "success": true
+  },
+  "Baroi River, Near Bridge At Nh-52, Biswanath District|Assam": {
+    "lat": 26.9916398,
+    "lng": 93.41822,
+    "query": "baroi river biswanath district, Assam, India",
+    "success": true
+  },
+  "Bega River, Mg Road, Mangaldoi|Assam": {
+    "lat": 26.4470648,
+    "lng": 91.9952364,
+    "query": "river mangaldoi, Assam, India",
+    "success": true
+  },
+  "Borbeel No. 1 , Ram Nagar, Digboi, Public Water Supply, Tinsukia|Assam": {
+    "lat": 27.4879722,
+    "lng": 95.3601855,
+    "query": "tinsukia, Assam, India",
+    "success": true
+  },
+  "Bordoibam Beelmukh Bird Sanctuary, Dhemaji|Assam": {
+    "lat": 27.5945155,
+    "lng": 94.7192098,
+    "query": "dhemaji, Assam, India",
+    "success": true
+  },
+  "Borsola Beel, Sarabbhatti, Guwahati|Assam": {
+    "lat": 26.1805978,
+    "lng": 91.753943,
+    "query": "guwahati, Assam, India",
+    "success": true
+  },
+  "Digaru River At Nh Crossing|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "digaru river nh crossing, Assam, India",
+    "success": false
+  },
+  "Diplai Beel At Silgara, Kokrajhar|Assam": {
+    "lat": 26.4912104,
+    "lng": 90.1215209,
+    "query": "kokrajhar, Assam, India",
+    "success": true
+  },
+  "Dorika River Near Msw Dumping Site, Sivasagar|Assam": {
+    "lat": 26.9834936,
+    "lng": 94.6394226,
+    "query": "sivasagar, Assam, India",
+    "success": true
+  },
+  "Gabharu River Near Bridge At Nh- 52, Near Tumiuki, Sonitpur|Assam": {
+    "lat": 26.7677707,
+    "lng": 92.7014089,
+    "query": "sonitpur, Assam, India",
+    "success": true
+  },
+  "Holudunga Beel Near Gai Nadi/ River At Somarajan, Dhema Ji|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "holudunga beel gai nadi/ river somarajan dhema ji, Assam, India",
+    "success": false
+  },
+  "Jiadhal River/ Kumotiya River Near Jiadhal Bridge, Dhemaji|Assam": {
+    "lat": 27.4515231,
+    "lng": 94.5031393,
+    "query": "jiadhal dhemaji, Assam, India",
+    "success": true
+  },
+  "Kakodonga River At Nh-37 Crossing|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "kakodonga river crossing, Assam, India",
+    "success": false
+  },
+  "Kaliani River Near Kanaighat Bridge, Kanaighat|Assam": {
+    "lat": 26.5806449,
+    "lng": 93.7577881,
+    "query": "kanaighat kanaighat, Assam, India",
+    "success": true
+  },
+  "Kamalpur Beel, Kamalpur|Assam": {
+    "lat": 26.3349031,
+    "lng": 91.7144701,
+    "query": "kamalpur, Assam, India",
+    "success": true
+  },
+  "Killing River In Morigaon District|Assam": {
+    "lat": 26.252273,
+    "lng": 92.3548836,
+    "query": "morigaon district, Assam, India",
+    "success": true
+  },
+  "Kuji River (Near New Bogagigaon) Near Water Intake Point For Nf Railway|Assam": {
+    "lat": 26.1833651,
+    "lng": 91.782122,
+    "query": "railway, Assam, India",
+    "success": true
+  },
+  "Kulsi River At Chaygaon Near Nh37 Crossing|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "kulsi river chaygaon crossing, Assam, India",
+    "success": false
+  },
+  "Madhura River At Madhuraghat, Cachar|Assam": {
+    "lat": 24.75864,
+    "lng": 92.8816648,
+    "query": "cachar, Assam, India",
+    "success": true
+  },
+  "Maguri Beel, Guijan, Tinsukia|Assam": {
+    "lat": 27.5692211,
+    "lng": 95.327234,
+    "query": "guijan tinsukia, Assam, India",
+    "success": true
+  },
+  "Malini Beel Near Indutrial Area At Ramnagar|Assam": {
+    "lat": 24.8357972,
+    "lng": 92.7665698,
+    "query": "ramnagar, Assam, India",
+    "success": true
+  },
+  "Niz Kodomoni Pwss Complex, Dibrugarh|Assam": {
+    "lat": 27.4844597,
+    "lng": 94.9019447,
+    "query": "dibrugarh, Assam, India",
+    "success": true
+  },
+  "Nuwa Noi River, Near Bridge Over Boinaoja Para, Mangaldoi|Assam": {
+    "lat": 26.3939266,
+    "lng": 92.0390088,
+    "query": "mangaldoi, Assam, India",
+    "success": true
+  },
+  "Parashali Beel At Demoria|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "parashali beel demoria, Assam, India",
+    "success": false
+  },
+  "Puthimari River Near Puthimari Chowk At Nh Crossing|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "puthimari river puthimari chowk nh crossing, Assam, India",
+    "success": false
+  },
+  "Samaguri Beel In Nagaon District|Assam": {
+    "lat": 26.4249364,
+    "lng": 92.852181,
+    "query": "samaguri beel in nagaon district, Assam, India",
+    "success": true
+  },
+  "Sessa River Near Sessa Tiniali, Nh Bridge, Dibrugarh|Assam": {
+    "lat": 27.1857746,
+    "lng": 95.354923,
+    "query": "tiniali dibrugarh, Assam, India",
+    "success": true
+  },
+  "Silsako Beel, Chachal, Guwahati|Assam": {
+    "lat": 26.1407074,
+    "lng": 91.8113148,
+    "query": "chachal guwahati, Assam, India",
+    "success": true
+  },
+  "Soru Sola Beel, Paltan Bazar, Guwahati|Assam": {
+    "lat": 26.1808724,
+    "lng": 91.750067,
+    "query": "paltan bazar guwahati, Assam, India",
+    "success": true
+  },
+  "Suffry River At Maibella|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "suffry river maibella, Assam, India",
+    "success": false
+  },
+  "Tenga Pukhuri At Tengapukhuri|Assam": {
+    "lat": 26.9275,
+    "lng": 94.820175,
+    "query": "tengapukhuri, Assam, India",
+    "success": true
+  },
+  "Tingrai River Near Tinsukia Msw Dumping Site, Itakhola|Assam": {
+    "lat": 26.7923571,
+    "lng": 92.9618053,
+    "query": "itakhola, Assam, India",
+    "success": true
+  },
+  "Towkak River At Sonari|Assam": {
+    "lat": 26.9529243,
+    "lng": 95.0442349,
+    "query": "river sonari, Assam, India",
+    "success": true
+  },
+  "Brahamputra At Pandu,|Assam": {
+    "lat": 26.1634597,
+    "lng": 91.6806078,
+    "query": "pandu, Assam, India",
+    "success": true
+  },
+  "Brahmputra River At Sualkuchi, Dist. Kamrup,|Assam": {
+    "lat": 26.1699129,
+    "lng": 91.5708517,
+    "query": "sualkuchi dist. kamrup, Assam, India",
+    "success": true
+  },
+  "Brahmaputra River At Dhubri|Assam": {
+    "lat": 26.2616211,
+    "lng": 90.1242529,
+    "query": "river dhubri, Assam, India",
+    "success": true
+  },
+  "Brahamputra River At Biswanath Ghat|Assam": {
+    "lat": 27.5946843,
+    "lng": 94.9083595,
+    "query": "ghat, Assam, India",
+    "success": true
+  },
+  "Dhansiri River Near Bridge At Nh-15, Dhansiri Bhalukmari Jungle, Udalguri|Assam": {
+    "lat": 26.7047238,
+    "lng": 92.0421507,
+    "query": "udalguri, Assam, India",
+    "success": true
+  },
+  "Dhansiri River At Jahaighat|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "dhansiri river jahaighat, Assam, India",
+    "success": false
+  },
+  "Dikrong River Near Bridge At Nh-52,|Assam": {
+    "lat": 27.0791281,
+    "lng": 93.9047537,
+    "query": "dikrong river, Assam, India",
+    "success": true
+  },
+  "Gai Nadi/ River At Somarajan, Dhemaji|Assam": {
+    "lat": 27.5945155,
+    "lng": 94.7192098,
+    "query": "dhemaji, Assam, India",
+    "success": true
+  },
+  "Dikhow River At Nagini Mora (Inter-State Boundaries, Assam- Nagaland)|Assam": {
+    "lat": 26.1350778,
+    "lng": 91.8079506,
+    "query": "nagaland, Assam, India",
+    "success": true
+  },
+  "Dikhow River At Dikhomukh Confluence With Brahamputra|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "dikhow river dikhomukh with brahamputra, Assam, India",
+    "success": false
+  },
+  "Disang At Gundamghat,|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "disang gundamghat, Assam, India",
+    "success": false
+  },
+  "Disang River At Dillighat, Dibrugarh|Assam": {
+    "lat": 27.1409392,
+    "lng": 95.3685808,
+    "query": "dillighat dibrugarh, Assam, India",
+    "success": true
+  },
+  "Disang River At Nh Crossing|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "disang river nh crossing, Assam, India",
+    "success": false
+  },
+  "Gabharu River Near Bridge At Nh-52, Near Tumiuki, Sonitpur|Assam": {
+    "lat": 26.7677707,
+    "lng": 92.7014089,
+    "query": "sonitpur, Assam, India",
+    "success": true
+  },
+  "Longalai River Near Calcom Cement Plant|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "longalai river calcom cement, Assam, India",
+    "success": false
+  },
+  "Tocklai River Near Bridge At Jorhat|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "tocklai river jorhat, Assam, India",
+    "success": false
+  },
+  "Tunia River At D/S Brpl|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "tunia river brpl, Assam, India",
+    "success": false
+  },
+  "Larsing River Near Locl Depo At Moinarbond|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "larsing river locl depo moinarbond, Assam, India",
+    "success": false
+  },
+  "Downstream Of Dhateshwari River At Hailakandi|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "dhateshwari river hailakandi, Assam, India",
+    "success": false
+  },
+  "Demow River Demow Town|Assam": {
+    "lat": 24.7930111,
+    "lng": 93.0028635,
+    "query": "town, Assam, India",
+    "success": true
+  },
+  "Borsila River At Borsila, Deopani, Namti|Assam": {
+    "lat": 26.855288,
+    "lng": 94.627418,
+    "query": "namti, Assam, India",
+    "success": true
+  },
+  "Barnadi River Near Bridge, Nh-52, Dumunichowki Kamrup|Assam": {
+    "lat": 26.1468861,
+    "lng": 91.2227397,
+    "query": "kamrup, Assam, India",
+    "success": true
+  },
+  "Baralia River (Near Chatpuja Ghat) Rangia, Kamrup (R )|Assam": {
+    "lat": 26.540527,
+    "lng": 91.5988401,
+    "query": "rangia kamrup, Assam, India",
+    "success": true
+  },
+  "Buradia River (Near Bridge Along Nh-31) Nalbari|Assam": {
+    "lat": 26.3533632,
+    "lng": 91.3983662,
+    "query": "nalbari, Assam, India",
+    "success": true
+  },
+  "Tihu River (Near Bridge Along Nh-31) Tihu, Nalbari|Assam": {
+    "lat": 26.4776462,
+    "lng": 91.3065708,
+    "query": "tihu nalbari, Assam, India",
+    "success": true
+  },
+  "Singra River (Near Bridge Along Nh-37) Boko, Kamrup (R )|Assam": {
+    "lat": 25.8864599,
+    "lng": 91.1309065,
+    "query": "boko kamrup, Assam, India",
+    "success": true
+  },
+  "Ground Water From Geleky|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "ground from geleky, Assam, India",
+    "success": false
+  },
+  "Tubewell At Assam Oil Petrol Pump, Near Rohtak Road Bypass, Panipat|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "tubewell assam oil petrol pump rohtak bypass panipat, Assam, India",
+    "success": false
+  },
+  "River Baroi Near Bridge At Nh-52, Biswanath District|Assam": {
+    "lat": 26.9916398,
+    "lng": 93.41822,
+    "query": "baroi biswanath district, Assam, India",
+    "success": true
+  },
+  "River Gabharu Near Bridge At Nh-52, Near Tumiuki, Sonitpur|Assam": {
+    "lat": 26.7677707,
+    "lng": 92.7014089,
+    "query": "sonitpur, Assam, India",
+    "success": true
+  },
+  "River Bega Mg Road, Mangaldoi|Assam": {
+    "lat": 26.3939266,
+    "lng": 92.0390088,
+    "query": "mangaldoi, Assam, India",
+    "success": true
+  },
+  "River Nuwa Noi Near Bridge Over Boinaoja Para, Mangaldoi|Assam": {
+    "lat": 26.3939266,
+    "lng": 92.0390088,
+    "query": "mangaldoi, Assam, India",
+    "success": true
+  },
+  "River Kakodonga At Nh-37 Crossing|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "kakodonga crossing, Assam, India",
+    "success": false
+  },
+  "River Towkak At Sonari|Assam": {
+    "lat": 27.0557101,
+    "lng": 95.120299,
+    "query": "sonari, Assam, India",
+    "success": true
+  },
+  "River Suffry At Maibella|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "suffry maibella, Assam, India",
+    "success": false
+  },
+  "River Tenga Pukhuri At Tengapukhuri|Assam": {
+    "lat": 26.9275,
+    "lng": 94.820175,
+    "query": "tengapukhuri, Assam, India",
+    "success": true
+  },
+  "River Dorika Near Msw Dumping Site, Sivasagar|Assam": {
+    "lat": 26.9834936,
+    "lng": 94.6394226,
+    "query": "sivasagar, Assam, India",
+    "success": true
+  },
+  "River Sessa Near Sessa Tiniali, Nh Bridge, Dibrugarh|Assam": {
+    "lat": 27.1857746,
+    "lng": 95.354923,
+    "query": "tiniali dibrugarh, Assam, India",
+    "success": true
+  },
+  "River Niz Kodomoni Pwss Complex, Dibrugarh|Assam": {
+    "lat": 27.4844597,
+    "lng": 94.9019447,
+    "query": "dibrugarh, Assam, India",
+    "success": true
+  },
+  "River Maguri Beel, Guijan, Tinsukia|Assam": {
+    "lat": 27.5692211,
+    "lng": 95.327234,
+    "query": "guijan tinsukia, Assam, India",
+    "success": true
+  },
+  "River Tingrai Near Tinsukia Msw Dumping Site, Itakhola|Assam": {
+    "lat": 26.7923571,
+    "lng": 92.9618053,
+    "query": "itakhola, Assam, India",
+    "success": true
+  },
+  "River Gai Nadi At Somarajan, Dhemaji|Assam": {
+    "lat": 27.5945155,
+    "lng": 94.7192098,
+    "query": "dhemaji, Assam, India",
+    "success": true
+  },
+  "River Jiadhal Kumotiya River Near Jiadhal Bridge, Dhemaji|Assam": {
+    "lat": 27.4515231,
+    "lng": 94.5031393,
+    "query": "jiadhal dhemaji, Assam, India",
+    "success": true
+  },
+  "River Kaliani Near Kanaighat Bridge, Kanaighat|Assam": {
+    "lat": 26.5806449,
+    "lng": 93.7577881,
+    "query": "kanaighat kanaighat, Assam, India",
+    "success": true
+  },
+  "River Kuji (Near New Bogagigaon) Near Water Intake Point For Nf Railway|Assam": {
+    "lat": 26.1833651,
+    "lng": 91.782122,
+    "query": "railway, Assam, India",
+    "success": true
+  },
+  "River Killing In Morigaon District|Assam": {
+    "lat": 26.252273,
+    "lng": 92.3548836,
+    "query": "morigaon district, Assam, India",
+    "success": true
+  },
+  "River Madhura At Madhuraghat, Cachar|Assam": {
+    "lat": 24.75864,
+    "lng": 92.8816648,
+    "query": "cachar, Assam, India",
+    "success": true
+  },
+  "River Digaru At Nh Crossing|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "digaru nh crossing, Assam, India",
+    "success": false
+  },
+  "River Kulsi At Chaygaon Near Nh37 Crossing|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "kulsi chaygaon crossing, Assam, India",
+    "success": false
+  },
+  "River Puthimari Near Puthimari Chowk At Nh Crossing|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "puthimari puthimari chowk nh crossing, Assam, India",
+    "success": false
+  },
+  "Brahmputra River At Dhenukhapahar,|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "brahmputra river dhenukhapahar, Assam, India",
+    "success": false
+  },
+  "Assam|Assam": {
+    "lat": 26.5123654,
+    "lng": 93.9715725,
+    "query": "assam, Assam, India",
+    "success": true
+  },
+  "Burhidihing Near Duliajan At D/S, Tinsukia,|Assam": {
+    "lat": 27.4879722,
+    "lng": 95.3601855,
+    "query": "tinsukia, Assam, India",
+    "success": true
+  },
+  "Dikhow River At Dikhow Bridge Sivasagar,|Assam": {
+    "lat": 26.9219131,
+    "lng": 94.7397334,
+    "query": "river dikhow sivasagar, Assam, India",
+    "success": true
+  },
+  "Disang River At Dillighat, Dibrugarh Dist.,|Assam": {
+    "lat": 27.1409392,
+    "lng": 95.3685808,
+    "query": "dillighat dibrugarh dist., Assam, India",
+    "success": true
+  },
+  "River Brahamputra At Dibrugarh|Assam": {
+    "lat": 27.4844597,
+    "lng": 94.9019447,
+    "query": "dibrugarh, Assam, India",
+    "success": true
+  },
+  "River Brahamputra At Nimatighat|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "brahamputra nimatighat, Assam, India",
+    "success": false
+  },
+  "River Brahmputra River At Dhenukhapahar|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "brahmputra river dhenukhapahar, Assam, India",
+    "success": false
+  },
+  "River Brahamputra At Pandu|Assam": {
+    "lat": 26.1634597,
+    "lng": 91.6806078,
+    "query": "pandu, Assam, India",
+    "success": true
+  },
+  "River Brahamputra At Jogijhoga Near Bridge|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "brahamputra jogijhoga, Assam, India",
+    "success": false
+  },
+  "River Brahmputra Near Water Intake Point At Kacharighat, Panbazar, Guwahati|Assam": {
+    "lat": 26.1805978,
+    "lng": 91.753943,
+    "query": "guwahati, Assam, India",
+    "success": true
+  },
+  "River Brahmaputra At Chandrapur, Guwahati, Assam|Assam": {
+    "lat": 26.142124,
+    "lng": 91.7263181,
+    "query": "guwahati assam, Assam, India",
+    "success": true
+  },
+  "River Brahmputra At Sualkuchi, Dist. Kamrup|Assam": {
+    "lat": 26.1699129,
+    "lng": 91.5708517,
+    "query": "sualkuchi dist. kamrup, Assam, India",
+    "success": true
+  },
+  "River Brahmaputra At Dhubri, Assam|Assam": {
+    "lat": 26.0202533,
+    "lng": 89.9899358,
+    "query": "brahmaputra dhubri assam, Assam, India",
+    "success": true
+  },
+  "River Brahamputra At Bogibeel Bridge, Bogibeel, Dibrugarh|Assam": {
+    "lat": 27.408185,
+    "lng": 94.7604982,
+    "query": "bogibeel bogibeel dibrugarh, Assam, India",
+    "success": true
+  },
+  "River Brahamputra At Biswanath Ghat|Assam": {
+    "lat": 27.5946843,
+    "lng": 94.9083595,
+    "query": "ghat, Assam, India",
+    "success": true
+  },
+  "River Burhidihing At Margherita, Assam|Assam": {
+    "lat": 27.2893045,
+    "lng": 95.6748945,
+    "query": "margherita assam, Assam, India",
+    "success": true
+  },
+  "River Burhidihing Near Duliajan At D/S, Tinsukia, Assam|Assam": {
+    "lat": 27.4872179,
+    "lng": 95.3673215,
+    "query": "tinsukia assam, Assam, India",
+    "success": true
+  },
+  "River Burhidihing At Duliajan (Intake Point Of Oil India Ltd.), Assam|Assam": {
+    "lat": 26.1801244,
+    "lng": 91.7357277,
+    "query": "india ltd. assam, Assam, India",
+    "success": true
+  },
+  "River Dhansiri At Nagaland-Assam Border, Dimapur|Assam": {
+    "lat": 26.4986126,
+    "lng": 93.9348134,
+    "query": "dimapur, Assam, India",
+    "success": true
+  },
+  "River Dhansiri At Golaghat, Assam|Assam": {
+    "lat": 26.6504888,
+    "lng": 93.5855122,
+    "query": "dhansiri golaghat assam, Assam, India",
+    "success": true
+  },
+  "River Dhansiri Near Bridge At Nh-15, Dhansiri Bhalukmari Jungle, Udalguri|Assam": {
+    "lat": 26.7047238,
+    "lng": 92.0421507,
+    "query": "udalguri, Assam, India",
+    "success": true
+  },
+  "River Dhansiri At Jahaighat|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "dhansiri jahaighat, Assam, India",
+    "success": false
+  },
+  "River Dhansiri At Bokajan|Assam": {
+    "lat": 26.0235087,
+    "lng": 93.7707012,
+    "query": "bokajan, Assam, India",
+    "success": true
+  },
+  "River Dhansiri At Numaligarh|Assam": {
+    "lat": 26.6304927,
+    "lng": 93.7267655,
+    "query": "numaligarh, Assam, India",
+    "success": true
+  },
+  "River Bharalu At Guwahati, Assam|Assam": {
+    "lat": 26.142124,
+    "lng": 91.7263181,
+    "query": "guwahati assam, Assam, India",
+    "success": true
+  },
+  "River Dikrong Near Bridge At Nh-52, Bandardewa|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "dikrong bandardewa, Assam, India",
+    "success": false
+  },
+  "River Digboi At Lakhipathe, Reserve Forest, Digboi, Assam|Assam": {
+    "lat": 27.3956145,
+    "lng": 95.614868,
+    "query": "digboi assam, Assam, India",
+    "success": true
+  },
+  "River Dikhow At Dikhow Bridge Sivasagar, Assam|Assam": {
+    "lat": 26.9219131,
+    "lng": 94.7397334,
+    "query": "dikhow dikhow sivasagar assam, Assam, India",
+    "success": true
+  },
+  "River Dikhow At Nagini Mora (Inter-State Boundaries, Assam- Nagaland)|Assam": {
+    "lat": 26.1350778,
+    "lng": 91.8079506,
+    "query": "nagaland, Assam, India",
+    "success": true
+  },
+  "River Dikhow At Dikhomukh Confluence With Brahamputra|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "dikhow dikhomukh with brahamputra, Assam, India",
+    "success": false
+  },
+  "River Disang At Gundamghat|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "disang gundamghat, Assam, India",
+    "success": false
+  },
+  "River Disang At Dillighat, Dibrugarh Dist., Assam|Assam": {
+    "lat": 27.355045,
+    "lng": 95.3218522,
+    "query": "dibrugarh dist. assam, Assam, India",
+    "success": true
+  },
+  "River Disang At Nh Crossing|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "disang nh crossing, Assam, India",
+    "success": false
+  },
+  "River Tocklai Near Bridge At Jorhat|Assam": {
+    "lat": 26.7577925,
+    "lng": 94.2079645,
+    "query": "jorhat, Assam, India",
+    "success": true
+  },
+  "River Tunia At D/S Brpl|Assam": {
+    "lat": 26.510525,
+    "lng": 90.5227277,
+    "query": "brpl, Assam, India",
+    "success": true
+  },
+  "River Larsing Near Locl Depo At Moinarbond|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "larsing locl depo moinarbond, Assam, India",
+    "success": false
+  },
+  "River Dhateshwari D/S Of Hailakandi|Assam": {
+    "lat": 24.6846916,
+    "lng": 92.5645836,
+    "query": "hailakandi, Assam, India",
+    "success": true
+  },
+  "River Demow At Demow Town|Assam": {
+    "lat": 24.7930111,
+    "lng": 93.0028635,
+    "query": "town, Assam, India",
+    "success": true
+  },
+  "River Borsila At Borsila, Deopani, Namti|Assam": {
+    "lat": 26.855288,
+    "lng": 94.627418,
+    "query": "namti, Assam, India",
+    "success": true
+  },
+  "River Barnadi Near Bridge, Nh-52,|Assam": {
+    "lat": 26.8054088,
+    "lng": 91.7350037,
+    "query": "barnadi, Assam, India",
+    "success": true
+  },
+  "River Subansiri At Gerekamukh (Before Confl. With Brah.), Assam|Assam": {
+    "lat": 26.5123654,
+    "lng": 93.9715725,
+    "query": "assam, Assam, India",
+    "success": true
+  },
+  "River Baralia (Near Chatpuja Ghat) Rangia, Kamrup (R )|Assam": {
+    "lat": 26.540527,
+    "lng": 91.5988401,
+    "query": "rangia kamrup, Assam, India",
+    "success": true
+  },
+  "River Buradia (Near Bridge Along Nh-31) Nalbari|Assam": {
+    "lat": 26.3533632,
+    "lng": 91.3983662,
+    "query": "nalbari, Assam, India",
+    "success": true
+  },
+  "River Tihu (Near Bridge Along Nh-31) Tihu, Nalbari|Assam": {
+    "lat": 26.4776462,
+    "lng": 91.3065708,
+    "query": "tihu nalbari, Assam, India",
+    "success": true
+  },
+  "River Singra (Near Bridge Along Nh-37) Boko, Kamrup (R )|Assam": {
+    "lat": 25.8864599,
+    "lng": 91.1309065,
+    "query": "boko kamrup, Assam, India",
+    "success": true
+  },
+  "River Beki At Nh-37 Crossing At Barpeta Road, Assam|Assam": {
+    "lat": 26.3304208,
+    "lng": 91.006361,
+    "query": "barpeta assam, Assam, India",
+    "success": true
+  },
+  "River Bhogdoi At Jorhat , Assam|Assam": {
+    "lat": 26.6873576,
+    "lng": 94.3021534,
+    "query": "bhogdoi jorhat assam, Assam, India",
+    "success": true
+  },
+  "River Bhogdoi (Pujadubi Ghat) Intake Point Of Urban Water Supply, Jorhat|Assam": {
+    "lat": 26.7587641,
+    "lng": 94.1979962,
+    "query": "urban jorhat, Assam, India",
+    "success": true
+  },
+  "River Jhanji At N.H. Crossing Jorhat, Assam|Assam": {
+    "lat": 26.7472242,
+    "lng": 94.2480731,
+    "query": "jorhat assam, Assam, India",
+    "success": true
+  },
+  "River Jai Bharali Near Biswanath Charali, Sonitpur, Assam|Assam": {
+    "lat": 26.6552663,
+    "lng": 92.7725588,
+    "query": "charali sonitpur assam, Assam, India",
+    "success": true
+  },
+  "River Sankosh Dhubri, Assam|Assam": {
+    "lat": 26.132275,
+    "lng": 90.1249962,
+    "query": "dhubri assam, Assam, India",
+    "success": true
+  },
+  "River Boginadi Near Bridge Nh-52, Lakhimpur, Assam|Assam": {
+    "lat": 27.2353937,
+    "lng": 94.1055026,
+    "query": "lakhimpur assam, Assam, India",
+    "success": true
+  },
+  "River Sonai At Sonai, Assam|Assam": {
+    "lat": 24.7334137,
+    "lng": 92.8903055,
+    "query": "sonai sonai assam, Assam, India",
+    "success": true
+  },
+  "River Ranga Nadi D/S Of Hydel Project, Assam|Assam": {
+    "lat": 27.5511724,
+    "lng": 94.2600497,
+    "query": "project assam, Assam, India",
+    "success": true
+  },
+  "River Kapili At Dharmtul Bridge, Nh-31, Nagaon, Assam|Assam": {
+    "lat": 26.2957157,
+    "lng": 92.576589,
+    "query": "nagaon assam, Assam, India",
+    "success": true
+  },
+  "River Kathakal U/S At Matijuri, Dist. Hailakandi, Assam|Assam": {
+    "lat": 24.8325266,
+    "lng": 92.6319122,
+    "query": "dist. hailakandi assam, Assam, India",
+    "success": true
+  },
+  "River Kharsang B/C With Buridihing Near Kharsang (Assam- Arunanchal Border), Assam|Assam": {
+    "lat": 25.9313355,
+    "lng": 89.8817831,
+    "query": "border assam, Assam, India",
+    "success": true
+  },
+  "River Kohora At N.H. Crossing, Kohora, Assam (Brahmaputra)|Assam": {
+    "lat": 26.0960868,
+    "lng": 90.859726,
+    "query": "brahmaputra, Assam, India",
+    "success": true
+  },
+  "River Kolong At Marigaon, Assam|Assam": {
+    "lat": 26.2233129,
+    "lng": 92.4491387,
+    "query": "kolong marigaon assam, Assam, India",
+    "success": true
+  },
+  "River Kolong At U/S Of Anandaram Dekial Phukan Bridge, Nagaon, Assam|Assam": {
+    "lat": 26.3592774,
+    "lng": 92.6928657,
+    "query": "phukan nagaon assam, Assam, India",
+    "success": true
+  },
+  "River Kundli At Kundli/ Sapakhowa, Sadia, Assam|Assam": {
+    "lat": 26.5123654,
+    "lng": 93.9715725,
+    "query": "assam, Assam, India",
+    "success": true
+  },
+  "River Kushiara At Karimganj, Assam|Assam": {
+    "lat": 24.5828196,
+    "lng": 92.3725487,
+    "query": "karimganj assam, Assam, India",
+    "success": true
+  },
+  "River Manas (Santoshpur) Near Lengtisinga|Assam": {
+    "lat": 26.314132,
+    "lng": 90.7190302,
+    "query": "lengtisinga, Assam, India",
+    "success": true
+  },
+  "Manas River At Nh-31 Crossing, Barpeta, District, Assam|Assam": {
+    "lat": 26.3304208,
+    "lng": 91.006361,
+    "query": "barpeta district assam, Assam, India",
+    "success": true
+  },
+  "River Pagldia Near Nalbari Town, Dist. Nalbari, Assam|Assam": {
+    "lat": 26.3533632,
+    "lng": 91.3983662,
+    "query": "dist. nalbari assam, Assam, India",
+    "success": true
+  },
+  "River Panchnai At Nh-52 Crossing, Orang, Assam|Assam": {
+    "lat": 26.5468365,
+    "lng": 92.3134803,
+    "query": "orang assam, Assam, India",
+    "success": true
+  },
+  "River Mora Bharali At Tezpur, Assam|Assam": {
+    "lat": 26.6207743,
+    "lng": 92.7931936,
+    "query": "tezpur assam, Assam, India",
+    "success": true
+  },
+  "Ground Water At Karbi Anglong Town, Assam|Assam": {
+    "lat": 24.7930111,
+    "lng": 93.0028635,
+    "query": "town assam, Assam, India",
+    "success": true
+  },
+  "Ground Water At Sivasagar Govt Me School Ward 6, Red Cross Road , Assam|Assam": {
+    "lat": 27.4866655,
+    "lng": 94.9146622,
+    "query": "cross assam, Assam, India",
+    "success": true
+  },
+  "Ground Water From Near Bpms H.S. School Sonari Town Dist Charaideo|Assam": {
+    "lat": 27.0263746,
+    "lng": 95.0195484,
+    "query": "town dist charaideo, Assam, India",
+    "success": true
+  },
+  "Ground Water From Jorhat Town, Assam|Assam": {
+    "lat": 26.7501729,
+    "lng": 94.2163277,
+    "query": "jorhat town assam, Assam, India",
+    "success": true
+  },
+  "Ground Water From Silchar Town , Assam|Assam": {
+    "lat": 24.7930111,
+    "lng": 93.0028635,
+    "query": "town assam, Assam, India",
+    "success": true
+  },
+  "Ground Water From Barpeta Town, Assam|Assam": {
+    "lat": 26.5048418,
+    "lng": 90.9667636,
+    "query": "barpeta town assam, Assam, India",
+    "success": true
+  },
+  "Ground Water From Bonaigaon Town, Assam|Assam": {
+    "lat": 24.7930111,
+    "lng": 93.0028635,
+    "query": "town assam, Assam, India",
+    "success": true
+  },
+  "Ground Water From Noonmati Guwahati, Assam|Assam": {
+    "lat": 26.1979372,
+    "lng": 91.7998576,
+    "query": "noonmati guwahati assam, Assam, India",
+    "success": true
+  },
+  "Ground Water From Sijubari Mazar, Natboma Hatigaon, Guwahati|Assam": {
+    "lat": 26.1764006,
+    "lng": 91.7569564,
+    "query": "hatigaon guwahati, Assam, India",
+    "success": true
+  },
+  "Ground Water From Goalpara Dist. (Goalpara College ), Assam|Assam": {
+    "lat": 26.0491877,
+    "lng": 90.6001859,
+    "query": "goalpara assam, Assam, India",
+    "success": true
+  },
+  "Ground Water From Niz Kodomoni Pwss Complex, Dibrugarh|Assam": {
+    "lat": 27.4844597,
+    "lng": 94.9019447,
+    "query": "dibrugarh, Assam, India",
+    "success": true
+  },
+  "Ground Water From Borbeel No. 1 , Ram Nagar, Digboi, Public Water Supply, Tinsukia|Assam": {
+    "lat": 27.4879722,
+    "lng": 95.3601855,
+    "query": "tinsukia, Assam, India",
+    "success": true
+  },
+  "Ground Water From Dhekiajuli Town Nijarapar)P.O.Dhekiajuli|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "ground from dhekiajuli town nijarapar p.o.dhekiajuli, Assam, India",
+    "success": false
+  },
+  "River Brahmaputra At Dibrugarh, Assam|Assam": {
+    "lat": 27.3724599,
+    "lng": 94.8764833,
+    "query": "brahmaputra dibrugarh assam, Assam, India",
+    "success": true
+  },
+  "River Brahmaputra At Nimatighat, Assam|Assam": {
+    "lat": 26.5123654,
+    "lng": 93.9715725,
+    "query": "assam, Assam, India",
+    "success": true
+  },
+  "River Brahmputra River At Dhenukhapahar, Assam|Assam": {
+    "lat": 26.5123654,
+    "lng": 93.9715725,
+    "query": "assam, Assam, India",
+    "success": true
+  },
+  "River Brahmaputra At Pandu, Assam|Assam": {
+    "lat": 26.1585628,
+    "lng": 91.6826607,
+    "query": "pandu assam, Assam, India",
+    "success": true
+  },
+  "River Brahmaputra At Jogighopa Near Bridge, Assam|Assam": {
+    "lat": 26.2222913,
+    "lng": 90.5731185,
+    "query": "jogighopa assam, Assam, India",
+    "success": true
+  },
+  "River Brahmputra Near Water Intake Point At Kacharighat, Panbazar, Guwahati, Assam|Assam": {
+    "lat": 26.142124,
+    "lng": 91.7263181,
+    "query": "guwahati assam, Assam, India",
+    "success": true
+  },
+  "River Brahmputra At Sualkuchi, Dist. Kamrup, Assam|Assam": {
+    "lat": 26.142124,
+    "lng": 91.7263181,
+    "query": "dist. kamrup assam, Assam, India",
+    "success": true
+  },
+  "River Dhansiri Near Nagaland- Assam Border|Assam": {
+    "lat": 25.9313355,
+    "lng": 89.8817831,
+    "query": "border, Assam, India",
+    "success": true
+  },
+  "River Dikhow At Dikhowmukh Confluence With Brahamputra|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "dikhow dikhowmukh with brahamputra, Assam, India",
+    "success": false
+  },
+  "River Disang At Gudamghat, Assam|Assam": {
+    "lat": 26.4990733,
+    "lng": 92.9492253,
+    "query": "gudamghat assam, Assam, India",
+    "success": true
+  },
+  "River Barnadi Near Bridge, Nh-52, Dumunichowki Kamrup|Assam": {
+    "lat": 26.1468861,
+    "lng": 91.2227397,
+    "query": "kamrup, Assam, India",
+    "success": true
+  },
+  "River Subansiri At Gerukamukh (Before Confluence With River Brahmaputra)|Assam": {
+    "lat": 26.0960868,
+    "lng": 90.859726,
+    "query": "river brahmaputra, Assam, India",
+    "success": true
+  },
+  "River Baralia (Near Chatpuja Ghat) Rangia, Kamrup|Assam": {
+    "lat": 26.540527,
+    "lng": 91.5988401,
+    "query": "rangia kamrup, Assam, India",
+    "success": true
+  },
+  "River Buralia (Near Bridge Along Nh-31) Nalbari|Assam": {
+    "lat": 26.3533632,
+    "lng": 91.3983662,
+    "query": "nalbari, Assam, India",
+    "success": true
+  },
+  "River Singra (Near Bridge Along Nh- 37) Boko, Kamrup|Assam": {
+    "lat": 25.8864599,
+    "lng": 91.1309065,
+    "query": "boko kamrup, Assam, India",
+    "success": true
+  },
+  "River Jia Bharali At Biswanath Charali, Sonitpur|Assam": {
+    "lat": 26.72667,
+    "lng": 93.147765,
+    "query": "biswanath charali sonitpur, Assam, India",
+    "success": true
+  },
+  "River Kapili At Dharmtul Bridge, Nh-31, Morigaon|Assam": {
+    "lat": 26.2486061,
+    "lng": 92.3387945,
+    "query": "morigaon, Assam, India",
+    "success": true
+  },
+  "River Kolong At U/S Of Anandaram Dekial Phukan Bridge, Nagaon|Assam": {
+    "lat": 26.3592774,
+    "lng": 92.6928657,
+    "query": "phukan nagaon, Assam, India",
+    "success": true
+  },
+  "River Manas At Nh- 31 Crossing, Barpeta District, Assam|Assam": {
+    "lat": 26.3304208,
+    "lng": 91.006361,
+    "query": "barpeta district assam, Assam, India",
+    "success": true
+  },
+  "River Panchnoi At Nh-52 Crossing, Orang, Assam|Assam": {
+    "lat": 26.5468365,
+    "lng": 92.3134803,
+    "query": "orang assam, Assam, India",
+    "success": true
+  },
+  "River Barak River At Panchagram|Assam": {
+    "lat": null,
+    "lng": null,
+    "query": "barak river panchagram, Assam, India",
+    "success": false
+  },
+  "Gela Beel At Dergaon, Assam|Assam": {
+    "lat": 26.6912061,
+    "lng": 93.9494079,
+    "query": "dergaon assam, Assam, India",
+    "success": true
+  },
+  "River Barak At D/S Of Silchar|Assam": {
+    "lat": 24.8076698,
+    "lng": 92.7951287,
+    "query": "barak silchar, Assam, India",
+    "success": true
+  },
+  "River Aie Near Rakhaldubi Dist., Bongaigaon, Assam|Assam": {
+    "lat": 26.348883,
+    "lng": 90.6291434,
+    "query": "dist. bongaigaon assam, Assam, India",
+    "success": true
+  },
+  "River, Tunia U/S Brpl, Dhaligaon, Dist. Chirang|Assam": {
+    "lat": 26.5076668,
+    "lng": 90.5289127,
+    "query": "dhaligaon dist. chirang, Assam, India",
+    "success": true
+  },
+  "River Jamuna At Doboka Near Bridge, Dist. Hojai|Assam": {
+    "lat": 26.1273363,
+    "lng": 92.9789617,
+    "query": "jamuna doboka dist. hojai, Assam, India",
+    "success": true
+  },
+  "River Bondanjan, Sluice Gate, Birkuchi Narengi Tiniali, Kharghuli, No. 2|Assam": {
+    "lat": 26.1949019,
+    "lng": 91.7634811,
+    "query": "kharghuli, Assam, India",
+    "success": true
+  },
+  "River Basistha Basistha Chariali, Nutan Bazaar,|Assam": {
+    "lat": 26.5007927,
+    "lng": 90.9672106,
+    "query": "bazaar, Assam, India",
+    "success": true
+  },
+  "River Pamohi Gachuk, Pamohi Road, Guwahati|Assam": {
+    "lat": 26.1805978,
+    "lng": 91.753943,
+    "query": "guwahati, Assam, India",
+    "success": true
+  },
+  "River Kalanadi Near Bamunjuli Bridge Crossing At Mangaldoi Bhutiachang|Assam": {
+    "lat": 26.9423,
+    "lng": 92.603,
+    "query": "bhutiachang, Assam, India",
+    "success": true
   }
 }

@@ -1,0 +1,20 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1398,"Well At Thengaithittu Area, (Ii)",Groundwater,PUDUCHERRY,2017,Safe,0.01,None,33.0,,7.15,1380.0,0.0,2.0,2.0,0.05,
+1453,Well At Muthirappalayam (Pwd),Groundwater,PUDUCHERRY,2017,Safe,0.01,None,31.0,,6.95,618.5,0.0,2.0,2.0,3.735,
+1454,"Well At Kalapet, Pondi. University Admn. Block",Groundwater,PUDUCHERRY,2017,Safe,0.01,None,31.5,,6.65,264.0,0.0,2.0,2.0,1.37,
+1688,Well At Katterikuppam,Groundwater,PUDUCHERRY,2017,Safe,0.71,None,30.0,,7.85,677.0,0.0,71.0,141.0,1.005,
+2009,Well At Kurumbapet,Groundwater,PUDUCHERRY,2017,Safe,0.79,None,32.0,,6.65,621.0,0.0,100.0,157.0,1.675,
+2010,Well At Mettupalayam,Groundwater,PUDUCHERRY,2017,Safe,0.43,None,31.0,,6.8,1131.5,0.0,71.0,86.0,0.93,
+2011,Well At Uruvaiyar,Groundwater,PUDUCHERRY,2017,Safe,0.01,None,32.5,,8.0,5050.0,0.0,2.0,2.0,0.045,
+2012,"Well At Maruthi School, Karuvadikuppam",Groundwater,PUDUCHERRY,2017,Safe,0.71,None,31.0,,7.0,1674.0,0.0,46.0,142.0,0.69,
+2013,"Well At T.R.Pattinam, Karaikal",Groundwater,PUDUCHERRY,2017,Safe,0.0,None,29.5,,8.3,1933.5,0.0,,,0.445,
+2014,"Well At Vadamattam, Karaikal",Groundwater,PUDUCHERRY,2017,Safe,0.0,None,28.25,,8.4,1520.0,0.0,,,0.185,
+2446,Well At Pallur,Groundwater,PUDUCHERRY,2017,Safe,0.01,None,28.0,,7.0,195.0,0.0,,,7.15,
+2447,Well At Panthakkal,Groundwater,PUDUCHERRY,2017,Safe,0.0,None,28.0,,7.0,120.0,0.0,,,2.2,
+3882,"Well At Echankadu, Kirumambakkam",Groundwater,PUDUCHERRY,2017,Safe,0.01,None,33.0,,7.5,440.0,0.0,2.0,2.0,0.05,
+3883,Well Near By Lake Bahour,Groundwater,PUDUCHERRY,2017,Safe,0.01,None,33.0,,8.4,345.0,0.0,2.0,2.0,0.03,
+3885,"Well At Dhanderar Kulam, Sedarapet",Groundwater,PUDUCHERRY,2017,Safe,0.01,None,32.0,,7.7,1710.0,0.0,2.0,2.0,1.84,
+1396,"Osteri Lake, Pondicherry",Canal,PUDUCHERRY,2017,Unsafe,20.0,High BOD,,31.5,7.25,8.25,457.5,11.5,0.055,2.0,21.0
+1686,"Bahour Lake, Pondicherry",Canal,PUDUCHERRY,2017,Unsafe,20.05,High BOD,,31.5,7.1,8.45,500.0,0.9,0.49,56.0,83.0
+GEN-7FD804,2444,River,PUDUCHERRY,2017,Unsafe,65.84,"High BOD, High Fecal Coliform, High Total Coliform",,,,30.0,18.55,7.75,3484.2,6960.0,0.15
+GEN-9ED932,2445,River,PUDUCHERRY,2017,Unsafe,34.87,High BOD,,,,28.0,17.3,6.85,165.55,324.0,0.45

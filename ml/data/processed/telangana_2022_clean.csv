@@ -1,0 +1,103 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+15,"Borewell At Koyyura, Jayashankar Bhupalapalli",Groundwater,TELANGANA,2022,Safe,0.04,None,29.5,,7.935,205.5,,1.7,,22.0,
+16,"Open Well At Govt Ashram School, Tadvai (V), Ss Tadvai (M), Mulugu District",Groundwater,TELANGANA,2022,Unsafe,5.88,pH Out of Range,27.5,,8.53,842.0,1.55,100.0,,19.0,
+27,"Borewell At Peddavoora (V&M), Nalgonda",Groundwater,TELANGANA,2022,Safe,0.0,None,22.5,,7.605,1944.0,,11.775,,,
+1515,"Borewell At Nagaram, Palvancha, Bhadradri Kothagudem",Groundwater,TELANGANA,2022,Safe,0.04,None,29.6,,8.28,1485.5,,7.3,,20.5,
+1525,"Borewell At Pashamylaram Near M/S.Sri Chaitanya Chlorides, Sangareddy",Groundwater,TELANGANA,2022,Safe,0.0,None,24.5,,7.455,2690.0,,21.805,,,
+1791,"Borewell At Pydipally Near East Side Of Sai Cheruvu , Paidipally (V), Warangal (M&D)",Groundwater,TELANGANA,2022,Safe,7.43,None,27.0,,7.96,1871.5,2.0,5.8,,19.0,
+1792,"Borewell At Ckm College, Enamamula (V), Warangal (M&D)",Groundwater,TELANGANA,2022,Safe,0.04,None,27.0,,8.495,1051.0,,3.75,,19.0,
+1793,"Open Well At Kundanpally Near Ash Ponds Of Ntpc, Peddapalli , Ramagundam",Groundwater,TELANGANA,2022,Safe,5.96,None,28.5,,7.735,1826.5,1.6,3.85,,29.5,
+1794,"Borewell At Manakondur , Ramagundam",Groundwater,TELANGANA,2022,Safe,7.45,None,29.0,,7.865,957.5,2.0,3.05,,40.5,
+1795,"Borewell At Bollaram Near Panchayat Office, Sangareddy",Groundwater,TELANGANA,2022,Safe,0.0,None,23.5,,7.16,3150.0,,16.73,,,
+1810,"Borewell At Bodhan, Sriramnagar Colony, Shakkarnagar, Nizamabad",Groundwater,TELANGANA,2022,Safe,0.0,None,25.0,,7.565,2326.5,,23.81,,,
+1811,"Borewell At Rudravelli Near Primary School, Rudravelli (V), Bibinagar (M),Yadadri Bhuvanagiri(D)",Groundwater,TELANGANA,2022,Safe,0.0,None,22.0,,8.005,1857.0,,10.27,,,
+3088,"Borewell At J.Narasimha Rao?S House, 14Nos. Area, Ramavaram, Near Mws Dumpsite, Kothagudem",Groundwater,TELANGANA,2022,Safe,7.43,None,30.3,,7.61,1393.0,2.0,6.6,,23.0,
+3094,"Borewell At Akbarnagar, Ramagundam",Groundwater,TELANGANA,2022,Safe,7.44,None,29.0,,8.11,1022.0,2.0,3.1,,27.5,
+4260,"Borewell Near Msw Dump Yard, Medak Town, Medak District",Groundwater,TELANGANA,2022,Safe,0.0,None,34.5,,7.315,1557.0,,10.335,,,
+4262,"Borewell Near Grampanchyat Office, Kistaipally Village, Jinnarm Mandal, Sangareddy District",Groundwater,TELANGANA,2022,Safe,0.0,None,35.0,,7.095,2617.0,,21.83,,,
+4263,"Borewell Near Mpp School, Gaddapotharam Village, Jinnaram Mandal, Sangareddy District",Groundwater,TELANGANA,2022,Safe,0.0,None,34.0,,6.84,4905.0,,26.73,,,
+4264,"Borewell Water Point At Zp Girls High School, Bhudan Pochampally (V&M), Yadadri District.",Groundwater,TELANGANA,2022,Safe,0.0,None,22.5,,7.765,2293.0,,25.35,,,
+4265,"Borewell At Gram Panchayath Office Near Shiva Temple & Water Tank , Dothigudem (V) , Yadadri Bhuvanagiri District",Groundwater,TELANGANA,2022,Safe,0.0,None,22.5,,7.875,1726.0,,11.345,,,
+4266,"Borewell, Near Primary School, Adloor Yellareddy (V), Sadashivanagar (M), Kamareddy Dist.",Groundwater,TELANGANA,2022,Safe,0.0,None,25.0,,7.5,1194.5,,13.2,,,
+4268,"Borewell Located At House Of Sri Vital Rao, H.No.2-42, 875, Abestos Colony, Gandhi Nagar, Balanagar, Medchal District",Groundwater,TELANGANA,2022,Safe,0.09,None,28.0,,7.21,1073.0,,13.6,,46.0,
+4269,"Borewell Located At House Of Sri P Vekatesh Raju,Plot No.115, 22-321,Apiic, Co- Operative Colony, Jeedimetla, Quthbullapur(M), Medchal District",Groundwater,TELANGANA,2022,Safe,0.24,None,31.0,,7.17,2570.0,,12.4,,120.0,
+4270,"Borewell Located At House Of P.Anjaneyulu , Plot No.25, Shakthipuram, Prashanth Nagar, I.E.Kukatpally, Medchal District",Groundwater,TELANGANA,2022,Unsafe,17.81,High BOD,30.0,,7.52,3030.0,6.0,13.2,49.0,920.0,
+4271,"Borewell Located At Government Primary School, Sy.No.32, Dhulapally",Groundwater,TELANGANA,2022,Safe,0.19,None,30.0,,7.61,1273.0,,12.8,,94.0,
+4272,"Borewell Located At Rajiv Gruha Kalpa, Ahmedguda, Ambedkar Nagar, Kapra Medchal District.",Groundwater,TELANGANA,2022,Safe,0.1,None,32.0,,7.32,707.0,,10.2,,48.0,
+4273,"Borewell Located At Thanda Dundigal (V), Dhundigal (M), Medchal District.",Groundwater,TELANGANA,2022,Safe,0.22,None,28.0,,7.19,2375.0,,11.8,,110.0,
+4274,"Borewell Points At The Periphery Of The Ida, Jeedimetla, Medchal",Groundwater,TELANGANA,2022,Safe,0.24,None,29.0,,7.33,1651.0,,10.4,,120.0,
+4275,"Borewell Points At The Periphery Of The Ida, Balanagar, Medchal",Groundwater,TELANGANA,2022,Safe,7.55,None,32.0,,7.71,2195.0,2.0,9.3,,110.0,
+4276,"Borewell Near Grampanchyat Office, Khazipally Village, Sangareddy District",Groundwater,TELANGANA,2022,Safe,0.0,None,34.5,,7.555,2366.0,,18.67,,,
+4277,"Borewell At Zp High School, Sulthanpur (V), Ameenpur (M), Sangareddy District",Groundwater,TELANGANA,2022,Safe,0.0,None,24.0,,7.22,2975.0,,26.49,,,
+4279,"Borewell Near M/S. Aurobindo Pharma Unit -I, Gate 1 Borapatla (V), Hatnoora (M), Sangareddy District",Groundwater,TELANGANA,2022,Safe,0.0,None,24.0,,7.36,1239.0,,22.18,,,
+4280,"Borewell At Ida Rampur, Near Gwmc Dump Yard, Rampur (V), Khazipet (M), Hanamkonda, Warangal",Groundwater,TELANGANA,2022,Unsafe,33.63,High BOD,28.0,,6.99,7610.0,18.0,24.8,,220.0,
+4281,"Borewell Near Bhimanpalli Village (Open Land), Bhudan Pochampally Mandal, Nalgonda",Groundwater,TELANGANA,2022,Safe,0.0,None,22.5,,7.605,2799.0,,27.72,,,
+4282,"Borewell Near Aarla Bavi (V) (Agricultural Field), Pochampally Mandal, Yadadri Bhuvanagir District",Groundwater,TELANGANA,2022,Safe,0.0,None,22.5,,7.54,1512.0,,17.16,,,
+4283,"Borewell Near Dantur (V), (Open Land), Bhudan Pochampally Mandal, Yadadri Bhuvanagiri District",Groundwater,TELANGANA,2022,Safe,0.0,None,22.0,,7.67,2507.0,,18.165,,,
+4284,"Borewell Near Malkapur Lake, Malkapur Village",Groundwater,TELANGANA,2022,Safe,0.0,None,22.0,,7.94,2351.5,,17.235,,,
+4285,"Borewell Near Peddakondur Village (Agricultural Field), Choutuppal Mandal, Nalgonda",Groundwater,TELANGANA,2022,Safe,0.0,None,22.0,,7.24,2271.0,,13.285,,,
+4286,"Borewell Near Ankireddigudem Village (Agricultural Field), Choutuppal Mandal, Nalgonda",Groundwater,TELANGANA,2022,Safe,0.0,None,22.5,,7.345,2702.5,,22.755,,,
+4287,"Borewell Near Lingareddygudem Village (Beside Choutuppal- Valigonda Road), Choutuppal Mandal, Nalgonda",Groundwater,TELANGANA,2022,Safe,0.0,None,22.0,,7.565,1621.5,,15.76,,,
+4288,"Borewell Near Nagaram Cheruvu, Devalamma Nagaram Village, Nalgonda",Groundwater,TELANGANA,2022,Safe,0.0,None,22.5,,7.65,1490.0,,16.27,,,
+4289,"Borewell Near Pittam Palle Village (Open Land Beside Village Road), Chityal Mandal, Nalgonda",Groundwater,TELANGANA,2022,Safe,0.0,None,21.5,,7.285,1455.5,,13.265,,,
+4290,"Borewell Near Peddakaparthi Village (Open Land Beside Village Road), Chityal Mandal , Nalgonda",Groundwater,TELANGANA,2022,Safe,0.0,None,22.5,,7.56,2264.5,,18.25,,,
+3055,"Amberpet Stp (339 Mld) - Outlet , Amberpet (V&M), Hyderabad",Drain/STP/WTP,TELANGANA,2022,Unsafe,34.43,"pH Out of Range, High BOD",,29.0,4.05,7.6,500.0,17.0,,9.5,801.0
+3056,"Langarhouse Stp (1.25 Mld) - Outlet, Golconda (V&M) ,Hyderabad",Drain/STP/WTP,TELANGANA,2022,Unsafe,34.82,"pH Out of Range, High BOD",,29.5,3.95,8.15,500.0,18.0,,11.5,801.0
+3057,"Nagole Stp (172 Mld)- Outlet, Nagole,Rangareddy",Drain/STP/WTP,TELANGANA,2022,Unsafe,33.67,"pH Out of Range, High BOD",,29.0,4.25,7.8,500.0,16.5,,17.0,805.5
+3058,"Khairatabad Stp (20 Mld) - Outlet, Near Raj Nagar, Kharitabad , Hyderabad",Drain/STP/WTP,TELANGANA,2022,Unsafe,31.93,"pH Out of Range, High BOD",,30.0,4.7,7.6,500.0,11.5,,7.5,476.0
+3059,"Safilguda Stp (0.6 Mld) - Outlet, Safilguda,Medchal",Drain/STP/WTP,TELANGANA,2022,Unsafe,36.57,"pH Out of Range, High BOD",,30.5,3.5,7.65,500.0,18.0,,36.0,870.0
+3060,"Durgam Stp (5 Mld) - Outlet, Raidurg (V), Serilingampally (M), Rangareddy (D)",Drain/STP/WTP,TELANGANA,2022,Unsafe,36.17,"pH Out of Range, High BOD",,30.0,3.6,7.6,500.0,19.0,,14.0,842.0
+3061,"Nallacheruvu Stp (30 Mld) - Outlet, Uppal, Rangareddy",Drain/STP/WTP,TELANGANA,2022,Unsafe,34.24,"pH Out of Range, High BOD",,29.0,4.1,7.9,500.0,17.0,,14.0,847.0
+3062,"Saroornagar Stp (2.5 Mld) - Outlet, Saroornagar (V & M), Rangareddy District",Drain/STP/WTP,TELANGANA,2022,Unsafe,33.09,"pH Out of Range, High BOD",,28.5,4.4,7.2,500.0,12.5,,9.5,816.5
+3054,"River Godavari - Outlet Of Ash Pond Effluents Of M/S.Ntpc, Ramagundam",River,TELANGANA,2022,Unsafe,25.09,"pH Out of Range, High BOD",,28.0,4.85,9.7,500.0,2.05,1.66,2.0,40.0
+4665,"River Maneru (Tributary Of Godavari) - Outlet Of Ktpp Ash Pond Joining To Morancha Vagu, Chelpur (V), Ghanpur (Mulugu) (M), , Jayashankar Bhupalapalli District",River,TELANGANA,2022,Unsafe,24.01,"pH Out of Range, High BOD",,26.0,5.2,7.6,500.0,1.7,1.25,3.0,61.5
+2360,"River Godavari At Basara (V & M), Nirmal (D)",River,TELANGANA,2022,Safe,3.7,None,22.5,6.75,7.705,745.5,1.65,6.56,5.0,22.0,3.0
+2361,"River Godavari-River Godavari At Mancherial, Near Rail Way Bridge B/C Of Rallavagu, Mancherial (D)",River,TELANGANA,2022,Safe,4.33,None,27.0,5.75,8.02,509.0,1.55,3.02,,32.0,
+13,"River Godavari At Mancherial (V&M), Mancherial(D)",River,TELANGANA,2022,Safe,3.26,None,27.5,5.75,7.95,505.5,1.45,4.02,3.0,37.0,
+2362,"River Godavari-D/S At Ramagundam Near Fci Intake Well, Peddapalli",River,TELANGANA,2022,Safe,3.71,None,27.0,5.7,8.15,519.5,1.65,4.02,5.0,31.0,
+2363,"River Godavari At Godavarikhani Near Bathing Ghat , Peddapalli",River,TELANGANA,2022,Safe,4.48,None,27.5,5.6,7.975,573.0,2.0,4.02,2.5,37.5,
+2364,"River Godavari At Ramagundam Upstream Near Dam, Peddapalli",River,TELANGANA,2022,Safe,4.34,None,27.5,6.0,7.98,520.5,1.55,3.02,,34.0,
+2365,"River Godavari - U/S At Kamalapur ,At M/S.Ap Rayons Ltd., Intake Well , Kamalapur (V), Mangapet (M), Mulugu (D)",River,TELANGANA,2022,Safe,3.62,None,25.0,5.9,8.14,1236.0,1.6,2.22,2.0,73.5,
+2367,"River Godavari - U/S At Bhadrachalam Bathing Ghat, Bhadradri Kothagudem",River,TELANGANA,2022,Safe,3.59,None,29.1,5.6,8.03,324.5,1.6,2.02,2.0,33.5,
+2369,"River Godavari At Burgampahad , Bhadradri Kothagudem",River,TELANGANA,2022,Safe,3.81,None,28.0,5.6,7.895,380.0,1.7,4.21,2.0,31.5,
+2366,"River Godavari - D/S At Kamalapur ,At M/S.Ap Rayons Ltd., Discharge Point , Mangapet (V&M), Mulugu (D)",River,TELANGANA,2022,Safe,3.52,None,25.0,6.1,8.07,289.5,1.55,1.92,2.0,90.5,
+2368,"River Godavari - D/S At Bhadrachalam Bathing Ghat , Bhadradri Kothagudem",River,TELANGANA,2022,Safe,4.26,None,29.35,5.6,7.975,322.0,1.9,1.67,3.0,40.0,2.1
+2356,"River Godavari D/S Of Ramagundam At Manthani, Peddapalli",River,TELANGANA,2022,Safe,3.48,None,28.5,5.65,7.87,583.5,1.55,4.02,3.0,37.5,
+4227,"River Godavari- Pochera Water Falls, Pochera (V), Boath (M), Adilabad",River,TELANGANA,2022,Safe,5.92,None,24.5,6.5,7.91,828.0,2.65,6.08,5.0,26.0,3.5
+4662,"River Godavari At Kaleshwaram, 500 Mts. Before Bathing Ghat, Kaleshwaram (V), Mahadevpur (M),Jayashankar Bhupalapally",River,TELANGANA,2022,Safe,3.36,None,26.0,5.95,7.875,437.5,1.45,2.4,15.0,95.5,
+5105,"River Godavari Pushkar Ghat , Mancherial (V&M), Mancherial (D)",River,TELANGANA,2022,Safe,4.94,None,24.5,6.45,7.69,728.5,2.2,7.055,7.0,34.0,5.0
+4367,"River Godavari Koundinya Mukthi (V), Kukunur (M), Border Point Between Andhra Pradesh & Telangana States",River,TELANGANA,2022,Safe,4.85,None,26.0,7.25,8.205,330.5,2.1,1.52,16.0,151.5,
+2374,"River Manjeera (Tributary Of Godavari) - U/S Of River Manjeera At Gowdicherla Before Confluence With Nakkavagu, Sangaredy",River,TELANGANA,2022,Safe,6.05,None,21.0,6.15,7.53,803.0,2.7,9.105,8.5,33.0,7.0
+2375,"River Manjeera (Tributary Of Godavari) - D/S Of River Manjeera At Gowdicherla Atfter Confluence With Nakkavagu, Sangareddy",River,TELANGANA,2022,Safe,6.5,None,21.0,5.95,7.295,1022.0,2.9,10.115,8.5,41.0,6.0
+1781,"River Manjeera (Tributary Of Godavari) - At Ganapathi Sugars, Sangareddy",River,TELANGANA,2022,Safe,5.62,None,21.5,6.2,7.555,599.5,2.5,4.64,9.0,48.5,6.5
+1157,"River Manjeera (Tributary Of Godavari) - At Raipally, Sangareedy",River,TELANGANA,2022,Safe,5.39,None,23.5,6.4,7.72,510.0,2.4,3.6,6.5,39.5,5.0
+2349,"River Manjeera (Tributary Of Godavari) - Nakka Vagu At Bachugudem, Sangareedy",River,TELANGANA,2022,Unsafe,25.52,"Low DO, High BOD",20.5,3.1,7.355,1378.5,8.0,11.125,14.0,131.0,9.5
+4226,"River Manjeera (Tributary Of Godavari) - River Manjeera At Yedu Payala Temple, Nagsampalli (V), Papannapet (M), Medak",River,TELANGANA,2022,Safe,4.93,None,27.0,6.5,7.43,760.0,2.2,7.115,3.0,48.5,2.0
+1158,"River Maneru (Tributary Of Godavari) - At Somanpally , Peddapalli",River,TELANGANA,2022,Safe,3.52,None,26.0,5.9,8.205,561.0,1.55,1.28,13.0,33.0,
+4257,"River Maneru (Tributary Of Godavari) - At D/S Of Municipal Dump Site, Karimnagar",River,TELANGANA,2022,Unsafe,13.51,"Low DO, High BOD",27.5,3.9,7.905,1410.0,3.9,4.9,17.5,476.5,3.0
+4664,"River Maneru (Tributary Of Godavari) - At Ghattepalli (V) Near Sulthanabad, Karimnagar",River,TELANGANA,2022,Safe,5.97,None,27.5,5.3,8.095,833.5,2.55,2.87,21.0,287.0,3.0
+2372,"River Kinnerasani (Tributrary Of Godavari) - Kinnerasani After Confluence Of Ktps Ash Pond Effluents ,Bhadradri Kothagudem",River,TELANGANA,2022,Safe,4.33,None,28.25,5.0,8.06,467.0,1.55,4.02,,32.0,
+3080,"River Kinnerasani (Tributrary Of Godavari) - U/S Of Karakavagu At Paloncha , Bhadradri Kothagudem",River,TELANGANA,2022,Safe,5.17,None,26.05,5.0,7.97,591.5,1.85,1.37,,34.5,
+3081,"River Kinnerasani (Tributrary Of Godavari) - D/S Of Karakavagu At Paloncha, Bhadradri Kothagudem",River,TELANGANA,2022,Safe,3.48,None,25.5,5.45,8.005,526.5,1.55,1.72,2.0,34.5,
+39,"River Krishna At Gadwal Bridge,Nadhi Agraharam, Gadwal(Munci.), Jogulamba Gadwal(D)",River,TELANGANA,2022,Safe,4.81,None,28.5,5.75,8.085,911.5,2.1,4.615,6.5,156.0,
+1465,"River Krishna - Confluence Of River Krishna & River Musi At Wadapally (V), Damarcharla (M), Nalgonda District",River,TELANGANA,2022,Safe,5.6,None,19.0,6.2,8.115,1011.0,2.5,5.235,7.5,23.5,5.0
+1784,"River Krishna At Thangadi, Thangadi(V), Krishna(M), Narayanapet(D)",River,TELANGANA,2022,Safe,4.69,None,27.2,5.85,7.995,912.5,2.05,5.23,4.0,156.0,
+4663,"River Krishna At Mattepally, 500 Mts. Before Bathing Ghat, Suryapet",River,TELANGANA,2022,Safe,6.61,None,19.5,6.05,7.995,1023.5,2.95,6.18,8.0,34.0,5.0
+4381,"River Krishna After Confluence With River Musi At Vadapalli (V), Dachepalli (M) Between Andhra Pradesh & Telangana",River,TELANGANA,2022,Safe,6.13,None,23.5,7.2,7.92,830.0,2.65,1.725,9.0,259.5,4.5
+4225,"River Krishna At Jogulamba Temple, Alampur(V&M), Jogulamba Gadwal(D)",River,TELANGANA,2022,Safe,4.7,None,26.0,5.55,8.07,876.0,2.05,4.12,7.0,153.5,
+5108,"River Krishna Before Confluence Of River Musi At Wadapally (V), Damaracharla (M), Nalgonda (D)",River,TELANGANA,2022,Safe,5.7,None,18.5,5.9,7.91,943.5,2.55,5.6,5.5,23.5,3.5
+5109,"River Krishna After Confluence Of River Musi At Wadapally (V), Damaracharla (M), Nalgonda(D)",River,TELANGANA,2022,Safe,5.59,None,19.0,5.8,7.94,982.5,2.5,5.565,4.5,26.0,3.0
+5110,"River Krishna At Pulichintala Reservoir At Chinthalapalem (V&M), Suryapet (D)",River,TELANGANA,2022,Safe,4.92,None,19.5,6.25,7.92,1250.5,2.2,5.53,5.0,25.0,3.0
+4251,"River Krishna - D/S Of Munneru River, Prakash Nagar, Khammam",River,TELANGANA,2022,Safe,4.05,None,29.15,5.0,7.985,609.5,1.75,1.34,13.0,135.5,7.5
+1173,"River Musi - D/S At Pratapasingaram , Shamshabad",River,TELANGANA,2022,Unsafe,25.81,"Low DO, High BOD",27.25,2.5,7.255,1025.5,6.9,7.6,33.0,445.0,16.5
+2339,"River Musi At Nagole, Ranga Reddy",River,TELANGANA,2022,Unsafe,32.71,"Low DO, High BOD",27.75,2.05,7.595,963.0,15.4,6.4,33.5,975.0,14.0
+3082,"River Musi At Solipet (Kasaniguda), Nalgonda",River,TELANGANA,2022,Unsafe,8.96,High BOD,18.5,6.25,7.985,1380.0,4.0,10.075,6.5,71.0,4.0
+4656,"River Musi At Moosarambagh Bridge, Hyderabad",River,TELANGANA,2022,Unsafe,29.89,"Low DO, High BOD",28.0,2.75,7.455,1063.5,13.6,6.1,26.5,975.0,11.5
+4657,"River Musi At Pillaipalli, Rangareddy",River,TELANGANA,2022,Unsafe,24.84,"Low DO, High BOD",27.0,2.7,7.27,1085.5,6.9,5.3,23.0,287.5,7.0
+4658,"River Musi At Valigonda Bridge, Nalgonda Dist",River,TELANGANA,2022,Unsafe,13.12,High BOD,19.0,6.0,7.615,1466.0,5.85,4.02,9.5,124.5,7.0
+4659,"River Musi - Outlet Of Nalla Cheruvu, Peerajadiguda, Rangareddy",River,TELANGANA,2022,Unsafe,40.62,"Low DO, High BOD",27.5,0.0,7.64,1517.0,12.0,7.8,27.0,635.0,8.0
+4660,"River Musi At Peerajadiguda, Ranga Reddy",River,TELANGANA,2022,Unsafe,32.28,"Low DO, High BOD",27.5,2.1,7.585,1087.5,11.05,6.6,34.0,675.0,11.5
+4253,"River Musi At Bapughat Sangam, Hyderabad",River,TELANGANA,2022,Unsafe,26.98,"Low DO, High BOD",27.5,3.4,7.395,1124.0,9.0,5.1,24.0,635.0,7.0
+4254,"River Musi At Rudravelly Bridge,Yadadri",River,TELANGANA,2022,Unsafe,11.77,High BOD,19.0,5.7,7.515,1388.5,5.25,15.645,8.5,107.0,6.0
+5106,"River Musi At Bheemaram Bridge, Bheemaram (V), Kethepally (M), Nalgonda (D)",River,TELANGANA,2022,Unsafe,8.7,High BOD,19.5,6.1,7.945,1440.0,3.9,10.68,4.5,34.5,3.0
+5107,"River Musi Before Confluence Of River Krishna At Wadapally (V), Damaracharla (M), Nalgonda(D)",River,TELANGANA,2022,Unsafe,6.94,High BOD,18.5,6.3,7.925,1063.5,3.1,6.13,6.1,46.0,4.0

@@ -1,0 +1,5 @@
+stn_code,monitoring_location,water_body_type,state,year,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+3106,"DIBANG RIVER AT ROING,",River,ARUNACHAL PRADESH,2019,18.25,,7.35,,,,,,
+3107,"DIHING RIVER AT MIAO,",River,ARUNACHAL PRADESH,2019,17.2,,7.4,,,,,,
+3096,"DIKRONG RIVER AT NIRJULI,",River,ARUNACHAL PRADESH,2019,21.05,,7.6,,,,,,
+3105,"GAI NADI NEAR HSS LIKABALI,",River,ARUNACHAL PRADESH,2019,20.65,,7.45,,,,,,

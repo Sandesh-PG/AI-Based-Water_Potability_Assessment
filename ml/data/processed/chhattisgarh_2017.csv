@@ -1,0 +1,8 @@
+stn_code,monitoring_location,water_body_type,state,year,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg,total_dissolved_solids_avg,fluoride_avg,arsenic_avg
+1620,"AT RAIPUR REGION, CHHATISGARH.",Groundwater,CHHATTISGARH,2017,26.5,,7.65,593.0,0.3,,,4.0,,1.25,,
+1621,"AT RAIPUR REGION, CHHATISGARH.",Groundwater,CHHATTISGARH,2017,28.0,,7.5,557.0,0.45,,3.0,1.7,,,,
+1622,"AT BILASPUR REGION, CHHATISGARH.",Groundwater,CHHATTISGARH,2017,30.0,,7.5,369.0,0.1,,2.0,0.4,,,,
+1623,"AT BILASPUR REGION, CHHATISGARH.",Groundwater,CHHATTISGARH,2017,29.5,,7.35,440.5,0.1,,2.0,0.45,,,,
+3172,"BOREWELL/ HANDPUMP IN ROGBAHRI VILLAGE, KORBA, CHHATISGARH.",Groundwater,CHHATTISGARH,2017,26.9,,7.2,,0.2,,,0.0,,,,
+3174,"BOREWELL/ HANDPUMP IN DHANRAS, NTPC, KORBA, CHHATISGARH.",Groundwater,CHHATTISGARH,2017,26.9,,7.15,,0.4,,,0.0,,,,
+3164,"NEHRU NAGAR TALAB, BHILAI, CHHATISGARH.",Pond/Tank,CHHATTISGARH,2017,,,6.8,7.5,,,0.185,,460.0,,,

@@ -1,0 +1,519 @@
+monitoring_location,stn_code,latitude,longitude,geocode_query,geocoded
+"Narmada Main Canal, Nr. Village. Limbadia, Dist",2073,,,,False
+"Tapi Canal At Village Umarwada, Near Gidc Estate",2074,22.2587814,73.1896284,"gidc estate, Gujarat, India",True
+Masma Khadi- Olpad- Saras Road,2080,23.7924526,69.0298348,"saras, Gujarat, India",True
+Amlakhadi Creek At Pungam,2081,,,,False
+"Vandkhadi At Village Umarwada, Ta Ankleshwar, Bhar",3196,22.5416027,72.9664693,"bhar, Gujarat, India",True
+"Well At Ahmedabad, Gujarat",3,23.0260917,72.4821409,"well ahmedabad gujarat, Gujarat, India",True
+"Well At Baroda, Gujarat",6,22.3108103,73.1657471,"baroda gujarat, Gujarat, India",True
+"Well At Narol, Ahmedabad, Gujarat",1226,22.9688355,72.6067645,"narol ahmedabad gujarat, Gujarat, India",True
+Bhavnagar,1948,21.7718836,72.1416449,"bhavnagar, Gujarat, India",True
+Amreli,1949,21.4176122,71.249609,"amreli, Gujarat, India",True
+Junagadh,1950,21.5220416,70.4582458,"junagadh, Gujarat, India",True
+Surendranagar,1952,22.8251395,71.6209736,"surendranagar, Gujarat, India",True
+Jamnagar,1953,22.4732415,70.0552102,"jamnagar, Gujarat, India",True
+Bhuj,1954,23.2472446,69.668339,"bhuj, Gujarat, India",True
+Palanpur,1955,24.1709794,72.4366375,"palanpur, Gujarat, India",True
+Mehasana,1956,23.6015557,72.3867981,"mehasana, Gujarat, India",True
+Siddhpur (Dist.Patan),1957,23.918279,72.3681846,"siddhpur dist.patan, Gujarat, India",True
+Himatnagar,1958,23.5971246,72.9588273,"himatnagar, Gujarat, India",True
+Nadiad,1959,22.6895535,72.8713603,"nadiad, Gujarat, India",True
+Dahod,1960,22.9194099,74.1342725,"dahod, Gujarat, India",True
+Godhara,1961,22.77011,73.6199822,"godhara, Gujarat, India",True
+Vadodara (Industrial-Nandesari),1962,22.4178037,73.0949186,"nandesari, Gujarat, India",True
+"Mora-Hajira (Industrial), Hajira",1965,22.8403869,69.3516683,"hajira, Gujarat, India",True
+"Gabheni Village, Surat (Industrial)",1966,23.025126,72.6543805,"industrial, Gujarat, India",True
+"Atul,Village G.W, (Valsad)",1967,20.5472816,72.9278239,"atul valsad, Gujarat, India",True
+"Vapi Industrial Area In D/S, Vapi",1968,20.3735482,72.9084376,"vapi, Gujarat, India",True
+"Sarigam Village (D/S Of Industrialarea), Vapi",1969,20.3735482,72.9084376,"vapi, Gujarat, India",True
+"Borewell D/S Tsdf Site, Gidc Industrial Area, Vapi",1970,20.3735482,72.9084376,"vapi, Gujarat, India",True
+Bore Well Of Chhatral Gidc.,2083,23.2899735,72.4378365,"chhatral gidc., Gujarat, India",True
+Bore Well Of Palsana Village.,2084,21.0859408,72.978046,"palsana, Gujarat, India",True
+Bore Well Of Santej Village.,2085,23.1081992,72.4741944,"santej, Gujarat, India",True
+Bore Well At Msw Disposal Site Of Surat Municipal,2086,21.2002122,72.8211528,"surat municipal, Gujarat, India",True
+B/W- Hazardous W. Disposal Site (Guj. Enviro P.& I,2087,,,,False
+Bore Well Of Sachin Gidc.,2088,21.07841,72.873219,"sachin gidc., Gujarat, India",True
+"B/W Near Indl. Area Borasara & Navapura, Dist. Sur",2089,22.3128371,72.969922,"navapura dist., Gujarat, India",True
+Well At Olpad.,2090,21.3360054,72.7516479,"olpad., Gujarat, India",True
+From Bore Well Of Navsari Gidc Industries Associat,2091,,,,False
+Bore Well Of Bardoli At Rest House.,2093,22.2428182,68.956734,"rest house., Gujarat, India",True
+Well At Ankleshwar Industrial Area (Bore Well Of M,2094,23.8589305,72.10173,"well, Gujarat, India",True
+"Bore Well, Snr. Vinayak Jal Suddhikaran Sahakari M",2096,21.0896533,71.7684296,"sahakari, Gujarat, India",True
+"Bore Well Of Someshwar Rice Mill, Nr. Bavla Eco Pr",2097,22.8278859,72.3684741,"bavla, Gujarat, India",True
+"Bore Well Of Pirana Terminal Pumping Station, Pira",2098,22.8228981,70.8243586,"pira, Gujarat, India",True
+"Borewell Of Gidc,Jhagadia",3207,21.7157199,73.1497026,"jhagadia, Gujarat, India",True
+"Jilla Panchayat School, Near Gram Panchayat Kata F",3208,22.1041566,69.2607343,"kata, Gujarat, India",True
+"Borewell Of Gayatri Pragna School, Bhadarwad Road,",3209,,,,False
+"Borewell At Piramal Glass, Village Tarsadi At Kos",3210,21.455452,72.9437759,"piramal glass tarsadi, Gujarat, India",True
+"Borewell At Primary Health Center, Kadodara, Surat",3211,21.170118,72.965079,"kadodara surat, Gujarat, India",True
+"Borewell Near Center Of Excellence Building, Gidc,",3212,21.092746,72.8580597,"gidc, Gujarat, India",True
+"Borewell, Cetp-Naroda, Gidc, Naroda-Ahmedabad",3213,23.0926586,72.6687953,"gidc naroda ahmedabad, Gujarat, India",True
+Borewell Near Gidc Odhav Industrial Association Bu,3214,22.3627855,70.7100844,"association, Gujarat, India",True
+"Borewell Near Municipal Solid Waste Site- Gyaspur,",3215,22.9845276,72.528063,"gyaspur, Gujarat, India",True
+Borewell Near Tsdf Site Of Green Environmnet Servi,3216,,,,False
+Borewell Near Tsdf Site Of Naroda Enviro Project.L,3217,21.8378767,73.7559924,"project.l, Gujarat, India",True
+"Well Of Modasa, Nagar Palika, Varigruh, Modasa",3218,23.4634245,73.2990631,"modasa, Gujarat, India",True
+"Well Of Idar, Nagar Palika, Sakaria, Idar",3219,23.8362255,73.0114616,"idar, Gujarat, India",True
+"Borewell Of Gidc-Nadiad At Gidc Office, Gidc Nadia",3220,,,,False
+"Borewell Of Town Rajpipla, Dist.Narmada",3221,21.8697448,73.5048135,"town rajpipla dist.narmada, Gujarat, India",True
+"Borewell Of Gidc, Panoli",3222,21.5635064,72.9819968,"gidc panoli, Gujarat, India",True
+Borewell Kadi Industrial Area,3223,23.025126,72.6543805,"industrial, Gujarat, India",True
+Deesa Borewell,3224,24.2594977,72.1803348,"deesa, Gujarat, India",True
+Visnagar Borewell,3225,23.6978037,72.5507598,"visnagar, Gujarat, India",True
+Patan Borewell,3226,23.773753,71.6798581,"patan, Gujarat, India",True
+Vijapur (Ranasan) Borewell,3227,23.4680107,73.1120471,"ranasan, Gujarat, India",True
+"Gidc, Halol, Panchmahal",3228,22.5415068,73.4334443,"halol panchmahal, Gujarat, India",True
+"Gidc, Dahod, Dahod",3229,22.8358786,74.2556823,"dahod dahod, Gujarat, India",True
+"Borewell Of Gidc, Junagadh",3230,21.5220416,70.4582458,"junagadh, Gujarat, India",True
+Borewell Near Tsdf Site Of Saurashtra Enviro Proje,3231,,,,False
+"Borewell Of Gidc, Antalia Water Supply, Billimora,",3232,,,,False
+"Borewell Of Kaliawadi Grid Road, Navsari",3233,20.952407,72.9323831,"navsari, Gujarat, India",True
+Borewell Nera Tsdf Of Nandesari Enviro Control Lim,3234,22.3000929,73.1775354,"control, Gujarat, India",True
+"Borewell Of Gidc Kalol, B/H Gidc Office, Gidc, Kal",3235,22.9714727,72.6278738,"gidc office gidc, Gujarat, India",True
+"Borewell Of M/S Alfa Eca (I) Ltd., Unit-1, Sr.No.",3236,,,,False
+"Borewell Of L & T Ltd., Plot No. 144/146, Sarkhej-",3237,22.983483,72.5007203,"144/146 sarkhej, Gujarat, India",True
+Borewell Of Gidc Kansari,3238,24.328543,72.1350288,"kansari, Gujarat, India",True
+"Borewell Of Gidc, Sojitra",3239,22.5391166,72.7192782,"sojitra, Gujarat, India",True
+"Borewell Near Municipal Solid Waste Site, Nakarwad",3241,,,,False
+"Borewell Near Tsdf Of Gujarat Maritime Board, Alan",3242,,,,False
+"Borewell Of Gidc, Vartej, Bhavnagar",3243,21.7397432,72.0644938,"vartej bhavnagar, Gujarat, India",True
+Borewell Near Tsdf Of Bharuch Enviro Infrastructur,3244,,,,False
+Borewell At Dhangadhra Near Dhangadhra Chemicals,3245,22.3728914,73.1506188,"chemicals, Gujarat, India",True
+"Borewell Of Gidc Office, Shankar Tekri, Udhyognaga",3246,,,,False
+"Borewell Of Shri Mahavir Metal Craft Pvt. Ltd., Pl",3247,23.0454997,72.5076242,"pvt. ltd., Gujarat, India",True
+Ambika At Bilimora,1148,20.7671693,72.9693451,"bilimora, Gujarat, India",True
+Kolak At Patalia Bdg,1149,,,,False
+"Kolak At Railway Bridge No. 313 Vapi,Valsad",1435,20.3735482,72.9084376,"vapi valsad, Gujarat, India",True
+Damanganga U\S Kachigaon At Gidc Wier,1150,,,,False
+Damanganga D\S Kachigaon (Daman),1246,20.2072531,73.2762766,"daman, Gujarat, India",True
+Amlakhadi A/C Of W. Water From Anklesh,1434,,,,False
+Bhadar D/S Jetpur Vill. A/C Of W.Water From Jetpur City,1436,21.7543725,70.6189391,"jetpur city, Gujarat, India",True
+Mindhola At State Highway Bridge Sachin,1438,21.0778781,72.8744643,"sachin, Gujarat, India",True
+Balehwar Khadi At N.H. No. 8,1860,23.0185795,72.5713814,"n.h., Gujarat, India",True
+Purna On Bridge At Surat-Navsari Highway,1861,21.0055271,73.0916595,"purna surat navsari, Gujarat, India",True
+Kaveri On Bridge At Billimora- Valsad Road,1862,20.4321957,73.1409893,"valsad, Gujarat, India",True
+Dhadar At Kothada,1865,,,,False
+Amlakhadi At Pungam Ankleshwar Distt Bharuch,1980,21.6293206,72.9945103,"ankleshwar distt bharuch, Gujarat, India",True
+Bhogavo D/S Of Surendranagar.,2072,22.8251395,71.6209736,"surendranagar., Gujarat, India",True
+"Triveni Sangam, Nr. Somnath Temple, Veraval, Dist",2082,20.8877607,70.4013906,"temple veraval dist, Gujarat, India",True
+Narsimehta Talav- Junagadh,1976,21.5270947,70.5036512,"talav junagadh, Gujarat, India",True
+City Lake Of Nadiad,1977,22.598341,72.8200181,"lake nadiad, Gujarat, India",True
+Mahi At Umeta Bridge,1863,22.333298,73.0514182,"umeta, Gujarat, India",True
+Mahi At Mujpur,1864,22.2518665,72.9919347,"mujpur, Gujarat, India",True
+Mahi At Sevalia,4,22.8179181,73.404794,"sevalia, Gujarat, India",True
+Mahi At Vasad,5,22.4516351,73.0671647,"vasad, Gujarat, India",True
+Mahi After Conf. With Anas At Pardi (Banaswada),1230,,,,False
+Mahi At Virpur,1231,21.8490419,70.707834,"virpur, Gujarat, India",True
+Mahi At Sherkhi Bridge,3206,,,,False
+"Anas At Dahod,(Kushalgarh),Dist. Panchmahal",1228,22.5415068,73.4334443,"dist. panchmahal, Gujarat, India",True
+Panam At Lunawada,1227,,,,False
+Vishwamitri Downstream At Khalipur Villag,3204,,,,False
+"Vishwamitri, Upstream At Asod Bridge At Nh-8 Near Glden Chokdi, Asod Vemali Road",3205,,,,False
+Sabarmati At Dharoi Dam,1,23.9863211,72.9116811,"dharoi, Gujarat, India",True
+Sabarmati At Ahmedabad At V.N. Bridge,2,23.021774,72.623712,"v.n., Gujarat, India",True
+Sabarmati At Kheroj Bridge,1221,,,,False
+Sabarmati A/C With Meshwa At Vautha Near Dhokla,1223,22.2403001,68.9669066,"dhokla, Gujarat, India",True
+"Sabarmati At Gandhi Nagar Chiloda Bridge,Lekawada",1407,,,,False
+"Sabarmati At Vill. Miroli Taluka Dascroi,Ahmedabad",1408,23.0215374,72.5800568,"ahmedabad, Gujarat, India",True
+Sabarmati At Railway Bridge Ahmedabad,1409,23.0773,72.5863308,"sabarmati railway ahmedabad, Gujarat, India",True
+"Sabarmati At Mahudi Jain Temple, 150 Km. Form Origin",1482,23.8344451,71.5482993,"origin, Gujarat, India",True
+Sabarmati At Hansaol Bridge,1866,,,,False
+Khari At Lali Village Near Ahmedabad,1437,22.8689262,72.6280463,"lali ahmedabad, Gujarat, India",True
+Shedhi At Kheda,1222,22.8990926,72.9948451,"shedhi kheda, Gujarat, India",True
+Narmada At Garudeshwar,7,21.9151502,73.7474678,"narmada garudeshwar, Gujarat, India",True
+Narmada At Chandod,1245,21.9866962,73.4545373,"chandod, Gujarat, India",True
+Narmada At Panetha,1244,21.8899476,73.2682943,"panetha, Gujarat, India",True
+"Narmada At Zanor (Ntpc), Bharuch",1981,21.8242754,73.1136745,"ntpc bharuch, Gujarat, India",True
+"Narmada At Bharuch,Zadeshvar",1243,,,,False
+"Tapi At Ukai, Sherula Bridge",46,,,,False
+Tapi At Mandavi,1247,,,,False
+"Tapi At Kathore, (Nh-8 Bridge)",47,,,,False
+Tapi U/S Surat Kathore,1248,,,,False
+"Tapi At Rander Bridge, Surat",1982,21.2160703,72.799745,"rander surat, Gujarat, India",True
+Tapi Near Bardoli (Kapp Bridge) Bardoli,1983,21.1338291,73.1053896,"bardoli, Gujarat, India",True
+"Tapi At Ongc Bridge At Surat, Dist. Surat",2071,21.1652945,72.7763076,"surat dist. surat, Gujarat, India",True
+"Kim At Sahol Bridge, Olpad Hansot Road, Dist",2070,21.5858279,72.8101435,"hansot dist, Gujarat, India",True
+"Amravati At Village Dadhal , Ta Ankleshwar, Bharuc",3203,,,,False
+"Well At Ahmedabad,",3,23.0260917,72.4821409,"well ahmedabad, Gujarat, India",True
+"Well At Baroda,",6,22.2973142,73.1942567,"baroda, Gujarat, India",True
+"Well At Narol, Ahmedabad,",1226,22.9688355,72.6067645,"narol ahmedabad, Gujarat, India",True
+Pandesara (Indstrial) Surat,1964,21.2094892,72.8317058,"surat, Gujarat, India",True
+"Atul, Village G.W, (Valsad)",1967,20.5472816,72.9278239,"atul valsad, Gujarat, India",True
+B/W- Hazardous W. Disposal Site (Guj. Enviro P.& I. Ltd. ),2087,22.0888597,71.7032161,"ltd., Gujarat, India",True
+"B/W Near Indl. Area Borasara & Navapura, Dist. Surat.",2089,21.196373,72.8299922,"navapura dist. surat., Gujarat, India",True
+Bore Well Of Navsari Gidc Industries Association Office.,2091,22.243055,68.965726,"office., Gujarat, India",True
+Well Of Bardoli At Rest House.,2093,22.2428182,68.956734,"rest house., Gujarat, India",True
+"Bore Well Of Someshwar Rice Mill, Nr. Bavla Eco Project, (Cetp ), Vill. Bavla, Dist. Ahmedabad.",2097,22.8278859,72.3684741,"bavla dist. ahmedabad., Gujarat, India",True
+"Borewell Of Gidc, Jhagadia",3207,21.7157199,73.1497026,"jhagadia, Gujarat, India",True
+"Borewell Of Gayatri Pragna School, Bhadarwad Road, Bazar Falia, Sarigam, Valsad",3209,20.2834614,72.8705969,"sarigam valsad, Gujarat, India",True
+"Borewell, Cetp-Naroda, Gidc, Naroda- Ahmedabad",3213,23.0926586,72.6687953,"gidc naroda ahmedabad, Gujarat, India",True
+"Borewell Near Municipal Solid Waste Site- Gyaspur, Narol, Ahmedabad",3215,22.9845276,72.528063,"gyaspur narol ahmedabad, Gujarat, India",True
+"Borewell Near Tsdf Site Of Naroda Enviro Project.Ltd, Odhave, Ahmedabad",3217,23.0215374,72.5800568,"ahmedabad, Gujarat, India",True
+"Borewell Near Tsdf Site Of Saurashtra Enviro Project Ltd., Juna Katariya, Bhachau",3231,23.3054506,70.6186751,"juna katariya bhachau, Gujarat, India",True
+"Borewell Of Gidc Kalol, B/H Gidc Office, Gidc, Kalol, Gandhinagr",3235,,,,False
+"Borewell Of L & T Ltd., Plot No. 144/146, Sarkhej-Bavla Road, Sanand, Ahmedabad",3237,23.0015941,72.2595567,"sanand ahmedabad, Gujarat, India",True
+"Borewell Of Shri Mahavir Metal Craft Pvt. Ltd., Plot No. 3059, Road No.6, Nr. Mahavir Circle, Phase-Iii, Gidc, Dared, Jamnagar",3247,22.4140309,70.05799,"gidc dared jamnagar, Gujarat, India",True
+"Chandola Lake At Ahmedabad, Gujarat",1344,22.986953,72.5869638,"chandola lake ahmedabad gujarat, Gujarat, India",True
+"Sursagar Lake At Baroda, Gujarat",1346,22.3108103,73.1657471,"baroda gujarat, Gujarat, India",True
+"Bindusarovar, Siddhpur (Dist.Patan)",1973,23.918279,72.3681846,"siddhpur dist.patan, Gujarat, India",True
+"Lakhota Talav, Jamnagar",1975,21.9770374,69.949453,"talav jamnagar, Gujarat, India",True
+"Ranjitnagar Talav (Halol), Panchmahals",1978,22.5025899,73.4691058,"halol panchmahals, Gujarat, India",True
+Ankleshwar Reservoir At Gidc Ankleshwar At Valia Road.,2076,21.5711115,73.1608821,"valia, Gujarat, India",True
+"Gomti Lake, Opp, Ranchodaji Temple, Dakor, Kheda",3198,22.7544106,73.1490273,"temple dakor kheda, Gujarat, India",True
+"Hamisar Talav, Bhuj",3199,23.5715003,69.665591,"talav bhuj, Gujarat, India",True
+Moonsar Lake Of Viramgam,3200,23.1222651,72.0433455,"lake viramgam, Gujarat, India",True
+"Malav Talav, Dholka",3201,22.7267029,72.4354271,"malav talav dholka, Gujarat, India",True
+Vheraimata Talav At Anand,3202,22.4739858,72.7361779,"anand, Gujarat, India",True
+"Dhudhia Talav At Navsari, Dist. Navsari.",2079,20.8115038,72.9966494,"navsari dist. navsari., Gujarat, India",True
+2080,GEN-54FF9E,23.1629053,72.688695,"2080, Gujarat, India",True
+2081,GEN-0070D2,23.1629053,72.688695,"2081, Gujarat, India",True
+1148,GEN-DF0AAB,22.8200716,69.5188867,"1148, Gujarat, India",True
+1149,GEN-09C6C3,22.8200716,69.5188867,"1149, Gujarat, India",True
+1860,GEN-96C5C2,22.8200716,69.5188867,"1860, Gujarat, India",True
+1865,GEN-69D1FC,23.1629053,72.688695,"1865, Gujarat, India",True
+"Mahi After Conf. With Anas At Pardi (Banaswada),",1230,,,,False
+"Mahi At Virpur,",1231,21.8490419,70.707834,"virpur, Gujarat, India",True
+"Sabarmati At Kheroj Bridge,",1221,,,,False
+"Sabarmati At Gandhi Nagar Chiloda Bridge, Lekawada,",1407,,,,False
+"Sabarmati At Vill. Miroli Taluka Dascroi, Ahmedabad,",1408,23.0215374,72.5800568,"ahmedabad, Gujarat, India",True
+"Sabarmati At Railway Bridge Ahmedabad,",1409,23.0773,72.5863308,"sabarmati railway ahmedabad, Gujarat, India",True
+"Sabarmati River At Hansaol Bridge,",1866,,,,False
+"Sabarmati After Conf. With Meshwa At Vautha (Near Dhokla),",1223,22.2403001,68.9669066,"dhokla, Gujarat, India",True
+"Sabarmati At Mahudi Jain Temple, 150 Km. Form Origin,",1482,23.8344451,71.5482993,"origin, Gujarat, India",True
+"Shedhi At Kheda,",1222,22.8990926,72.9948451,"shedhi kheda, Gujarat, India",True
+"Khari At Lali Village Near Ahmedabad,",1437,22.8689262,72.6280463,"lali ahmedabad, Gujarat, India",True
+"Panam At Lunawada,",1227,,,,False
+"Narmada At Bharuch, Zadeshvar,",1243,,,,False
+"Narmada At Panetha,",1244,21.8899476,73.2682943,"panetha, Gujarat, India",True
+"Narmada At Chandod,",1245,21.9866962,73.4545373,"chandod, Gujarat, India",True
+"Tapi At Mandavi,",1247,,,,False
+"Tapi At Surat U/S Kathore,",1248,,,,False
+Tapi River Near Bardoli (Kapp Bridge) Bardoli,1983,21.1338291,73.1053896,"bardoli, Gujarat, India",True
+"Tapi River At Ongc Bridge At Surat, Dist. Surat",2071,21.1652945,72.7763076,"surat dist. surat, Gujarat, India",True
+Tapi At Nepanagar,9,,,,False
+Tapi At Burhanpur,10,,,,False
+"Tapi At Kathore, (Nh8 Bridge)",Stationcode,,,,False
+"Kim River At Sahol Bridge, Olpad Hansot Road, Dist. Surat",2070,21.1652945,72.7763076,"dist. surat, Gujarat, India",True
+"Amravati At Village Dadhal , Ta Ankleshwar, Bharuch",3203,21.6355384,73.0620214,"dadhal ankleshwar bharuch, Gujarat, India",True
+Well At Ahmedabad,3,23.0260917,72.4821409,"well ahmedabad, Gujarat, India",True
+6,GEN-167909,23.1658045,72.6506733,"6, Gujarat, India",True
+1226,GEN-3210DD,22.8200716,69.5188867,"1226, Gujarat, India",True
+1948,GEN-7CA57A,22.8200716,69.5188867,"1948, Gujarat, India",True
+1949,GEN-36AC8E,22.8200716,69.5188867,"1949, Gujarat, India",True
+1950,GEN-03E7D2,22.8200716,69.5188867,"1950, Gujarat, India",True
+1953,GEN-A38B16,22.8200716,69.5188867,"1953, Gujarat, India",True
+1954,GEN-5A7F96,22.8200716,69.5188867,"1954, Gujarat, India",True
+1955,GEN-378A06,23.1629053,72.688695,"1955, Gujarat, India",True
+1956,GEN-E34084,22.8200716,69.5188867,"1956, Gujarat, India",True
+1957,GEN-277A78,22.8200716,69.5188867,"1957, Gujarat, India",True
+1958,GEN-D77F00,23.1629053,72.688695,"1958, Gujarat, India",True
+1959,GEN-E4DD55,22.8200716,69.5188867,"1959, Gujarat, India",True
+1960,GEN-7F1610,22.8200716,69.5188867,"1960, Gujarat, India",True
+1961,GEN-F106B7,22.8200716,69.5188867,"1961, Gujarat, India",True
+1962,GEN-95F687,22.8200716,69.5188867,"1962, Gujarat, India",True
+1963,GEN-C215B4,22.8200716,69.5188867,"1963, Gujarat, India",True
+1965,GEN-D46E1F,22.8200716,69.5188867,"1965, Gujarat, India",True
+1966,GEN-3683AF,22.8200716,69.5188867,"1966, Gujarat, India",True
+1967,GEN-A82D92,22.8200716,69.5188867,"1967, Gujarat, India",True
+1968,GEN-98C724,22.8200716,69.5188867,"1968, Gujarat, India",True
+2084,GEN-A088EA,22.8200716,69.5188867,"2084, Gujarat, India",True
+2085,GEN-E0A209,22.8200716,69.5188867,"2085, Gujarat, India",True
+2088,GEN-D3A7F4,23.1629053,72.688695,"2088, Gujarat, India",True
+2090,GEN-26F5BD,22.8200716,69.5188867,"2090, Gujarat, India",True
+2093,GEN-B2AB00,22.8200716,69.5188867,"2093, Gujarat, India",True
+3207,GEN-D77E68,22.8200716,69.5188867,"3207, Gujarat, India",True
+3219,GEN-94B5BD,23.1629053,72.688695,"3219, Gujarat, India",True
+3221,GEN-F5C150,22.8200716,69.5188867,"3221, Gujarat, India",True
+3222,GEN-687FD5,23.1629053,72.688695,"3222, Gujarat, India",True
+3223,GEN-DF8397,22.8200716,69.5188867,"3223, Gujarat, India",True
+3224,GEN-0D352B,22.8200716,69.5188867,"3224, Gujarat, India",True
+3225,GEN-6DFE08,22.8200716,69.5188867,"3225, Gujarat, India",True
+3226,GEN-907EDB,23.1629053,72.688695,"3226, Gujarat, India",True
+3227,GEN-AAC615,22.8200716,69.5188867,"3227, Gujarat, India",True
+3228,GEN-040A99,23.1629053,72.688695,"3228, Gujarat, India",True
+3229,GEN-85AE75,23.1629053,72.688695,"3229, Gujarat, India",True
+3230,GEN-C12706,22.8200716,69.5188867,"3230, Gujarat, India",True
+3238,GEN-528AEC,22.8200716,69.5188867,"3238, Gujarat, India",True
+3239,GEN-AE3539,22.8200716,69.5188867,"3239, Gujarat, India",True
+3243,GEN-38811C,22.8200716,69.5188867,"3243, Gujarat, India",True
+1975,GEN-7D2B92,22.8200716,69.5188867,"1975, Gujarat, India",True
+3199,GEN-B59307,22.8200716,69.5188867,"3199, Gujarat, India",True
+3201,GEN-24EC84,22.8200716,69.5188867,"3201, Gujarat, India",True
+"Ambika At Bilimora, Gujarat",1148,20.7671693,72.9693451,"bilimora gujarat, Gujarat, India",True
+"Damanganga At Kachigaon U\S At Gidc Wier, Gujarat",1150,23.0373068,72.5447481,"gujarat, Gujarat, India",True
+"Damanganga At Kachigaon D\S (Daman), Gujarat",1246,20.2072531,73.2762766,"daman gujarat, Gujarat, India",True
+Amlakhadi After Confl. Of W. Water From Anklesh,1434,,,,False
+"Kolak At Railway Bridge No. 313 Vapi, Valsad, Guja",1435,,,,False
+Bhadar D/S Jetpur Vill. After Conf. Of W.Water Fro,1436,,,,False
+"Mindhola At State Highway Bridge Sachin, Gujarat",1438,21.0778781,72.8744643,"sachin gujarat, Gujarat, India",True
+River Purna On Bridge At Surat-Navsari Highway,1861,21.0055271,73.0916595,"purna surat navsari, Gujarat, India",True
+River Kaveri On Bridge At Billimora-Valsad Road,1862,20.4321957,73.1409893,"valsad, Gujarat, India",True
+River Bhogavo D/S Of Surendranagar.,2072,22.8251395,71.6209736,"surendranagar., Gujarat, India",True
+"Triveni Sangam, Nr. Somnath Temple, Veraval, Dist.",2082,20.8877607,70.4013906,"temple veraval dist., Gujarat, India",True
+Downstream Of River Vishwamitri At Khalipur Villag,3204,,,,False
+Upstream Of River Vishwamitri At Asod Bridge At N.,3205,,,,False
+"Damanganga At D/S Of Gidc Weir, Vapi",30039,20.3735482,72.9084376,"vapi, Gujarat, India",True
+Gujarat,"NARMADA MAIN CANAL, NR.
+VILLAGE. LIMBADIA, DIST. G",23.0373068,72.5447481,"gujarat, Gujarat, India",True
+"Mahi Near Rajasthan Border At Kadana Dam, Gujarat",1229,23.289682,73.8380384,"kadana gujarat, Gujarat, India",True
+"Mahi After Conf. With Anas At Pardi (Banaswada), G",1230,,,,False
+1864,GEN-D07267,22.8200716,69.5188867,"1864, Gujarat, India",True
+"Mahi At Vasad, Gujarat",5,22.4516351,73.0671647,"vasad gujarat, Gujarat, India",True
+"River Mahi At Sindhort Weir,Gujarat",3206,23.0373068,72.5447481,"gujarat, Gujarat, India",True
+"Anas At Dahod, (Kushalgarh), Dist. Panchmahal, Guj",1228,22.5415068,73.4334443,"dist. panchmahal, Gujarat, India",True
+"Sabarmati At Gandhi Nagar Chiloda Bridge, Lekawada",1407,,,,False
+"Sabarmati At Vill. Miroli Taluka Dascroi, Ahmedaba",1408,,,,False
+"Sabarmati At Railway Bridge Ahmedabad, Gujarat",1409,23.0773,72.5863308,"sabarmati railway ahmedabad gujarat, Gujarat, India",True
+Sabarmati After Conf. With Meshwa At Vautha (Near,1223,22.6593623,72.5367272,"vautha, Gujarat, India",True
+"Sabarmati At Ahmedabad At V.N. Bridge, Gujarat",2,23.0985675,69.6157893,"v.n. gujarat, Gujarat, India",True
+"Khari At Lali Village Near Ahmedabad, Gujarat",1437,22.8689262,72.6280463,"lali ahmedabad gujarat, Gujarat, India",True
+"Narmada At Garudeshwar, Gujarat",7,21.8332875,73.7590407,"narmada garudeshwar gujarat, Gujarat, India",True
+"Narmada At Bharuch, Zadeshvar, Gujarat",1243,23.0373068,72.5447481,"gujarat, Gujarat, India",True
+"Narmada At Panetha, Gujarat",1244,21.8899476,73.2682943,"panetha gujarat, Gujarat, India",True
+"Narmada At Chandod, Gujarat",1245,21.9866962,73.4545373,"chandod gujarat, Gujarat, India",True
+Ground Water At Bhavnagar,1948,21.7592999,72.1464797,"ground bhavnagar, Gujarat, India",True
+Ground Water At Siddhpur (Dist.Patan),1957,23.918279,72.3681846,"siddhpur dist.patan, Gujarat, India",True
+Ground Water At Himatnagar,1958,23.5989302,72.9849779,"ground himatnagar, Gujarat, India",True
+Vadodara (Industrial- Nandesari),1962,22.4178037,73.0949186,"nandesari, Gujarat, India",True
+Well At Ankleshwar Industrial Area (Bore Well Of M/S Industrial Carbon At Ankleshwar- Rajpipla Road.,2094,21.878069,73.5039695,"rajpipla, Gujarat, India",True
+"Bore Well, Snr. Vinayak Jal Suddhikaran Sahakari Mandali Ltd. (Cetp ), Vill. Bavla, Dist. Ahmedabad.",2096,22.8278859,72.3684741,"bavla dist. ahmedabad., Gujarat, India",True
+"Bore Well Of Pirana Terminal Pumping Station,",2098,23.0130458,72.6045406,"terminal, Gujarat, India",True
+"Jilla Panchayat School, Near Gram Panchayat Kata Falia, Village Namdha, Valsad",3208,20.4321957,73.1409893,"valsad, Gujarat, India",True
+"Borewell At Piramal Glass, Village Tarsadi At Kosamba Industrial Area, Surat",3210,21.3333433,72.8961941,"industrial surat, Gujarat, India",True
+"Borewell Near Center Of Excellence Building, Gidc, Vatva, Ahmedabad",3212,22.9752916,72.6430213,"gidc vatva ahmedabad, Gujarat, India",True
+"Borewell Near Gidc Odhav Industrial Association Building, Gidc, Odhav, Ahmedabad",3214,23.0185001,72.6577647,"odhav ahmedabad, Gujarat, India",True
+"Borewell Near Tsdf Site Of Green Environmnet Services Co. Op.Ltd, Vatva, Ahmedabad",3216,22.9688355,72.6067645,"vatva ahmedabad, Gujarat, India",True
+"Borewell Of Gidc-Nadiad At Gidc Office, Gidc Nadiad, Kheda",3220,22.6942577,72.8590972,"nadiad kheda, Gujarat, India",True
+"Borewell Of Gidc, Antalia Water Supply, Billimora, Gandevi",3232,20.8029715,72.9966726,"gandevi, Gujarat, India",True
+"Borewell Nera Tsdf Of Nandesari Enviro Control Limited, Nadesari, Vadodara",3234,22.2973142,73.1942567,"vadodara, Gujarat, India",True
+"Borewell Of Gidc Kalol, B/H Gidc Office, Gidc, Kalol, Gandhinagar",3235,23.2899735,72.4378365,"gidc kalol gandhinagar, Gujarat, India",True
+"Borewell Of M/S Alfa Eca (I) Ltd., Unit-1, Sr.No. 249, Uma Ind. Estate, Vasna , Iyava, Sanand, Ahmedabad",3236,23.0252667,72.3363409,"iyava sanand ahmedabad, Gujarat, India",True
+"Borewell Near Tsdf Of Gujarat Maritime Board, Alang, Bhavnagar",3242,21.3968581,72.1774463,"alang bhavnagar, Gujarat, India",True
+"Borewell Near Tsdf Of Bharuch Enviro Infrastructure Limited, Ankleshwar, Bharuch",3244,21.6395688,72.9837687,"limited ankleshwar bharuch, Gujarat, India",True
+"Borewell Of Gidc Office, Shankar Tekri, Udhyognagar, Jamnangar",3246,,,,False
+"Borewell Of Mr. Hitendrabhai Lakhmanbhai Ker Shiv Sai Park, New Smashan Road, Gandhinagar",4411,23.2232877,72.6492267,"gandhinagar, Gujarat, India",True
+"Borewell Of Shri Kankeshwar Mahadev Mandir, Opp. Msw Dumpsite, Vibhapar",4412,23.21023,69.3768167,"vibhapar, Gujarat, India",True
+"B/W Of Jashwantbhai Parmar, S. No. 18 At: Village Kalamsar, Ta Khambhat",4413,22.3020491,72.7416433,"kalamsar khambhat, Gujarat, India",True
+"Bore Well Of Iti Collage Opp, M/S Paliwal Milk At Mota Sonela, Modasa Road, Tal, Lunavada, Dist. Mahisagar",4422,23.1290668,73.611114,"lunavada dist. mahisagar, Gujarat, India",True
+"Kankoria Lake At Ahmedabad, Nr. Balvatika,",1343,,,,False
+"Chandola Lake At Ahmedabad,",1344,22.986953,72.5869638,"chandola lake ahmedabad, Gujarat, India",True
+"Ajwah Lake At Sri Sayaji Sabvar, Baroda,",1345,22.2973142,73.1942567,"baroda, Gujarat, India",True
+"Sursagar Lake At Baroda,",1346,22.2973142,73.1942567,"baroda, Gujarat, India",True
+"Nalsarovar Lake (Sanand), Dist.Ahmedabad",1972,23.0385802,72.4587752,"lake sanand dist.ahmedabad, Gujarat, India",True
+"Moticher Lake Near Kakarpar Atomic Power Station, Dist. Surat.",2077,21.1511918,72.8646096,"station dist. surat., Gujarat, India",True
+"Olpad, Village Pond:Olpad, Surat",1979,21.2094892,72.8317058,"surat, Gujarat, India",True
+Thol Tank (Kalol) (Dist. Mehasana),1971,23.6027877,72.38113,"dist. mehasana, Gujarat, India",True
+"Narmada Main Canal, Nr. Village. Limbadia, Dist. Gandhinagar.",2073,23.2414544,72.5030444,"dist. gandhinagar., Gujarat, India",True
+"Tapi Canal At Village Umarwada, Near Gidc Estate Of Panoli.",2074,21.5354608,72.9780444,"panoli., Gujarat, India",True
+"From Narmada Main Canal At Indorahmedabad Highway Bridge Near Village Motikantadi Tal, Godhra, Dist Panchmahal",4421,22.7785001,73.6245157,"godhra dist panchmahal, Gujarat, India",True
+Amlakhadi Creek At Pungam.,2081,,,,False
+"Vandkhadi At Village Umarwada, Ta Ankleshwar, Bharuch",3196,21.6293206,72.9945103,"ankleshwar bharuch, Gujarat, India",True
+Ahmedabad-1 Benrampura,20015,,,,False
+Ahmedabad-2 Narol Sarkhej Highway,20016,22.992044,72.5365265,"ahmedabad narol sarkhej, Gujarat, India",True
+"Bhadar D/S Jetpur Vill. After Conf. Of W.Water From Jetpur City,",1436,21.7543725,70.6189391,"jetpur city, Gujarat, India",True
+"Damanganga At Kachigaon U\S At Gidc Wier,",1150,,,,False
+"Damanganga At Kachigaon D\S (Daman),",1246,20.2072531,73.2762766,"daman, Gujarat, India",True
+Dhadar River At Kothada,1865,,,,False
+"Gidc Water Reservoir Vill: Bhersam Ta: Vagra, Dist: Bharuch",4420,21.8447606,72.8448749,"vagra dist: bharuch, Gujarat, India",True
+Kaveri River On Bridge At Billimora-Valsad Road,1862,20.4321957,73.1409893,"valsad, Gujarat, India",True
+Kolak At Patalia Bdg.,1149,,,,False
+"Mindhola At State Highway Bridge Sachin,",1438,21.0778781,72.8744643,"sachin, Gujarat, India",True
+"Kolak At Railway Bridge No. 313 Vapi, Valsad,",1435,20.3735482,72.9084376,"vapi valsad, Gujarat, India",True
+Purna River On Bridge At Surat- Navsari Highway,1861,21.0912275,72.8913678,"surat navsari, Gujarat, India",True
+"Tappar Dam, Village Tappar, Tal. Anjar",4423,23.1194278,70.0363797,"anjar, Gujarat, India",True
+"Triveni Sangam, Nr. Somnath Temple, Veraval, Dist. Junagadh.",2082,20.9128443,70.3626875,"veraval dist. junagadh., Gujarat, India",True
+"Vishwamitri Downstream Of At Khalipur Village, Before Meeting Jambuva River",3204,,,,False
+"Vishwamitri Upstream At Asod Bridge At N.H. 8 , Near Glden Chokdi, Asod Vemali Road",3205,,,,False
+"Anas At Dahod, (Kushalgarh), Dist. Panchmahal",1228,22.5415068,73.4334443,"dist. panchmahal, Gujarat, India",True
+"Sabarmati At Vill. Miroli Taluka Dascroi,",1408,,,,False
+"Dharoi Dam, Dist. Mehsana.",2075,23.6013329,72.3899817,"dist. mehsana., Gujarat, India",True
+Well At Baroda,6,22.2973142,73.1942567,"baroda, Gujarat, India",True
+Ground Water At Amreli,1949,20.8348367,70.6800463,"ground amreli, Gujarat, India",True
+Ground Water At Junagadh,1950,21.5220416,70.4582458,"junagadh, Gujarat, India",True
+Ground Water At Surendranagar,1952,22.726706,71.6226066,"ground surendranagar, Gujarat, India",True
+Ground Water At Jamnagar,1953,22.4710345,70.0644551,"ground jamnagar, Gujarat, India",True
+Ground Water At Bhuj,1954,23.2620221,69.666877,"ground bhuj, Gujarat, India",True
+Ground Water At Palanpur,1955,24.1608939,72.4434719,"ground palanpur, Gujarat, India",True
+Ground Water At Mehasana,1956,23.6108761,72.3910772,"ground mehasana, Gujarat, India",True
+Ground Water At Nadiad,1959,22.5990096,72.8217808,"ground nadiad, Gujarat, India",True
+Ground Water At Dahod,1960,22.9194099,74.1342725,"dahod, Gujarat, India",True
+Ground Water At Godhara,1961,22.77011,73.6199822,"godhara, Gujarat, India",True
+Bore Well Of Pirana Terminal Pumping,2098,21.2068185,72.825629,"pumping, Gujarat, India",True
+"Borewell, Cetp- Naroda, Gidc, Naroda- Ahmedabad",3213,23.0926586,72.6687953,"gidc naroda ahmedabad, Gujarat, India",True
+"Borewell Of Gidc- Nadiad At Gidc Office, Gidc Nadiad, Kheda",3220,22.6942577,72.8590972,"nadiad kheda, Gujarat, India",True
+"Borewell Of M/S Alfa Eca (I) Ltd., Unit-1,",3236,22.0888597,71.7032161,"ltd., Gujarat, India",True
+"B/W Of Disaster Prevention And Managemant Center(Dpmc) Gide, Ankle Shwar For (Minars)",4414,,,,False
+Bore Well At Voragamdi,4416,,,,False
+River Ambika At Bilimora,1148,20.7671693,72.9693451,"bilimora, Gujarat, India",True
+River Kolak At Patalia Bdg.,1149,,,,False
+"River Damanganga At Kachigaon U\S At Gidc Wier,",1150,,,,False
+"River Damanganga At Kachigaon D\S (Daman),",1246,20.2072531,73.2762766,"daman, Gujarat, India",True
+River Amlakhadi After Confl. Of W. Water From Anklesh,1434,,,,False
+"River Kolak At Railway Bridge No. 313 Vapi, Valsad,",1435,20.3735482,72.9084376,"vapi valsad, Gujarat, India",True
+"River Bhadar D/S Jetpur Vill. After Conf. Of W.Water From Jetpur City,",1436,21.7543725,70.6189391,"jetpur city, Gujarat, India",True
+"River Mindhola At State Highway Bridge Sachin,",1438,21.0778781,72.8744643,"sachin, Gujarat, India",True
+River Baleshwar Khadi At N.H. No. 8,1860,23.0185795,72.5713814,"n.h., Gujarat, India",True
+River Purna On Bridge At Surat- Navsari Highway,1861,21.0055271,73.0916595,"purna surat navsari, Gujarat, India",True
+River Kaveri On Bridge At Billimora- Valsad Road,1862,20.4321957,73.1409893,"valsad, Gujarat, India",True
+River Dhadar At Kothada,1865,,,,False
+River Amlakhadi At Pungam Ankleshwar Distt Bharuch,1980,21.6293206,72.9945103,"ankleshwar distt bharuch, Gujarat, India",True
+"River Triveni Sangam, Nr. Somnath Temple, Veraval, Dist. Junagadh.",2082,20.9128443,70.3626875,"veraval dist. junagadh., Gujarat, India",True
+"River Vishwamitri Downstream Of At Khalipur Village, Before Meeting Jambuva River",3204,,,,False
+"River Vishwamitri Upstream At Asod Bridge At N.H. 8 , Near Glden Chokdi, Asod Vemali Road",3205,,,,False
+"River Damanganga At D/S Of Gidc Weir, Vapi",30039,20.3735482,72.9084376,"vapi, Gujarat, India",True
+"Narmada At Bharuch, Zadeshvar",1243,,,,False
+Tapi At Surat U/S Kathore,1248,,,,False
+"Bore Well Of Pirana Terminal Pumping Station, Pirana, Nr. V. N. Bridge, Ahmedabad.",2098,22.9661748,72.557483,"pirana ahmedabad., Gujarat, India",True
+Borewell Near Gidc Odhav Industrial Association,3214,22.3627855,70.7100844,"association, Gujarat, India",True
+River Mahi At Sevalia,4,22.8179181,73.404794,"sevalia, Gujarat, India",True
+River Mahi At Vasad,5,22.4516351,73.0671647,"vasad, Gujarat, India",True
+"River Mahi After Conf. With Anas At Pardi (Banaswada),",1230,,,,False
+"River Mahi At Virpur,",1231,21.8490419,70.707834,"virpur, Gujarat, India",True
+River Mahi At Umeta Bridge,1863,22.333298,73.0514182,"umeta, Gujarat, India",True
+River Mahi At Mujpur,1864,22.2518665,72.9919347,"mujpur, Gujarat, India",True
+River Mahi At Sherkhi Bridge,3206,,,,False
+River Mahi At Dodka,4415,,,,False
+"River Mahi At Kadana Dam, (Gujarat)",30050,23.289682,73.8380384,"kadana gujarat, Gujarat, India",True
+"River Anas At Dahod, (Kushalgarh), Dist. Panchmahal",1228,22.5415068,73.4334443,"dist. panchmahal, Gujarat, India",True
+"River Panam At Lunawada,",1227,,,,False
+"River Sabarmati At Kheroj Bridge,",1221,,,,False
+"River Sabarmati After Conf. With Meshwa At Vautha (Near Dhokla),",1223,22.2403001,68.9669066,"dhokla, Gujarat, India",True
+"River Sabarmati At Railway Bridge Ahmedabad,",1409,23.0773,72.5863308,"sabarmati railway ahmedabad, Gujarat, India",True
+"River Sabarmati At Hansaol Bridge,",1866,,,,False
+River Sabarmati At Dharoi Dam,1,23.9863211,72.9116811,"dharoi, Gujarat, India",True
+River Sabarmati At Ahmedabad At V.N. Bridge,2,23.021774,72.623712,"v.n., Gujarat, India",True
+"River Sabarmati At Vill. Miroli Taluka Dascroi, Ahmedabad,",1408,23.0215374,72.5800568,"ahmedabad, Gujarat, India",True
+"River Sabarmati At Dharoi Dam, Dist. Mehsana.",2075,23.6013329,72.3899817,"dist. mehsana., Gujarat, India",True
+River Sabarmati At Ahmedabad U/S,10014,23.0770712,72.5890677,"sabarmati ahmedabad, Gujarat, India",True
+River Sabarmati At Ahmedabad D/S,10015,23.0770712,72.5890677,"sabarmati ahmedabad, Gujarat, India",True
+"River Shedhi At Kheda,",1222,22.8990926,72.9948451,"shedhi kheda, Gujarat, India",True
+"River Khari At Lali Village Near Ahmedabad,",1437,22.8689262,72.6280463,"lali ahmedabad, Gujarat, India",True
+"River Narmada At Gora Bridge, Navagam (Gujarat)",30048,22.3217333,70.8451652,"navagam gujarat, Gujarat, India",True
+River Narmada At Garudeshwar,7,21.9151502,73.7474678,"narmada garudeshwar, Gujarat, India",True
+"River Narmada At Panetha,",1244,21.8899476,73.2682943,"panetha, Gujarat, India",True
+"River Narmada At Chandod,",1245,21.9866962,73.4545373,"chandod, Gujarat, India",True
+"River Narmada At Zanor (Ntpc), Bharuch",1981,21.8242754,73.1136745,"ntpc bharuch, Gujarat, India",True
+"River Narmada At Bharuch, Zadeshvar,",1243,,,,False
+"River Tapi At Ukai, Sherula Bridge",46,,,,False
+"River Tapi At Mandavi,",1247,,,,False
+River Tapi Near Bardoli (Kapp Bridge) Bardoli,1983,21.1338291,73.1053896,"bardoli, Gujarat, India",True
+"River Tapi At Kathore, (Nh-8 Bridge)",47,,,,False
+"River Tapi At Surat U/S Kathore,",1248,,,,False
+"River Tapi At Rander Bridge, Surat",1982,21.2160703,72.799745,"rander surat, Gujarat, India",True
+"River Tapi At Ongc Bridge At Surat,",2071,21.142053,72.7503914,"ongc surat, Gujarat, India",True
+"River Tapi At Kurkurmunda Bridge, Nizhar Road, Near Kurkurmunda Village, Gujarat",30045,23.0373068,72.5447481,"gujarat, Gujarat, India",True
+"River Amravati At Village Dadhal , Ta Ankleshwar, Bharuch",3203,21.6355384,73.0620214,"dadhal ankleshwar bharuch, Gujarat, India",True
+"River Kim At Sahol Bridge, Olpad Hansot Road, Dist. Surat",2070,21.1652945,72.7763076,"dist. surat, Gujarat, India",True
+"Ground Water At Surendranagarat. Bhavani Plastic (Steelman Oxygen, Plot No.C1/613, Phase 3, Opp",1952,21.142053,72.7503914,"phase, Gujarat, India",True
+"Ground Water At Jamnagarborewell Of Rameshwar Temple, Near Rameshwar Chowk, Jamnagar",1953,22.4642157,70.0566299,"chowk jamnagar, Gujarat, India",True
+"Ground Water At Bhujodhav Park Society-2,Pramukh Swami Nagar Road,Behind Ashapura School,Ta:Bhuj, Dist;Kutch (West)",1954,22.2980523,70.7815215,"west, Gujarat, India",True
+"Ground Water At Palanpurbehind Jilla Seva Sadan-2, Near Joravar Palace, Palanpur, Dist- Banaskantha",1955,24.1857391,72.4346959,"palanpur dist banaskantha, Gujarat, India",True
+"Ground Water At Mehasanamodhera Gidc, Tal & Dist : Mehsana",1956,23.5930591,72.3761447,"gidc dist mehsana, Gujarat, India",True
+"Ground Water At Siddhpur (Dist.Patan)Ahmedabad- Palanur Highway, Tavadiya Crossing, Near Madhivai, Siddpur, Dist-Patan",1957,20.9072148,70.3657008,"dist patan, Gujarat, India",True
+"Ground Water At Himatnagarborewell Of Himatnagar Nagarpalika, At. Himatnagar, Dist. Sabarkantha",1958,23.5949104,72.9605997,"himatnagar dist. sabarkantha, Gujarat, India",True
+"Ground Water At Nadiadborewell Of Santram Mandir, Nadiad,Dist: Kheda",1959,22.6942577,72.8590972,"nadiad dist: kheda, Gujarat, India",True
+"Ground Water At Dahodwell At Hindu Dharamashala, Station Road, Dahod",1960,22.8439297,74.252386,"station dahod, Gujarat, India",True
+"Ground Water At Godharawell At Office Of Panchmahal Industries Faderation, Near Circuit House, Godhra",1961,22.7757995,73.5472829,"house godhra, Gujarat, India",True
+Vadodara (Industrial- Nandesari)Gidc-Nandesari,1962,22.4178037,73.0949186,"nandesari, Gujarat, India",True
+"Pandesara (Indstrial) Suratpandesara Gidc, Surat",1964,21.092746,72.8580597,"gidc surat, Gujarat, India",True
+"Mora-Hajira (Industrial), Hajirahazira,Surat.",1965,21.2094892,72.8317058,"surat., Gujarat, India",True
+"Atul, Village G.W, (Valsad)B/W At Atul Village G.W",1967,20.5365417,72.9394198,"atul valsad atul, Gujarat, India",True
+"Vapi Industrial Area (Rajashthan Bhavan) U/S, Vapib/W At Vapi Industrial Area U/S In Rajasthan Bhavan Silvasa Rd, Opposite Gurudwara, Gidc, Vapi, Gujarat 396195",1968,20.3735482,72.9084376,"vapi gujarat 396195, Gujarat, India",True
+"B/W At Costal Highway Char Rasta, Fansa, Ta:Umberga N, Dist:Valsadb/W At Costal Highway Char Rasta, Fansa, Ta:Umbergaon, Dist:Valsad",1969,20.3461917,72.787241,"fansa ta:umbergaon dist:valsad, Gujarat, India",True
+"Borewell D/S Tsdf Site, Gidc Industrial Area, Vapib/W At D/S Tsdf Site Plot No.4807, Phase 4, Gidc, Vapi",1970,20.3735482,72.9084376,"vapi, Gujarat, India",True
+"Bore Well Of Chhatral Gidc.Borewell Of Gidc Chhatral, Phase I",2083,21.142053,72.7503914,"phase, Gujarat, India",True
+"Bore Well Of Palsana Village.Palasana,Surat.",2084,21.2094892,72.8317058,"surat., Gujarat, India",True
+Bore Well Of Santej Village.Borewell Of Santej Gram Panchayat,2085,21.8584483,69.5718657,"gram panchayat, Gujarat, India",True
+"B/W- Hazardous W. Disposal Site (Guj. Enviro P.& I. Ltd. )(Gepil),Sachin,Surat",2087,21.0778781,72.8744643,"sachin surat, Gujarat, India",True
+"Bore Well Of Sachin Gidc.Sachin Gidc, Sachin,Surat",2088,21.092746,72.8580597,"gidc sachin surat, Gujarat, India",True
+"B/W Near Indl. Area Borasara & Navapura, Dist. Surat.Plot-202 ,Kim,Surat.",2089,21.2094892,72.8317058,"surat., Gujarat, India",True
+"Well At Olpad.Olpad ,Surat",2090,21.3360054,72.7516479,"olpad.olpad surat, Gujarat, India",True
+"Bore Well Of Navsari Gidc Industries Association Office.At- Gidc -Kabilpore,Ta & Di - Navsari, Gujarat",2091,20.9522862,72.9547023,"kabilpore navsari gujarat, Gujarat, India",True
+Well Of Bardoli At Rest House.Bardoli-Vyara Road,2093,21.1176744,73.3857702,"vyara, Gujarat, India",True
+"Well At Ankleshwar Industrial Area (Bore Well Of M/S Industrial Carbon At Ankleshwar- Rajpipla Road.Ankleshwar- Rajpipla Road, Nr Gidc Ankleshwar, Dist Bharuch",2094,21.6293206,72.9945103,"ankleshwar dist bharuch, Gujarat, India",True
+"Bore Well, Snr. Vinayak Jal Suddhikaran Sahakari Mandali Ltd. (Cetp ), Vill. Bavla, Dist. Ahmedabad.S. N. 644/1-4, Vill. Bavla, Dist. Ahmedabad.",2096,22.8278859,72.3684741,"bavla dist. ahmedabad., Gujarat, India",True
+"Bore Well Of Someshwar Rice Mill, Nr. Bavla Eco",2097,22.8278859,72.3684741,"bavla, Gujarat, India",True
+"Bore Well Of Pirana Terminal Pumping Station, Pirana, Nr. V. N. Bridge, Ahmedabad.Nr. V.N Bridge, Pirana, Ahmedabad",2098,22.9661748,72.557483,"pirana ahmedabad, Gujarat, India",True
+"Borewell Of Gidc, Jhagadiaat Final Pumping Station, Gidc Jhaghadia, Dist Bharuch",3207,21.6211077,73.1253497,"dist bharuch, Gujarat, India",True
+"Jilla Panchayat School, Near Gram Panchayat Kata Falia, Village Namdha, Valsadb/W At Jilla Panchay School Near Gram Panchayat Kata Falia, Village Namdha, Valsad",3208,20.4321957,73.1409893,"valsad, Gujarat, India",True
+"Borewell Of Gayatri Pragna School, Bhadarwad Road, Bazar Falia, Sarigam, Valsadborewell Of Gayatri Pragna School, Bhadarwad Road, Bazar Falia, Sarigam, Valsad",3209,20.2834614,72.8705969,"sarigam valsad, Gujarat, India",True
+"Borewell At Piramal Glass, Village Tarsadi At Kosamba Industrial Area, Suratkosamba,Surat",3210,21.2094892,72.8317058,"surat, Gujarat, India",True
+"Borewell At Primary Health Center, Kadodara, Suratkadodara,Surat",3211,21.2094892,72.8317058,"surat, Gujarat, India",True
+"Borewell Near Center Of Excellence Building, Gidc, Vatva, Ahmedabadcenter Of Excellence Building, Plot No 511 Gidc- Phase Iv, Vatva, Ahmedabad",3212,22.9565855,72.6409454,"phase vatva ahmedabad, Gujarat, India",True
+"Borewell, Cetp-Naroda, Gidc, Naroda-Ahmedabadplot No 512-515 Phase -I Gidc -Naroda -Ahmedabad",3213,23.0926586,72.6687953,"gidc naroda ahmedabad, Gujarat, India",True
+"Borewell Near Gidc Odhav Industrial Association Building, Gidc, Odhav, Ahmedabadodhav Industrial Association Building, Plot No H 35, Gidc, Odhav, Odhav Road Ahmedabad",3214,23.0244645,72.6688642,"odhav odhav ahmedabad, Gujarat, India",True
+"Borewell Near Municipal Solid Waste Site- Gyaspur, Narol, Ahmedabadnr. Gyaspur Sanitary Landfill Site, Gyaspur, Ahmedabad",3215,22.9845276,72.528063,"gyaspur ahmedabad, Gujarat, India",True
+"Borewell Near Tsdf Site Of Green Environmnet Services Co. Op.Ltd, Vatva, Ahmedabadtsdf Site Of Green Environmnet Services Co. Op.Ltd, S. No 89,90,91 Vinzol Tal Daskroi , Ahmedabad",3216,23.0642607,72.6752377,"daskroi ahmedabad, Gujarat, India",True
+"Borewell Near Tsdf Site Of Naroda Enviro Project.Ltd, Odhave, Ahmedabadtsdf Site Of Naroda Enviro Project.Ltd, S No 286 , Vastral Road ,Odhave",3217,,,,False
+"Well Of Modasa, Nagar Palika, Varigruh, Modasawell Of Modasa, Nagar Palika, Varigruh, At. Modasa. Dist. Arvalli",3218,,,,False
+"Well Of Idar, Nagar Palika, Sakaria, Idarborewell Of Idar Nagarpalika, At. Sakaria, Ta. Idar, Dist. Sabarkantha",3219,23.5949104,72.9605997,"dist. sabarkantha, Gujarat, India",True
+"Borewell Of Gidc-Nadiad At Gidc Office, Gidc Nadiad, Khedaborewell Of Gidc- Nadiad At Gidc Office, Gidc Nadiad, Kheda",3220,22.6942577,72.8590972,"nadiad kheda, Gujarat, India",True
+"Borewell Of Town Rajpipla, Dist.Narmadanagarpalika Office, At Rajpipla, Dist Narmada",3221,21.878069,73.5039695,"rajpipla dist narmada, Gujarat, India",True
+"Borewell Of Gidc, Panoliat Water Treatment Plant , Gidc Panoli, Dist Bharuch",3222,21.5354608,72.9780444,"panoli dist bharuch, Gujarat, India",True
+"Borewell Kadi Industrial Areakadi Gidc, Tal: Kadi, Dist : Mehsana",3223,23.297561,72.329899,"kadi dist mehsana, Gujarat, India",True
+"Deesa Borewellmain Water Tank, Beside Bhanasali Hospital, Near Sardar Garden, Deesa, Dist- Banaskantha",3224,24.2594977,72.1803348,"deesa dist banaskantha, Gujarat, India",True
+"Visnagar Borewellvisnagar Gidc, Tal : Visnagar, Dist: Mehsana",3225,23.6129301,72.4036188,"visnagar dist: mehsana, Gujarat, India",True
+"Patan Borewellwater Pumping Station, Gandhibag, Janta Hospital Road, Patan, Dist-Patan",3226,20.9072148,70.3657008,"patan dist patan, Gujarat, India",True
+"Vijapur (Ranasan) Borewellranasan Gidc, Vill: Ranasan, Tal : Vijapur, Dist: Mehsana",3227,23.5647986,72.4255378,"vijapur dist: mehsana, Gujarat, India",True
+"Gidc, Halol, Panchmahalbore Well Of M/S. Safari Industries, Gidc, Halol, Dist. Pnchmahal",3228,,,,False
+"Gidc, Dahod, Dahodhand Pump Opp. M/S Star Rediator, Chakaliya Road, Gidc, Dahod, Dist. Dahod",3229,22.8358786,74.2556823,"dahod dist. dahod, Gujarat, India",True
+"Borewell Of Gidc, Junagadhplot No. 317, Gidc- Ii, Dolatpara, At:Junagadh, Tal:Junagadh, Dist:Junagadh",3230,21.5005197,70.4238698,"dist:junagadh, Gujarat, India",True
+"Borewell Near Tsdf Site Of Saurashtra Enviro Project Ltd., Juna Katariya, Bhachauborewell Near Tsdf Site Of Saurashtra Enviro Project Ltd., Juna Katariya, Bhachau",3231,23.3054506,70.6186751,"juna katariya bhachau, Gujarat, India",True
+"Borewell Of Gidc, Antalia Water Supply, Billimora, Gandeviat- Gidc - Antalia, Ta-",3232,,,,False
+"Borewell Of Kaliawadi Grid Road, Navsariat - Kaliyawadi, Navsari City, Ta & Di - Navsari, Gujarat.",3233,20.952407,72.9323831,"city navsari gujarat., Gujarat, India",True
+"Borewell Nera Tsdf Of Nandesari Enviro Control Limited, Nadesari, Vadodaratsdf Site Of Nandesari",3234,22.4178037,73.0949186,"nandesari, Gujarat, India",True
+"Borewell Of Gidc Kalol, B/H Gidc Office, Gidc, Kalol, Gandhinagarborewell Of Kalol Gidc",3235,21.092746,72.8580597,"gidc, Gujarat, India",True
+"Borewell Of M/S Alfa Eca (I) Ltd., Unit-1, Sr.No. 249, Uma Ind. Estate, Vasna , Iyava, Sanand, Ahmedabadsr.No. 249, Uma Ind. Estate, Vasna , Iyava, Sanand, Ahmedabad",3236,23.0252667,72.3363409,"iyava sanand ahmedabad, Gujarat, India",True
+"Borewell Of L & T Ltd., Plot No. 144/146, Sarkhej-Bavla Road, Sanand, Ahmedabad Plot No. 144/146, Sarkhej- Bavla Road, Sanand, Ahmedabad",3237,23.0015941,72.2595567,"sanand ahmedabad, Gujarat, India",True
+"Borewell Of Gidc Kansaribore Well Of Gidc Kansari, In The Premises Of Gidc Water Supply Tank, Gidc Kansari, Ta. Khambhat, Dist. Anand",3238,22.3166806,72.6243126,"khambhat dist. anand, Gujarat, India",True
+"Borewell Of Gidc, Sojitraborewell Of Gidc, Sojitra In The Premises Of Gidc Water Supply Tank, Gidc-Sojitra, Ta. Sojitra, Dist. Anand.",3239,22.5391166,72.7192782,"sojitra dist. anand., Gujarat, India",True
+"Borewell Near Tsdf Of Gujarat Maritime Board, Alang, Bhavnagarbapa Sitaram Madhi, Alang Rd, Vil- Manar, Bhavnagar",3242,21.4148514,72.1642053,"manar bhavnagar, Gujarat, India",True
+"Borewell Of Gidc, Vartej, Bhavnagargidc Of Vartej, Near Madhusilica Industry, Vartej, Bhavnagar",3243,21.7397432,72.0644938,"vartej bhavnagar, Gujarat, India",True
+"Borewell Near Tsdf Of Bharuch Enviro Infrastructure Limited, Ankleshwar, Bharuchat Beil Tsdf Site, Gidc Ankleshwar, Dist Bharuch",3244,21.6293206,72.9945103,"ankleshwar dist bharuch, Gujarat, India",True
+"Borewell At Dhangadhra Near Dhangadhra Chemicalsborewell At Dhrangadhra, Near Dcw Limited, Dhrangadhra, Tal. Dhrangadhra, Dist. Surendranagar",3245,22.9896066,71.4664208,"dhrangadhra dist. surendranagar, Gujarat, India",True
+"Borewell Of Gidc Office, Shankar Tekri, Udhyognagar, Jamnangarborwell Of Gidc Association Office, Jamnagar",3246,22.4724909,70.0759695,"office jamnagar, Gujarat, India",True
+"Borewell Of Shri Mahavir Metal Craft Pvt. Ltd., Plot No. 3059, Road No.6, Nr. Mahavir Circle, Phase-Iii, Gidc, Dared, Jamnagarplot No. 3059, Road No.6, Nr. Mahavir Circle, Phase-Iii, Gidc, Dared, Jamnagar",3247,22.4140309,70.05799,"gidc dared jamnagar, Gujarat, India",True
+"Borewell Of Mr. Hitendrabhai Lakhmanbhai Ker Shiv Sai Park, New Smashan Road,",4411,20.8842361,70.4108294,"smashan, Gujarat, India",True
+"Borewell Of Shri Kankeshwar Mahadev Mandir, Opp. Msw Dumpsite, Vibhaparopp. Msw Dumpsite, Vibhapar",4412,23.21023,69.3768167,"vibhapar, Gujarat, India",True
+"B/W Of Jashwantbhai Parmar, S. No. 18 At: Village Kalamsar, Ta Khambhatb/W Of Jashwantbhai Parmar S. No. 18, Nr.Khodiyar Pura, Vill. Kalamsar, Ta. Khambhat,Dist. Anand",4413,22.3166806,72.6243126,"khambhat dist. anand, Gujarat, India",True
+Bore Well At Voragamdinear Msw Site Of Vadodara Municipal Corporation,4416,23.0209837,72.5856788,"municipal corporation, Gujarat, India",True
+"Bore Well Of Iti Collage Opp, M/S Paliwal Milk At Mota Sonela, Modasa Road, Tal, Lunavada, Dist. Mahisagarbore Well Of Iti Collage, Motasonela, Tal. Lunawada, Dist. Mahisagar",4422,23.1912194,73.6644398,"mahisagar, Gujarat, India",True
+"Vandkhadi At Village Umarwada, Ta Ankleshwar, Bharuchat Village Umarvada, Ta: Ankleshwar, Dist Bharuch",3196,21.6293206,72.9945103,"ankleshwar dist bharuch, Gujarat, India",True
+"Masma Khadi- Olpad- Saras Roadorma, Olpad Saras Road, From Bridge,Surat",2080,21.1853907,72.8067117,"from surat, Gujarat, India",True
+"Amlakhadi Creek At Pungam.At Village Pungam, Ta: Ankleshwar, Dist Bharuch",2081,21.6293206,72.9945103,"ankleshwar dist bharuch, Gujarat, India",True
+"Malav Talav, Dholka Dholka",3201,22.7267029,72.4354271,"malav talav dholka dholka, Gujarat, India",True
+Moonsar Lake Of Viramgamviramgam,3200,,,,False
+"River Damanganga At Zeri Causeway Bridge, Daman (Gujarat And Ut Of Daman,Diu,Dadar & Nagar Haveli And Gujarat)",30040,20.2843987,73.0994282,"nagar haveli gujarat, Gujarat, India",True
+"River Amlakhadi At Pungam Ankleshwar Distt Bharuchat Village Pungam, Ta: Ankleshwar, Dist Bharuch",1980,21.6293206,72.9945103,"ankleshwar dist bharuch, Gujarat, India",True
+"River Bhadar D/S Jetpur Vill. After Conf. Of W.Water From Jetpur City,River Bhadar At Dublipat National Highway,(I.E. D/S Jetpur City),Jetpur , Dist:Raj(Id:31211)",1436,21.6382544,69.6102019,"id:31211, Gujarat, India",True
+"River Bhogavo D/S Of Surendranagar.At Wadhwan Bridge, Wadhwan, Tal. Wadhwan, Dist. Surendranagar",2072,22.9896066,71.4664208,"dist. surendranagar, Gujarat, India",True
+"River Daman Ganga At D/S Of Gidc Weir, Near Nh-48, Vapi, Gujarat (Ut Of Daman,Diu,Dadar & Nagar Haveli And Gujarat)",30039,20.2843987,73.0994282,"nagar haveli gujarat, Gujarat, India",True
+"River Damanganga At Kachigaon D\S (Daman),River Damanganga At Kachigaon Bridge",1246,,,,False
+"River Damanganga At Kachigaon U\S At Gidc Wier,River Damanganga At Gidc Wier,",1150,,,,False
+"River Triveni Sangam, Nr. Somnath Temple, Veraval, Dist. Junagadh.Near Triveni Sangam Ghat, At: Somnath, Tal: Veraval, Dist: Gir Somnath.",2082,20.9072148,70.3657008,"veraval dist: somnath., Gujarat, India",True
+"River Vishwamitri Downstream Of At Khalipur Village, Before Meeting Jambuva Riverkhalipur Bridge- Vadodara",3204,22.2973142,73.1942567,"vadodara, Gujarat, India",True
+"River Vishwamitri Upstream At Asod Bridge At N.H. 8 , Near Glden Chokdi, Asod Vemali Roadvillage: Asoj",3205,22.4643124,73.392092,"asoj, Gujarat, India",True
+"Ahmedabad-1 Benrampurapirana Road, Ahmedabad",20015,23.0215374,72.5800568,"ahmedabad, Gujarat, India",True
+"Ahmedabad-2 Narol Sarkhej Highwaynr. 35 Mld Stp, Narol-Sarkhej Highway, Vasna Ahmedabad",20016,23.0020055,72.5472413,"vasna ahmedabad, Gujarat, India",True
+"Narmada Main Canal, Nr. Village. Limbadia, Dist. Gandhinagar.Narmada Canal At Limbadiya",2073,23.1247393,72.6853357,"limbadiya, Gujarat, India",True
+"Tapi Canal At Village Umarwada, Near Gidc Estate Of Panoli.At Village Umarvada, Ta: Ankleshwar, Dist Bharuch",2074,21.6293206,72.9945103,"ankleshwar dist bharuch, Gujarat, India",True
+"From Narmada Main Canal At Indorahmedabad Highway Bridge Near Village Motikantadi Tal, Godhra, Dist Panchmahalnarmada",4421,,,,False
+River Mahi At Sherkhi Bridgesindhrot Bridge-Vadodara,3206,22.2973142,73.1942567,"vadodara, Gujarat, India",True
+River Mahi At Dodkavillage : Prathampura,4415,,,,False
+"River Mahi About 500 Meters D/S Of Kadana Dam Near Bridge, Panchmahal, Gujarat (Rajasthan And Gujarat)",30050,23.0552899,72.5969093,"gujarat rajasthan gujarat, Gujarat, India",True
+"River Sabarmati At Gandhi Nagar Chiloda Bridge, Lekawada,",1407,,,,False
+"River Sabarmati At Dharoi Dam, Dist. Mehsana.River Sabarmati Ta Dharoi Dam, Tal : Satalasana, Dist : Mehsana",2075,23.6013329,72.3899817,"dist mehsana, Gujarat, India",True
+"River Sabarmati At Ahmedabad U/Shansol, Ahmedabad",10014,23.0215374,72.5800568,"ahmedabad, Gujarat, India",True
+"River Sabarmaati At Kheroj Bridge, Sabarkantha, Ambaji Highway, Kheroj, Gujarat (Rajasthan And Gujarat)",30042,23.0552899,72.5969093,"gujarat rajasthan gujarat, Gujarat, India",True
+"River Sabarmati At Ahmedabad D/Svill: Miroli,Taluka Dascroi, Ahmedabad,",10015,23.0215374,72.5800568,"ahmedabad, Gujarat, India",True
+"River Sabarmati At Mahudi Jain Temple, 150 Km. Form Origin,",1482,23.8344451,71.5482993,"origin, Gujarat, India",True
+"River Narmada At Navagam, Near Gora Colony, Kevadia, Gujarat (Gujarat And Madhya Pradesh)",30048,,,,False
+"River Narmada At Zanor (Ntpc), Bharuchriver Narmada At Zanor (Ntpc), Bharuch",1981,21.8242754,73.1136745,"ntpc bharuch, Gujarat, India",True
+"River Tapi Near Bardoli (Kapp Bridge) Bardolikakrapar,Surat",1983,21.2094892,72.8317058,"surat, Gujarat, India",True
+"River Tapi At Kathore, (Nh-8 Bridge)River Tapi At Kathore, (Nh-8 Bridge) U/S Of Surat",47,21.2094892,72.8317058,"surat, Gujarat, India",True
+"River Tapi At Surat U/S Kathore,River Tapi Near Limdeshwar Mahdev At Kathor",1248,21.2884575,72.94037,"kathor, Gujarat, India",True
+"River Tapi At Rander Bridge, Suratrander,Surat",1982,21.2094892,72.8317058,"surat, Gujarat, India",True
+"River Tapi At Ongc Bridge At Surat, Dist. Surathazira,Surat",2071,21.2094892,72.8317058,"surat, Gujarat, India",True
+"River Tapi At Kukurmunda Bridge, Nizhar Road, Near Village Kukurmunda, Gujarat (Maharashtra And Gujarat)",30045,23.2354159,72.6661742,"maharashtra gujarat, Gujarat, India",True
+"River Amravati At Village Dadhal , Ta Ankleshwar, Bharuchnr Railway Bridge, At Village Dhadhal , Ta: Ankleshwar, Dist Bharuch",3203,21.6293206,72.9945103,"ankleshwar dist bharuch, Gujarat, India",True
+"River Kim At Sahol Bridge, Olpad Hansot Road, Dist. Suratsahol, Olpad Hansot Road, Sahol Bridge,Surat",2070,21.2094892,72.8317058,"surat, Gujarat, India",True

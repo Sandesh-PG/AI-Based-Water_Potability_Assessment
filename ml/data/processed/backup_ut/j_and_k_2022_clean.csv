@@ -1,0 +1,16 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+3159,"Ground Water From Rajkiya High School ,Shahpur",Groundwater,J & K,2022,Safe,0.0,None,22.0,,7.14,705.0,,1.54,,2.0,
+1951,"Ground Water At Rajkotground Water Nr. District Co-Operative Bank, Nr. Raiya Circle, Raiya Road Rajkot",Groundwater,J & K,2022,Safe,6.1,None,30.0,,8.39,1768.0,1.1,1.24,,,
+2095,"Bore Well Of Narshibhai Becharbhai Zalawadia @ 200 Meter Away From Madhapar Stp Toward Iswaria Mahadev Temple, Madhapar, Dist. Rajkot.Bore Well Of Narshibhai Becharbhai Zalavadiya, Nr. Madhapar Stp Plant, Rajkot",Groundwater,J & K,2022,Safe,6.66,None,29.5,,7.825,2064.5,1.2,1.35,,,
+3240,"Borewell Of Aji Gidc Association Office, Plot No. C-1/2, Road No -B Nr. Ashish Metal, Rajkotbore Well Of",Groundwater,J & K,2022,Safe,6.1,None,28.5,,7.525,,1.1,1.39,,,
+3241,"Borewell Near Municipal Solid Waste Site, Nakarwadi, Rajkot",Groundwater,J & K,2022,Safe,6.66,None,29.5,,7.885,,1.2,1.35,,,
+3824,"Ground Water Vill Bheemjori, Malajkh, Dist Balaghat",Groundwater,J & K,2022,Safe,5.19,None,22.0,,7.5,,1.4,,,9.0,
+1737,"Ground Water Quality Station Captanganj, Khushinagar,U.P",Groundwater,J & K,2022,Unsafe,32.93,"pH Out of Range, High BOD",20.5,,6.44,676.0,5.85,,,,
+30089,"River Ravi At Lakhanpur, J & K",River,J & K,2022,Unsafe,44.56,"pH Out of Range, High Fecal Coliform, High Total Coliform",21.5,9.7,8.55,259.5,2.0,0.32,85039.0,165245.0,220.0
+2747,"River Tawi At Surajpur Chatha(10 Km D/S Tawi Bridge)Below Bridge Near Chatha Msw Dumping Site, J&K",River,J & K,2022,Safe,4.07,None,23.0,7.1,7.85,250.0,1.1,0.32,,,
+4469,Gaj Khad Near Water Supply Scheme Dharamshala Cantt.,River,J & K,2022,Safe,0.05,None,11.5,9.2,7.685,83.0,,2.12,2.0,35.5,
+10004,River Yamuna At Khojkipur Panipat,River,J & K,2022,Unsafe,34.84,"High BOD, High Fecal Coliform, High Total Coliform",,7.25,7.45,622.5,8.9,,2000.0,8850.0,
+2572,"River Mahananda At Thakurganj, Kishanganj Road Bridge, Kishanganj",River,J & K,2022,Unsafe,44.55,"High Fecal Coliform, High Total Coliform",21.5,7.6,7.69,293.5,2.05,0.33,120850.0,177450.0,
+3305,"River Banjar At Malanjkhand Near W/S Intake Point, Jabalpur",River,J & K,2022,Safe,3.61,None,22.2,7.75,7.735,2418.0,1.6,0.58,6.0,48.0,
+4616,"River Banjar River Near Road Bridge, Vill. Kharradhar Malanjkhand.",River,J & K,2022,Safe,3.72,None,22.5,7.65,7.735,299.5,1.65,0.935,7.0,32.5,
+4617,"River Wainganga River Near Vill. Budunda Malanjkhand, Balaghat",River,J & K,2022,Safe,3.39,None,22.75,7.75,7.66,327.0,1.5,0.55,5.05,55.5,

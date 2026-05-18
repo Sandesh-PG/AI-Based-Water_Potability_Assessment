@@ -1,0 +1,49 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg,latitude,longitude,geocode_query,geocoded
+2354,"Samarla Kota Canal, Kakinada, East Godavari",Canal,ANDHRA PRADESH,2016,Unsafe,22.32,"pH Out of Range, High BOD",,27.5,5.75,6.75,323.5,1.55,1.1,7.5,96.5,16.9174762,82.0280289,"kakinada east godavari, Andhra Pradesh, India",True
+2355,"Tulje Bagh Canal, Tekri Drain, Kakinada, East Godavari",Canal,ANDHRA PRADESH,2016,Unsafe,22.48,"pH Out of Range, High BOD",,27.0,5.7,7.35,500.0,2.5,2.2,12.5,2419.5,16.9174762,82.0280289,"kakinada east godavari, Andhra Pradesh, India",True
+3051,"Budameru Canal Nr Bdg At Nh-5, Keesarapally, Krishna",Canal,ANDHRA PRADESH,2016,Unsafe,26.81,"pH Out of Range, High BOD",,25.5,4.3,7.75,500.0,4.1,10.15,3.0,1700.0,16.2135466,81.0277844,"krishna, Andhra Pradesh, India",True
+3052,"Guntathippa Drain B/C With Ryves Canal At Ramavarappadu, Krishna",Canal,ANDHRA PRADESH,2016,Unsafe,27.6,"pH Out of Range, High BOD",,25.0,4.05,7.35,500.0,9.75,14.4,4.5,2150.0,16.5218134,80.679318,"ramavarappadu krishna, Andhra Pradesh, India",True
+3053,"Tulia Bagh Drain At Vemulavada, East Godavari",Canal,ANDHRA PRADESH,2016,Unsafe,22.05,"pH Out of Range, High BOD",,27.0,5.85,6.85,500.0,2.75,2.05,50.0,2437.5,16.9956639,81.7154378,"east godavari, Andhra Pradesh, India",True
+3067,"Outlet Of Stp On Godavari, Rajahmundry, East Godavari",Canal,ANDHRA PRADESH,2016,Unsafe,22.17,"pH Out of Range, High BOD",,29.5,5.8,6.7,322.0,2.2,1.1,16.0,276.5,17.0269686,81.8038216,"rajahmundry east godavari, Andhra Pradesh, India",True
+26,Well At Vijaywada,Groundwater,ANDHRA PRADESH,2016,Safe,0.8,,24.0,,7.77,1189.0,,3.65,,400.0,,16.511298,80.6346206,"vijaywada, Andhra Pradesh, India",True
+1513,"Bore Well. - Krishna Murthy, D.No. 48-16-43 Autonagar Vijjayawada, Krisna Dist",Groundwater,ANDHRA PRADESH,2016,Safe,0.8,,24.5,,7.85,1237.0,,0.95,,400.0,,16.4462453,80.5801318,"dist, Andhra Pradesh, India",True
+1514,"Bore Well - Vijay Kumar Autonagar Vijayawada, Krishna Dist",Groundwater,ANDHRA PRADESH,2016,Safe,0.8,,23.0,,7.7,1218.5,,0.65,,400.0,,16.5134761,80.6419944,"vijayawada krishna dist, Andhra Pradesh, India",True
+1516,Bore Well Of Navlok Gardens Nellore,Groundwater,ANDHRA PRADESH,2016,Unsafe,1.09,pH Out of Range,,,8.55,613.5,,0.55,,400.0,,14.4675091,80.0225997,"gardens nellore, Andhra Pradesh, India",True
+1517,Bore Well. - Tungbhadra River Near Kurnool,Groundwater,ANDHRA PRADESH,2016,Safe,3.17,,26.0,,7.75,4140.0,0.85,2.35,,18.0,,15.8266224,78.036892,"river kurnool, Andhra Pradesh, India",True
+1518,"Bore Well. - Nandyal, Kurnool Dist",Groundwater,ANDHRA PRADESH,2016,Safe,3.35,,25.0,,7.8,4310.0,0.9,2.75,,16.0,,15.7988672,78.0504789,"nandyal kurnool dist, Andhra Pradesh, India",True
+1519,"Bore Well - Nagiri, Chittoor Dist",Groundwater,ANDHRA PRADESH,2016,Safe,2.8,,29.5,,7.95,1264.0,0.75,1.85,,16.0,,13.3188771,79.5854239,"nagiri chittoor dist, Andhra Pradesh, India",True
+1520,"Bore Well. - Swarnamukhi River, Srikalahasti, Chittoor Dist",Groundwater,ANDHRA PRADESH,2016,Safe,3.54,,29.0,,8.05,701.5,0.95,1.1,,16.0,,13.7516966,79.710633,"srikalahasti chittoor dist, Andhra Pradesh, India",True
+1521,"Bore Well. - Near Rama Temple , Ward No.2 , Mindi , Visakhapatnam",Groundwater,ANDHRA PRADESH,2016,Safe,7.17,,26.0,,7.4,2674.0,2.4,5.25,11.0,460.0,,17.7019054,83.2123315,"no.2 mindi visakhapatnam, Andhra Pradesh, India",True
+1522,Open Well. Peddanuyyi - Vizianagaram,Groundwater,ANDHRA PRADESH,2016,Safe,3.94,,25.5,,7.3,481.5,1.35,0.85,8.0,150.0,,18.1141255,83.4114389,"vizianagaram, Andhra Pradesh, India",True
+1523,"Bore Well - Near M/S Andhra Sugars Ltd. , Kovvur , W.G.Dist",Groundwater,ANDHRA PRADESH,2016,Safe,3.12,,26.0,,6.85,359.5,1.1,1.25,10.0,17.5,,17.910331,82.4035947,"w.g.dist, Andhra Pradesh, India",True
+1524,"Open Well. -Near Partap Nagar Briidge - Kakinada , E.G.Dist",Groundwater,ANDHRA PRADESH,2016,Safe,3.67,,28.0,,7.4,1204.0,1.3,0.95,7.0,24.0,,17.0828138,81.9068789,"kakinada e.g.dist, Andhra Pradesh, India",True
+3087,"Bore Well Near Village Secretariat, Pathapadu (V), Krishna",Groundwater,ANDHRA PRADESH,2016,Safe,2.38,,25.0,,8.0,1645.0,0.5,3.95,,400.0,,16.2135466,81.0277844,"krishna, Andhra Pradesh, India",True
+3089,"Hand Pump At Tanam Vill., Vishakhapatnam",Groundwater,ANDHRA PRADESH,2016,Safe,3.52,,28.0,,7.75,1727.0,1.2,7.95,7.0,155.0,,,,,False
+3090,"Hand Pump At Pittavanipalem, Vishakhapatnam",Groundwater,ANDHRA PRADESH,2016,Safe,4.22,,26.0,,7.4,1742.5,1.5,10.75,7.0,18.0,,,,,False
+3091,"Bore Well At Kapuluppada Dumpsite, Vishakhapatnam",Groundwater,ANDHRA PRADESH,2016,Safe,4.32,,26.5,,7.45,2714.5,1.4,8.0,3.5,420.0,,,,,False
+3092,"Bore Well At Arinama Akkivalasa, Srikakulam",Groundwater,ANDHRA PRADESH,2016,Safe,3.89,,27.0,,7.65,695.5,1.35,4.9,14.5,69.5,,18.5766509,84.0149725,"akkivalasa srikakulam, Andhra Pradesh, India",True
+3093,"B/W At Alladapalem Village, Pydibhimavaram, Distt Srikakulam",Groundwater,ANDHRA PRADESH,2016,Safe,3.93,,26.5,,7.5,1451.5,1.4,3.4,4.5,24.0,,18.2956598,83.9008082,"distt srikakulam, Andhra Pradesh, India",True
+1448,Nagavalli At Thotapalli Regulator,River,ANDHRA PRADESH,2016,Safe,5.02,,27.5,6.4,6.85,487.0,2.1,0.8,21.5,335.0,,16.6376159,80.5968708,"regulator, Andhra Pradesh, India",True
+2352,"Vamshadhara, Kalingapatnam, Vizianagaram",River,ANDHRA PRADESH,2016,Safe,4.33,,26.5,6.3,6.8,312.5,1.7,1.15,24.0,571.5,,18.1141255,83.4114389,"vizianagaram, Andhra Pradesh, India",True
+1790,"Pulicate Lake , Nellore District",Pond/Tank,ANDHRA PRADESH,2016,Unsafe,23.85,"pH Out of Range, High BOD",,28.0,5.25,7.5,500.0,1.65,1.4,2.0,1850.0,14.3503886,80.0131067,"lake nellore district, Andhra Pradesh, India",True
+2353,"Kondacharla-Aava Lake, Parawada Pharma City, Vishakhapatnam",Pond/Tank,ANDHRA PRADESH,2016,Unsafe,20.03,High BOD,,26.0,6.5,6.95,500.0,2.0,2.05,29.0,1221.5,,,,False
+14,Godavari At Polavaram,River,ANDHRA PRADESH,2016,Safe,5.5,,26.5,6.0,7.2,262.5,2.0,0.75,24.0,1204.5,,17.290036,81.6441601,"godavari polavaram, Andhra Pradesh, India",True
+1218,Godavari U/S Rajahmundry,River,ANDHRA PRADESH,2016,Safe,6.16,,26.5,6.1,7.3,288.5,2.15,1.2,26.0,1603.5,,17.0137187,81.771957,"godavari rajahmundry, Andhra Pradesh, India",True
+2371,Godavari D/S Rajamundry Of Nalla Channel,River,ANDHRA PRADESH,2016,Safe,5.52,,28.5,6.1,6.6,290.0,2.25,1.55,18.5,564.0,,16.6105665,80.550233,"channel, Andhra Pradesh, India",True
+1219,Godavari D/S Rajahmundry,River,ANDHRA PRADESH,2016,Safe,4.73,,28.0,6.45,6.75,259.5,2.0,1.05,16.0,276.5,,17.0137187,81.771957,"godavari rajahmundry, Andhra Pradesh, India",True
+2370,Godavari U/S Rajamundry Of Nalla Channel,River,ANDHRA PRADESH,2016,Safe,5.14,,27.5,5.85,6.75,302.0,2.2,1.8,13.5,249.5,,16.6105665,80.550233,"channel, Andhra Pradesh, India",True
+1175,"Krishna A/C With Tungabhadra, Sangameshwaram",River,ANDHRA PRADESH,2016,Safe,5.46,,23.5,5.75,8.0,646.0,2.0,1.25,55.0,1000.0,,,,,False
+1786,"Vedadri , Guntur Dist",River,ANDHRA PRADESH,2016,Safe,2.55,,26.5,6.45,7.55,1291.0,0.65,1.95,,750.0,,16.2853547,80.5686143,"guntur dist, Andhra Pradesh, India",True
+1787,"Amaravati , Guntur Dist",River,ANDHRA PRADESH,2016,Safe,2.48,,20.0,6.45,7.25,540.5,0.75,0.85,4.0,1000.0,,16.4834031,80.5760509,"amaravati guntur dist, Andhra Pradesh, India",True
+25,Krishna At Vijaywada,River,ANDHRA PRADESH,2016,Safe,2.7,,25.0,6.7,7.4,612.5,0.65,1.35,,900.0,,16.511298,80.6346206,"vijaywada, Andhra Pradesh, India",True
+1782,"Hamsala Deevi , Guntur Dist",River,ANDHRA PRADESH,2016,Safe,4.44,,25.0,5.05,7.5,22215.0,1.15,1.7,,1250.0,,16.2853547,80.5686143,"guntur dist, Andhra Pradesh, India",True
+3083,"Krishna D/S Of Srishailam, Kurnool",River,ANDHRA PRADESH,2016,Safe,5.72,,26.5,5.8,7.95,664.5,2.1,1.4,55.0,1050.0,,15.8309251,78.0425373,"kurnool, Andhra Pradesh, India",True
+1785,"Manthralayam , Kurnool Dist",River,ANDHRA PRADESH,2016,Safe,5.32,,25.5,6.0,8.05,965.5,2.1,1.5,60.0,525.0,,15.5478804,77.554259,"kurnool dist, Andhra Pradesh, India",True
+1174,"Tunghabhadra U/S Kurnool, Bavapuram",River,ANDHRA PRADESH,2016,Safe,5.69,,25.5,5.8,8.0,1076.0,2.25,1.4,58.0,580.0,,,,,False
+1178,"Palleru B/C. With Krishna, Jaggayyapet",River,ANDHRA PRADESH,2016,Safe,4.5,,25.5,6.75,7.3,953.5,1.35,1.4,,750.0,,16.8916569,80.0993016,"jaggayyapet, Andhra Pradesh, India",True
+2350,"Hundri, Joharpur(V), Near Temple, Kurnool",River,ANDHRA PRADESH,2016,Unsafe,17.1,Low DO,25.5,2.0,7.9,2585.0,0.75,3.7,,18.0,,15.7860811,78.1117709,"temple kurnool, Andhra Pradesh, India",True
+1255,"Pennar B/Cwith Chitravathi, Tadpatri, Unganoor",River,ANDHRA PRADESH,2016,Unsafe,5.35,Low DO,24.5,4.35,8.0,1058.0,0.75,1.4,,19.0,,,,,False
+1256,"Pennar A/C With Papagni, Puspagini",River,ANDHRA PRADESH,2016,Safe,3.04,,29.5,5.1,7.95,1131.5,1.15,1.4,60.0,308.0,,,,,False
+1257,"Pennar A/C With Cheyyuru, Somasile",River,ANDHRA PRADESH,2016,Safe,2.55,,27.0,6.5,7.4,1105.0,0.65,1.9,,750.0,,,,,False
+30,"Pennar Siddvata, Nellore",River,ANDHRA PRADESH,2016,Safe,2.89,,29.0,5.1,7.8,1008.5,1.1,1.35,61.0,258.0,,14.4493717,79.9873763,"nellore, Andhra Pradesh, India",True
+2351,"Kundu, Nandyal, Near Over Bdg., Kurnool",River,ANDHRA PRADESH,2016,Unsafe,7.11,Low DO,25.5,4.8,8.0,910.0,2.5,1.3,60.0,650.0,,15.8309251,78.0425373,"kurnool, Andhra Pradesh, India",True

@@ -1,0 +1,5 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1120,"Yamuna At Wazirabad, Delhi",River,DELHI,2017,Unsafe,48.88,"High BOD, High Fecal Coliform, High Total Coliform",25.3,7.75,7.6,980.0,4.0,0.0,27070.0,80100.0,
+1121,"Yamuna At Nizamuddin, Delhi",River,DELHI,2017,Unsafe,69.0,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",24.0,2.75,7.55,1300.0,20.5,0.0,1000000.0,5000000.0,
+1375,"Yamuna At Okhla Bridge (Inlet Of Agra Canal), Delhi",River,DELHI,2017,Unsafe,72.8,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",24.75,1.8,7.6,975.0,17.5,0.0,1000000.0,5000000.0,
+1812,"Yamuna At Okhla After Meeting Of Shahdara Drain, Delhi",River,DELHI,2017,Unsafe,72.6,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",26.0,1.85,7.6,1103.0,44.0,0.0,1000000.0,5000000.0,

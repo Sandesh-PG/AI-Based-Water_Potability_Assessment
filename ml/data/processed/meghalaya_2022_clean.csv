@@ -1,0 +1,101 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1634,"Police Bazar, Shillong (Police Bazaar Spring)",Groundwater,MEGHALAYA,2022,Unsafe,5.34,pH Out of Range,17.0,,6.0,217.5,1.2,6.475,4.0,70.0,
+1635,"Mawlai, Shillong (Mawpdang Spring)",Groundwater,MEGHALAYA,2022,Unsafe,13.65,pH Out of Range,16.5,,5.7,259.5,1.35,13.62,,,
+1636,Epip Byrnihat (Narbong- Well),Groundwater,MEGHALAYA,2022,Unsafe,6.23,pH Out of Range,18.25,,6.3,135.0,1.4,1.385,,16.5,
+1637,"Sohra, Cherrapunjee (Wah U Dkhar - Spring)",Groundwater,MEGHALAYA,2022,Unsafe,11.28,pH Out of Range,19.7,,5.9,111.0,1.2,4.29,,,
+1638,Shangpung (Umsahep Spring),Groundwater,MEGHALAYA,2022,Unsafe,13.97,pH Out of Range,18.0,,5.55,146.0,1.2,7.22,,,
+3385,Mawthadrishan Well At Markasa,Groundwater,MEGHALAYA,2022,Safe,4.83,None,19.5,,6.65,46.0,1.3,0.415,,12.0,
+3386,Jakrem Hot Spring At Jakrem,Groundwater,MEGHALAYA,2022,Unsafe,9.32,pH Out of Range,29.0,,9.0,306.0,1.15,0.72,,,
+4323,Borewell At Good Shepherd Parish In Ladrymbai,Groundwater,MEGHALAYA,2022,Safe,6.66,None,16.1,,7.25,142.5,1.2,0.59,,,
+4324,Borewell At Khliehwah Shasem - A In Khliehriat,Groundwater,MEGHALAYA,2022,Unsafe,14.42,pH Out of Range,18.5,,5.6,166.5,1.35,0.45,,,
+4325,Borewell At Khliehwah Shasem - B In Khliehriat,Groundwater,MEGHALAYA,2022,Unsafe,14.42,pH Out of Range,18.0,,5.6,102.0,1.35,0.61,,,
+4904,"Deep Tube Well At Dongkamon Nongmensong, Shillong",Groundwater,MEGHALAYA,2022,Safe,4.29,None,16.5,,6.85,165.0,1.15,4.87,,24.0,
+4905,"Dug Well At Forest Colony, Polo, Shillong",Groundwater,MEGHALAYA,2022,Safe,4.14,None,17.0,,6.8,206.5,1.1,4.12,,50.5,
+4906,"Deep Tube Well At Laban Last Stop, Shillong",Groundwater,MEGHALAYA,2022,Unsafe,9.64,pH Out of Range,16.5,,5.25,66.5,,0.325,,12.5,
+3384,River Bugi At Dalu,River,MEGHALAYA,2022,Safe,4.17,None,19.5,7.15,7.3,97.5,1.5,0.47,84.5,625.0,32.5
+3383,River Bugi At Mibonpara,River,MEGHALAYA,2022,Safe,3.61,None,19.5,7.3,7.2,96.5,1.35,0.455,56.0,485.0,25.0
+4112,River Ganol At Garobadha,River,MEGHALAYA,2022,Safe,4.4,None,20.5,7.2,7.05,67.5,1.7,0.51,45.0,560.0,19.5
+1632,River Ganol Tura,River,MEGHALAYA,2022,Safe,4.6,None,20.5,7.35,7.1,70.5,1.55,0.45,159.5,650.0,70.0
+3379,River Myntdu At Leshka,River,MEGHALAYA,2022,Unsafe,6.09,pH Out of Range,17.5,7.35,5.65,57.5,1.45,0.42,26.0,195.0,7.0
+4316,River Myntdu At Mihmyntdu,River,MEGHALAYA,2022,Safe,4.42,None,17.0,7.2,6.75,57.0,1.4,0.395,194.0,675.0,21.5
+1631,River Myntdu Jowai,River,MEGHALAYA,2022,Safe,7.1,None,15.0,7.05,6.9,54.5,1.85,0.475,390.0,1795.0,104.0
+3355,River Umiam Mawphlang At Mawphlang,River,MEGHALAYA,2022,Safe,4.09,None,17.0,7.5,6.9,39.0,1.6,1.16,29.5,530.0,9.0
+3353,River Umiam Mawphlang At Nongkrem,River,MEGHALAYA,2022,Safe,4.61,None,12.5,7.4,6.9,71.0,1.6,1.11,110.0,775.0,25.0
+3356,River Umiam Mawphlang At Shella,River,MEGHALAYA,2022,Safe,2.51,None,20.5,8.1,7.6,148.5,1.1,0.57,6.5,58.5,3.0
+3354,River Umiam Mawphlang At Umtyngngar,River,MEGHALAYA,2022,Safe,4.72,None,18.5,7.25,6.9,48.5,1.75,0.51,33.5,870.0,15.0
+3352,River Umkhen At Diengpasoh,River,MEGHALAYA,2022,Safe,3.24,None,14.5,7.5,7.2,46.5,1.35,0.615,22.0,190.0,5.0
+3351,"River Umkhen At Ksehpongdeng,",River,MEGHALAYA,2022,Safe,2.77,None,14.0,7.6,6.9,48.0,1.15,0.455,15.0,195.0,5.5
+3350,"River Umkhen At Wah Kdait,",River,MEGHALAYA,2022,Safe,4.51,None,13.5,7.1,6.9,59.5,1.7,1.555,36.0,740.0,16.5
+3359,"River Umkhrah At Demthring, Shillong",River,MEGHALAYA,2022,Unsafe,69.2,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",16.5,2.7,7.05,568.5,28.5,2.9,27500.0,66000.0,3200.0
+3361,"River Umkhrah At Mawlai, Near Slaughter House",River,MEGHALAYA,2022,Unsafe,70.6,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",17.5,2.35,6.95,402.5,32.0,1.93,33000.0,100000.0,5850.0
+3362,"River Umkhrah At Mawpdang, Mawlai",River,MEGHALAYA,2022,Unsafe,72.2,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",17.0,1.95,7.1,556.5,35.5,1.71,34500.0,109500.0,5850.0
+3360,"River Umkhrah At Umkaliar, Shillong",River,MEGHALAYA,2022,Unsafe,60.0,"High BOD, High Fecal Coliform, High Total Coliform",17.5,5.45,7.2,295.0,14.9,2.46,6000.0,33500.0,2000.0
+3364,"River Umshyrpi At Law College, Dhanketi,",River,MEGHALAYA,2022,Unsafe,71.6,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",16.5,2.1,7.1,354.0,29.0,0.705,26000.0,79500.0,3450.0
+3363,River Umshyrpi At Risa Colony,River,MEGHALAYA,2022,Safe,3.21,None,16.5,7.8,7.15,44.5,1.4,0.42,7.0,86.5,3.0
+3365,River Umshyrpi At Umshyrpi Bridge,River,MEGHALAYA,2022,Unsafe,56.4,"High BOD, High Fecal Coliform, High Total Coliform",16.5,5.1,6.95,226.5,12.1,0.975,6550.0,20500.0,1600.0
+1427,River Umtrew At Byrnihat East,River,MEGHALAYA,2022,Unsafe,8.68,"High Fecal Coliform, High Total Coliform",19.0,7.4,7.05,68.0,1.9,0.465,515.0,3000.0,124.5
+3366,"River Umtrew At Umran,",River,MEGHALAYA,2022,Safe,4.03,None,17.0,7.3,7.0,88.0,1.5,0.48,71.0,515.0,24.0
+3380,River Damring (Krishnai River) At Resubelpara,River,MEGHALAYA,2022,Safe,3.98,None,19.5,7.45,7.05,73.5,1.45,0.475,86.5,520.0,22.0
+3381,"River Manda (Dudhnoi River) At Jamge,",River,MEGHALAYA,2022,Safe,4.57,None,20.0,7.15,6.7,61.5,1.8,0.475,43.0,505.0,25.0
+3382,River Manda (Dudhnoi River) At Wageasi,River,MEGHALAYA,2022,Safe,3.37,None,19.5,7.8,7.1,66.5,1.25,0.48,50.5,490.0,19.0
+3372,"River Rilang At Mawkyrwat,",River,MEGHALAYA,2022,Safe,3.23,None,16.5,7.85,7.0,41.5,1.15,0.37,,35.5,
+3377,River Myntang At Nartiang,River,MEGHALAYA,2022,Safe,3.48,None,16.0,7.6,6.95,40.0,1.45,0.455,25.5,204.0,7.5
+3378,River Myntang At Mynso,River,MEGHALAYA,2022,Safe,2.64,None,16.5,7.65,6.95,42.0,1.15,0.365,12.5,45.0,3.0
+4110,River Nongal At Nangalbibra,River,MEGHALAYA,2022,Unsafe,9.64,pH Out of Range,21.0,7.55,4.45,133.0,1.3,0.445,27.5,420.0,14.0
+4111,River Simsang At Nangalbibra Bridge,River,MEGHALAYA,2022,Safe,3.32,None,20.5,7.55,6.95,74.5,1.25,1.44,42.5,465.0,16.0
+4112,River Ganol At Garobadha,River,MEGHALAYA,2022,Safe,4.4,None,20.5,7.2,7.05,67.5,1.7,0.51,45.0,560.0,19.5
+4113,River Damring At Boldamgre,River,MEGHALAYA,2022,Safe,3.55,None,20.5,7.2,7.4,304.5,1.35,0.51,38.0,505.0,16.5
+4313,River Waikhrwi At Moopala,River,MEGHALAYA,2022,Unsafe,23.39,pH Out of Range,14.5,6.9,2.95,715.0,1.4,0.365,,,
+4314,"River Kwai At Sutnga, Jalaphet",River,MEGHALAYA,2022,Unsafe,17.3,pH Out of Range,14.5,7.3,4.1,269.5,1.35,0.35,,,
+4304,River Sderkariah At Sohra (Cherrapunjee),River,MEGHALAYA,2022,Unsafe,9.04,pH Out of Range,18.0,7.5,4.6,120.0,1.35,0.4,36.5,60.0,2.0
+4305,River Laitryngew At Laitryngew,River,MEGHALAYA,2022,Unsafe,9.85,pH Out of Range,16.5,7.3,4.4,67.5,1.5,0.355,8.0,31.0,4.0
+4306,River Wahkhlek Khlek At Saitsohpen,River,MEGHALAYA,2022,Safe,3.27,None,17.5,7.75,7.0,103.5,1.45,0.665,3.0,45.0,2.0
+4307,River Wahrew At Majai,River,MEGHALAYA,2022,Unsafe,4.95,Low DO,21.1,4.65,7.0,53.0,1.15,0.495,,12.5,
+4308,River Umngi At Jakrem,River,MEGHALAYA,2022,Safe,3.91,None,18.5,8.3,6.95,52.5,1.4,0.445,,25.5,
+4309,River Umngi At Umpung,River,MEGHALAYA,2022,Safe,2.63,None,18.2,8.05,6.9,46.0,1.15,0.47,3.0,84.5,2.0
+4310,River Rwiang At Rwiang,River,MEGHALAYA,2022,Safe,2.99,None,19.5,7.8,7.3,48.0,1.3,0.53,7.5,86.5,4.0
+4311,River Kalipai At Rymbai,River,MEGHALAYA,2022,Unsafe,23.13,pH Out of Range,17.5,7.15,3.0,614.5,1.4,0.41,,,
+4312,River Kmai Um At Rymbai,River,MEGHALAYA,2022,Unsafe,25.48,pH Out of Range,17.5,7.3,2.65,1537.5,1.55,0.425,,,
+4315,River Lukha At Khaddum,River,MEGHALAYA,2022,Unsafe,5.69,pH Out of Range,19.0,7.75,5.65,356.0,1.35,0.375,4.0,76.5,3.0
+4316,River Myntdu At Mihmyntdu,River,MEGHALAYA,2022,Safe,4.42,None,17.0,7.2,6.75,57.0,1.4,0.395,194.0,675.0,21.5
+4317,River Lamu At Leshka,River,MEGHALAYA,2022,Safe,2.88,None,18.0,7.55,6.85,295.0,1.2,0.45,21.0,160.0,4.05
+4318,River Lynriang At Leshka Power House,River,MEGHALAYA,2022,Unsafe,14.72,pH Out of Range,17.5,7.2,2.85,737.5,1.55,0.38,4.0,37.5,2.0
+4322,River Thlu Umwi At Thlu Umwi,River,MEGHALAYA,2022,Unsafe,8.53,pH Out of Range,17.5,7.5,4.65,69.0,1.2,0.47,14.0,152.0,7.5
+4326,River Simsang At Baghmara,River,MEGHALAYA,2022,Safe,3.55,None,20.5,7.55,7.0,67.0,1.35,0.47,40.5,485.0,16.0
+3367,River Nonbah At Nangstoin Market,River,MEGHALAYA,2022,Unsafe,9.79,"High Fecal Coliform, High Total Coliform",15.5,7.5,7.0,49.5,1.95,0.64,725.0,3200.0,140.0
+3368,River Nonbah At Photsohsat,River,MEGHALAYA,2022,Safe,2.65,None,14.5,7.65,6.95,40.0,1.15,0.495,8.0,86.5,4.0
+3369,River Kynshi At Sohiong,River,MEGHALAYA,2022,Safe,3.31,None,15.0,7.7,6.9,38.0,1.35,0.595,21.0,285.0,4.5
+3370,River Kynshi At Nangkhnum,River,MEGHALAYA,2022,Safe,3.38,None,17.0,7.9,7.05,39.5,1.2,0.61,,45.5,
+3371,River Kynshi At Ranikor,River,MEGHALAYA,2022,Safe,3.32,None,20.5,7.75,6.65,74.0,1.45,0.37,7.5,95.0,3.0
+3373,"River Wah Blei At Riangdo,",River,MEGHALAYA,2022,Safe,2.89,None,18.5,7.55,6.85,47.5,1.25,0.565,6.5,107.0,4.0
+3374,"River Wah Blei At Sdad Dkhar,",River,MEGHALAYA,2022,Safe,3.01,None,18.0,7.9,6.7,102.5,1.3,0.665,8.0,117.0,3.0
+1632,River Ganol Tura,River,MEGHALAYA,2022,Safe,4.6,None,20.5,7.35,7.1,70.5,1.55,0.45,159.5,650.0,70.0
+3359,"River Umkhrah At Demthring, Shillong",River,MEGHALAYA,2022,Unsafe,69.2,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",16.5,2.7,7.05,568.5,28.5,2.9,27500.0,66000.0,3200.0
+3360,"River Umkhrah At Umkaliar, Shillong",River,MEGHALAYA,2022,Unsafe,60.0,"High BOD, High Fecal Coliform, High Total Coliform",17.5,5.45,7.2,295.0,14.9,2.46,6000.0,33500.0,2000.0
+3361,"River Umkhrah At Mawlai, Near Slaughter House",River,MEGHALAYA,2022,Unsafe,70.6,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",17.5,2.35,6.95,402.5,32.0,1.93,33000.0,100000.0,5850.0
+3362,"River Umkhrah At Mawpdang, Mawlai",River,MEGHALAYA,2022,Unsafe,70.8,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",17.0,2.3,7.1,556.5,35.5,1.71,34500.0,109500.0,5850.0
+3363,River Umshyrpi At Risa Colony,River,MEGHALAYA,2022,Safe,3.32,None,16.5,7.8,7.15,44.5,1.45,0.42,7.0,86.5,3.0
+3364,"River Umshyrpi At Law College, Dhanketi,",River,MEGHALAYA,2022,Unsafe,71.6,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",16.5,2.1,7.1,354.0,29.0,0.705,26000.0,79500.0,3450.0
+3365,River Umshyrpi At Umshyrpi Bridge,River,MEGHALAYA,2022,Unsafe,56.4,"High BOD, High Fecal Coliform, High Total Coliform",16.5,5.1,6.95,226.5,12.1,0.975,6550.0,20500.0,1600.0
+3366,"River Umtrew At Umran,",River,MEGHALAYA,2022,Safe,4.03,None,17.0,7.3,7.0,88.0,1.5,0.48,71.0,515.0,24.0
+1427,River Umtrew At Byrnihat East,River,MEGHALAYA,2022,Unsafe,8.68,"High Fecal Coliform, High Total Coliform",19.0,7.4,7.05,68.0,1.9,0.465,515.0,3000.0,124.5
+3350,"River Umkhen At Wah Kdait,",River,MEGHALAYA,2022,Safe,4.51,None,13.5,7.1,6.9,59.5,1.7,1.555,36.0,740.0,16.5
+3351,"River Umkhen At Ksehpongdeng,",River,MEGHALAYA,2022,Safe,2.88,None,14.0,7.6,6.9,48.0,1.2,0.455,15.0,195.0,5.5
+3352,River Umkhen At Diengpasoh,River,MEGHALAYA,2022,Safe,3.35,None,14.5,7.5,7.2,46.5,1.4,0.615,22.0,190.0,5.0
+4319,River Umiurem At Lale,River,MEGHALAYA,2022,Unsafe,11.96,pH Out of Range,18.0,7.3,3.7,503.0,1.45,0.455,14.0,91.0,2.0
+4320,River Kupli At Looski,River,MEGHALAYA,2022,Unsafe,13.27,pH Out of Range,18.05,7.15,4.1,205.0,1.45,0.395,,19.5,
+4321,River Kupli At Khandong,River,MEGHALAYA,2022,Unsafe,8.83,pH Out of Range,18.05,7.05,4.65,210.5,1.35,0.425,12.5,108.0,3.0
+1428,River Kyrhuhkhla Khliehriat,River,MEGHALAYA,2022,Unsafe,15.38,pH Out of Range,16.5,7.0,3.95,371.0,2.0,0.625,,25.0,
+1631,River Myntdu Jowai,River,MEGHALAYA,2022,Safe,7.1,None,15.0,7.05,6.9,54.5,1.85,0.475,390.0,1795.0,104.0
+1633,River Simsang Williamnagar,River,MEGHALAYA,2022,Safe,4.15,None,20.5,7.4,7.1,68.5,1.35,0.495,175.0,565.0,47.0
+3353,River Umiam Mawphlang At Nongkrem,River,MEGHALAYA,2022,Safe,4.61,None,12.5,7.4,6.9,71.0,1.6,1.11,110.0,775.0,25.0
+3354,River Umiam Mawphlang At Umtyngngar,River,MEGHALAYA,2022,Safe,4.72,None,18.5,7.25,6.9,48.5,1.75,0.51,33.5,870.0,15.0
+3355,River Umiam Mawphlang At Mawphlang,River,MEGHALAYA,2022,Safe,4.09,None,17.0,7.5,6.9,39.0,1.6,1.16,29.5,530.0,9.0
+3356,River Umiam Mawphlang At Shella,River,MEGHALAYA,2022,Safe,2.63,None,20.5,8.1,7.6,148.5,1.15,0.57,6.5,58.5,3.0
+3357,"River Umngot At Smit,",River,MEGHALAYA,2022,Safe,4.05,None,12.5,7.3,7.1,44.5,1.65,0.58,20.5,380.0,10.5
+3358,River Umngot At Dawki,River,MEGHALAYA,2022,Safe,3.51,None,20.5,7.95,7.1,49.0,1.25,0.4,,41.0,
+3375,River Lunar At Myndihati (Tributary Of Lukha),River,MEGHALAYA,2022,Unsafe,10.99,pH Out of Range,18.5,7.0,4.95,651.0,1.8,0.655,,31.0,
+3376,River Lukha At Sonapur,River,MEGHALAYA,2022,Safe,3.28,None,18.0,7.5,6.8,274.0,1.4,0.505,13.5,145.0,6.0
+3379,River Myntdu At Leshka,River,MEGHALAYA,2022,Unsafe,6.09,pH Out of Range,17.5,7.35,5.65,57.5,1.45,0.42,26.0,195.0,7.0
+3383,River Bugi At Mibonpara,River,MEGHALAYA,2022,Safe,3.61,None,19.5,7.3,7.2,96.5,1.35,0.455,56.0,485.0,25.0
+3384,River Bugi At Dalu,River,MEGHALAYA,2022,Safe,4.17,None,19.5,7.15,7.3,97.5,1.5,0.47,84.5,625.0,32.5

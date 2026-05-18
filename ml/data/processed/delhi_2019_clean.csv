@@ -1,0 +1,64 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+3477,"Well At Alipur, Delhi",Groundwater,DELHI,2019,Unsafe,33.72,High BOD,,,,7.1,500.0,,37.15,106.0,
+3479,"Well At Aurbindo Marg, Delhi",Groundwater,DELHI,2019,Unsafe,51.96,"High BOD, High Total Coliform",,,,6.95,500.0,,192.615,13009.0,
+GEN-E8E0DD,3480,Groundwater,DELHI,2019,Unsafe,33.22,"High BOD, High Fecal Coliform",,,,,7.1,100.0,1040.0,11.3,
+GEN-CB953F,3483,Groundwater,DELHI,2019,Unsafe,37.67,"High BOD, High Fecal Coliform",,,,,6.9,100.0,1820.0,4.81,
+3485,"Well At Defence Colony, Delhi",Groundwater,DELHI,2019,Unsafe,34.75,High BOD,,,,7.1,500.0,,207.55,25.5,
+3488,"Well At Dilshad Garden, Delhi",Groundwater,DELHI,2019,Unsafe,33.51,High BOD,,,,7.0,500.0,,26.44,2.0,
+GEN-1B3181,3489,Groundwater,DELHI,2019,Unsafe,43.4,"High BOD, High Fecal Coliform",,,,,6.9,100.0,2681.0,0.04,
+GEN-72F67E,3490,Groundwater,DELHI,2019,Unsafe,31.39,"High BOD, High Fecal Coliform",,,,,6.9,100.0,871.0,41.0,
+GEN-0060EF,3492,Groundwater,DELHI,2019,Unsafe,41.83,"High BOD, High Fecal Coliform",,,,,6.8,100.0,2501.0,0.0,
+GEN-BA036D,3493,Groundwater,DELHI,2019,Unsafe,36.52,"High BOD, High Fecal Coliform",,,,,6.9,100.0,1649.0,0.04,
+GEN-6DBD26,3494,Groundwater,DELHI,2019,Unsafe,32.89,"High BOD, High Fecal Coliform",,,,,7.4,100.0,825.0,9.52,
+GEN-0A348E,3496,Groundwater,DELHI,2019,Unsafe,33.24,"High BOD, High Fecal Coliform",,,,,7.0,100.0,1100.0,7.1,
+GEN-FD9DCF,3498,Groundwater,DELHI,2019,Unsafe,33.87,"High BOD, High Fecal Coliform",,,,,7.1,100.0,1130.0,46.6,
+GEN-E2065C,3500,Groundwater,DELHI,2019,Unsafe,38.57,"High BOD, High Fecal Coliform",,,,,7.1,100.0,1830.0,76.92,
+GEN-87F7EE,3503,Groundwater,DELHI,2019,Unsafe,47.36,"High BOD, High Fecal Coliform",,,,,6.9,100.0,3270.0,19.3,
+GEN-728825,3514,Groundwater,DELHI,2019,Unsafe,58.49,"High BOD, High Fecal Coliform",,,,,6.8,100.0,9690.0,0.01,
+GEN-5FEF3E,3515,Groundwater,DELHI,2019,Unsafe,48.68,"High BOD, High Fecal Coliform",,,,,6.5,100.0,1261.0,,
+GEN-CF1CF4,3516,Groundwater,DELHI,2019,Unsafe,38.04,"High BOD, High Fecal Coliform",,,,,7.1,100.0,1766.0,0.04,
+GEN-B5B0DB,3517,Groundwater,DELHI,2019,Unsafe,44.4,"High BOD, High Fecal Coliform",,,,,7.1,100.0,2720.0,0.0,
+3518,"Well At Naraina Indl Area, Delhi",Groundwater,DELHI,2019,Unsafe,33.68,High BOD,,,,6.55,500.0,,40.375,61.5,
+GEN-6C0958,3520,Groundwater,DELHI,2019,Unsafe,34.76,"High BOD, High Fecal Coliform",,,,,6.9,100.0,1380.0,23.4,
+3523,"Well At Parivesh Bhawan, Delhi",Groundwater,DELHI,2019,Unsafe,33.34,High BOD,,,,6.9,500.0,,0.0,2.0,
+3524,"Well At Paschim Vihar, Delhi",River,DELHI,2019,Safe,0.31,None,,,7.3,4925.0,,4.02,20.5,131.5,
+GEN-DA9E6A,3525,River,DELHI,2019,Unsafe,50.0,High BOD,,,,7.1,500.0,100.0,,2.0,2.0
+GEN-0E4F5C,3526,River,DELHI,2019,Unsafe,33.34,High BOD,,,,6.9,500.0,100.0,0.0,2.105,17.5
+3527,"Well At Patparganj Indl Area, Delhi",River,DELHI,2019,Safe,0.02,None,,,7.2,2811.0,,0.705,2.0,2.0,
+GEN-EAD81F,3528,River,DELHI,2019,Unsafe,50.0,High BOD,,,,7.4,499.7,100.0,,2.0,2.0
+GEN-9BDB8B,3529,River,DELHI,2019,Unsafe,33.83,High BOD,,,,6.9,500.0,100.0,63.8,51.3,3.5
+GEN-30A0B7,3530,River,DELHI,2019,Unsafe,33.35,High BOD,,,,7.1,500.0,100.0,2.4,2.2,2.0
+GEN-E52AD5,3531,River,DELHI,2019,Unsafe,33.52,High BOD,,,,6.8,500.0,100.0,25.7,13.85,25.5
+3532,"Well At Rajender Nagar, Delhi",River,DELHI,2019,Safe,0.05,None,,,6.8,954.0,,54.9,3.5,17.5,
+GEN-5A9D8B,3533,River,DELHI,2019,Unsafe,33.38,High BOD,,,,7.1,355.6,100.0,6.2,4.1,3.5
+3534,"Well At Rashtrapati Bhawan, Delhi",River,DELHI,2019,Safe,0.03,None,,,7.0,1541.0,,24.15,3.5,7.5,
+GEN-B99D19,3535,River,DELHI,2019,Unsafe,33.42,High BOD,,,,7.4,396.8,100.0,11.1,10.8,2.0
+GEN-291D43,3536,River,DELHI,2019,Unsafe,33.84,High BOD,,,,6.9,500.0,100.0,68.01,42.8,36.5
+GEN-416849,3537,River,DELHI,2019,Unsafe,33.35,High BOD,,,,7.1,500.0,100.0,0.0,13.1,9.5
+GEN-1458E7,3538,River,DELHI,2019,Unsafe,33.64,High BOD,,,,7.2,500.0,100.0,14.4,155.25,295.0
+GEN-142C65,3539,River,DELHI,2019,Unsafe,33.38,High BOD,,,,7.4,438.7,100.0,1.8,22.86,2.0
+GEN-8844C5,3540,River,DELHI,2019,Unsafe,34.66,High BOD,,,,6.8,500.0,100.0,158.75,204.385,6502.5
+GEN-C5F5C2,3541,River,DELHI,2019,Unsafe,33.5,High BOD,,,,6.8,126.45,100.0,21.69,16.45,2.0
+GEN-8487E0,3542,River,DELHI,2019,Unsafe,33.77,High BOD,,,,6.8,500.0,100.0,58.8,30.4,3.0
+GEN-196F56,3543,River,DELHI,2019,Unsafe,33.34,High BOD,,,,7.1,500.0,100.0,0.0,2.65,2.0
+GEN-147EBE,3544,River,DELHI,2019,Unsafe,33.38,High BOD,,,,7.1,485.65,100.0,0.06,38.1,12.0
+GEN-06EE4C,3545,River,DELHI,2019,Unsafe,33.38,High BOD,,,,7.0,444.0,100.0,5.3,10.75,3.5
+GEN-A8166D,3546,River,DELHI,2019,Unsafe,33.56,High BOD,,,,6.9,383.45,100.0,25.7,38.1,2.0
+2479,"Near M/S Kumar Inter National Lakdi Fazalpur, Delhi Road, Moradabad",River,DELHI,2019,Safe,0.92,None,24.0,6.4,7.25,234.0,0.4,,2.0,35.0,
+3030,"Sanjay Lake, Delhi",Pond/Tank,DELHI,2019,Unsafe,28.81,"High BOD, High Total Coliform",,7.4,6.8,7.4,500.0,16.0,2.86,11000.0,17000.0
+3031,"Bhalswa Lake, Delhi",Pond/Tank,DELHI,2019,Unsafe,44.99,"pH Out of Range, High BOD, High Total Coliform",,8.0,2.8,8.1,500.0,49.5,2.385,17000.0,22000.0
+3032,"Sultanpur Lake, Delhi",Pond/Tank,DELHI,2019,Unsafe,34.95,High BOD,,,,7.15,269.0,4.4,0.64,1210.0,8700.0
+1479,"Western Yamuna Canal At Haiderpur Water Works, Delhi",Canal,DELHI,2019,Unsafe,48.72,"pH Out of Range, High BOD, High Total Coliform",,,10.2,7.7,266.0,3.15,3.015,18700.0,22100.0
+2057,"Agra Canal, Madanpur Khadar, Delhi",Canal,DELHI,2019,Unsafe,52.62,"pH Out of Range, High BOD, High Total Coliform",,24.0,2.4,7.15,500.0,34.0,0.35,5000000.0,9100000.0
+1111,Western Yamuna Canal C-3 Delhi Branch At R.D.245250,Canal,DELHI,2019,Unsafe,21.48,High BOD,,24.0,6.5,7.4,245.5,1.8,0.095,1850.0,11250.0
+1112,"Western Yamuna Canal C-4 Before Enter Into Delhi Branch, R.D.282628",Canal,DELHI,2019,Unsafe,26.45,"pH Out of Range, High BOD",,25.0,4.65,7.65,500.0,2.0,0.16,950.0,10450.0
+1115,Western Yamuna Canal C-7 Delhi Parallel Branch At Khubru Fall Rd-145250,Canal,DELHI,2019,Unsafe,29.69,"pH Out of Range, High BOD, High Total Coliform",,24.5,4.6,7.7,500.0,2.05,0.32,4800.0,14600.0
+1116,Western Yamuna Canal Wc-4 Delhi Parallel Branch At Panipat,CANAL,DELHI,2019,Unsafe,43.77,"High Fecal Coliform, High Total Coliform",22.0,7.75,7.7,1266.5,1.7,1.775,10512.5,65270.0,
+1377,"Najafgarh Drain At Wazirabad Before Conf. To Riv.Yamuna, Delhi",River,DELHI,2019,Safe,0.0,None,,10.0,,4.0,,,,2.0,2.0
+3041,"Water Works- Wazirabad, Delhi",Pond/Tank,DELHI,2019,Unsafe,26.81,"pH Out of Range, High BOD",,,8.6,7.9,439.0,1.2,3.71,1500.0,2600.0
+3042,"Water Works- Sonia Vihar, Delhi",Pond/Tank,DELHI,2019,Unsafe,32.45,"pH Out of Range, High BOD, High Total Coliform",,,9.8,7.75,187.0,,1.9,3615.0,4500.0
+3043,"Water Works- Chandraval, Delhi",Pond/Tank,DELHI,2019,Unsafe,26.81,"pH Out of Range, High BOD",,,8.6,7.9,439.0,1.2,3.71,1500.0,2600.0
+3044,"Water Works- Nangloi, Delhi",Pond/Tank,DELHI,2019,Unsafe,26.84,High BOD,,,7.8,7.5,234.5,1.7,1.91,1835.0,3800.0
+3045,"Water Works- Haiderpur, Delhi",Pond/Tank,DELHI,2019,Unsafe,55.03,"pH Out of Range, High BOD, High Total Coliform",,,10.2,7.6,239.0,1.1,5.12,35000.0,35000.0
+3046,"Water Works- Dwarka, Delhi",Canal,DELHI,2019,Unsafe,33.01,"High BOD, High Total Coliform",,,7.9,7.45,259.5,2.5,1.41,8007.0,8012.5
+1120,"Yamuna At Palla, Delhi",River,DELHI,2019,Unsafe,33.93,"High BOD, High Fecal Coliform, High Total Coliform",24.5,10.0,8.1,425.0,5.25,1.05,2060.0,17546.5,

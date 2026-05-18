@@ -1,0 +1,158 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1967,"Atul, Village G.W, (Valsad)",Groundwater,GUJARAT,2021,Safe,2.79,None,27.0,,7.7,2679.0,1.0,0.39,2.0,2.0,
+2089,"B/W Near Indl. Area Borasara & Navapura, Dist. Surat.",Groundwater,GUJARAT,2021,Safe,4.59,None,30.5,,8.15,3212.5,1.65,0.3,2.0,2.0,
+4414,"B/W Of Disaster Prevention And Managemant Center(Dpmc) Gide, Ankle Shwar For (Minars)",Groundwater,GUJARAT,2021,Safe,2.79,None,28.0,,8.05,1190.5,1.0,0.3,2.0,2.0,
+4413,"B/W Of Jashwantbhai Parmar, S. No. 18 At: Village Kalamsar, Ta Khambhat",Groundwater,GUJARAT,2021,Safe,2.79,None,29.5,,8.4,1218.5,1.0,1.035,2.0,2.0,
+4416,Bore Well At Voragamdi,Groundwater,GUJARAT,2021,Safe,2.79,None,31.5,,7.8,2813.0,1.0,0.3,2.0,2.0,
+2083,Bore Well Of Chhatral Gidc.,Groundwater,GUJARAT,2021,Safe,2.79,None,29.0,,8.2,2324.0,1.0,1.5,2.0,2.0,
+4422,"Bore Well Of Iti Collage Opp, M/S Paliwal Milk At Mota Sonela, Modasa Road, Tal, Lunavada, Dist. Mahisagar",Groundwater,GUJARAT,2021,Safe,2.79,None,28.0,,7.95,917.0,1.0,0.325,2.0,2.0,
+2091,Bore Well Of Navsari Gidc Industries Association Office.,Groundwater,GUJARAT,2021,Safe,5.01,None,32.0,,8.15,2368.0,1.8,0.35,2.0,2.0,
+2084,Bore Well Of Palsana Village.,Groundwater,GUJARAT,2021,Safe,4.31,None,30.0,,8.45,1330.5,1.55,0.55,2.0,2.0,
+2098,"Bore Well Of Pirana Terminal Pumping Station, Pirana, Nr. V. N. Bridge, Ahmedabad.",Groundwater,GUJARAT,2021,Safe,2.79,None,27.5,,7.5,2980.0,1.0,0.6,2.0,2.0,
+2088,Bore Well Of Sachin Gidc.,Groundwater,GUJARAT,2021,Safe,5.56,None,30.5,,7.7,8235.5,2.0,0.45,2.0,2.0,
+2085,Bore Well Of Santej Village.,Groundwater,GUJARAT,2021,Safe,2.79,None,29.0,,7.1,2164.0,1.0,0.5,2.0,2.0,
+2097,"Bore Well Of Someshwar Rice Mill, Nr. Bavla Eco Project, (Cetp ), Vill. Bavla, Dist. Ahmedabad.",Groundwater,GUJARAT,2021,Safe,2.79,None,31.5,,7.9,5532.5,1.0,0.45,2.0,2.0,
+2096,"Bore Well, Snr. Vinayak Jal Suddhikaran Sahakari Mandali Ltd. (Cetp ), Vill. Bavla, Dist. Ahmedabad.",Groundwater,GUJARAT,2021,Safe,2.79,None,32.0,,7.7,5751.5,1.0,0.3,2.0,2.0,
+3245,Borewell At Dhangadhra Near Dhangadhra Chemicals,Groundwater,GUJARAT,2021,Safe,3.9,None,30.0,,7.35,1451.5,1.4,1.29,2.0,2.0,
+3210,"Borewell At Piramal Glass, Village Tarsadi At Kosamba Industrial Area, Surat",Groundwater,GUJARAT,2021,Safe,5.15,None,29.5,,7.8,3819.5,1.85,0.5,2.0,2.0,
+3211,"Borewell At Primary Health Center, Kadodara, Surat",Groundwater,GUJARAT,2021,Safe,4.17,None,29.5,,8.15,1991.0,1.5,0.35,2.0,2.0,
+1970,"Borewell D/S Tsdf Site, Gidc Industrial Area, Vapi",Groundwater,GUJARAT,2021,Safe,2.79,None,26.0,,7.8,2172.0,1.0,0.555,2.0,2.0,
+3223,Borewell Kadi Industrial Area,Groundwater,GUJARAT,2021,Safe,2.79,None,29.0,,7.95,2091.5,1.0,0.3,2.0,2.0,
+3212,"Borewell Near Center Of Excellence Building, Gidc, Vatva, Ahmedabad",Groundwater,GUJARAT,2021,Safe,2.79,None,28.5,,7.95,2286.0,1.0,0.32,2.0,2.0,
+3214,Borewell Near Gidc Odhav Industrial Association,Groundwater,GUJARAT,2021,Safe,2.79,None,28.5,,7.85,2208.0,1.0,0.345,2.0,2.0,
+3215,"Borewell Near Municipal Solid Waste Site- Gyaspur, Narol, Ahmedabad",Groundwater,GUJARAT,2021,Safe,2.79,None,27.0,,7.7,3648.0,1.0,0.75,2.0,2.0,
+3244,"Borewell Near Tsdf Of Bharuch Enviro Infrastructure Limited, Ankleshwar, Bharuch",Groundwater,GUJARAT,2021,Safe,4.04,None,28.5,,7.25,3368.0,1.45,0.3,2.0,2.0,
+3216,"Borewell Near Tsdf Site Of Green Environmnet Services Co. Op.Ltd, Vatva, Ahmedabad",Groundwater,GUJARAT,2021,Safe,3.2,None,28.5,,7.8,2781.5,1.15,0.34,2.0,2.0,
+3217,"Borewell Near Tsdf Site Of Naroda Enviro Project.Ltd, Odhave, Ahmedabad",Groundwater,GUJARAT,2021,Safe,2.79,None,28.5,,8.05,2412.0,1.0,0.605,2.0,2.0,
+3234,"Borewell Nera Tsdf Of Nandesari Enviro Control Limited, Nadesari, Vadodara",Groundwater,GUJARAT,2021,Safe,5.84,None,29.5,,8.05,10218.0,2.1,1.21,2.0,2.0,
+3209,"Borewell Of Gayatri Pragna School, Bhadarwad Road, Bazar Falia, Sarigam, Valsad",Groundwater,GUJARAT,2021,Safe,2.79,None,28.5,,7.6,905.5,1.0,0.35,2.0,2.0,
+3235,"Borewell Of Gidc Kalol, B/H Gidc Office, Gidc, Kalol, Gandhinagar",Groundwater,GUJARAT,2021,Safe,2.79,None,29.0,,7.7,2091.0,1.0,0.3,2.0,2.0,
+3238,Borewell Of Gidc Kansari,Groundwater,GUJARAT,2021,Safe,2.79,None,29.5,,7.9,5119.5,1.0,0.3,2.0,2.0,
+3246,"Borewell Of Gidc Office, Shankar Tekri, Udhyognagar, Jamnangar",Groundwater,GUJARAT,2021,Safe,2.93,None,26.0,,7.45,3362.0,1.05,0.315,2.0,2.0,
+3232,"Borewell Of Gidc, Antalia Water Supply, Billimora, Gandevi",Groundwater,GUJARAT,2021,Safe,5.15,None,32.0,,8.1,2122.5,1.85,0.4,2.0,2.0,
+3207,"Borewell Of Gidc, Jhagadia",Groundwater,GUJARAT,2021,Safe,2.79,None,29.0,,7.75,1962.0,1.0,0.4,2.0,2.0,
+3230,"Borewell Of Gidc, Junagadh",Groundwater,GUJARAT,2021,Safe,3.48,None,29.5,,7.5,3174.5,1.25,1.34,2.0,2.0,
+3222,"Borewell Of Gidc, Panoli",Groundwater,GUJARAT,2021,Safe,2.79,None,28.0,,7.4,5225.0,1.0,0.3,2.0,2.0,
+3239,"Borewell Of Gidc, Sojitra",Groundwater,GUJARAT,2021,Safe,2.79,None,29.5,,8.0,3130.5,1.0,0.435,2.0,2.0,
+3220,"Borewell Of Gidc-Nadiad At Gidc Office, Gidc Nadiad, Kheda",Groundwater,GUJARAT,2021,Safe,2.79,None,31.0,,7.55,2727.5,1.0,1.16,2.0,2.0,
+3233,"Borewell Of Kaliawadi Grid Road, Navsari",Groundwater,GUJARAT,2021,Safe,7.78,None,31.0,,8.2,2530.0,2.8,0.3,2.0,2.0,
+3237,"Borewell Of L & T Ltd., Plot No. 144/146, Sarkhej-Bavla Road, Sanand, Ahmedabad",Groundwater,GUJARAT,2021,Safe,2.79,None,31.0,,7.7,3913.5,1.0,0.5,2.0,2.0,
+3236,"Borewell Of M/S Alfa Eca (I) Ltd., Unit-1, Sr.No. 249, Uma Ind. Estate, Vasna , Iyava, Sanand, Ahmedabad",Groundwater,GUJARAT,2021,Safe,2.79,None,28.5,,7.75,1972.5,1.0,1.105,2.0,2.0,
+4411,"Borewell Of Mr. Hitendrabhai Lakhmanbhai Ker Shiv Sai Park, New Smashan Road, Gandhinagar",Groundwater,GUJARAT,2021,Safe,3.06,None,26.0,,7.8,3278.5,1.1,0.3,2.0,2.0,
+4412,"Borewell Of Shri Kankeshwar Mahadev Mandir, Opp. Msw Dumpsite, Vibhapar",Groundwater,GUJARAT,2021,Safe,2.79,None,25.5,,7.05,6352.5,1.0,0.3,2.0,2.0,
+3247,"Borewell Of Shri Mahavir Metal Craft Pvt. Ltd., Plot No. 3059, Road No.6, Nr. Mahavir Circle, Phase-Iii, Gidc, Dared, Jamnagar",Groundwater,GUJARAT,2021,Safe,2.93,None,26.0,,7.7,2520.5,1.05,0.315,2.0,2.0,
+3221,"Borewell Of Town Rajpipla, Dist.Narmada",Groundwater,GUJARAT,2021,Safe,2.79,None,29.0,,7.55,736.0,1.0,0.3,2.0,2.0,
+3213,"Borewell, Cetp-Naroda, Gidc, Naroda-Ahmedabad",Groundwater,GUJARAT,2021,Safe,2.79,None,27.5,,7.95,2508.0,1.0,0.555,2.0,2.0,
+3224,Deesa Borewell,Groundwater,GUJARAT,2021,Safe,2.79,None,28.5,,7.75,974.0,1.0,0.88,2.0,2.0,
+3229,"Gidc, Dahod, Dahod",Groundwater,GUJARAT,2021,Safe,2.79,None,28.0,,8.0,1802.0,1.0,0.455,2.0,2.0,
+3228,"Gidc, Halol, Panchmahal",Groundwater,GUJARAT,2021,Safe,2.79,None,28.0,,8.2,2749.5,1.0,0.45,2.0,2.0,
+1954,Ground Water At Bhuj,Groundwater,GUJARAT,2021,Safe,4.31,None,30.0,,7.55,3060.0,1.55,0.305,2.0,2.0,
+1960,Ground Water At Dahod,Groundwater,GUJARAT,2021,Safe,2.79,None,28.0,,8.2,1275.5,1.0,0.55,2.0,2.0,
+1961,Ground Water At Godhara,Groundwater,GUJARAT,2021,Safe,2.79,None,28.0,,8.1,1205.0,1.0,0.915,2.0,2.0,
+1958,Ground Water At Himatnagar,Groundwater,GUJARAT,2021,Safe,2.79,None,25.5,,7.8,1039.5,1.0,0.61,2.0,2.0,
+1953,Ground Water At Jamnagar,Groundwater,GUJARAT,2021,Safe,2.79,None,26.0,,7.1,1620.5,1.0,0.305,2.0,2.0,
+1950,Ground Water At Junagadh,Groundwater,GUJARAT,2021,Safe,3.62,None,28.5,,7.35,1021.5,1.3,1.145,2.0,2.0,
+1956,Ground Water At Mehasana,Groundwater,GUJARAT,2021,Safe,2.79,None,29.0,,7.8,3267.0,1.0,0.565,2.0,2.0,
+1959,Ground Water At Nadiad,Groundwater,GUJARAT,2021,Safe,2.79,None,31.0,,8.0,1637.5,1.0,1.28,2.0,2.0,
+1955,Ground Water At Palanpur,Groundwater,GUJARAT,2021,Safe,2.79,None,31.0,,7.4,1319.0,1.0,1.5,2.0,2.0,
+1957,Ground Water At Siddhpur (Dist.Patan),Groundwater,GUJARAT,2021,Safe,2.79,None,27.5,,7.85,1693.5,1.0,1.35,2.0,2.0,
+1952,Ground Water At Surendranagar,Groundwater,GUJARAT,2021,Safe,7.77,None,28.0,,7.6,3079.0,1.4,1.2,,,
+3208,"Jilla Panchayat School, Near Gram Panchayat Kata Falia, Village Namdha, Valsad",Groundwater,GUJARAT,2021,Safe,2.79,None,26.0,,7.45,619.0,1.0,0.35,2.0,2.0,
+1965,"Mora-Hajira (Industrial), Hajira",Groundwater,GUJARAT,2021,Safe,4.31,None,30.0,,8.0,1303.5,1.55,0.4,2.0,2.0,
+1964,Pandesara (Indstrial) Surat,Groundwater,GUJARAT,2021,Safe,6.26,None,30.5,,7.85,2847.5,2.25,0.6,2.0,2.0,
+3226,Patan Borewell,Groundwater,GUJARAT,2021,Safe,2.79,None,29.0,,8.0,1832.0,1.0,0.38,2.0,2.0,
+1969,"Sarigam Village (D/S Of Industrialarea), Vapi",Groundwater,GUJARAT,2021,Safe,2.79,None,29.0,,7.6,991.5,1.0,0.34,2.0,2.0,
+1962,Vadodara (Industrial- Nandesari),Groundwater,GUJARAT,2021,Safe,6.67,None,29.0,,7.75,5149.0,2.4,0.74,2.0,2.0,
+1968,"Vapi Industrial Area In D/S, Vapi",Groundwater,GUJARAT,2021,Safe,2.79,None,27.0,,7.95,752.0,1.0,0.35,2.0,2.0,
+3227,Vijapur (Ranasan) Borewell,Groundwater,GUJARAT,2021,Safe,2.79,None,30.0,,7.65,1770.0,1.0,0.305,2.0,2.0,
+3225,Visnagar Borewell,Groundwater,GUJARAT,2021,Safe,2.79,None,29.0,,8.15,1523.0,1.0,0.3,2.0,2.0,
+3,Well At Ahmedabad,Groundwater,GUJARAT,2021,Safe,2.79,None,33.0,,8.5,2704.0,1.0,0.4,2.0,2.0,
+2094,Well At Ankleshwar Industrial Area (Bore Well Of M/S Industrial Carbon At Ankleshwar- Rajpipla Road.,Groundwater,GUJARAT,2021,Safe,2.79,None,29.0,,7.2,6747.0,1.0,0.3,2.0,2.0,
+6,Well At Baroda,Groundwater,GUJARAT,2021,Safe,2.79,None,30.0,,7.9,1370.0,1.0,0.3,2.0,2.0,
+2090,Well At Olpad.,Groundwater,GUJARAT,2021,Safe,5.42,None,29.0,,7.6,13950.0,1.95,0.45,2.0,2.0,
+2093,Well Of Bardoli At Rest House.,Groundwater,GUJARAT,2021,Safe,4.17,None,29.5,,7.95,1666.5,1.5,0.5,2.0,2.0,
+3219,"Well Of Idar, Nagar Palika, Sakaria, Idar",Groundwater,GUJARAT,2021,Safe,2.79,None,25.5,,7.5,948.5,1.0,0.62,2.0,2.0,
+3218,"Well Of Modasa, Nagar Palika, Varigruh, Modasa",Groundwater,GUJARAT,2021,Safe,2.79,None,25.5,,7.6,1163.0,1.0,0.69,2.0,2.0,
+2080,Masma Khadi- Olpad- Saras Road,CREEK,GUJARAT,2021,Unsafe,7.02,Low DO,25.0,4.95,7.65,2341.5,2.15,0.4,317.0,975.0,
+2081,Amlakhadi Creek At Pungam.,CREEK,GUJARAT,2021,Unsafe,23.95,"High BOD, High Fecal Coliform",28.5,6.1,7.45,1385.5,22.0,1.2,816.5,855.0,
+3196,"Vandkhadi At Village Umarwada, Ta Ankleshwar, Bharuch",CREEK,GUJARAT,2021,Unsafe,25.59,"Low DO, High BOD, High Fecal Coliform",29.5,4.6,7.55,4358.0,66.05,0.3,823.0,870.0,
+1345,"Ajwah Lake At Sri Sayaji Sabvar, Baroda,",Pond/Tank,GUJARAT,2021,Unsafe,20.01,High BOD,,28.5,6.8,8.05,433.5,1.0,0.355,6.5,43.5
+2076,Ankleshwar Reservoir At Gidc Ankleshwar At Valia Road.,Pond/Tank,GUJARAT,2021,Unsafe,20.01,High BOD,,28.5,7.5,7.95,407.0,1.0,0.4,14.5,45.0
+1973,"Bindusarovar, Siddhpur (Dist.Patan)",Pond/Tank,GUJARAT,2021,Unsafe,23.59,"pH Out of Range, High BOD",,28.0,5.35,7.65,500.0,5.75,0.8,66.0,198.0
+1344,"Chandola Lake At Ahmedabad,",Pond/Tank,GUJARAT,2021,Unsafe,23.46,"pH Out of Range, High BOD",,27.5,5.5,7.85,500.0,10.7,0.99,473.0,865.0
+1977,City Lake Of Nadiad,Pond/Tank,GUJARAT,2021,Unsafe,22.63,"pH Out of Range, High BOD",,31.0,5.7,8.1,500.0,2.35,0.48,210.0,410.0
+3198,"Gomti Lake, Opp, Ranchodaji Temple, Dakor, Kheda",Pond/Tank,GUJARAT,2021,Unsafe,24.38,"pH Out of Range, High BOD",,29.5,5.1,7.95,490.5,2.25,0.96,81.5,240.0
+3199,"Hamisar Talav, Bhuj",Pond/Tank,GUJARAT,2021,Unsafe,22.16,"pH Out of Range, High BOD",,26.5,5.8,7.8,500.0,2.5,0.395,6.0,25.0
+1343,"Kankoria Lake At Ahmedabad, Nr. Balvatika,",Pond/Tank,GUJARAT,2021,Unsafe,20.39,High BOD,,27.5,6.6,8.8,500.0,14.5,0.975,476.5,940.0
+1975,"Lakhota Talav, Jamnagar",Pond/Tank,GUJARAT,2021,Unsafe,28.62,"pH Out of Range, High BOD",,23.5,3.7,7.6,500.0,1.55,0.46,4.5,16.5
+3201,"Malav Talav, Dholka",Pond/Tank,GUJARAT,2021,Unsafe,20.22,High BOD,,28.0,6.7,8.7,500.0,15.0,0.51,276.0,491.5
+3200,Moonsar Lake Of Viramgam,Pond/Tank,GUJARAT,2021,Unsafe,28.41,"pH Out of Range, High BOD",,28.0,3.9,8.65,500.0,34.5,0.63,507.0,940.0
+2077,"Moticher Lake Near Kakarpar Atomic Power Station, Dist. Surat.",Pond/Tank,GUJARAT,2021,Unsafe,20.0,High BOD,,25.0,6.9,7.9,500.0,1.05,0.215,4.0,17.5
+1972,"Nalsarovar Lake (Sanand), Dist.Ahmedabad",Pond/Tank,GUJARAT,2021,Unsafe,20.23,High BOD,,28.0,6.7,8.3,500.0,12.9,0.54,286.5,520.0
+1976,Narsimehta Talav- Junagadh,Pond/Tank,GUJARAT,2021,Unsafe,24.64,"pH Out of Range, High BOD",,26.0,5.0,7.75,500.0,2.55,0.34,25.5,73.5
+1346,"Sursagar Lake At Baroda,",Pond/Tank,GUJARAT,2021,Unsafe,21.39,"pH Out of Range, High BOD",,29.0,6.1,8.05,500.0,2.85,0.385,198.0,355.0
+3202,Vheraimata Talav At Anand,Pond/Tank,GUJARAT,2021,Unsafe,26.35,"pH Out of Range, High BOD",,27.0,4.5,7.9,500.0,2.95,0.605,240.0,390.0
+2079,"Dhudhia Talav At Navsari, Dist. Navsari.",Pond/Tank,GUJARAT,2021,Unsafe,20.01,High BOD,,29.5,7.4,7.95,466.5,1.45,0.435,9.5,65.0
+1979,"Olpad, Village Pond:Olpad, Surat",Pond/Tank,GUJARAT,2021,Unsafe,20.05,High BOD,,25.0,6.8,7.85,500.0,1.75,0.18,56.0,153.5
+1971,Thol Tank (Kalol) (Dist. Mehasana),Pond/Tank,GUJARAT,2021,Unsafe,24.37,"pH Out of Range, High BOD",,28.5,5.15,7.8,500.0,18.5,0.68,273.0,485.0
+2073,"Narmada Main Canal, Nr. Village. Limbadia, Dist. Gandhinagar.",Canal,GUJARAT,2021,Safe,2.48,None,28.0,5.95,7.85,322.0,1.1,2.1,4.0,26.5,
+2074,"Tapi Canal At Village Umarwada, Near Gidc Estate Of Panoli.",Canal,GUJARAT,2021,Safe,0.22,None,31.0,7.75,8.15,562.5,,0.5,25.5,95.0,
+4421,"From Narmada Main Canal At Indorahmedabad Highway Bridge Near Village Motikantadi Tal, Godhra, Dist Panchmahal",Canal,GUJARAT,2021,Safe,0.08,None,25.0,7.55,7.7,427.0,,0.3,7.8,45.5,
+2081,Amlakhadi Creek At Pungam.,GUJARAT,GUJARAT,2021,Unsafe,31.15,"Low DO, High BOD, High Fecal Coliform",28.5,3.2,7.5,1385.5,11.5,0.65,816.5,855.0,
+1148,River Ambika At Bilimora,GUJARAT,GUJARAT,2021,Safe,3.6,None,30.5,6.4,7.4,26780.0,1.55,0.57,24.0,80.0,
+1434,River Amlakhadi After Confl. Of W. Water From Anklesh,GUJARAT,GUJARAT,2021,Unsafe,36.14,"Low DO, High BOD, High Fecal Coliform",29.5,2.0,7.6,1411.5,10.5,0.565,839.5,975.0,
+1980,River Amlakhadi At Pungam Ankleshwar Distt Bharuch,GUJARAT,GUJARAT,2021,Unsafe,33.09,"Low DO, High BOD, High Fecal Coliform",29.5,2.75,7.55,1348.5,12.0,0.81,835.0,940.0,
+1860,River Baleshwar Khadi At N.H. No. 8,GUJARAT,GUJARAT,2021,Safe,7.03,None,26.0,6.05,7.8,27057.0,2.0,0.655,467.5,905.0,
+1436,"River Bhadar D/S Jetpur Vill. After Conf. Of W.Water From Jetpur City,",GUJARAT,GUJARAT,2021,Unsafe,27.69,"Low DO, High BOD",29.0,3.25,7.85,3308.5,11.5,0.33,115.5,289.5,
+2072,River Bhogavo D/S Of Surendranagar.,GUJARAT,GUJARAT,2021,Unsafe,13.57,"Low DO, High BOD",25.5,3.7,7.95,1461.5,3.7,0.61,24.5,74.0,
+30039,"River Damanganga At D/S Of Gidc Weir, Vapi",GUJARAT,GUJARAT,2021,Unsafe,31.26,"High Fecal Coliform, High Total Coliform",26.0,8.15,8.25,343.0,2.0,1.255,6506.0,8524.5,
+1246,"River Damanganga At Kachigaon D\S (Daman),",GUJARAT,GUJARAT,2021,Unsafe,7.51,High Fecal Coliform,27.5,5.8,7.6,5388.0,1.6,0.47,819.0,847.0,
+1150,"River Damanganga At Kachigaon U\S At Gidc Wier,",GUJARAT,GUJARAT,2021,Safe,2.32,None,26.0,6.95,7.75,292.0,1.0,0.41,18.0,37.5,
+1865,River Dhadar At Kothada,GUJARAT,GUJARAT,2021,Unsafe,42.08,"Low DO, High BOD, High Fecal Coliform",28.5,1.4,7.8,1084.0,17.45,0.995,1600.0,1600.0,
+1862,River Kaveri On Bridge At Billimora-Valsad Road,GUJARAT,GUJARAT,2021,Safe,3.89,None,31.0,6.45,7.95,26150.5,1.7,0.56,18.5,48.5,
+1149,River Kolak At Patalia Bdg.,GUJARAT,GUJARAT,2021,Safe,5.35,None,26.0,6.15,7.7,1739.0,1.25,0.375,476.5,842.0,
+1435,"River Kolak At Railway Bridge No. 313 Vapi, Valsad,",GUJARAT,GUJARAT,2021,Safe,2.9,None,25.5,6.0,7.65,22290.5,1.25,0.495,18.5,59.0,
+1438,"River Mindhola At State Highway Bridge Sachin,",River,GUJARAT,2021,Unsafe,8.55,High Fecal Coliform,26.5,5.3,7.7,4334.5,2.25,0.455,570.0,1600.0,
+1861,River Purna On Bridge At Surat-Navsari Highway,River,GUJARAT,2021,Safe,5.38,None,29.5,6.2,7.75,1995.0,1.6,0.47,262.0,975.0,
+2082,"River Triveni Sangam, Nr. Somnath Temple, Veraval, Dist. Junagadh.",River,GUJARAT,2021,Safe,4.56,None,25.5,5.3,7.95,6728.0,2.05,0.65,2.0,5.5,
+20015,Ahmedabad-1 Benrampura,Drain/STP/WTP,GUJARAT,2021,Unsafe,30.24,"High BOD, High Fecal Coliform",27.0,,7.5,7.7,25.5,,860.0,940.0,
+20016,Ahmedabad-2 Narol Sarkhej Highway,Drain/STP/WTP,GUJARAT,2021,Unsafe,31.95,"High BOD, High Fecal Coliform",28.5,,7.5,7.7,27.5,,1070.0,1600.0,
+4,River Mahi At Sevalia,River,GUJARAT,2021,Safe,2.29,None,27.0,8.15,8.0,534.0,1.0,0.375,6.5,54.5,2.0
+5,River Mahi At Vasad,River,GUJARAT,2021,Safe,2.32,None,24.0,7.5,7.9,564.5,1.0,0.375,11.5,68.5,
+1230,"River Mahi After Conf. With Anas At Pardi (Banaswada),",River,GUJARAT,2021,Safe,2.28,None,25.0,7.1,7.95,449.5,1.0,0.395,5.0,48.0,2.0
+1231,"River Mahi At Virpur,",River,GUJARAT,2021,Safe,2.28,None,25.0,7.65,7.9,566.0,1.0,0.435,4.0,51.0,2.0
+1863,River Mahi At Umeta Bridge,River,GUJARAT,2021,Safe,2.32,None,26.5,8.1,8.1,487.0,1.0,0.35,9.5,74.5,
+1864,River Mahi At Mujpur,River,GUJARAT,2021,Safe,5.88,None,28.0,7.35,8.05,2499.0,2.6,0.385,12.0,79.5,
+3206,River Mahi At Sherkhi Bridge,River,GUJARAT,2021,Unsafe,4.75,Low DO,28.5,4.4,7.85,554.5,1.0,0.4,13.5,100.0,
+4415,River Mahi At Dodka,River,GUJARAT,2021,Safe,2.29,None,27.5,7.7,8.1,559.0,1.0,0.345,7.5,48.5,
+30050,"River Mahi At Kadana Dam, (Gujarat)",River,GUJARAT,2021,Safe,5.81,None,20.5,7.9,7.9,310.0,2.4,0.32,68.0,260.0,
+1228,"River Anas At Dahod, (Kushalgarh), Dist. Panchmahal",River,GUJARAT,2021,Safe,2.34,None,26.0,7.95,8.15,559.5,1.0,0.57,11.5,87.0,2.0
+1227,"River Panam At Lunawada,",River,GUJARAT,2021,Safe,2.29,None,25.0,6.55,7.75,529.0,1.0,0.37,6.5,56.0,2.0
+1221,"River Sabarmati At Kheroj Bridge,",River,GUJARAT,2021,Safe,3.12,None,25.5,6.65,7.9,577.0,1.3,0.78,26.5,163.0,2.0
+1223,"River Sabarmati After Conf. With Meshwa At Vautha (Near Dhokla),",River,GUJARAT,2021,Unsafe,36.2,"Low DO, High BOD, High Fecal Coliform",28.0,2.05,7.9,2131.0,24.5,0.55,885.0,1070.0,
+1409,"River Sabarmati At Railway Bridge Ahmedabad,",River,GUJARAT,2021,Unsafe,17.03,High BOD,27.5,5.05,7.95,402.5,7.5,0.37,45.5,245.0,
+1866,"River Sabarmati At Hansaol Bridge,",River,GUJARAT,2021,Safe,2.99,None,27.5,6.05,7.85,388.0,1.3,0.84,11.5,78.5,
+1,River Sabarmati At Dharoi Dam,River,GUJARAT,2021,Safe,2.26,None,28.0,6.1,8.2,406.0,1.0,0.31,4.0,29.5,
+2,River Sabarmati At Ahmedabad At V.N. Bridge,River,GUJARAT,2021,Unsafe,44.09,"Low DO, High BOD, High Fecal Coliform",27.5,0.3,7.9,2425.0,153.0,0.995,1070.0,1260.0,
+1408,"River Sabarmati At Vill. Miroli Taluka Dascroi, Ahmedabad,",River,GUJARAT,2021,Unsafe,37.68,"Low DO, High BOD, High Fecal Coliform",31.0,2.5,7.55,2043.5,30.0,0.885,1600.0,1600.0,1600.0
+2075,"River Sabarmati At Dharoi Dam, Dist. Mehsana.",River,GUJARAT,2021,Safe,2.93,None,29.0,6.1,7.85,403.0,1.3,0.395,4.0,31.0,
+10014,River Sabarmati At Ahmedabad U/S,River,GUJARAT,2021,Safe,2.99,None,27.5,6.05,7.85,388.0,1.3,0.84,11.5,78.5,
+10015,River Sabarmati At Ahmedabad D/S,River,GUJARAT,2021,Unsafe,37.68,"Low DO, High BOD, High Fecal Coliform",31.0,2.5,7.6,2328.0,30.0,0.885,1600.0,1600.0,1600.0
+1222,"River Shedhi At Kheda,",River,GUJARAT,2021,Unsafe,9.29,Low DO,32.0,4.1,7.8,1471.5,1.8,0.965,309.5,565.0,5.5
+1437,"River Khari At Lali Village Near Ahmedabad,",River,GUJARAT,2021,Unsafe,40.89,"Low DO, High BOD, High Fecal Coliform",30.5,1.1,7.5,1867.5,67.5,0.92,1070.0,1260.0,
+30048,"River Narmada At Gora Bridge, Navagam (Gujarat)",River,GUJARAT,2021,Safe,6.67,None,25.5,8.5,8.0,490.0,2.3,0.39,170.0,1100.0,
+7,River Narmada At Garudeshwar,River,GUJARAT,2021,Safe,2.56,None,29.5,7.35,7.9,401.5,1.1,0.325,19.5,48.5,
+1244,"River Narmada At Panetha,",River,GUJARAT,2021,Safe,2.36,None,29.5,7.55,7.85,356.0,1.0,0.315,18.5,78.5,
+1245,"River Narmada At Chandod,",River,GUJARAT,2021,Safe,2.35,None,19.5,7.8,7.75,491.5,1.0,0.49,14.5,94.5,
+1981,"River Narmada At Zanor (Ntpc), Bharuch",River,GUJARAT,2021,Safe,2.64,None,26.5,7.5,7.85,381.5,1.1,0.3,33.5,78.0,8.0
+1243,"River Narmada At Bharuch, Zadeshvar,",River,GUJARAT,2021,Safe,2.99,None,29.0,7.35,7.9,395.0,1.15,0.3,70.0,195.0,13.0
+46,"River Tapi At Ukai, Sherula Bridge",River,GUJARAT,2021,Safe,3.01,None,29.0,7.25,7.7,2329.5,1.3,0.675,19.5,55.0,
+1247,"River Tapi At Mandavi,",River,GUJARAT,2021,Safe,2.63,None,24.5,7.05,7.85,504.5,1.15,0.31,12.0,40.0,2.0
+1983,River Tapi Near Bardoli (Kapp Bridge) Bardoli,River,GUJARAT,2021,Safe,3.16,None,25.0,6.75,7.85,443.0,1.4,0.31,8.0,28.5,2.0
+47,"River Tapi At Kathore, (Nh-8 Bridge)",River,GUJARAT,2021,Safe,2.68,None,24.5,7.05,7.8,546.5,1.15,0.31,19.5,58.5,4.0
+1248,"River Tapi At Surat U/S Kathore,",River,GUJARAT,2021,Safe,2.82,None,24.5,7.0,7.75,545.5,1.2,0.345,23.0,83.0,4.0
+1982,"River Tapi At Rander Bridge, Surat",River,GUJARAT,2021,Safe,3.03,None,25.5,5.85,8.05,640.0,1.3,0.31,21.5,76.5,4.0
+2071,"River Tapi At Ongc Bridge At Surat,",River,GUJARAT,2021,Safe,4.39,None,26.5,5.85,7.65,27847.0,1.9,0.465,25.0,88.0,6.0
+30045,"River Tapi At Kurkurmunda Bridge, Nizhar Road, Near Kurkurmunda Village, Gujarat",River,GUJARAT,2021,Unsafe,12.58,High BOD,21.0,8.6,8.0,450.0,3.4,2.25,,,
+3203,"River Amravati At Village Dadhal , Ta Ankleshwar, Bharuch",River,GUJARAT,2021,Safe,3.01,None,29.0,7.2,7.9,716.0,1.2,0.48,60.5,132.0,
+2070,"River Kim At Sahol Bridge, Olpad Hansot Road, Dist. Surat",River,GUJARAT,2021,Safe,4.27,None,25.0,6.05,7.85,1503.5,1.85,0.185,24.5,84.0,5.0

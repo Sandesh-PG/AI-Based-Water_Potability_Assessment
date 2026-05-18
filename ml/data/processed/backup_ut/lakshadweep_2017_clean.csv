@@ -1,0 +1,2 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1401,"Pond Near Juma Masjid, Lakshawdeep",Pond/Tank,LAKSHADWEEP,2017,Unsafe,50.0,High BOD,,31.4,,8.45,500.0,,,,

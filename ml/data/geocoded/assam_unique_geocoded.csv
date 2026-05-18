@@ -1,0 +1,491 @@
+monitoring_location,stn_code,latitude,longitude,geocode_query,geocoded
+"Digboi, Tinsukia Distt",1533,27.3956145,95.614868,"digboi tinsukia distt, Assam, India",True
+Karbi Anglong Distt,1534,26.0712781,93.4552969,"karbi anglong distt, Assam, India",True
+Sibsagar,1535,26.9834936,94.6394226,"sibsagar, Assam, India",True
+(Jorhat,1537,26.7577925,94.2079645,"jorhat, Assam, India",True
+Silchar,1538,24.830302,92.7875689,"silchar, Assam, India",True
+Barpeta,1539,26.345941,91.039708,"barpeta, Assam, India",True
+Bonaigaon,1540,,,,False
+Guwahati,1541,26.1805978,91.753943,"guwahati, Assam, India",True
+"Ground Water From Ledo, Margherita",2243,27.2945211,95.73688,"ledo margherita, Assam, India",True
+Ground Water From Nazira,2244,26.8622087,94.7183167,"nazira, Assam, India",True
+Ground Water From Numaligarh (Near Nrl Te Labor Colony),2245,26.7472242,94.2480731,"colony, Assam, India",True
+Ground Water From Semenchapari,2246,,,,False
+Ground Water From Silapathar,2247,27.5893833,94.7255857,"silapathar, Assam, India",True
+Ground Water From Lakhimpur Town,2248,27.236211,94.1038765,"lakhimpur town, Assam, India",True
+Ground Water From Tezpur (Mission Chariali),2249,26.352039,92.6906592,"mission chariali, Assam, India",True
+Ground Water From Nagaon (Panigaon),2250,26.3480551,92.698018,"nagaon panigaon, Assam, India",True
+Ground Water From Jagiroad Near Hpc Effluent Discharge Point,2251,,,,False
+Ground Water Near Msw Dumping Site At Garchuk-Guwahati,2252,26.11114,91.6853199,"garchuk guwahati, Assam, India",True
+Ground Water From Nalbari,2253,26.3533632,91.3983662,"nalbari, Assam, India",True
+Ground Water From Barpeta Road(Rly Station),2254,26.5021259,90.9645713,"barpeta station, Assam, India",True
+"Ground Water Near Bprl, Dhaligaon",2255,26.4958001,90.5226391,"dhaligaon, Assam, India",True
+Ground Water From Kokrajhar District (Hs School ),2256,26.4912104,90.1215209,"kokrajhar district, Assam, India",True
+Ground Water From Dhubri District (College Nagar ),2257,26.7503197,94.1821094,"district nagar, Assam, India",True
+Ground Water From Hamren,2260,25.8449919,92.5748777,"hamren, Assam, India",True
+Ground Water From Haflong,2261,25.1825103,92.8984045,"haflong, Assam, India",True
+Ground Water From Karimganj (College),2262,24.5828196,92.3725487,"karimganj, Assam, India",True
+Ground Water From Hialakandi (Near,2263,,,,False
+Ground Water In Panchgram Market Near Cachar Paper Mill,2264,26.1692384,91.7598512,"mill, Assam, India",True
+Mer Beel At Madhabpur,2205,,,,False
+Daloni Beel Near Jogighopa,2206,26.2222913,90.5731185,"jogighopa, Assam, India",True
+Elangabeel System Pond (Connected To R. Kolang),1263,,,,False
+Bor Beel At Jakai,2207,26.6283074,94.1137361,"jakai, Assam, India",True
+"Borpukhuri, Nazira",2208,26.8622087,94.7183167,"nazira, Assam, India",True
+"Gaurisagar Tank, Gaurisagar",2209,26.9484393,94.53558,"gaurisagar, Assam, India",True
+"Rajmaw Pukhuri, Jorhat",2210,26.7484604,94.2176863,"pukhuri jorhat, Assam, India",True
+"Padumpukhuri, Tezpur",2211,26.6229928,92.7976082,"tezpur, Assam, India",True
+"Gophur Tank, Gophur",2212,,,,False
+"Jaipal Pukhuri, Sipajhar",2213,26.3185876,91.861363,"sipajhar, Assam, India",True
+"Botodriva Satra Pond, Nagaon",2214,26.3313646,92.7524763,"nagaon, Assam, India",True
+Saran Beel,2215,26.1214488,91.6488261,"beel, Assam, India",True
+"Dighali Pukhuri, Guwahati",2216,26.187556,91.751178,"pukhuri guwahati, Assam, India",True
+"Subhagya Kunda Pond Kamakhya Temple, Guwahati",2217,26.165107,91.7059298,"kamakhya temple guwahati, Assam, India",True
+"Deepar Beel At Boragaon Near Iasst, Guwahati",2218,26.11114,91.6853199,"boragaon iasst guwahati, Assam, India",True
+"Bishnu Puskar Pukhuri Of Hayagrib Madhab Temple, Hajo",2219,26.2429185,91.526535,"temple hajo, Assam, India",True
+"Chand Dubi Beel, Chand Dubi",2220,,,,False
+"Ganga Pukhuri, Nalbari (Gordon School)",2221,,,,False
+Rajadinia Pukhuri At Abhayapuri,2222,26.334307,90.6669044,"abhayapuri, Assam, India",True
+Mahamaya Mandir Pukhuri,2223,26.9524218,94.6231425,"pukhuri, Assam, India",True
+Rajapukhuri At Gauripur,2224,26.0865358,89.964662,"gauripur, Assam, India",True
+"Baskandi Pond Inside The Baskandi Madrasa, Baskandi",2225,24.8100997,92.9150941,"baskandi madrasa baskandi, Assam, India",True
+Sivasagar Tank (Borpukhuri) Near Sivadol,2226,,,,False
+"Hordai Pukhuri, Charaidew",2227,,,,False
+Gala Beel At Dergaon,2228,26.6912061,93.9494079,"dergaon, Assam, India",True
+"Goysagar Tank, Sibsagar",1532,26.9834936,94.6394226,"sibsagar, Assam, India",True
+Brahamputra At Kherghat (A/C With Dibang & Dihang),1260,,,,False
+Brahamputra At Dibrugarh,1030,27.4844597,94.9019447,"dibrugarh, Assam, India",True
+Brahamputra At Nimatighat,1262,,,,False
+Brahmputra At Dhenukhapahar,1526,,,,False
+Brahamputra At Pandu,1031,26.1634597,91.6806078,"pandu, Assam, India",True
+Brahmaputra At Dhubri,2066,26.0202533,89.9899358,"brahmaputra dhubri, Assam, India",True
+Brahamputra At Jogijhoga Near Bridge,1299,,,,False
+"Brahmputra Near Water Intake Point At Kacharighat, Panbazar, Guwahati",2069,26.1805978,91.753943,"guwahati, Assam, India",True
+"Brahmaputra River At Chandrapur, Guwahati",2064,26.1805978,91.753943,"guwahati, Assam, India",True
+"Brahmputra River At Sualkuchi, Dist. Kamrup",2067,26.1468861,91.2227397,"kamrup, Assam, India",True
+"Kathakal, U/S At Matijuri, Dist. Hailakandi",2068,24.6473519,92.6126791,"matijuri dist. hailakandi, Assam, India",True
+Dhansiri At Golaghat,1259,26.6504888,93.5855122,"dhansiri golaghat, Assam, India",True
+"Dhansiri At Nagaland- Assam Border, Dimapur",1928,26.4986126,93.9348134,"dimapur, Assam, India",True
+Barak D/S Of Silchar,2240,24.8076698,92.7951287,"barak silchar, Assam, India",True
+Beki At Nh-37 Crossing At Barpeta Road,2238,26.345941,91.039708,"barpeta, Assam, India",True
+Bharalu At Guwahati,1528,26.1805978,91.753943,"guwahati, Assam, India",True
+Bhogdoi At Jorhat,1527,26.6873576,94.3021534,"bhogdoi jorhat, Assam, India",True
+"Boginadi Near Bridge Nh-52, Lakhimpur",2233,27.1763356,94.1992932,"lakhimpur, Assam, India",True
+Borak At Panchagram,1423,,,,False
+Burhidihing At Margherita,1422,27.438398,95.7409824,"margherita, Assam, India",True
+Burhidihing At Duliajan (Intake Point Of Oil India Ltd.),2230,26.1801244,91.7357277,"india ltd., Assam, India",True
+Buridihing D/S Near Duliajan Tinsukia,2062,27.4879722,95.3601855,"tinsukia, Assam, India",True
+Deepar Beel,1529,26.1214488,91.6488261,"beel, Assam, India",True
+"Digboi At Lakhipathe, Reserve Forest, Digboi",1530,27.3956145,95.614868,"digboi, Assam, India",True
+Dikhow At Dikhow Bridge Sivasagar,2231,26.9219131,94.7397334,"dikhow dikhow sivasagar, Assam, India",True
+Disang At Gundamghat,1298,,,,False
+"Disang At Dillighat, Dibrugarh Dist",2058,27.1409392,95.3685808,"dillighat dibrugarh dist, Assam, India",True
+"Jai Bharali Near Biswanath Charali, Sonitpur",2063,26.72667,93.147765,"biswanath charali sonitpur, Assam, India",True
+Jhanji At N.H. Crossing Jorhat,1258,26.7577925,94.2079645,"jorhat, Assam, India",True
+"Kalong At U/S Of Anandaram Dekial Phukan Bridge, Nagaon",2237,26.3592774,92.6928657,"phukan nagaon, Assam, India",True
+"Kapili At Dharmtul Bridge, Nh- 31, Nagaon",2236,26.3313646,92.7524763,"nagaon, Assam, India",True
+Kharsang B/C With Buridihing Near Kharsang (Assam- Arunanchal Border),2061,25.9313355,89.8817831,"border, Assam, India",True
+"Kohora At N.H. Crossing, Kohora",2232,26.5869979,93.4105813,"kohora, Assam, India",True
+Kolong At Marigaon,2059,26.2233129,92.4491387,"kolong marigaon, Assam, India",True
+"Kundli At Kundli/ Sapakhowa, Sadia",2229,,,,False
+Kushiara At Karimganj,2242,24.5828196,92.3725487,"karimganj, Assam, India",True
+"Manas At Nh-31 Crossing, Barpeta, District",2060,26.345941,91.039708,"barpeta district, Assam, India",True
+Mora Bharali At Tezpur,1531,26.6229928,92.7976082,"tezpur, Assam, India",True
+"Pagldia Near Nalbari Town, Dist. Nalbari",2065,26.3533632,91.3983662,"nalbari, Assam, India",True
+"Panchnai At Nh-52 Crossing, Orang",2235,26.5468365,92.3134803,"orang, Assam, India",True
+Ranga Nadi D/S Of Hydel Project,2234,27.5511724,94.2600497,"project, Assam, India",True
+Sankosh Dhubri,2239,26.132275,90.1249962,"dhubri, Assam, India",True
+Sonai River At Sonai,2241,24.4891428,92.9635349,"sonai river sonai, Assam, India",True
+"Subansiri At Gerekamukh, B/C With Brahmaputra",1261,26.0960868,90.859726,"brahmaputra, Assam, India",True
+"Digboi, Tinsukia Distt., Assam",1533,27.3956145,95.614868,"digboi tinsukia distt. assam, Assam, India",True
+"Ground Water At Karbi Anglong Distt., Assam",1534,25.8403569,93.4336966,"ground karbi anglong distt. assam, Assam, India",True
+Ground Water Near Bpms H.S. School Sonari Town Dist Charaideo,1536,27.0263746,95.0195484,"town dist charaideo, Assam, India",True
+"Ground Water At (Jorhat, Assam)",1537,26.7323339,94.2237231,"ground jorhat assam, Assam, India",True
+"Ground Water At Silchar, Assam",1538,24.7566951,92.780956,"ground silchar assam, Assam, India",True
+"Ground Water At Barpeta, Assam",1539,26.3304208,91.006361,"barpeta assam, Assam, India",True
+"Ground Water At Bonaigaon, Assam",1540,26.5123654,93.9715725,"assam, Assam, India",True
+"Ground Water At Sijubari Mazar, Natboma Hatigaon",1542,26.1295619,91.767685,"natboma hatigaon, Assam, India",True
+"Ground Water From Nazira, Assam",2244,26.8622087,94.7183167,"nazira assam, Assam, India",True
+"Ground Water From Semenchapari, Assam",2246,26.5123654,93.9715725,"assam, Assam, India",True
+"Ground Water From Silapathar, Assam",2247,27.5893833,94.7255857,"silapathar assam, Assam, India",True
+"Ground Water From Lakhimpur Town, Assam",2248,27.236211,94.1038765,"lakhimpur town assam, Assam, India",True
+"Ground Water From Nagaon (Panigaon), Assam",2250,26.3480551,92.698018,"nagaon panigaon assam, Assam, India",True
+"Ground Water Near Msw Dumping Site At Garchuk-Guwahati, Assam",2252,26.11114,91.6853199,"garchuk guwahati assam, Assam, India",True
+"Ground Water From Nalbari, Assam",2253,26.3533632,91.3983662,"nalbari assam, Assam, India",True
+"Ground Water From Barpeta Road(Rly Station), Assam",2254,26.5021259,90.9645713,"barpeta station assam, Assam, India",True
+"Ground Water Near Bprl, Dhaligaon, Assam",2255,26.4958001,90.5226391,"dhaligaon assam, Assam, India",True
+"Ground Water From Kokrajhar District (Hs School ), Assam",2256,26.427529,90.2825461,"kokrajhar district assam, Assam, India",True
+"Ground Water From Hamren, Assam",2260,25.8449919,92.5748777,"hamren assam, Assam, India",True
+"Ground Water From Haflong, Assam",2261,25.1823559,93.0158028,"haflong assam, Assam, India",True
+"Ground Water From Karimganj (College), Assam",2262,24.5828196,92.3725487,"karimganj assam, Assam, India",True
+"Ground Water In Panchgram Market Near Cachar Paper Mill, Assam",2264,26.1692384,91.7598512,"mill assam, Assam, India",True
+Biswanath Chariali Town,3761,26.7203673,93.1428974,"chariali town, Assam, India",True
+"Municipal Waste Processing Facility, Morabharli, Tezpur",3762,26.6229928,92.7976082,"tezpur, Assam, India",True
+Mangaldoi Town,3766,26.436303,92.0306569,"mangaldoi town, Assam, India",True
+"Ground Water Near Garmur Recreation Ground, Jorhat",3770,26.7323339,94.2237231,"ground jorhat, Assam, India",True
+"Ground Water From Garmur, Majuli",3779,27.0219529,94.327423,"majuli, Assam, India",True
+"Tube Well At R/O Sri Tankeswar Das, Rupjyoti Colony (Nagabali) Municipality Dumping Site, Golaghat",3793,26.5108262,93.9743686,"golaghat, Assam, India",True
+"Tube Well Of Wokha Goronga Girls Me School, Gorounga Tiniali, Furkating",3795,26.4636617,94.0025555,"furkating, Assam, India",True
+"Ground Water From Mehepur Near A Cluster Of Nursing Home & Diagnostic Centre, Meherpur, Cachar",3802,24.7935332,92.7916093,"centre meherpur cachar, Assam, India",True
+"Ground Water From Bonda, Guwahati",3813,26.1805978,91.753943,"guwahati, Assam, India",True
+"Ground Water From Khanapara, Guwahati",3815,26.1733724,91.7594521,"khanapara guwahati, Assam, India",True
+"Ground Water From Basistha, Guwahati",3816,26.0945317,91.7853471,"basistha guwahati, Assam, India",True
+"Ground Water From Kahilipara, Guwahati",3817,26.1805978,91.753943,"guwahati, Assam, India",True
+"Ground Water From Maligaon, Guwahati",3818,26.142124,91.7263181,"maligaon guwahati, Assam, India",True
+"Near Panthanivas, Sambalpur",3970,,,,False
+"Daloni Beel Near Jogighopa, Assam",2206,26.2222913,90.5731185,"jogighopa assam, Assam, India",True
+"Bor Beel At Jakai., Assam",2207,26.6283074,94.1137361,"jakai. assam, Assam, India",True
+"Borpukhuri, Nazira, Assam",2208,26.8622087,94.7183167,"nazira assam, Assam, India",True
+"Gaurisagar Tank, Gaurisagar, Assam",2209,26.9484393,94.53558,"gaurisagar assam, Assam, India",True
+"Padumpukhuri, Tezpur, Assam",2211,26.6269911,92.7900833,"tezpur assam, Assam, India",True
+"Jaipal Pukhuri, Sipajhar, Assam",2213,26.3185876,91.861363,"sipajhar assam, Assam, India",True
+"Saran Beel, Assam",2215,26.1214488,91.6488261,"beel assam, Assam, India",True
+"Subhagya Kunda Pond Kamakhya Temple, Guwahati, Assam",2217,26.0945819,91.5480036,"temple guwahati assam, Assam, India",True
+"Bishnu Puskar Pukhuri Of Hayagrib Madhab Temple, Hajo, Assam",2219,26.2429185,91.526535,"temple hajo assam, Assam, India",True
+"Ganga Pukhuri, Nalbari (Gordon School), Assam",2221,26.5123654,93.9715725,"assam, Assam, India",True
+"Mahamaya Mandir Pukhuri, Assam",2223,26.9524218,94.6231425,"pukhuri assam, Assam, India",True
+"Baskandi Pond Inside The Baskandi Madrasa, Baskandi, Assam",2225,24.8100997,92.9150941,"madrasa baskandi assam, Assam, India",True
+"Hordai Pukhuri, Charaidew, Assam",2227,26.5123654,93.9715725,"assam, Assam, India",True
+Borpukhuri At Sonari,3772,27.0268952,95.0191353,"borpukhuri sonari, Assam, India",True
+Pond Water From Ramkrishna Mission At Hailakandi,3806,24.6929298,92.5659539,"mission hailakandi, Assam, India",True
+"Brahamputra At Kherghat (After Confl. With Dibang & Dihang), Assam",1260,26.5123654,93.9715725,"assam, Assam, India",True
+"Brahamputra At Dibrugarh, Assam",1030,27.355045,95.3218522,"dibrugarh assam, Assam, India",True
+"Brahamputra At Nimatighat, Assam",1262,26.5123654,93.9715725,"assam, Assam, India",True
+"Brahmputra River At Dhenukhapahar, Assam",1526,26.5123654,93.9715725,"assam, Assam, India",True
+"Brahamputra At Pandu, Assam",1031,26.1585826,91.682681,"pandu assam, Assam, India",True
+"Brahamputra At Jogijhoga Near Bridge, Assam",1299,26.5123654,93.9715725,"assam, Assam, India",True
+"Brahmputra River Near Water Intake Point At Kacharighat, Panbazar, Guwahati, Assam",2069,26.142124,91.7263181,"guwahati assam, Assam, India",True
+"Brahmaputra River At Chandrapur, Guwahati, Assam",2064,26.142124,91.7263181,"guwahati assam, Assam, India",True
+"Brahmputra River At Sualkuchi, Dist. Kamrup, Assam",2067,26.142124,91.7263181,"dist. kamrup assam, Assam, India",True
+"Brahmaputra River At Dhubri, Assam",2066,26.2616211,90.1242529,"river dhubri assam, Assam, India",True
+"Brahamputra River At Bogibeel Bridge, Bogibeel, Dibrugarh",3781,27.408185,94.7604982,"bogibeel bogibeel dibrugarh, Assam, India",True
+"Dhansiri At Golaghat, Assam",1259,26.6504888,93.5855122,"dhansiri golaghat assam, Assam, India",True
+"Dhansiri At Nagalandassam Border, Dimapur",1928,26.4986126,93.9348134,"dimapur, Assam, India",True
+"Subansiri At Gerekamukh (Before Confl. With Brah.), Assam",1261,26.5123654,93.9715725,"assam, Assam, India",True
+"Kharsang Before Confluence With Buridihing Near Kharsang (Assamarunanchal Border), Assam",2061,25.9170076,89.8736159,"border assam, Assam, India",True
+"Burhidihing At Margherita, Assam",1422,27.2893045,95.6748945,"margherita assam, Assam, India",True
+"Burhidihing Near Duliajan At D/S, Tinsukia, Assam",2062,27.4872179,95.3673215,"tinsukia assam, Assam, India",True
+"Burhidihing River At Duliajan (Intake Point Of Oil India Ltd.), Assam",2230,26.1801244,91.7357277,"india ltd. assam, Assam, India",True
+"Pagldia River Near Nalbari Town, Dist. Nalbari, Assam",2065,26.3533632,91.3983662,"dist. nalbari assam, Assam, India",True
+"Digboi River At Lakhipathe, Reserve Forest, Digboi, Assam",1530,27.3956145,95.614868,"digboi assam, Assam, India",True
+"Jai Bharali River Near Biswanath Charali, Sonitpur, Assam",2063,26.6552663,92.7725588,"charali sonitpur assam, Assam, India",True
+"Kolong River At U/S Of Anandaram Dekial Phukan Bridge, Nagaon, Assam",2237,26.3592774,92.6928657,"phukan nagaon assam, Assam, India",True
+"Kolong River At Marigaon, Assam",2059,26.2233129,92.4491387,"kolong river marigaon assam, Assam, India",True
+"Manas River At Nh31 Crossing, Barpeta, District, Assam",2060,26.3304208,91.006361,"barpeta district assam, Assam, India",True
+"Disang River At Dillighat, Dibrugarh Dist., Assam",2058,27.355045,95.3218522,"dibrugarh dist. assam, Assam, India",True
+"Disang At Gundamghat, Assam",1298,26.5123654,93.9715725,"assam, Assam, India",True
+"Jhanji At N.H. Crossing Jorhat, Assam",1258,26.7472242,94.2480731,"jorhat assam, Assam, India",True
+"Bhogdoi River At Jorhat , Assam",1527,26.749443,94.0333069,"bhogdoi river jorhat assam, Assam, India",True
+"Mora Bharali At Tezpur, Assam",1531,26.6269911,92.7900833,"tezpur assam, Assam, India",True
+"Barak At Panchagram , Assam",1423,26.5123654,93.9715725,"assam, Assam, India",True
+"Barak River Near Noney Village (N.H. 53), Tamenglong",2838,,,,False
+Barak River At Senapati,2869,,,,False
+"Barak River At N.H. 53, Tamenglong .",2875,,,,False
+"Bharalu River At Guwahati, Assam",1528,26.142124,91.7263181,"guwahati assam, Assam, India",True
+"Deepar Bill, Assam*",1529,26.1409361,91.6683901,"bill assam*, Assam, India",True
+"Kathakal U/S At Matijuri, Dist. Hailakandi, Assam",2068,24.8325266,92.6319122,"dist. hailakandi assam, Assam, India",True
+"Ganga River At Chandrapur, Itanagar,",3095,26.9698094,93.6430677,"itanagar, Assam, India",True
+"Dikrong River At Nirjuli,",3096,,,,False
+"Lohit River At Alubari,",3099,,,,False
+"Namchik River At Kharsang,",3100,27.431239,96.0256278,"kharsang, Assam, India",True
+"Pachin River At Naharlagun (Below Barapani Bridge),",3103,,,,False
+"Gai Nadi Near Hss Likabali,",3105,27.6389415,94.6995054,"likabali, Assam, India",True
+"Dibang River At Roing,",3106,27.9329952,95.8377854,"river roing, Assam, India",True
+"Dihing River At Miao,",3107,,,,False
+"Bhogdoi River (Pujadubi Ghat) Intake Point Of Urban Water Supply, Jorhat",3769,26.7587641,94.1979962,"urban jorhat, Assam, India",True
+"Dikhow River At Nagini Mora (Interstate Boundaries, Assamnagaland)",3776,,,,False
+Teesta At Siliguri,1947,,,,False
+"Dikhow River At Dikhow Bridge Sivasagar, Assam",2231,26.9219131,94.7397334,"dikhow sivasagar assam, Assam, India",True
+"Kohora River At N.H. Crossing, Kohora, Assam",2232,26.5898934,93.4057367,"kohora assam, Assam, India",True
+"Boginadi Near Bridge Nh52, Lakhimpur, Assam",2233,27.2352692,94.1053971,"lakhimpur assam, Assam, India",True
+"Ranga Nadi D/S Of Hydel Project, Assam",2234,27.5511724,94.2600497,"project assam, Assam, India",True
+"Kapili River At Dharmtul Bridge, Nh31, Nagaon, Assam",2236,26.2957157,92.576589,"nagaon assam, Assam, India",True
+"Beki River At Nh37 Crossing At Barpeta Road, Assam",2238,26.3304208,91.006361,"barpeta assam, Assam, India",True
+"Sankosh River, Dhubri, Assam",2239,26.2616211,90.1242529,"river dhubri assam, Assam, India",True
+"Barak River At D/S Of Silchar, Assam",2240,24.9520864,92.8538892,"river silchar assam, Assam, India",True
+"Sonai River At Sonai, Assam",2241,24.4891428,92.9635349,"sonai river sonai assam, Assam, India",True
+"Kushiara River At Karimganj, Assam",2242,24.7461064,92.3475605,"river karimganj assam, Assam, India",True
+"Panchnai River At Nh52 Crossing, Orang, Assam",2235,26.5468365,92.3134803,"orang assam, Assam, India",True
+1534,GEN-D63FBF,27.3426424,95.4074089,"1534, Assam, India",True
+1537,GEN-D1A696,27.3426424,95.4074089,"1537, Assam, India",True
+1538,GEN-B60C5A,27.3426424,95.4074089,"1538, Assam, India",True
+1539,GEN-17E23E,27.3426424,95.4074089,"1539, Assam, India",True
+1540,GEN-CDA721,27.3426424,95.4074089,"1540, Assam, India",True
+1541,GEN-1373B2,27.3426424,95.4074089,"1541, Assam, India",True
+1542,GEN-D01039,27.3426424,95.4074089,"1542, Assam, India",True
+2244,GEN-3147DA,27.3426424,95.4074089,"2244, Assam, India",True
+2246,GEN-758A06,27.3426424,95.4074089,"2246, Assam, India",True
+2247,GEN-DF1F1D,27.3426424,95.4074089,"2247, Assam, India",True
+2253,GEN-CE6C92,27.3426424,95.4074089,"2253, Assam, India",True
+2260,GEN-4CB811,27.3426424,95.4074089,"2260, Assam, India",True
+2261,GEN-BBAA9D,27.3426424,95.4074089,"2261, Assam, India",True
+3761,GEN-092CB1,27.3426424,95.4074089,"3761, Assam, India",True
+3766,GEN-79CAE1,27.3426424,95.4074089,"3766, Assam, India",True
+3779,GEN-8CE87B,27.3426424,95.4074089,"3779, Assam, India",True
+3813,GEN-0A49E3,27.3426424,95.4074089,"3813, Assam, India",True
+3816,GEN-C91124,27.3426424,95.4074089,"3816, Assam, India",True
+3817,GEN-FA6C94,27.3426424,95.4074089,"3817, Assam, India",True
+3818,GEN-B99469,27.3426424,95.4074089,"3818, Assam, India",True
+4001,GEN-FFC581,27.3426424,95.4074089,"4001, Assam, India",True
+4002,GEN-254ED7,27.3426424,95.4074089,"4002, Assam, India",True
+4007,GEN-AB8DF9,27.3426424,95.4074089,"4007, Assam, India",True
+4008,GEN-21B568,27.3426424,95.4074089,"4008, Assam, India",True
+4303,GEN-B052E2,27.3426424,95.4074089,"4303, Assam, India",True
+3970,GEN-11BCD3,27.3426424,95.4074089,"3970, Assam, India",True
+2207,GEN-4AECFB,27.3426424,95.4074089,"2207, Assam, India",True
+2208,GEN-CD3AFE,27.3426424,95.4074089,"2208, Assam, India",True
+2215,GEN-02E656,27.3426424,95.4074089,"2215, Assam, India",True
+3772,GEN-83DDFB,27.3426424,95.4074089,"3772, Assam, India",True
+"Digboi River At Lakhipathe, Reserve Forest, Digboi",1530,27.3956145,95.614868,"digboi, Assam, India",True
+"Intake Point Of Urban Water Supply, Bhogdoi River",3769,26.749443,94.0333069,"bhogdoi river, Assam, India",True
+Dikhow River At Nagini Mora (Inter-State Boundarie,3776,,,,False
+"Beki River At Nh-37 Crossing At Barpeta Road, Assa",2238,,,,False
+"Ground Water At Digboi, Tinsukia Distt., Assam",1533,27.4872179,95.3673215,"tinsukia distt. assam, Assam, India",True
+"Ground Water At Sibsagar Govt Me School Ward 6, Red Cross Road , Assam",1535,27.4866655,94.9146622,"cross assam, Assam, India",True
+"Ground Water At Noonmati Guwahati, Assam",1541,26.1979372,91.7998576,"noonmati guwahati assam, Assam, India",True
+"Ground Water From Ledo, Margherita, Assam",2243,27.2945211,95.73688,"ledo margherita assam, Assam, India",True
+"Ground Water From Numaligarh (Near Nrl Te Labor Colony), Assam",2245,26.7472242,94.2480731,"colony assam, Assam, India",True
+"Ground Water From Tezpur (Mission Chariali), Assam",2249,26.352039,92.6906592,"mission chariali assam, Assam, India",True
+"Ground Water From Jagiroad Near Hpc Effluent Discharge Point, Assam",2251,26.5123654,93.9715725,"assam, Assam, India",True
+"Ground Water Near Msw Dumping Site At Garchuk- Guwahati, Assam",2252,26.11114,91.6853199,"garchuk guwahati assam, Assam, India",True
+"Ground Water From Dhubri District (College Nagar ), Assam",2257,26.7503197,94.1821094,"district nagar assam, Assam, India",True
+"Ground Water From Diphu (Govt. College), Assam",2259,25.8417143,93.4255332,"diphu govt. assam, Assam, India",True
+"Ground Water From Hialakandi (Near Astc Bus Stand ), Assam",2263,26.4975191,90.969302,"astc stand assam, Assam, India",True
+Ground Water From Biswanath Chariali Town,3761,26.7203673,93.1428974,"chariali town, Assam, India",True
+"Ground Water Near Municipal Waste Processing Facility, Morabharli, Tezpur",3762,26.6229928,92.7976082,"tezpur, Assam, India",True
+Ground Water From Mangaldoi Town,3766,26.436303,92.0306569,"mangaldoi town, Assam, India",True
+"Ground Water From Titabar Urban Water Supply, Titabar",3771,26.6025309,94.2012161,"titabar, Assam, India",True
+"Ground Water Near Gogamukh Public Water Supply Scheme, Gogamukh, Dhemaji",3790,27.4320635,94.3780749,"gogamukh dhemaji, Assam, India",True
+"Tube Well At R/O Sri Anil Baora At Bosagaon Near By The Athkhalia, Namghar, Po: Pulikaitoni",3794,,,,False
+"Ground Water From Mehepur Trenching Ground, Meherpur, Cachar",3801,24.8006239,92.7920328,"meherpur cachar, Assam, India",True
+"Ground Water Near Badarpur Industrial Area At Badarpur Ghat, Karimganj",3805,24.5806209,92.2955235,"ghat karimganj, Assam, India",True
+Ground Water From Panjabari,4001,26.1316998,91.8083049,"panjabari, Assam, India",True
+Ground Water From Santipur,4002,26.5158252,93.9664776,"santipur, Assam, India",True
+Ground Water From Tezpur Collegiate High School,4003,26.509785,93.9716885,"high, Assam, India",True
+Ground Water From Lakwah,4007,,,,False
+Ground Water From Satgaon,4303,26.158949,91.8385701,"satgaon, Assam, India",True
+"Ground Water From Railway Station Road, Rowta",4327,26.7373464,92.215175,"railway station rowta, Assam, India",True
+"Ground Water Beside Msw Dumping Site, Dhekiajuli",4328,26.7301754,92.4785068,"dhekiajuli, Assam, India",True
+Ground Water Near Pangram Stone Crasher Cluster,4330,,,,False
+Ground Water From Demow Water Supply Demow Town,4333,24.7930111,93.0028635,"town, Assam, India",True
+"Ground Water From Amguri, Amguri Town",4335,26.8098175,94.5249646,"amguri amguri town, Assam, India",True
+Ground Water Form Tenga Pukhuri Kukurachowa Water Supply Tenga Pukhuri,4338,26.9524218,94.6231425,"pukhuri, Assam, India",True
+"Ground Water Near Nagaon Town Pipe Water Supply Scheme(Z-111), Nagaon",4339,26.3313646,92.7524763,"nagaon, Assam, India",True
+"Ground Water From Nagaon College, Nagaon",4340,26.2957157,92.576589,"nagaon nagaon, Assam, India",True
+"Deepar Beel, Assam",1529,26.1214488,91.6488261,"beel assam, Assam, India",True
+"Mer Beel At Madhabpur, Assam",2205,26.5123654,93.9715725,"assam, Assam, India",True
+"Deepar Beel At Boragaon Near Iasst, Guwahati, Assam",2218,26.11114,91.6853199,"iasst guwahati assam, Assam, India",True
+Son Beel Water At Karimganj,3804,24.7032895,92.438051,"son beel karimganj, Assam, India",True
+"Kamalabari Lake Inside Kamalabari Children,S Park, Geleky",4337,,,,False
+"Elangabeel System Pond (Connected To R. Kolang), Assam",1263,26.5123654,93.9715725,"assam, Assam, India",True
+"Rajmaw Pukhuri, Jorhat, Assam",2210,26.7484604,94.2176863,"pukhuri jorhat assam, Assam, India",True
+"Gophur Tank, Gophur, Assam",2212,26.5123654,93.9715725,"assam, Assam, India",True
+"Botodriva Satra Pond, Nagaon, Assam",2214,26.2957157,92.576589,"nagaon assam, Assam, India",True
+"Dighali Pukhuri, Guwahati, Assam",2216,26.187556,91.751178,"pukhuri guwahati assam, Assam, India",True
+"Chand Dubi Beel, Chand Dubi, Assam",2220,26.5123654,93.9715725,"assam, Assam, India",True
+"Rajadinia Pukhuri At Abhayapuri, Assam",2222,26.334307,90.6669044,"abhayapuri assam, Assam, India",True
+"Rajapukhuri At Gauripur, Assam",2224,26.0865358,89.964662,"gauripur assam, Assam, India",True
+"Sivasagar Tank (Borpukhuri) Near Sivadol, Assam",2226,26.5123654,93.9715725,"assam, Assam, India",True
+"Gala Beel At Dergaon, Assam",2228,26.6912061,93.9494079,"dergaon assam, Assam, India",True
+Jorpukhuri At Uzanbazar (Ugratala Temple),3809,26.3996203,90.5458155,"temple, Assam, India",True
+Netai Pukhuri At Netai Pukhuri,4006,26.9524218,94.6231425,"pukhuri, Assam, India",True
+"Thowradole Pukhuri, Thowradole G.P. Demow Block",4334,26.1818258,91.7370021,"block, Assam, India",True
+"Goysagar Tank, Sibsagar, Assam",1532,26.9834936,94.6394226,"sibsagar assam, Assam, India",True
+"Baroi River, Near Bridge At Nh-52, Biswanath District",3760,26.9916398,93.41822,"baroi river biswanath district, Assam, India",True
+"Bega River, Mg Road, Mangaldoi",3765,26.4470648,91.9952364,"river mangaldoi, Assam, India",True
+"Borbeel No. 1 , Ram Nagar, Digboi, Public Water Supply, Tinsukia",3785,27.4879722,95.3601855,"tinsukia, Assam, India",True
+"Bordoibam Beelmukh Bird Sanctuary, Dhemaji",3789,27.5945155,94.7192098,"dhemaji, Assam, India",True
+"Borsola Beel, Sarabbhatti, Guwahati",3820,26.1805978,91.753943,"guwahati, Assam, India",True
+Digaru River At Nh Crossing,3807,,,,False
+"Diplai Beel At Silgara, Kokrajhar",3821,26.4912104,90.1215209,"kokrajhar, Assam, India",True
+"Dorika River Near Msw Dumping Site, Sivasagar",3777,26.9834936,94.6394226,"sivasagar, Assam, India",True
+"Gabharu River Near Bridge At Nh- 52, Near Tumiuki, Sonitpur",3763,26.7677707,92.7014089,"sonitpur, Assam, India",True
+"Holudunga Beel Near Gai Nadi/ River At Somarajan, Dhema Ji",3787,,,,False
+"Jiadhal River/ Kumotiya River Near Jiadhal Bridge, Dhemaji",3788,27.4515231,94.5031393,"jiadhal dhemaji, Assam, India",True
+Kakodonga River At Nh-37 Crossing,3768,,,,False
+"Kaliani River Near Kanaighat Bridge, Kanaighat",3791,26.5806449,93.7577881,"kanaighat kanaighat, Assam, India",True
+"Kamalpur Beel, Kamalpur",3812,26.3349031,91.7144701,"kamalpur, Assam, India",True
+Killing River In Morigaon District,3799,26.252273,92.3548836,"morigaon district, Assam, India",True
+Kuji River (Near New Bogagigaon) Near Water Intake Point For Nf Railway,3796,26.1729304,91.7835939,"railway, Assam, India",True
+Kulsi River At Chaygaon Near Nh37 Crossing,3810,,,,False
+"Madhura River At Madhuraghat, Cachar",3803,24.75864,92.8816648,"cachar, Assam, India",True
+"Maguri Beel, Guijan, Tinsukia",3783,27.5692211,95.327234,"guijan tinsukia, Assam, India",True
+Malini Beel Near Indutrial Area At Ramnagar,3800,24.8357972,92.7665698,"ramnagar, Assam, India",True
+"Niz Kodomoni Pwss Complex, Dibrugarh",3782,27.4844597,94.9019447,"dibrugarh, Assam, India",True
+"Nuwa Noi River, Near Bridge Over Boinaoja Para, Mangaldoi",3767,26.3939266,92.0390088,"mangaldoi, Assam, India",True
+Parashali Beel At Demoria,3808,,,,False
+Puthimari River Near Puthimari Chowk At Nh Crossing,3811,,,,False
+Samaguri Beel In Nagaon District,3798,26.4249364,92.852181,"samaguri beel in nagaon district, Assam, India",True
+"Sessa River Near Sessa Tiniali, Nh Bridge, Dibrugarh",3780,27.1857746,95.354923,"tiniali dibrugarh, Assam, India",True
+"Silsako Beel, Chachal, Guwahati",3814,26.1407074,91.8113148,"chachal guwahati, Assam, India",True
+"Soru Sola Beel, Paltan Bazar, Guwahati",3819,26.1802587,91.7451023,"paltan bazar guwahati, Assam, India",True
+Suffry River At Maibella,3774,,,,False
+Tenga Pukhuri At Tengapukhuri,3775,26.9275,94.820175,"tengapukhuri, Assam, India",True
+"Tingrai River Near Tinsukia Msw Dumping Site, Itakhola",3784,26.7923571,92.9618053,"itakhola, Assam, India",True
+Towkak River At Sonari,3773,26.9529243,95.0442349,"river sonari, Assam, India",True
+"Brahamputra At Pandu,",1031,26.1634597,91.6806078,"pandu, Assam, India",True
+"Brahmputra River At Sualkuchi, Dist. Kamrup,",2067,26.1468861,91.2227397,"kamrup, Assam, India",True
+Brahmaputra River At Dhubri,2066,26.2616211,90.1242529,"river dhubri, Assam, India",True
+Brahamputra River At Biswanath Ghat,4004,27.5946843,94.9083595,"ghat, Assam, India",True
+"Dhansiri River Near Bridge At Nh-15, Dhansiri Bhalukmari Jungle, Udalguri",3764,26.7047238,92.0421507,"udalguri, Assam, India",True
+Dhansiri River At Jahaighat,3792,,,,False
+"Dikrong River Near Bridge At Nh-52,",3759,27.0791281,93.9047537,"dikrong river, Assam, India",True
+"Gai Nadi/ River At Somarajan, Dhemaji",3786,27.5945155,94.7192098,"dhemaji, Assam, India",True
+"Dikhow River At Nagini Mora (Inter-State Boundaries, Assam- Nagaland)",3776,26.1350778,91.8079506,"nagaland, Assam, India",True
+Dikhow River At Dikhomukh Confluence With Brahamputra,3778,,,,False
+"Disang At Gundamghat,",1298,,,,False
+"Disang River At Dillighat, Dibrugarh",2058,27.1409392,95.3685808,"dillighat dibrugarh, Assam, India",True
+Disang River At Nh Crossing,4005,,,,False
+"Gabharu River Near Bridge At Nh-52, Near Tumiuki, Sonitpur",3763,26.7677707,92.7014089,"sonitpur, Assam, India",True
+Longalai River Near Calcom Cement Plant,4010,26.1328722,92.0043071,"cement, Assam, India",True
+Tocklai River Near Bridge At Jorhat,4011,26.749443,94.0333069,"river jorhat, Assam, India",True
+Tunia River At D/S Brpl,4012,26.510525,90.5227277,"brpl, Assam, India",True
+Larsing River Near Locl Depo At Moinarbond,4329,,,,False
+Downstream Of Dhateshwari River At Hailakandi,4331,24.6377807,92.5377084,"river hailakandi, Assam, India",True
+Demow River Demow Town,4332,24.7930111,93.0028635,"town, Assam, India",True
+"Borsila River At Borsila, Deopani, Namti",4336,26.855288,94.627418,"namti, Assam, India",True
+"Barnadi River Near Bridge, Nh-52, Dumunichowki Kamrup",4341,26.1468861,91.2227397,"kamrup, Assam, India",True
+"Baralia River (Near Chatpuja Ghat) Rangia, Kamrup (R )",4342,26.540527,91.5988401,"rangia kamrup, Assam, India",True
+Buradia River (Near Bridge Along Nh-31) Nalbari,4343,26.3533632,91.3983662,"nalbari, Assam, India",True
+"Tihu River (Near Bridge Along Nh-31) Tihu, Nalbari",4344,26.4776462,91.3065708,"tihu nalbari, Assam, India",True
+"Singra River (Near Bridge Along Nh-37) Boko, Kamrup (R )",4345,25.8864599,91.1309065,"boko kamrup, Assam, India",True
+Ground Water From Geleky,4008,,,,False
+"Tubewell At Assam Oil Petrol Pump, Near Rohtak Road Bypass, Panipat",4856,,,,False
+"River Baroi Near Bridge At Nh-52, Biswanath District",3760,26.9916398,93.41822,"baroi biswanath district, Assam, India",True
+"River Gabharu Near Bridge At Nh-52, Near Tumiuki, Sonitpur",3763,26.7677707,92.7014089,"sonitpur, Assam, India",True
+"River Bega Mg Road, Mangaldoi",3765,26.3939266,92.0390088,"mangaldoi, Assam, India",True
+"River Nuwa Noi Near Bridge Over Boinaoja Para, Mangaldoi",3767,26.3939266,92.0390088,"mangaldoi, Assam, India",True
+River Kakodonga At Nh-37 Crossing,3768,,,,False
+River Towkak At Sonari,3773,27.0557101,95.120299,"sonari, Assam, India",True
+River Suffry At Maibella,3774,,,,False
+River Tenga Pukhuri At Tengapukhuri,3775,26.9275,94.820175,"tengapukhuri, Assam, India",True
+"River Dorika Near Msw Dumping Site, Sivasagar",3777,26.9834936,94.6394226,"sivasagar, Assam, India",True
+"River Sessa Near Sessa Tiniali, Nh Bridge, Dibrugarh",3780,27.1857746,95.354923,"tiniali dibrugarh, Assam, India",True
+"River Niz Kodomoni Pwss Complex, Dibrugarh",3782,27.4844597,94.9019447,"dibrugarh, Assam, India",True
+"River Maguri Beel, Guijan, Tinsukia",3783,27.5692211,95.327234,"guijan tinsukia, Assam, India",True
+"River Tingrai Near Tinsukia Msw Dumping Site, Itakhola",3784,26.7923571,92.9618053,"itakhola, Assam, India",True
+"River Gai Nadi At Somarajan, Dhemaji",3786,27.5945155,94.7192098,"dhemaji, Assam, India",True
+"River Jiadhal Kumotiya River Near Jiadhal Bridge, Dhemaji",3788,27.4515231,94.5031393,"jiadhal dhemaji, Assam, India",True
+"River Kaliani Near Kanaighat Bridge, Kanaighat",3791,26.5806449,93.7577881,"kanaighat kanaighat, Assam, India",True
+River Kuji (Near New Bogagigaon) Near Water Intake Point For Nf Railway,3796,26.1729304,91.7835939,"railway, Assam, India",True
+River Killing In Morigaon District,3799,26.252273,92.3548836,"morigaon district, Assam, India",True
+"River Madhura At Madhuraghat, Cachar",3803,24.75864,92.8816648,"cachar, Assam, India",True
+River Digaru At Nh Crossing,3807,,,,False
+River Kulsi At Chaygaon Near Nh37 Crossing,3810,,,,False
+River Puthimari Near Puthimari Chowk At Nh Crossing,3811,,,,False
+"Brahmputra River At Dhenukhapahar,",1526,,,,False
+"Brahamputra At Jogijhoga Near Bridge,",1299,,,,False
+Assam,2069,26.5123654,93.9715725,"assam, Assam, India",True
+"Burhidihing Near Duliajan At D/S, Tinsukia,",2062,27.4879722,95.3601855,"tinsukia, Assam, India",True
+"Dikhow River At Dikhow Bridge Sivasagar,",2231,26.9219131,94.7397334,"river dikhow sivasagar, Assam, India",True
+"Disang River At Dillighat, Dibrugarh Dist.,",2058,27.1409392,95.3685808,"dillighat dibrugarh dist., Assam, India",True
+River Brahamputra At Dibrugarh,1030,27.4844597,94.9019447,"dibrugarh, Assam, India",True
+River Brahamputra At Nimatighat,1262,,,,False
+River Brahmputra River At Dhenukhapahar,1526,,,,False
+River Brahamputra At Pandu,1031,26.1634597,91.6806078,"pandu, Assam, India",True
+River Brahamputra At Jogijhoga Near Bridge,1299,,,,False
+"River Brahmputra Near Water Intake Point At Kacharighat, Panbazar, Guwahati",2069,26.1805978,91.753943,"guwahati, Assam, India",True
+"River Brahmaputra At Chandrapur, Guwahati, Assam",2064,26.142124,91.7263181,"guwahati assam, Assam, India",True
+"River Brahmputra At Sualkuchi, Dist. Kamrup",2067,26.1468861,91.2227397,"kamrup, Assam, India",True
+"River Brahmaputra At Dhubri, Assam",2066,26.0202533,89.9899358,"brahmaputra dhubri assam, Assam, India",True
+"River Brahamputra At Bogibeel Bridge, Bogibeel, Dibrugarh",3781,27.408185,94.7604982,"bogibeel bogibeel dibrugarh, Assam, India",True
+River Brahamputra At Biswanath Ghat,4004,27.5946843,94.9083595,"ghat, Assam, India",True
+"River Burhidihing At Margherita, Assam",1422,27.2893045,95.6748945,"margherita assam, Assam, India",True
+"River Burhidihing Near Duliajan At D/S, Tinsukia, Assam",2062,27.4872179,95.3673215,"tinsukia assam, Assam, India",True
+"River Burhidihing At Duliajan (Intake Point Of Oil India Ltd.), Assam",2230,26.1801244,91.7357277,"india ltd. assam, Assam, India",True
+"River Dhansiri At Nagaland-Assam Border, Dimapur",1928,26.4986126,93.9348134,"dimapur, Assam, India",True
+"River Dhansiri At Golaghat, Assam",1259,26.6504888,93.5855122,"dhansiri golaghat assam, Assam, India",True
+"River Dhansiri Near Bridge At Nh-15, Dhansiri Bhalukmari Jungle, Udalguri",3764,26.7047238,92.0421507,"udalguri, Assam, India",True
+River Dhansiri At Jahaighat,3792,,,,False
+River Dhansiri At Bokajan,30073,26.0235087,93.7707012,"bokajan, Assam, India",True
+River Dhansiri At Numaligarh,30074,26.6304927,93.7267655,"numaligarh, Assam, India",True
+"River Bharalu At Guwahati, Assam",1528,26.142124,91.7263181,"guwahati assam, Assam, India",True
+"River Dikrong Near Bridge At Nh-52, Bandardewa",3759,,,,False
+"River Digboi At Lakhipathe, Reserve Forest, Digboi, Assam",1530,27.3956145,95.614868,"digboi assam, Assam, India",True
+"River Dikhow At Dikhow Bridge Sivasagar, Assam",2231,26.9219131,94.7397334,"dikhow dikhow sivasagar assam, Assam, India",True
+"River Dikhow At Nagini Mora (Inter-State Boundaries, Assam- Nagaland)",3776,26.1350778,91.8079506,"nagaland, Assam, India",True
+River Dikhow At Dikhomukh Confluence With Brahamputra,3778,,,,False
+River Disang At Gundamghat,1298,,,,False
+"River Disang At Dillighat, Dibrugarh Dist., Assam",2058,27.355045,95.3218522,"dibrugarh dist. assam, Assam, India",True
+River Disang At Nh Crossing,4005,,,,False
+River Tocklai Near Bridge At Jorhat,4011,26.7577925,94.2079645,"jorhat, Assam, India",True
+River Tunia At D/S Brpl,4012,26.510525,90.5227277,"brpl, Assam, India",True
+River Larsing Near Locl Depo At Moinarbond,4329,,,,False
+River Dhateshwari D/S Of Hailakandi,4331,24.6846916,92.5645836,"hailakandi, Assam, India",True
+River Demow At Demow Town,4332,24.7930111,93.0028635,"town, Assam, India",True
+"River Borsila At Borsila, Deopani, Namti",4336,26.855288,94.627418,"namti, Assam, India",True
+"River Barnadi Near Bridge, Nh-52,",4341,26.8054088,91.7350037,"barnadi, Assam, India",True
+"River Subansiri At Gerekamukh (Before Confl. With Brah.), Assam",1261,26.5123654,93.9715725,"assam, Assam, India",True
+"River Baralia (Near Chatpuja Ghat) Rangia, Kamrup (R )",4342,26.540527,91.5988401,"rangia kamrup, Assam, India",True
+River Buradia (Near Bridge Along Nh-31) Nalbari,4343,26.3533632,91.3983662,"nalbari, Assam, India",True
+"River Tihu (Near Bridge Along Nh-31) Tihu, Nalbari",4344,26.4776462,91.3065708,"tihu nalbari, Assam, India",True
+"River Singra (Near Bridge Along Nh-37) Boko, Kamrup (R )",4345,25.8864599,91.1309065,"boko kamrup, Assam, India",True
+"River Beki At Nh-37 Crossing At Barpeta Road, Assam",2238,26.3304208,91.006361,"barpeta assam, Assam, India",True
+"River Bhogdoi At Jorhat , Assam",1527,26.6873576,94.3021534,"bhogdoi jorhat assam, Assam, India",True
+"River Bhogdoi (Pujadubi Ghat) Intake Point Of Urban Water Supply, Jorhat",3769,26.7587641,94.1979962,"urban jorhat, Assam, India",True
+"River Jhanji At N.H. Crossing Jorhat, Assam",1258,26.7472242,94.2480731,"jorhat assam, Assam, India",True
+"River Jai Bharali Near Biswanath Charali, Sonitpur, Assam",2063,26.6552663,92.7725588,"charali sonitpur assam, Assam, India",True
+"River Sankosh Dhubri, Assam",2239,26.132275,90.1249962,"dhubri assam, Assam, India",True
+"River Boginadi Near Bridge Nh-52, Lakhimpur, Assam",2233,27.2352692,94.1053971,"lakhimpur assam, Assam, India",True
+"River Sonai At Sonai, Assam",2241,24.7334137,92.8903055,"sonai sonai assam, Assam, India",True
+"River Ranga Nadi D/S Of Hydel Project, Assam",2234,27.5511724,94.2600497,"project assam, Assam, India",True
+"River Kapili At Dharmtul Bridge, Nh-31, Nagaon, Assam",2236,26.2957157,92.576589,"nagaon assam, Assam, India",True
+"River Kathakal U/S At Matijuri, Dist. Hailakandi, Assam",2068,24.8325266,92.6319122,"dist. hailakandi assam, Assam, India",True
+"River Kharsang B/C With Buridihing Near Kharsang (Assam- Arunanchal Border), Assam",2061,25.9170076,89.8736159,"border assam, Assam, India",True
+"River Kohora At N.H. Crossing, Kohora, Assam (Brahmaputra)",2232,26.0960868,90.859726,"brahmaputra, Assam, India",True
+"River Kolong At Marigaon, Assam",2059,26.2233129,92.4491387,"kolong marigaon assam, Assam, India",True
+"River Kolong At U/S Of Anandaram Dekial Phukan Bridge, Nagaon, Assam",2237,26.3592774,92.6928657,"phukan nagaon assam, Assam, India",True
+"River Kundli At Kundli/ Sapakhowa, Sadia, Assam",2229,26.5123654,93.9715725,"assam, Assam, India",True
+"River Kushiara At Karimganj, Assam",2242,24.5828196,92.3725487,"karimganj assam, Assam, India",True
+River Manas (Santoshpur) Near Lengtisinga,3797,26.314132,90.7190302,"lengtisinga, Assam, India",True
+"Manas River At Nh-31 Crossing, Barpeta, District, Assam",2060,26.3304208,91.006361,"barpeta district assam, Assam, India",True
+"River Pagldia Near Nalbari Town, Dist. Nalbari, Assam",2065,26.3533632,91.3983662,"dist. nalbari assam, Assam, India",True
+"River Panchnai At Nh-52 Crossing, Orang, Assam",2235,26.5468365,92.3134803,"orang assam, Assam, India",True
+"River Mora Bharali At Tezpur, Assam",1531,26.6269911,92.7900833,"tezpur assam, Assam, India",True
+"Ground Water At Karbi Anglong Town, Assam",1534,24.7930111,93.0028635,"town assam, Assam, India",True
+"Ground Water At Sivasagar Govt Me School Ward 6, Red Cross Road , Assam",1535,27.4866655,94.9146622,"cross assam, Assam, India",True
+Ground Water From Near Bpms H.S. School Sonari Town Dist Charaideo,1536,27.0263746,95.0195484,"town dist charaideo, Assam, India",True
+"Ground Water From Jorhat Town, Assam",1537,26.7501729,94.2163277,"jorhat town assam, Assam, India",True
+"Ground Water From Silchar Town , Assam",1538,24.7930111,93.0028635,"town assam, Assam, India",True
+"Ground Water From Barpeta Town, Assam",1539,26.5048418,90.9667636,"barpeta town assam, Assam, India",True
+"Ground Water From Bonaigaon Town, Assam",1540,24.7930111,93.0028635,"town assam, Assam, India",True
+"Ground Water From Noonmati Guwahati, Assam",1541,26.1979372,91.7998576,"noonmati guwahati assam, Assam, India",True
+"Ground Water From Sijubari Mazar, Natboma Hatigaon, Guwahati",1542,26.1764006,91.7569564,"hatigaon guwahati, Assam, India",True
+"Ground Water From Goalpara Dist. (Goalpara College ), Assam",2258,26.0491877,90.6001859,"dist. goalpara assam, Assam, India",True
+"Ground Water From Niz Kodomoni Pwss Complex, Dibrugarh",3782,27.4844597,94.9019447,"dibrugarh, Assam, India",True
+"Ground Water From Borbeel No. 1 , Ram Nagar, Digboi, Public Water Supply, Tinsukia",3785,27.4879722,95.3601855,"tinsukia, Assam, India",True
+Ground Water From Dhekiajuli Town Nijarapar)P.O.Dhekiajuli,5143,,,,False
+"River Brahmaputra At Dibrugarh, Assam",1030,27.3724599,94.8764833,"brahmaputra dibrugarh assam, Assam, India",True
+"River Brahmaputra At Nimatighat, Assam",1262,26.5123654,93.9715725,"assam, Assam, India",True
+"River Brahmputra River At Dhenukhapahar, Assam",1526,26.5123654,93.9715725,"assam, Assam, India",True
+"River Brahmaputra At Pandu, Assam",1031,26.1585826,91.682681,"pandu assam, Assam, India",True
+"River Brahmaputra At Jogighopa Near Bridge, Assam",1299,26.2222913,90.5731185,"jogighopa assam, Assam, India",True
+"River Brahmputra Near Water Intake Point At Kacharighat, Panbazar, Guwahati, Assam",2069,26.142124,91.7263181,"guwahati assam, Assam, India",True
+"River Brahmputra At Sualkuchi, Dist. Kamrup, Assam",2067,26.142124,91.7263181,"dist. kamrup assam, Assam, India",True
+River Dhansiri Near Nagaland- Assam Border,1928,25.9313355,89.8817831,"border, Assam, India",True
+"River Dhansiri Near Bridge At Nh- 15, Dhansiri Bhalukmari Jungle, Udalguri",3764,26.7047238,92.0421507,"udalguri, Assam, India",True
+"River Dikrong Near Bridge At Nh- 52, Bandardewa",3759,,,,False
+River Dikhow At Dikhowmukh Confluence With Brahamputra,3778,,,,False
+"River Disang At Gudamghat, Assam",1298,26.4990733,92.9492253,"gudamghat assam, Assam, India",True
+"River Gabharu Near Bridge At Nh- 52, Near Tumiuki, Sonitpur",3763,26.7677707,92.7014089,"sonitpur, Assam, India",True
+"River Barnadi Near Bridge, Nh-52, Dumunichowki Kamrup",4341,26.1468861,91.2227397,"kamrup, Assam, India",True
+River Subansiri At Gerukamukh (Before Confluence With River Brahmaputra),1261,26.0960868,90.859726,"river brahmaputra, Assam, India",True
+"River Baralia (Near Chatpuja Ghat) Rangia, Kamrup",4342,26.540527,91.5988401,"rangia kamrup, Assam, India",True
+River Buralia (Near Bridge Along Nh-31) Nalbari,4343,26.3533632,91.3983662,"nalbari, Assam, India",True
+"River Tihu (Near Bridge Along Nh- 31) Tihu, Nalbari",4344,26.4776462,91.3065708,"tihu nalbari, Assam, India",True
+"River Singra (Near Bridge Along Nh- 37) Boko, Kamrup",4345,25.8864599,91.1309065,"boko kamrup, Assam, India",True
+"River Jia Bharali At Biswanath Charali, Sonitpur",2063,26.72667,93.147765,"biswanath charali sonitpur, Assam, India",True
+"River Kapili At Dharmtul Bridge, Nh-31, Morigaon",2236,26.252273,92.3548836,"morigaon, Assam, India",True
+"River Kolong At U/S Of Anandaram Dekial Phukan Bridge, Nagaon",2237,26.3592774,92.6928657,"phukan nagaon, Assam, India",True
+"River Manas At Nh- 31 Crossing, Barpeta District, Assam",2060,26.3304208,91.006361,"barpeta district assam, Assam, India",True
+"River Panchnoi At Nh-52 Crossing, Orang, Assam",2235,26.5468365,92.3134803,"orang assam, Assam, India",True
+River Barak River At Panchagram,1423,,,,False
+"Gela Beel At Dergaon, Assam",2228,26.6912061,93.9494079,"dergaon assam, Assam, India",True
+River Barak At D/S Of Silchar,2240,24.8076698,92.7951287,"barak silchar, Assam, India",True
+"River Aie Near Rakhaldubi Dist., Bongaigaon, Assam",5135,26.348883,90.6291434,"dist. bongaigaon assam, Assam, India",True
+"River, Tunia U/S Brpl, Dhaligaon, Dist. Chirang",5138,26.5076668,90.5289127,"dhaligaon dist. chirang, Assam, India",True
+"River Jamuna At Doboka Near Bridge, Dist. Hojai",5139,26.1273363,92.9789617,"jamuna doboka dist. hojai, Assam, India",True
+"River Bondanjan, Sluice Gate, Birkuchi Narengi Tiniali, Kharghuli, No. 2",5140,26.1949019,91.7634811,"kharghuli, Assam, India",True
+"River Basistha Basistha Chariali, Nutan Bazaar,",5141,26.5007927,90.9672106,"bazaar, Assam, India",True
+"River Pamohi Gachuk, Pamohi Road, Guwahati",5142,26.1805978,91.753943,"guwahati, Assam, India",True
+River Kalanadi Near Bamunjuli Bridge Crossing At Mangaldoi Bhutiachang,5144,26.9423,92.603,"bhutiachang, Assam, India",True

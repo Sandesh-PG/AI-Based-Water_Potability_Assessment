@@ -1,0 +1,42 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg,latitude,longitude,geocode_query,geocoded
+1533,"Digboi, Tinsukia Distt., Assam",Groundwater,ASSAM,2018,Unsafe,6.74,pH Out of Range,20.0,,6.05,246.5,1.8,0.35,2.0,2.0,,27.3956145,95.614868,"digboi tinsukia distt. assam, Assam, India",True
+GEN-D63FBF,1534,Groundwater,ASSAM,2018,Unsafe,34.53,High BOD,,,,,26.0,15.7,55.7,620.95,,27.3426424,95.4074089,"1534, Assam, India",True
+GEN-D1A696,1537,Groundwater,ASSAM,2018,Unsafe,34.39,High BOD,,,,,27.0,17.85,116.35,208.75,,27.3426424,95.4074089,"1537, Assam, India",True
+GEN-B60C5A,1538,Groundwater,ASSAM,2018,Unsafe,33.75,High BOD,,,,,24.0,14.75,50.75,60.35,,27.3426424,95.4074089,"1538, Assam, India",True
+GEN-17E23E,1539,Groundwater,ASSAM,2018,Unsafe,34.49,High BOD,,,,,28.0,17.45,114.7,290.5,,27.3426424,95.4074089,"1539, Assam, India",True
+GEN-CDA721,1540,Groundwater,ASSAM,2018,Unsafe,33.77,High BOD,,,,,27.0,17.0,51.7,70.05,,27.3426424,95.4074089,"1540, Assam, India",True
+GEN-1373B2,1541,Groundwater,ASSAM,2018,Unsafe,34.33,High BOD,,,,,26.0,17.7,122.4,133.25,,27.3426424,95.4074089,"1541, Assam, India",True
+GEN-D01039,1542,Groundwater,ASSAM,2018,Unsafe,34.59,High BOD,,,,,26.0,18.3,131.95,283.1,,27.3426424,95.4074089,"1542, Assam, India",True
+GEN-3147DA,2244,Groundwater,ASSAM,2018,Unsafe,34.35,High BOD,,,,,22.0,15.85,126.9,127.45,,27.3426424,95.4074089,"2244, Assam, India",True
+GEN-758A06,2246,Groundwater,ASSAM,2018,Unsafe,33.83,High BOD,,,,,15.0,14.45,58.5,76.5,,27.3426424,95.4074089,"2246, Assam, India",True
+GEN-DF1F1D,2247,Groundwater,ASSAM,2018,Unsafe,34.3,High BOD,,,,,15.0,15.15,120.2,127.3,,27.3426424,95.4074089,"2247, Assam, India",True
+GEN-CE6C92,2253,Groundwater,ASSAM,2018,Unsafe,34.11,High BOD,,,,,29.0,18.15,97.4,98.0,,27.3426424,95.4074089,"2253, Assam, India",True
+GEN-4CB811,2260,Groundwater,ASSAM,2018,Unsafe,33.64,High BOD,,,,,28.0,17.4,19.95,133.25,,27.3426424,95.4074089,"2260, Assam, India",True
+GEN-BBAA9D,2261,Groundwater,ASSAM,2018,Unsafe,33.84,High BOD,,,,,21.0,14.35,63.65,60.5,,27.3426424,95.4074089,"2261, Assam, India",True
+GEN-092CB1,3761,Groundwater,ASSAM,2018,Unsafe,34.13,High BOD,,,,,25.0,15.7,94.1,129.55,,27.3426424,95.4074089,"3761, Assam, India",True
+GEN-79CAE1,3766,Groundwater,ASSAM,2018,Unsafe,33.84,High BOD,,,,,24.0,18.15,60.15,80.25,,27.3426424,95.4074089,"3766, Assam, India",True
+GEN-8CE87B,3779,Groundwater,ASSAM,2018,Unsafe,34.11,High BOD,,,,,24.0,16.85,86.25,149.3,,27.3426424,95.4074089,"3779, Assam, India",True
+GEN-0A49E3,3813,Groundwater,ASSAM,2018,Unsafe,34.42,High BOD,,,,,26.0,17.1,136.15,137.2,,27.3426424,95.4074089,"3813, Assam, India",True
+GEN-C91124,3816,Groundwater,ASSAM,2018,Unsafe,34.18,High BOD,,,,,26.0,16.6,101.35,128.7,,27.3426424,95.4074089,"3816, Assam, India",True
+GEN-FA6C94,3817,Groundwater,ASSAM,2018,Unsafe,34.5,High BOD,,,,,25.0,16.7,136.4,195.9,,27.3426424,95.4074089,"3817, Assam, India",True
+GEN-B99469,3818,Groundwater,ASSAM,2018,Unsafe,34.49,High BOD,,,,,25.0,15.95,144.1,145.85,,27.3426424,95.4074089,"3818, Assam, India",True
+GEN-FFC581,4001,Groundwater,ASSAM,2018,Unsafe,34.73,High BOD,,,,,21.0,16.8,173.95,181.5,,27.3426424,95.4074089,"4001, Assam, India",True
+GEN-254ED7,4002,Groundwater,ASSAM,2018,Unsafe,34.22,High BOD,,,,,25.0,17.35,106.95,127.0,,27.3426424,95.4074089,"4002, Assam, India",True
+GEN-AB8DF9,4007,Groundwater,ASSAM,2018,Unsafe,34.13,High BOD,,,,,23.0,15.75,86.7,162.25,,27.3426424,95.4074089,"4007, Assam, India",True
+GEN-21B568,4008,Groundwater,ASSAM,2018,Unsafe,34.37,High BOD,,,,,23.0,17.1,128.15,136.55,,27.3426424,95.4074089,"4008, Assam, India",True
+GEN-B052E2,4303,Groundwater,ASSAM,2018,Unsafe,33.92,High BOD,,,,,26.0,16.1,55.1,161.5,,27.3426424,95.4074089,"4303, Assam, India",True
+GEN-11BCD3,3970,Groundwater,ASSAM,2018,Unsafe,34.92,High BOD,,,,,26.0,17.4,191.5,233.2,,27.3426424,95.4074089,"3970, Assam, India",True
+GEN-4AECFB,2207,Pond/Tank,ASSAM,2018,Safe,0.1,,,,,,,15.0,,25.0,3.0,27.3426424,95.4074089,"2207, Assam, India",True
+GEN-CD3AFE,2208,Pond/Tank,ASSAM,2018,Safe,0.13,,,,,,,18.0,,32.0,4.3,27.3426424,95.4074089,"2208, Assam, India",True
+GEN-02E656,2215,Pond/Tank,ASSAM,2018,Safe,0.14,,,,,,,22.0,,36.0,1.8,27.3426424,95.4074089,"2215, Assam, India",True
+GEN-83DDFB,3772,Pond/Tank,ASSAM,2018,Safe,0.13,,,,,,,19.0,,33.0,4.9,27.3426424,95.4074089,"3772, Assam, India",True
+1262,"Brahamputra At Nimatighat, Assam",River,ASSAM,2018,Safe,5.85,,23.0,6.05,8.1,134.0,1.65,1.5,366.0,900.0,,26.5123654,93.9715725,"assam, Assam, India",True
+2067,"Brahmputra River At Sualkuchi, Dist. Kamrup, Assam",River,ASSAM,2018,Unsafe,11.5,High Fecal Coliform,26.5,8.1,7.4,138.5,2.15,1.0,1230.0,2255.0,,26.142124,91.7263181,"dist. kamrup assam, Assam, India",True
+2066,"Brahmaputra River At Dhubri, Assam",River,ASSAM,2018,Unsafe,23.04,"High Fecal Coliform, High Total Coliform",28.0,5.65,7.3,144.0,1.6,1.0,1900.0,14860.0,,26.2616211,90.1242529,"river dhubri assam, Assam, India",True
+1422,"Burhidihing At Margherita, Assam",River,ASSAM,2018,Unsafe,22.59,"High Fecal Coliform, High Total Coliform",20.0,7.1,7.3,155.5,1.85,0.85,1580.0,15200.0,,27.2893045,95.6748945,"margherita assam, Assam, India",True
+1530,"Digboi River At Lakhipathe, Reserve Forest, Digboi",River,ASSAM,2018,Unsafe,48.59,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",20.5,4.35,6.8,318.5,8.55,1.0,1751.0,55365.0,,27.3956145,95.614868,"digboi, Assam, India",True
+2058,"Disang River At Dillighat, Dibrugarh Dist., Assam",River,ASSAM,2018,Unsafe,14.8,"High Fecal Coliform, High Total Coliform",19.0,7.85,7.45,102.5,2.7,0.75,1001.0,6001.0,,27.355045,95.3218522,"dibrugarh dist. assam, Assam, India",True
+1298,"Disang At Gundamghat, Assam",River,ASSAM,2018,Unsafe,6.25,High Fecal Coliform,24.0,5.8,7.0,178.0,1.55,3.6,515.0,930.0,,26.5123654,93.9715725,"assam, Assam, India",True
+3769,"Intake Point Of Urban Water Supply, Bhogdoi River",River,ASSAM,2018,Safe,6.51,,26.0,6.8,7.2,132.0,2.05,1.45,351.0,700.0,,26.749443,94.0333069,"bhogdoi river, Assam, India",True
+3776,Dikhow River At Nagini Mora (Inter-State Boundarie,River,ASSAM,2018,Unsafe,5.8,High Fecal Coliform,23.5,6.75,7.2,153.5,1.35,1.05,515.0,930.0,,,,,False
+2238,"Beki River At Nh-37 Crossing At Barpeta Road, Assa",River,ASSAM,2018,Safe,5.42,,23.5,5.25,7.3,102.5,1.35,1.05,456.0,751.0,,,,,False

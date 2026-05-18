@@ -1,0 +1,8 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1796,"Dhansiri, Full Nagarjan",River,NAGALAND,2016,Unsafe,24.98,"Low DO, High BOD",24.5,3.75,7.7,353.25,4.5,0.6,,,
+1797,"Dhansir,Bridge Near Purana Bazaar",River,NAGALAND,2016,Unsafe,29.02,"Low DO, High BOD",25.5,3.7,7.4,167.6,5.5,0.75,,,
+1798,Near Check Gate (Dimapur Khutkhuti Road),River,NAGALAND,2016,Unsafe,23.61,"Low DO, High BOD",26.0,4.15,7.35,131.5,4.85,0.65,,,
+1799,"Dhansir, Town Boundary Bridge (Diphu Road)",River,NAGALAND,2016,Unsafe,25.98,"Low DO, High BOD",23.5,3.6,7.1,141.15,4.5,0.8,,,
+1800,"Dhansir, Nuton Basti",River,NAGALAND,2016,Unsafe,51.0,"Low DO, High BOD",24.0,2.35,7.1,266.95,26.5,6.0,,,
+1929,"Chathe At Medziphema, Dimapur",River,NAGALAND,2016,Unsafe,23.65,"Low DO, High BOD",26.0,3.95,8.2,106.4,4.5,10.5,,,
+1930,Dzu D/S Kohima Town,River,NAGALAND,2016,Unsafe,22.32,"Low DO, High BOD",20.5,4.15,8.35,408.0,4.5,26.5,,,

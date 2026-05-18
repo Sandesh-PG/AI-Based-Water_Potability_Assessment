@@ -1,0 +1,10 @@
+stn_code,monitoring_location,water_body_type,state,year,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg,total_dissolved_solids_avg,fluoride_avg,arsenic_avg
+2047,N-CHOE (ATTAWA CHOE),Drain/STP/WTP,CHANDIGARH,2016,,26.5,5.05,7.45,601.0,21.5,4.2,900002.7,6067803.0,,,
+2048,PATIALA KI RAO,Drain/STP/WTP,CHANDIGARH,2016,,26.0,,7.5,967.0,240.0,6.6,20019188.0,760678.0,,,
+2049,SUKHNA CHOE,Drain/STP/WTP,CHANDIGARH,2016,,26.5,2.4,7.4,752.0,32.5,7.35,606781.95,3813853.0,,,
+2039,"SECTOR 15, CHANDIGARH",Groundwater,CHANDIGARH,2016,27.5,,7.3,805.0,5.0,3.15,6.0,8.0,,,,
+2040,"SECTOR 22, CHANDIGARH",Groundwater,CHANDIGARH,2016,27.5,,7.05,765.0,5.0,3.15,175.0,357.0,,,,
+2043,"PALSORA VILLAGE, CHANDIGARH",Groundwater,CHANDIGARH,2016,27.0,,7.1,892.5,6.0,2.75,3.5,7.0,,,,
+2044,"DHANAS VILLAGE, CHANDIGARH",Groundwater,CHANDIGARH,2016,26.0,,7.05,707.5,9.0,3.05,9.0,11.0,,,,
+2045,"DADU MAJRA, CHANDIGARH",Groundwater,CHANDIGARH,2016,26.5,,7.3,576.5,4.0,3.8,4.0,6.0,,,,
+2046,SUKHNA LAKE,Pond/Tank,CHANDIGARH,2016,,26.0,13.85,7.2,8.65,65.3,1014.5,15.5,7.65,,,

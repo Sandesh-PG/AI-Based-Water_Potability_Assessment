@@ -1,0 +1,4 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg,latitude,longitude,geocode_query,geocoded
+3095,"River Ganga At Chandrapur, Itanagar,",River,ARUNACHAL PRADESH,2021,Unsafe,15.36,Low DO,19.05,3.75,7.75,393.5,1.9,,,,,27.0979659,93.6237291,"itanagar, Arunachal Pradesh, India",True
+3096,"River Dikrong At Nirjuli,",River,ARUNACHAL PRADESH,2021,Unsafe,17.33,Low DO,22.0,3.4,7.4,143.0,1.8,,,,,27.1349237,93.7531102,"dikrong nirjuli, Arunachal Pradesh, India",True
+3103,"River Pachin At Naharlagun (Below Barapani Bridge),",River,ARUNACHAL PRADESH,2021,Unsafe,13.37,Low DO,22.3,3.55,7.35,128.0,1.0,,,,,27.100935,93.687704,"barapani, Arunachal Pradesh, India",True

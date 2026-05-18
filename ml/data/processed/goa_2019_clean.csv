@@ -1,0 +1,59 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+2258,"Ground Water From Goalpara Dist. (Goalpara College ), Assam",Groundwater,GOA,2019,Unsafe,50.01,"pH Out of Range, High BOD",27.0,,0.0,7.35,250.0,1.65,1.1,2.0,
+2277,Well At Verna Indi.Estate.(M/S Cipla Limited),Groundwater,GOA,2019,Unsafe,37.95,"pH Out of Range, High BOD",29.0,,5.6,7.1,223.0,,0.38,,
+2279,"Well At Zuari Industries Ltd, Zuari Nagar",Groundwater,GOA,2019,Unsafe,40.02,"pH Out of Range, High BOD",29.0,,5.2,6.3,307.0,,2.89,,
+2280,Well At Kudai Indl. Estate(M/S Cadila Healthcare Limited),Groundwater,GOA,2019,Unsafe,33.33,High BOD,,,6.5,6.5,238.0,,0.1,,
+GEN-0F46C6,2281,Groundwater,GOA,2019,Unsafe,25.63,High BOD,,,,7.0,6.75,52.25,98.0,0.06,
+2282,Well At Pilerne Industrial Estate(M/S Unichem ),Groundwater,GOA,2019,Unsafe,60.0,"pH Out of Range, High BOD",29.0,,5.2,7.3,245.0,,,,
+3193,Bore Well At Cuncolim Industrial Estate,Groundwater,GOA,2019,Unsafe,41.03,"pH Out of Range, High BOD",31.0,,5.0,7.0,41.0,,0.02,,
+3194,Bore Well At Bethora Industrial Estate,Groundwater,GOA,2019,Unsafe,37.44,"pH Out of Range, High BOD",29.0,,5.7,6.5,120.0,,0.83,,
+1549,"Salaulim Lake At Salaulim - Sanguem, Goa",Pond/Tank,GOA,2019,Unsafe,20.11,High BOD,,31.0,6.75,7.2,500.0,0.8,0.53,130.0,240.0
+2269,"Mayem Lake, Bicholim",Pond/Tank,GOA,2019,Unsafe,22.27,"High BOD, High Total Coliform",,29.0,7.1,6.8,500.0,2.7,0.14,2840.0,5350.0
+3175,Anjunem Lake,Pond/Tank,GOA,2019,Unsafe,20.05,High BOD,,29.0,7.65,7.1,106.5,2.1,0.245,56.0,170.0
+3176,Rumder Lake,Pond/Tank,GOA,2019,Unsafe,29.39,"pH Out of Range, High BOD, High Total Coliform",,28.0,4.15,7.05,500.0,6.0,0.36,2695.0,4345.0
+3177,Carambolim Lake,Pond/Tank,GOA,2019,Unsafe,20.72,High BOD,,28.0,6.95,7.3,500.0,3.0,1.1,889.0,2765.0
+3178,Raia Lake,Pond/Tank,GOA,2019,Unsafe,21.98,High BOD,,28.5,7.05,7.05,194.5,12.0,3.9,2460.0,3970.0
+3179,Saipem Lake,Pond/Tank,GOA,2019,Unsafe,42.15,"pH Out of Range, High BOD, High Total Coliform",,29.0,3.45,7.05,327.0,4.2,1.27,15950.0,53000.0
+3180,Curtorim Lake,Pond/Tank,GOA,2019,Unsafe,22.06,"High BOD, High Total Coliform",,31.5,7.35,6.8,253.5,4.3,4.89,2550.0,6725.0
+4408,Harwale Water Fall,Pond/Tank,GOA,2019,Unsafe,22.88,"High BOD, High Total Coliform",,28.0,7.9,6.65,97.5,,0.37,3600.0,8150.0
+2265,"Canal Up Stream Of Cuncolim Indl.Est. Cuncolim, Salcete (1 Km From M/S Nicoment Industries)",Canal,GOA,2019,Unsafe,20.48,High BOD,,28.5,6.65,6.6,344.0,2.4,1.37,589.0,1215.0
+2266,"Canal Downstream Of Cuncolim Indl.Est. Cuncolim, Salcete (Near Railway Bridge)",Canal,GOA,2019,Unsafe,20.74,High BOD,,28.5,6.85,6.8,328.5,2.7,1.37,915.0,1895.0
+2268,Cumbarjua Canal Corlim(Discharge Point Of Syngenta Limited),Canal,GOA,2019,Unsafe,24.98,"pH Out of Range, High BOD",,28.5,5.2,6.85,500.0,0.8,0.55,1222.5,2945.0
+4013,Tiracol Beach,COASTAL,GOA,2019,Unsafe,8.85,High Fecal Coliform,29.5,6.4,7.3,42880.0,2.3,0.55,654.0,1411.5,
+4014,Miramar Beach,COASTAL,GOA,2019,Unsafe,9.74,High Fecal Coliform,29.0,6.75,7.3,29693.5,2.8,0.895,656.5,1116.5,
+4015,Calangute Beach,COASTAL,GOA,2019,Unsafe,16.15,High Total Coliform,29.5,6.25,7.15,30190.0,0.7,1.13,249.0,17000.0,
+4016,Morjim Beach,COASTAL,GOA,2019,Unsafe,10.02,High Fecal Coliform,32.0,6.4,7.7,37195.0,2.7,0.62,654.0,1766.5,
+4017,Mobor Beach,COASTAL,GOA,2019,Unsafe,9.18,High Fecal Coliform,29.5,6.2,7.75,44263.0,2.5,0.32,554.0,1761.5,
+4018,Baina Beach,COASTAL,GOA,2019,Unsafe,8.96,High BOD,30.0,5.55,7.75,47525.0,3.3,0.325,286.5,605.0,
+4019,Galgibag Beach,COASTAL,GOA,2019,Unsafe,20.94,"High Fecal Coliform, High Total Coliform",29.5,6.25,7.25,29090.0,2.9,0.44,2704.0,4611.5,
+4020,Colva Beach,COASTAL,GOA,2019,Unsafe,10.5,"High BOD, High Fecal Coliform",29.5,6.1,7.8,50000.0,3.3,0.32,566.5,1139.5,
+4021,Vagator Beach,COASTAL,GOA,2019,Safe,8.49,None,29.5,6.45,7.15,36840.0,2.8,0.61,397.5,856.5,
+4022,Velsao Beach,COASTAL,GOA,2019,Unsafe,12.37,High BOD,30.0,6.45,7.75,44235.0,4.6,0.26,397.5,711.5,
+2267,"Creek At Dando Mollo, Velsao, Mamugao",CREEK,GOA,2019,Unsafe,19.83,"High Fecal Coliform, High Total Coliform",31.0,10.4,7.35,9935.0,2.8,10.435,2565.0,4195.0,
+20013,Panaji-1 Tonca,River,GOA,2019,Unsafe,100.0,High Total Coliform,,,,7.1,,100.0,,5000000.0,54000000.0
+1548,"River Assonora At Assonora, Goa",River,GOA,2019,Unsafe,8.53,High Fecal Coliform,29.0,7.85,6.95,67.5,2.1,0.27,705.0,1310.0,
+2276,"River Bicholim Varazan Nagar , Bicholim",River,GOA,2019,Unsafe,35.2,"High Fecal Coliform, High Total Coliform",29.0,8.35,6.85,1432.5,2.9,0.51,7650.0,10950.0,
+4410,Chapoli Dam,River,GOA,2019,Unsafe,8.71,"High Fecal Coliform, High Total Coliform",28.5,7.65,7.05,258.0,,0.55,1201.0,2702.5,
+2275,"River Chapora Near Alorna Fort , Pernem",River,GOA,2019,Unsafe,20.69,"High Fecal Coliform, High Total Coliform",28.5,6.1,7.1,24163.5,2.9,0.135,2695.0,4345.0,
+1543,"River Kalna At Chandel- Pernem, Goa",River,GOA,2019,Unsafe,18.65,"High BOD, High Fecal Coliform, High Total Coliform",28.5,7.05,7.15,3371.5,4.0,0.39,1875.0,2840.0,
+1546,"River Khandepar At Opa - Ponda, Goa",River,GOA,2019,Unsafe,14.25,"High BOD, High Fecal Coliform",29.0,6.95,6.95,591.5,4.2,0.13,884.0,1735.0,
+2270,"River Khandepar At Codli Near Bridge , U/S Opa Waterworks, Sanguem",River,GOA,2019,Unsafe,12.18,High Fecal Coliform,29.0,7.75,6.85,525.0,2.8,0.17,1139.0,1760.0,
+2272,"River Kushawati Near Bund At Kevona, Rivon, Sanguem",River,GOA,2019,Unsafe,12.14,"High Fecal Coliform, High Total Coliform",32.0,6.7,7.2,23886.5,2.3,0.085,1235.0,2615.0,
+1545,"River Madai At Dabos - Valpoi, Goa",River,GOA,2019,Unsafe,13.41,High Fecal Coliform,29.0,7.75,7.35,83.5,2.7,0.48,1395.0,2300.0,
+1400,"Mandovi At Neghbourhood Of Panaji, Goa",River,GOA,2019,Unsafe,8.06,High Fecal Coliform,29.0,6.05,7.35,24541.5,1.8,1.41,661.5,1766.5,
+1476,"Mandovi At Tonca, Marcela, Goa",River,GOA,2019,Unsafe,12.79,High Fecal Coliform,28.5,5.95,7.0,23245.5,2.8,0.165,1152.5,2454.0,
+10012,River Mandovi At Panaji U/S,River,GOA,2019,Safe,5.04,None,29.0,5.85,7.25,22840.0,1.1,1.42,405.0,1222.5,
+2274,River Mapusa On Culvert On Highway Mapusa-Panaji,River,GOA,2019,Unsafe,41.22,"High BOD, High Fecal Coliform, High Total Coliform",29.0,5.95,6.85,5633.5,5.0,0.38,6650.0,12650.0,
+2271,"River Sal Pazorkhoni, Cuncolim(Near Culvert Margao- Canacona National Highway)",River,GOA,2019,Unsafe,21.79,"High BOD, High Fecal Coliform, High Total Coliform",28.5,6.2,7.0,172.0,3.5,1.11,2695.0,4050.0,
+2273,"River Sal Near Hotel Leela Mobor, Cavelossim",River,GOA,2019,Unsafe,15.86,"High Fecal Coliform, High Total Coliform",29.5,6.15,7.4,28700.0,2.8,0.215,1689.0,3610.0,
+3183,"River Sal At Khareband, Margao",River,GOA,2019,Unsafe,56.92,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",29.0,4.1,7.1,287.5,6.0,22.695,178950.0,276500.0,
+3184,"River Sal At Orlim Bridge, Orlim",River,GOA,2019,Unsafe,13.45,"High BOD, High Fecal Coliform",29.0,5.85,7.2,17511.0,3.2,1.31,1215.0,1860.0,
+4409,Salmona Spring,River,GOA,2019,Unsafe,4.5,High Fecal Coliform,28.0,6.7,6.5,150.5,,1.27,790.0,551.0,
+3190,River Sinquerim (Candolim Side Near Bridge),River,GOA,2019,Unsafe,12.48,"High Fecal Coliform, High Total Coliform",30.0,5.7,7.05,30370.0,2.7,1.22,1072.5,2739.0,
+3191,River Sinquerim Near Nerul Temple,River,GOA,2019,Unsafe,10.16,High Fecal Coliform,29.0,5.65,7.0,30410.0,1.7,0.43,1215.0,1905.0,
+1547,"River Talpona At Canacona, Goa",River,GOA,2019,Unsafe,13.4,"High Fecal Coliform, High Total Coliform",29.5,7.5,7.0,2915.5,2.7,0.12,915.0,4685.0,
+1544,"River Valvant At Sankli - Bicholim, Goa",River,GOA,2019,Unsafe,16.28,"High Fecal Coliform, High Total Coliform",29.0,8.0,6.95,54.0,2.1,0.27,2145.0,3800.0,
+1399,"Zuari At D/S Of Pt. Where Kumbarjria Canal Joins, Goa",River,GOA,2019,Unsafe,19.88,"High Fecal Coliform, High Total Coliform",29.5,5.85,7.2,24318.5,2.1,0.63,2845.0,4800.0,
+1475,Zuari At Panchawadi,River,GOA,2019,Unsafe,14.36,"High BOD, High Fecal Coliform",29.0,6.35,7.0,11842.0,3.8,0.19,1080.0,2000.0,
+3181,River Zuari At Borim Bridge,River,GOA,2019,Unsafe,21.12,"High BOD, High Fecal Coliform, High Total Coliform",29.0,6.1,6.95,19350.5,6.4,0.91,1215.0,2565.0,
+3182,River Zuari At Marcaim Jetty,River,GOA,2019,Unsafe,18.01,"High BOD, High Fecal Coliform, High Total Coliform",29.0,6.0,6.9,26315.5,5.0,0.265,1215.0,2560.0,

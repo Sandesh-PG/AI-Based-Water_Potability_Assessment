@@ -1,0 +1,553 @@
+monitoring_location,stn_code,latitude,longitude,geocode_query,geocoded
+"Bore Well Water At Bhut Nath Road Water Tank Sec-3, Kankarbagh,Patna",1826,25.6018853,85.1666591,"kankarbagh patna, Bihar, India",True
+"Tap Water Coming From Over Head Tank Pmch Campus, Patna",1827,25.5994865,85.1302094,"campus patna, Bihar, India",True
+"Bore Well Water In Campus Of Patna Water Board Head Office, Near High Court, Patna",1828,25.6092171,85.1251399,"high court patna, Bihar, India",True
+"Bore Well Water From Igims Campus, Patna",1829,25.5994865,85.1302094,"campus patna, Bihar, India",True
+"Bore Well Water (Phed Pump House) Sadar Hospital Campus, Muzaffarpur",1830,26.1482548,85.3316097,"muzaffarpur, Bihar, India",True
+"Bore Well Water Mmc Pump House Brahmpura Naka, Muzaffarpur",1831,26.1482548,85.3316097,"muzaffarpur, Bihar, India",True
+"Tap Water In Campus Of Kali Asthan, Begusarai",1832,25.5125411,86.0883392,"begusarai, Bihar, India",True
+"Tap Water In Campus Of S.P Oofice, Pokharia, Begusarai",1833,25.4196078,86.1361505,"pokharia begusarai, Bihar, India",True
+"Hand Pump Water Near Govt. Hospital, Purnea",1834,25.786191,87.4885927,"hospital purnea, Bihar, India",True
+"Hand Pump Water Near Court Lower Court, Purnea",1835,25.796677,87.4815747,"court purnea, Bihar, India",True
+"Hand Pump Water Near Bus Stand Tilks Manjhi Chowk, Begusarai",1836,25.623771,85.9267016,"chowk begusarai, Bihar, India",True
+Begusarai,1837,25.5125411,86.0883392,"begusarai, Bihar, India",True
+"Tap Water Near Veer Kuwar Singh Chowk, Munger",1838,25.2202864,86.5161484,"munger, Bihar, India",True
+"Hand Pump Water In Campus Of Kasturba Water Works, Munger",1839,25.2202864,86.5161484,"munger, Bihar, India",True
+"Tap Water Phed Pump House Main Road, Motihari",1840,26.6506888,84.9114654,"motihari, Bihar, India",True
+"Tap Well Water From T. Modal Inter School, G.B Road, Gaya",1841,24.9404472,84.8468387,"inter gaya, Bihar, India",True
+"Tap Water Sample At Ramkund, Gaya",1842,24.7964355,85.0079563,"gaya, Bihar, India",True
+"Phed Water Supply Near Bus Stand, Rajgir",1843,25.0299973,85.4207368,"rajgir, Bihar, India",True
+Saharsa Hand Pump Water Near Sadar Hospital,2594,25.4138814,86.1356676,"sadar hospital, Bihar, India",True
+Samastipur Hand Pump Water At Collectriate Campus,2595,24.7955599,85.0085612,"campus, Bihar, India",True
+Sitamarhi- Hand Pump Water At Sri Janki Mandir,2596,26.5954675,85.4971075,"janki mandir, Bihar, India",True
+Siwan Borewell Water At Collectriate Campus,2597,24.7955599,85.0085612,"campus, Bihar, India",True
+Rohtas Bore Well Water From Water Tank Near Dharma Shala Sasaram,2598,24.9509656,84.0148733,"sasaram, Bihar, India",True
+Rohtas Hand Pump Water At Bust Stand Sasaram,2599,24.955113,84.0154386,"stand sasaram, Bihar, India",True
+Vaishali Tap Water At Railway Station Campus Hazipur,2600,24.9490651,85.6148287,"hazipur, Bihar, India",True
+Ara (Bhojpur) Bore Well Water At Station Raod Near Rly Station,3138,25.6031755,85.1366044,"station, Bihar, India",True
+Araria Hand Pump Water At Bus Stand,3139,26.3529931,86.0746366,"stand, Bihar, India",True
+Bettiah Hand Pump Water At Railway Station,3140,25.5977248,85.2042559,"railway station, Bihar, India",True
+Bodhgaya Hand Pump Water Near Long Lord Budha Temple,3141,25.5811219,85.0409287,"temple, Bihar, India",True
+Bikramganj Hand Pump Water At Bus Stand Chowk,3142,25.6204503,85.0976251,"stand chowk, Bihar, India",True
+Bagaha Hand Pump Water At Bagaha Bazar,3143,25.6058865,85.1737634,"bazar, Bihar, India",True
+Barh Hand Pump Water Near A.N.S. College Barh,3144,25.4735678,85.7061688,"a.n.s. barh, Bihar, India",True
+Dehri On Sone Hand Pump Water Nera Muffasil Thana More,3145,25.6233883,85.0416756,"more, Bihar, India",True
+"Dumraon Bore Well Water At Pani Tanki, Buxar Dumraon Road",3146,25.5238346,84.1599531,"dumraon, Bihar, India",True
+Jaynagar Hand Pump Water At Railway Station,3147,25.5977248,85.2042559,"railway station, Bihar, India",True
+Jamalpur Hand Pump Water At Police Staition Jamalpur,3148,25.3138767,86.4897172,"jamalpur, Bihar, India",True
+Kudra Hand Pump Water At Railway Station,3149,25.5977248,85.2042559,"railway station, Bihar, India",True
+Maner Hand Pump Water At Main Road Near Kali Mandir,3150,25.5904461,85.1626229,"kali mandir, Bihar, India",True
+"Kawar Lake, Begusarai",2557,25.5125411,86.0883392,"begusarai, Bihar, India",True
+Moti Jheel At Motiharii,2571,,,,False
+Tighi Talab At Gaya,2573,24.773668,85.0001344,"talab gaya, Bihar, India",True
+Kochbihar Lake (Sagar Dighi),2519,26.1491721,85.9054535,"dighi, Bihar, India",True
+Ganga At Buxar,1074,25.5044834,84.1097525,"buxar, Bihar, India",True
+"Ganga At Buxar, Ramrekhaghat",2551,,,,False
+"Ganga U/S Khurji, Patna",1077,25.6093239,85.1235252,"patna, Bihar, India",True
+"Ganga At Confluence Of Sone Doriganj, Chapra",2564,25.7733443,84.7849772,"chapra, Bihar, India",True
+Ganga Darbhanga Ghat At Patna,2552,25.5876533,85.238043,"ghat patna, Bihar, India",True
+Ganga D/S Patna (Ganga Bridge),1079,25.5970663,85.240897,"ganga patna ganga, Bihar, India",True
+"Ganga At Punpun, Patna",2555,25.5290696,85.1806118,"punpun patna, Bihar, India",True
+Ganga At Fatuha,2553,25.5085264,85.3099134,"fatuha, Bihar, India",True
+Ganga U/S Mokama,1817,25.3958052,85.9220644,"mokama, Bihar, India",True
+Ganga D/S Mokama,1815,25.3958052,85.9220644,"mokama, Bihar, India",True
+Ganga At Munger,1818,25.2202864,86.5161484,"munger, Bihar, India",True
+"Ganga At Sultanganj, Bhagalpur",2554,25.2414966,86.7349906,"sultanganj bhagalpur, Bihar, India",True
+Ganga At Bhagalpur,1819,25.2861354,87.1304229,"bhagalpur, Bihar, India",True
+Ganga At Kahalgaon,1816,25.2651895,87.2835414,"kahalgaon, Bihar, India",True
+Ganga At D/S Buxar Near Ganga Bridge,3113,25.7060977,84.6115381,"ganga, Bihar, India",True
+Ganga Near Danapur (Near Pipa Pul),3114,25.5499638,85.2813696,"pipa, Bihar, India",True
+Ganga At Barh,3115,25.4509766,85.7002486,"barh, Bihar, India",True
+Ganga At U/S Munger (Near Intake Well On Ganga),3116,25.7060977,84.6115381,"ganga, Bihar, India",True
+Ganga At U/S Sulatanganj,3117,,,,False
+Ganga At U/S Bhagalpur,3118,25.2861354,87.1304229,"bhagalpur, Bihar, India",True
+"Ganga At Malsalami, Patna",3122,25.6093239,85.1235252,"patna, Bihar, India",True
+Ganga At Barahia,3123,,,,False
+Ghaghara Near Chapra,1076,25.7733443,84.7849772,"chapra, Bihar, India",True
+Sone At Koelwar,1075,25.5693726,84.7927554,"koelwar, Bihar, India",True
+"Gandak B/C At Sonepur, Patna",1078,25.6093239,85.1235252,"patna, Bihar, India",True
+"Gandak At Rewaghat, Mujaffarpur",2568,,,,False
+Gandak At Samastipur Road Bridge,2570,25.8613568,85.8038414,"gandak samastipur, Bihar, India",True
+"Sikrahna At Lal Parse, Bittiah",2575,,,,False
+Sikrana At Chanpatiya,1820,,,,False
+"Burhi Gandak At Akharaghat, Muzaffarpur",2562,26.1482548,85.3316097,"muzaffarpur, Bihar, India",True
+Harbora At Narkatiaganj,2558,27.0968882,84.4585344,"narkatiaganj, Bihar, India",True
+Kamala At Benipatti (Madhubani),2567,26.4434731,85.9104806,"benipatti madhubani, Bihar, India",True
+Kamala At Darbhanga,2569,26.0829899,86.0324951,"darbhanga, Bihar, India",True
+"Manusmarat Riga, Sitamarhi",2563,26.6233704,85.3980911,"riga sitamarhi, Bihar, India",True
+Koshi At Kurshela At Katihar,2565,25.5586421,87.6457196,"katihar, Bihar, India",True
+Koshi At Madhepura,2566,25.8794585,86.7716341,"koshi madhepura, Bihar, India",True
+Daha At Siwan,1821,26.131008,84.3910745,"siwan, Bihar, India",True
+Daha D/S Sasamusa,2560,,,,False
+"Daha At Itwa Bridge, Siwan",2561,26.131008,84.3910745,"siwan, Bihar, India",True
+Dhous At Madhubani,1823,26.3503076,86.2296424,"madhubani, Bihar, India",True
+Farmar At Jogbani,1824,26.402788,87.2637198,"jogbani, Bihar, India",True
+Ram Rekhaat Harinagar,2559,27.156368,84.3244117,"harinagar, Bihar, India",True
+Sirsa At Ruxol,1822,,,,False
+Sone Near Banzari,3121,,,,False
+Sone River At Bahiyara,3127,25.5345016,84.7600817,"bahiyara, Bihar, India",True
+Sone River At Nasiriganj Dam,3128,,,,False
+Bagmati At Muzaffarpur- Sitamarhi Road Bridge,3132,26.5942841,85.500428,"sitamarhi, Bihar, India",True
+"Bagmati At Darbanga, Samastipur Road Bridge",3135,25.7747885,85.8672314,"samastipur, Bihar, India",True
+Bihar D/S Near Forest Office,2116,25.5852986,85.0441261,"office, Bihar, India",True
+Daha At Meerganj,3129,,,,False
+Gandak U/S Road Bridge Muzaffarpur (Nh),3124,26.2649007,85.2338941,"gandak muzaffarpur, Bihar, India",True
+Gandak Gopalganj Piprakothi Road Bridge (Dumaria Ghat),3125,25.6996142,85.1352099,"ghat, Bihar, India",True
+U/S Harbora Before Sugar Mill Near Road Bridge Narkatiganj,3126,,,,False
+"Kamala At Jaynagar,",3133,26.5902775,86.1356516,"jaynagar, Bihar, India",True
+Koshi At Beerpur,3137,,,,False
+U/S Manusmar River At Bakhari Riga,3131,26.6233704,85.3980911,"riga, Bihar, India",True
+Poonpun Near Poonpun Rail Bridge,3119,25.8027508,85.0398985,"rail, Bihar, India",True
+Poonpun Near Kinzer Road Bridge,3120,,,,False
+Ramrekha U/S Harinagar,3130,27.156368,84.3244117,"harinagar, Bihar, India",True
+"Sikrahna At Laurea, Harinagar Road Bridge",3134,27.156368,84.3244117,"harinagar, Bihar, India",True
+Sirsa D/S Raxaul (Koeria Tola),3136,24.6852952,86.2001413,"tola, Bihar, India",True
+Subarnarekha At Rajghat Near Bihar Border,1641,26.4256918,87.5254808,"border, Bihar, India",True
+"Bore Well Water Near Commissionary Office, Chapra",1844,25.8021339,84.7481552,"office chapra, Bihar, India",True
+"Hand Pump Water At Court Campound, Araria",2577,26.1346459,87.4654062,"araria, Bihar, India",True
+"Tube Well Water At Collectriate Campus, Buxar",2579,25.5044834,84.1097525,"buxar, Bihar, India",True
+"Hand Pump Water At Kila Gate Near Rambagh Mithila University, Darbhanga",2581,26.1627347,85.8985767,"mithila university darbhanga, Bihar, India",True
+"Hand Pump Water At Bus Stand, Gopalganj",2583,26.4211166,84.3739133,"gopalganj, Bihar, India",True
+"Tap Water Near Pani Tanki At Jahanabad Court, Jahanabad",2585,25.2385347,85.0219881,"jahanabad, Bihar, India",True
+"Hand Pump Water At Bus Stand, Katihar",2586,25.5586421,87.6457196,"katihar, Bihar, India",True
+"Hand Pump Water Near Sadar Hospital, Khagaria",2587,25.50877,86.4756484,"sadar hospital khagaria, Bihar, India",True
+"Hand Pump Water At D.M Office, Kishanganj",2588,26.0931813,87.9423085,"office kishanganj, Bihar, India",True
+"Hand Pump Water Near D.M Office, Madhepura",2589,25.9080179,86.7264154,"office madhepura, Bihar, India",True
+"Tap Water Inside The Campus Of Tourist Cafeteria, Nalanda",2591,25.3832144,85.5072997,"cafeteria nalanda, Bihar, India",True
+Nawada-Hand Pump Water At Collectriate Campus,2593,24.7955599,85.0085612,"campus, Bihar, India",True
+Samastipur-Hand Pump Water Colleectriate Campus,2595,24.7955599,85.0085612,"campus, Bihar, India",True
+Siwan-Borewell Water At Collectriate Campus,2597,24.7955599,85.0085612,"campus, Bihar, India",True
+Well-2 Rohtas Handpump Water At Bus Stand Sasaram,2599,24.955113,84.0154386,"stand sasaram, Bihar, India",True
+Arrah(Bhojpur)-Bore Well Water At Station Road Near Railway Station,3138,25.5977248,85.2042559,"station railway station, Bihar, India",True
+Bettiah- Handpump Water At Railway Station,3140,25.5977248,85.2042559,"railway station, Bihar, India",True
+Bikramganj –Handpump Water At Bus Stand Chawk,3142,26.0385569,85.5527059,"chawk, Bihar, India",True
+Bagaha- Hand Pump Water At Bagaha Bazar,3143,25.6058865,85.1737634,"bazar, Bihar, India",True
+Barh-Handpump Water Near A.N.S. College Barh,3144,25.4735678,85.7061688,"a.n.s. barh, Bihar, India",True
+"Dumraon- Bore Well Water At Pani Tanki, Buxar",3146,25.5044834,84.1097525,"buxar, Bihar, India",True
+Jamalpur-Hanpdump Water At Police Station,3148,25.5429613,87.5676383,"police station, Bihar, India",True
+Kudra-Handpump Water At Railway Station,3149,25.5977248,85.2042559,"railway station, Bihar, India",True
+Maner-Handpump Water At Main Road Near Kali Mandir,3150,25.5904461,85.1626229,"kali mandir, Bihar, India",True
+Narkatiaganj-Handpump Water At Bus Stand,3152,26.3529931,86.0746366,"stand, Bihar, India",True
+Gaya Tape Water Sample At Ramkund,3154,,,,False
+Supual-Hand Pump Water At Bus Stand,3155,26.3529931,86.0746366,"stand, Bihar, India",True
+Samastipur-Handpump Water At Bus Stand,3156,26.3529931,86.0746366,"stand, Bihar, India",True
+Sherghati-Borewell Water At Bus Stand,3158,26.3529931,86.0746366,"stand, Bihar, India",True
+Raxaul-Hand Pump Water At Bus Stand,3160,26.3529931,86.0746366,"stand, Bihar, India",True
+Katihar-Hand Pump Water At Bus Stand,3161,26.3529931,86.0746366,"stand, Bihar, India",True
+Vaishali-Handpump Water At Vaishali Block,3162,25.1676972,83.6208402,"block, Bihar, India",True
+"Kawar Lake, Begusarai, Bihar",2557,25.4186441,86.1272304,"begusarai bihar, Bihar, India",True
+"Tighi Talab At Gaya, Bihar",2573,24.773668,85.0001344,"talab gaya bihar, Bihar, India",True
+"Ganga At U/S Jail Ghat, Buxar (D/S Confluence Of Thora River)",10113,,,,False
+Arrah- Chapra Road Bridge (Koilwer Banura-Chapra Road),10162,25.7733443,84.7849772,"chapra, Bihar, India",True
+"Ganga At The Confluence Of Sone River Doriganj, Chapra",2564,25.7733443,84.7849772,"chapra, Bihar, India",True
+"Ganga At Maa Ambika Asthan, Aami, Saran",10114,25.9214451,84.7759731,"saran, Bihar, India",True
+Ganga River Near Danapur (Near Pipapul),3114,,,,False
+"Ganga At Khurji, Patna U/S",1077,25.6093239,85.1235252,"patna, Bihar, India",True
+"Ganga At Gulbi Ghat, Patna",10115,25.5876533,85.238043,"ghat patna, Bihar, India",True
+Ganga At Patna D/S (Ganga Bridge),1079,25.5970663,85.240897,"ganga patna ganga, Bihar, India",True
+River Ganga At Triveni Ghat,10122,25.6996142,85.1352099,"ghat, Bihar, India",True
+Ganga River At Barh,3115,25.4509766,85.7002486,"barh, Bihar, India",True
+River Ganga At D/S Nawadaghat,10130,,,,False
+River Ganga At U/S Barahpur Bindtoli,10131,,,,False
+Ganga At Mokama (U/S),1817,25.3958052,85.9220644,"mokama, Bihar, India",True
+Ganga At Mokama (D/S),1815,25.3958052,85.9220644,"mokama, Bihar, India",True
+Ganga River At Barahia,3123,,,,False
+Ganga At U/S Munger,3116,25.2202864,86.5161484,"munger, Bihar, India",True
+Ganga At U/S Sultanganj,3117,25.2414966,86.7349906,"sultanganj, Bihar, India",True
+River Ganga At Champanagar,10138,,,,False
+River Ganga D/S Near Cremation Ghat,10143,25.6996142,85.1352099,"ghat, Bihar, India",True
+Sone River Near Banzari,3121,,,,False
+"Gandak At Sonepur, Patna (B/C Ganga)",1078,25.5970663,85.240897,"patna ganga, Bihar, India",True
+Burhi Gandak At Z Road Bridge,2570,26.2649007,85.2338941,"burhi gandak, Bihar, India",True
+Burhi Gandak River U/S Road Bridge Muzaffarpur (Nh),3124,26.2649007,85.2338941,"gandak river muzaffarpur, Bihar, India",True
+Gandak River Gopalganj Piprakothi Road Bridge (Dumaria Ghat),3125,25.6996142,85.1352099,"ghat, Bihar, India",True
+"Sikrahna River At Lal Parse, Bittiah",2575,,,,False
+Sikrahna At Chanpatiya,1820,,,,False
+"Sikrahna River At Laurea, Harinagar Road Bridge",3134,27.156368,84.3244117,"harinagar, Bihar, India",True
+Harbora River At Narkatiaganj,2558,27.0968882,84.4585344,"narkatiaganj, Bihar, India",True
+U/S Harbora River,3126,,,,False
+Kamala River At Benipatti (Madhubani),2567,26.3455634,85.8601554,"river benipatti madhubani, Bihar, India",True
+Kamala River At Darbhanga,2569,26.2095494,85.8450991,"river darbhanga, Bihar, India",True
+Kamala River At Jaynagar,3133,26.5902775,86.1356516,"jaynagar, Bihar, India",True
+"Manusmar River At Riga, Sitamarhi",2563,26.6233704,85.3980911,"riga sitamarhi, Bihar, India",True
+Koshi River At Kurshela At Katihar,2565,25.5586421,87.6457196,"katihar, Bihar, India",True
+Koshi River At Madhepura,2566,25.8794585,86.7716341,"koshi river madhepura, Bihar, India",True
+Koshi River At Beerpur,3137,,,,False
+D/S Daha River At Sasamusa,2560,,,,False
+"Daha River At Itwa Bridge, Siwan",2561,26.131008,84.3910745,"siwan, Bihar, India",True
+Daha River At Meerganj,3129,,,,False
+"Dhous At Madhuvapur, Madhubani",1823,26.3503076,86.2296424,"madhubani, Bihar, India",True
+Ramrekha River At Harinagar,2559,27.156368,84.3244117,"harinagar, Bihar, India",True
+Ramrekha River At U/S Harinagar,3130,27.156368,84.3244117,"harinagar, Bihar, India",True
+Sirsiya At Raxaul,1822,26.9868738,84.8447219,"raxaul, Bihar, India",True
+Bagmati River At Muzaffarpur Sitamarhi Road Bridge,3132,26.5942841,85.500428,"sitamarhi, Bihar, India",True
+"Bagmati River At Darbanga, Samastipur Road Bridge",3135,25.7747885,85.8672314,"samastipur, Bihar, India",True
+U/S Manusmar River (Riga),3131,25.7918793,87.6807366,"river riga, Bihar, India",True
+Poonpun River Near Poonpun Rail Bridge,3119,25.8027508,85.0398985,"rail, Bihar, India",True
+Poonpun River Near Kinzer Road Bridge,3120,,,,False
+Sirsa River D/S Raxaul (Koeria Tola),3136,24.6852952,86.2001413,"tola, Bihar, India",True
+"Sone At Indrapuri, Dehri On Sone",2556,24.9057108,84.1771979,"dehri sone, Bihar, India",True
+Gandak At Konhara Ghat,10126,25.6996142,85.1352099,"ghat, Bihar, India",True
+"Gandak At Road Bridge, U/S Hajipur",10163,25.6905702,85.2090351,"hajipur, Bihar, India",True
+1842,GEN-57C053,21.6741812,76.3816799,"1842, Bihar, India",True
+1843,GEN-488824,21.6741812,76.3816799,"1843, Bihar, India",True
+2583,GEN-EAA52F,21.6741812,76.3816799,"2583, Bihar, India",True
+2586,GEN-C57168,21.6741812,76.3816799,"2586, Bihar, India",True
+3139,GEN-E8BF0F,21.6741812,76.3816799,"3139, Bihar, India",True
+3143,GEN-0AFA92,21.6741812,76.3816799,"3143, Bihar, India",True
+3146,GEN-5D4AE7,21.6741812,76.3816799,"3146, Bihar, India",True
+3154,GEN-FDBD31,21.6741812,76.3816799,"3154, Bihar, India",True
+3155,GEN-B22B25,21.6741812,76.3816799,"3155, Bihar, India",True
+3156,GEN-2227D7,21.6741812,76.3816799,"3156, Bihar, India",True
+3158,GEN-55D99A,21.6741812,76.3816799,"3158, Bihar, India",True
+3161,GEN-29539E,21.6741812,76.3816799,"3161, Bihar, India",True
+2557,GEN-168082,21.6741812,76.3816799,"2557, Bihar, India",True
+2573,GEN-60519C,21.6741812,76.3816799,"2573, Bihar, India",True
+Bihar,INLET TO STP,25.1672903,85.5502398,"bihar, Bihar, India",True
+Arrah-Chhapra Road Bridge (Koilwer Banura- Chhapra),10162,25.7733443,84.7849772,"chhapra, Bihar, India",True
+Ganga At The Confluence Of Sone River Doriganj,2564,,,,False
+"Bakhtiyarpur- Tajpur Bridge On Ganga, Athmalgola",4301,25.5022501,85.6892339,"ganga athmalgola, Bihar, India",True
+"Sone At Koelwar, Bihar",1075,25.5693726,84.7927554,"koelwar bihar, Bihar, India",True
+"Sone River Near Banzari, Bihar",3121,25.1672903,85.5502398,"bihar, Bihar, India",True
+"Sone River At Bahiyara, Bihar",3127,25.5345016,84.7600817,"bahiyara bihar, Bihar, India",True
+"Sone River At Nasiriganj Dam, Bihar",3128,25.1672903,85.5502398,"bihar, Bihar, India",True
+"Gandak At Sonepur, Patna (Before Confl.), Bihar",1078,25.1672903,85.5502398,"bihar, Bihar, India",True
+"Gandak At Rewaghat, Mujaffarpur, Bihar",2568,25.1672903,85.5502398,"bihar, Bihar, India",True
+"Gandak At Samastipur Road Bridge, Bihar",2570,25.8613568,85.8038414,"gandak samastipur bihar, Bihar, India",True
+Gandak River Gopalganj Piprakothi Road Bridge (Dum,3125,26.5673125,84.9498755,"piprakothi, Bihar, India",True
+"Burhi Gandak At Akharaghat, Muzaffarpur, Bihar",2562,26.1042434,85.3990429,"muzaffarpur bihar, Bihar, India",True
+"Harbora River At Narkatiaganj, Bihar",2558,27.0968882,84.4585344,"narkatiaganj bihar, Bihar, India",True
+"U/S Harbora River, Bihar",3126,25.1672903,85.5502398,"bihar, Bihar, India",True
+"Kamala River At Benipatti (Madhubani), Bihar",2567,26.4434731,85.9104806,"benipatti madhubani bihar, Bihar, India",True
+"Kamala River At Jaynagar, Bihar",3133,26.5902775,86.1356516,"jaynagar bihar, Bihar, India",True
+"Manusmar River At Riga, Sitamarhi, Bihar",2563,26.6233704,85.3980911,"riga sitamarhi bihar, Bihar, India",True
+"Koshi River At Kurshela At Katihar, Bihar",2565,25.5361066,87.5730583,"katihar bihar, Bihar, India",True
+"Koshi River At Beerpur, Bihar",3137,25.1672903,85.5502398,"bihar, Bihar, India",True
+"Daha River At Meerganj, Bihar",3129,25.1672903,85.5502398,"bihar, Bihar, India",True
+"Farmar At Jogbani, Bihar",1824,26.3826806,87.2609063,"jogbani bihar, Bihar, India",True
+"Ram Rekha River At Harinagar,",2559,27.156368,84.3244117,"harinagar, Bihar, India",True
+"Ramrekha River At U/S Harinagar, Bihar",3130,27.1562642,84.3243143,"harinagar bihar, Bihar, India",True
+"Siriswaa At Ruxol,",1822,,,,False
+"Siriswa River D/S Raxaul (Koeria Tola), Bihar",3136,24.6852952,86.2001413,"tola bihar, Bihar, India",True
+Bagmati River At Muzaffarpur-,3132,26.1482548,85.3316097,"muzaffarpur, Bihar, India",True
+"Bagmati River At Darbanga, Samastipur Road Bridge,",3135,25.7747885,85.8672314,"samastipur, Bihar, India",True
+"Poonpun River Near Poonpun Rail Bridge, Bihar",3119,25.8027508,85.0398985,"rail bihar, Bihar, India",True
+"Poonpun River Near Kinzer Road Bridge, Bihar",3120,25.1672903,85.5502398,"bihar, Bihar, India",True
+"Bore Well Water At Katra Bazar Water Tank, Malsalami, Patna",1825,25.6093239,85.1235252,"patna, Bihar, India",True
+"Ground Water From Tap Water Coming From Over Head Tank Pmch Campus, Patna",1827,25.5994865,85.1302094,"campus patna, Bihar, India",True
+"Ground Water Near Tap Water In Campus Of Kali Asthan, Begusarai",1832,25.5125411,86.0883392,"begusarai, Bihar, India",True
+"Ground Water Near Tap Water In Campus Of S.P Office, Pokharia, Begusarai",1833,25.4196078,86.1361505,"pokharia begusarai, Bihar, India",True
+Ground Water From Begusarai,1837,25.5125411,86.0883392,"begusarai, Bihar, India",True
+"Ground Water From Tap Water Near Veer Kuwar Singh Chowk, Munger",1838,25.2202864,86.5161484,"munger, Bihar, India",True
+Ground Water From Saharsa,2594,25.8330757,86.6143751,"saharsa, Bihar, India",True
+Ground Water From Samastipur,2595,25.7747885,85.8672314,"samastipur, Bihar, India",True
+Ground Water From Sitamarhi,2596,26.5942841,85.500428,"sitamarhi, Bihar, India",True
+Ground Water From Vaishali,2600,25.7491703,85.3972164,"vaishali, Bihar, India",True
+Ground Water From Bikramganj,3142,25.2183925,84.2324476,"bikramganj, Bihar, India",True
+Ground Water From Jaynagar,3147,26.5902775,86.1356516,"jaynagar, Bihar, India",True
+Ground Water From Jamalpur,3148,25.3138767,86.4897172,"jamalpur, Bihar, India",True
+Ground Water From Mohania,3151,25.1676579,83.621622,"mohania, Bihar, India",True
+Ground Water From Narkatiaganj,3152,27.0968882,84.4585344,"narkatiaganj, Bihar, India",True
+Ground Water From Supual,3155,,,,False
+Ground Water From Sultanganj,3157,25.2414966,86.7349906,"sultanganj, Bihar, India",True
+Ground Water From Shahpur,3159,25.6592586,84.4294758,"shahpur, Bihar, India",True
+"Sikandrapur, Muzaffarpur",4296,26.1482548,85.3316097,"muzaffarpur, Bihar, India",True
+"Kochbihar Lake (Sagar Dighi), Coochbehar",2519,26.3136594,89.4514032,"coochbehar, Bihar, India",True
+"River Dhons At Madhwapur, Madhubani",4405,26.5325132,85.8553124,"madhwapur madhubani, Bihar, India",True
+"Harha River At Bagha, Lauriya Road Bridge",4399,27.0039928,84.4262158,"lauriya, Bihar, India",True
+River Lakhandei Sitamarhi U/S,4400,26.8036513,85.5102236,"lakhandei sitamarhi, Bihar, India",True
+River Lakhandei Sitamarhi D/S,4401,26.8036513,85.5102236,"lakhandei sitamarhi, Bihar, India",True
+"River Ganga At U/S Jail Ghat, Buxar",10113,25.5199302,83.9026043,"ghat buxar, Bihar, India",True
+Ganga At D/S Buxar Near Road Bridge,3113,25.5044834,84.1097525,"buxar, Bihar, India",True
+Rive Ganga At U/S Barahpur Bindtoli,10131,,,,False
+Ganga At Ara-Chhapra Road Bridge (Koilwer Banura- Chhapra Road),10162,25.7733443,84.7849772,"chhapra, Bihar, India",True
+"River Ganga Ta Maa Ambika Asthan, Aami, Saran",10114,25.9214451,84.7759731,"saran, Bihar, India",True
+"Ganga Near Danapur (Near Pipa Pul) ,Patna",3114,25.5499638,85.2813696,"pipa patna, Bihar, India",True
+"Ganga At Kurji, Patna U/S",1077,25.6426637,85.1004656,"kurji patna, Bihar, India",True
+"Ganga At Gandhighat, Nit At Patna",2552,25.6093239,85.1235252,"patna, Bihar, India",True
+"River Ganga Ta Gulabi Ghat, Patna",10115,25.5876533,85.238043,"ghat patna, Bihar, India",True
+"Ganga At Patna D/S (Ganga Bridge), Gaighat",1079,26.1419165,85.6535113,"gaighat, Bihar, India",True
+"Kachchi-Dargah-Bidupur Road Bridge, Patna",4297,25.5905442,85.3022517,"dargah bidupur patna, Bihar, India",True
+"River Ganga At Triveni Ghat, Patna",10122,25.5876533,85.238043,"ghat patna, Bihar, India",True
+"Ganga At Kewala Ghat,Fatuha, Patna",2553,25.5085264,85.3099134,"fatuha patna, Bihar, India",True
+"Bakhtiyarpur-Tajpur Bridge On Ganga, Athmalgola, Patna",4301,25.4521197,85.5974084,"athmalgola patna, Bihar, India",True
+"River Ganga At D/S Nawadghat, Barh, Patna",10130,25.4509766,85.7002486,"barh patna, Bihar, India",True
+"Ganga At Mokama (U/S), Mahadeo Asthan, Patna",1817,25.5776054,85.0406031,"asthan patna, Bihar, India",True
+"Ganga River At Barahiya, Nepalitola, Maranchi, ;Lakshisarai",3123,,,,False
+"Ganga At U/S Sultanganj, Bhagalpur",3117,25.2414966,86.7349906,"sultanganj bhagalpur, Bihar, India",True
+"Ganga River At Water Intake Point, Bhagalpur",4398,25.2861354,87.1304229,"bhagalpur, Bihar, India",True
+"River Ganga At Champanagar, Bhagalpur",10138,25.2861354,87.1304229,"bhagalpur, Bihar, India",True
+Ganga At U/S Bhagalpur Near Bararighat,3118,,,,False
+"Ghaghara Near Chapra, Ribilganj, Saran",1076,25.9214451,84.7759731,"saran, Bihar, India",True
+"Sone At Koelwar, Bhojpur",1075,25.5693726,84.7927554,"koelwar bhojpur, Bihar, India",True
+"Sone River Near Banzari, Rohtas",3121,24.9394143,84.0197031,"rohtas, Bihar, India",True
+"Sone River At Bahiyara, Bhojpur",3127,25.5345016,84.7600817,"bahiyara bhojpur, Bihar, India",True
+"Sone River At Nasiriganj Dam, Rohtas",3128,24.9394143,84.0197031,"rohtas, Bihar, India",True
+"Sone At Indrapuri, Dehri On Sone, Rohtas",2556,24.9057108,84.1771979,"dehri sone rohtas, Bihar, India",True
+"Sone At Obra, Aurangabad",4406,24.9377167,84.4326295,"obra aurangabad, Bihar, India",True
+"Sone At Water Intake Point Bhartiya Rail Bijali Co. Ltd (Brbcl) Navinagar, Aurangabad",4407,24.8033201,84.4110198,"aurangabad, Bihar, India",True
+"Road Bridge-Dehri-On- Sone, Rohtas",4298,24.9057108,84.1771979,"dehri on sone rohtas, Bihar, India",True
+"Gandak At Sonepur, Patna (B/C Ganga), Saran",1078,25.6543203,85.1811273,"ganga saran, Bihar, India",True
+"Gandak At Konhara Ghat, Vaishali",10126,25.685113,85.2001634,"ghat vaishali, Bihar, India",True
+"Sikrana River At Lal Parse, Bittiah, East Champaran",2575,26.6393261,84.8990136,"east champaran, Bihar, India",True
+"Sikrana At Chanpatiya, East Champaran",1820,26.6393261,84.8990136,"east champaran, Bihar, India",True
+"Sikrana River At Laurea, Harinagar Road Bridge",3134,27.156368,84.3244117,"harinagar, Bihar, India",True
+"Sikrana At Lauria- Narkatiaganj Road Bridge, West Champaran",4291,27.0968882,84.4585344,"narkatiaganj west champaran, Bihar, India",True
+"Burhi Gandak At Z Road Bridge, Samastipur",2570,25.8613568,85.8038414,"burhi gandak samastipur, Bihar, India",True
+"Burhi Gandak At Barachakia, East Champaran",4403,26.6393261,84.8990136,"east champaran, Bihar, India",True
+"Burhi Gandak At Lal Bagla Ghat, Motihari Dhaka Road, East Champaran",4300,26.6923775,85.1986362,"dhaka east champaran, Bihar, India",True
+"Burhi Gandak At Khagaria Road Bridge, Khagaria",4295,25.5032041,86.3344842,"burhi gandak khagaria khagaria, Bihar, India",True
+"U/S Harbora River, West Champaran",3126,26.8990626,84.1095799,"river west champaran, Bihar, India",True
+"Harbora River At Narkatiaganj, West Champaran",2558,27.0968882,84.4585344,"narkatiaganj west champaran, Bihar, India",True
+Kamla River At Benipatti (Madhubani),2567,26.3455634,85.8601554,"kamla river benipatti madhubani, Bihar, India",True
+Kamla River At Darbhanga,2569,26.2303771,85.879189,"kamla river darbhanga, Bihar, India",True
+Kamla River At Jaynagar,3133,26.5902775,86.1356516,"jaynagar, Bihar, India",True
+"Kamla At Jeewach Ghat, Darbhanga",4299,26.1667379,86.0432955,"ghat darbhanga, Bihar, India",True
+"Koshi River At Beerpur,",3137,,,,False
+Daha River D/S Rajendra Road Bride Siwan,4397,26.131008,84.3910745,"siwan, Bihar, India",True
+"D/S Daha River At Sasamusa, Gopalganj",2560,26.4211166,84.3739133,"gopalganj, Bihar, India",True
+"Daha River At Itwa Bridge, Gopalganj",2561,26.4211166,84.3739133,"gopalganj, Bihar, India",True
+"Daha At U/S Sasamusa, Gopalganj",4292,26.4211166,84.3739133,"gopalganj, Bihar, India",True
+"River Dhous At Madhwapur, Madhubani",4405,26.5325132,85.8553124,"madhwapur madhubani, Bihar, India",True
+"Ramrekha River At Harinagar, West Champaran",2559,27.156368,84.3244117,"harinagar west champaran, Bihar, India",True
+"Ramrekha River At U/S Harinagar, West Champaran",3130,27.156368,84.3244117,"harinagar west champaran, Bihar, India",True
+"Sirsiya At Raxaul, East Champaran",1822,26.9819612,84.8520361,"raxaul east champaran, Bihar, India",True
+"Sirsiya River D/S Raxaul (Koeria Tola), East Champaran",3136,26.6393261,84.8990136,"east champaran, Bihar, India",True
+"Bagmati River At Muzaffarpur- Sitamarhi Road Bridge, Sitamarhi",3132,26.7540088,85.2752508,"sitamarhi sitamarhi, Bihar, India",True
+"U/S Manusmar River (Riga), Sitamarhi",3131,26.6233704,85.3980911,"riga sitamarhi, Bihar, India",True
+"Manusmar At Parshurampur, Riga - Belsund Road,",4402,,,,False
+"Poonpun River Near Poonpun Rail Bridge, Patna",3119,25.6692687,85.1091733,"rail patna, Bihar, India",True
+"Poonpun River Near Kinzer Road Bridge, Jehanabad",3120,25.1529579,85.0065043,"jehanabad, Bihar, India",True
+"U/S Kohra, Raj Ghat, Manjhaulia, West Champaran",4293,27.0518367,84.3351209,"west champaran, Bihar, India",True
+"D/S Kohra, Raj Ghat, Manjhaulia,",4294,,,,False
+"Gangi At Ara, D/S",4404,26.2395299,87.9044595,"gangi, Bihar, India",True
+"Bore Well Water At Bhut Nath Road Water Tank Sec- 3, Kankarbagh,Patna",1826,25.6018853,85.1666591,"kankarbagh patna, Bihar, India",True
+"Hand Pump Water At Sardar Patel Bus Stand, Bhojpur",2578,25.4501182,84.5635193,"bhojpur, Bihar, India",True
+"Hand Pump Water At Darbhanga Bus Stand, Darbhanga",2582,26.1543985,85.9070614,"stand darbhanga, Bihar, India",True
+"Hand Pump Water At Thaway Mandir Campus, Gopalganj",2584,26.4211166,84.3739133,"gopalganj, Bihar, India",True
+"Hand Pump Water At Collectriate Office, Madhubani",2590,26.3474738,86.0737965,"office madhubani, Bihar, India",True
+Well At Nalanda,2592,25.1364914,85.4436546,"nalanda, Bihar, India",True
+Ground Water From Nawada,2593,24.8173249,85.5179085,"nawada, Bihar, India",True
+Ground Water From Siwan,2597,26.131008,84.3910745,"siwan, Bihar, India",True
+Ground Water From Arrah,3138,25.560317,84.6632139,"arrah, Bihar, India",True
+Ground Water From Araria,3139,26.1346459,87.4654062,"araria, Bihar, India",True
+Ground Water From Bettiah,3140,26.8023,84.5074,"bettiah, Bihar, India",True
+Ground Water From Bodhgaya,3141,24.677623,84.9727292,"bodhgaya, Bihar, India",True
+Ground Water From Bagaha,3143,27.0590112,84.2064638,"bagaha, Bihar, India",True
+Ground Water From Barh,3144,25.4509766,85.7002486,"barh, Bihar, India",True
+Ground Water From Dumraon,3146,25.5238346,84.1599531,"dumraon, Bihar, India",True
+Ground Water From Maner,3150,25.6595984,84.9104699,"maner, Bihar, India",True
+Ground Water From Ramkund Gaya,3154,24.7964355,85.0079563,"gaya, Bihar, India",True
+Ground Water From Sherghati,3158,24.593939,84.8478903,"sherghati, Bihar, India",True
+Ground Water From Raxaul,3160,26.9868738,84.8447219,"raxaul, Bihar, India",True
+Ground Water From Katihar,3161,25.5586421,87.6457196,"katihar, Bihar, India",True
+"River Harha At Bagha, Lauriya Road Bridge",4399,27.0039928,84.4262158,"lauriya, Bihar, India",True
+Ganga At Manjhighat(Bihar),30076,25.1672903,85.5502398,"bihar, Bihar, India",True
+"Ganga At Gulabi Ghat, Patna",10115,25.5876533,85.238043,"ghat patna, Bihar, India",True
+"River Ganga At D/S Nawadaghat , Barh ,Patna",10130,25.4509766,85.7002486,"barh patna, Bihar, India",True
+"Road Bridge-Dehri-On-Sone, Rohtas",4298,24.9057108,84.1771979,"dehri on sone rohtas, Bihar, India",True
+"Sikrahna At Chanpatiya, East Champaran",1820,26.6393261,84.8990136,"east champaran, Bihar, India",True
+"Khagaria Road Bridge, Khagaria",4295,25.409872,86.6594959,"khagaria khagaria, Bihar, India",True
+"Jeewach Ghat, Darbhanga",4299,26.1667379,86.0432955,"ghat darbhanga, Bihar, India",True
+"Koshi River At Beerpur, Supaul",3137,26.2768089,86.7959614,"supaul, Bihar, India",True
+"U/S Sasamusa, Gopalganj",4292,26.4211166,84.3739133,"gopalganj, Bihar, India",True
+"River Dhous At Madhuvapur, Madhubani",1823,26.3503076,86.2296424,"madhubani, Bihar, India",True
+"River Dhons At Madhuvapur, Madhubani",4405,26.3503076,86.2296424,"madhubani, Bihar, India",True
+"Poonpun River Near Poonpun Rail Bridge,",3119,25.8027508,85.0398985,"rail, Bihar, India",True
+Ground Water From Dehri On Sone,3145,24.9057108,84.1771979,"dehri sone, Bihar, India",True
+Ground Water From Kudra,3149,25.1265992,83.7631004,"kudra, Bihar, India",True
+Ground Water From Piro,3153,25.3383191,84.3540878,"piro, Bihar, India",True
+"Hand Pump Water From Nagar Parishad, Bhabhua",2580,,,,False
+"Hand Water At Civil Court Bihar Sharif, Nalanda",2592,25.2040904,85.5084385,"bihar sharif nalanda, Bihar, India",True
+"Borewell Water Near Dharmshala Sasaram, Rohtas",2598,24.9509656,84.0148733,"sasaram rohtas, Bihar, India",True
+"Ground Water Bus Stand Sasaram, Rohtas",2599,24.955113,84.0154386,"stand sasaram rohtas, Bihar, India",True
+River Ganga At Buxar,1074,25.5044834,84.1097525,"buxar, Bihar, India",True
+"River Ganga At Buxar, Ramrekhaghat",2551,,,,False
+River Ganga At D/S Buxar Near Road Bridge,3113,25.5044834,84.1097525,"buxar, Bihar, India",True
+River Ganga At Manjhighat(Bihar),30076,25.1672903,85.5502398,"bihar, Bihar, India",True
+River Ganga At Ara- Chapra Road Bridge (Koilwer Banura- Chapra Road),10162,25.7733443,84.7849772,"chapra, Bihar, India",True
+"River Ganga At The Confluence Of Sone River Doriganj, Chapra",2564,25.7733443,84.7849772,"chapra, Bihar, India",True
+"River Ganga At Maa Ambika Asthan, Aami, Saran",10114,25.9214451,84.7759731,"saran, Bihar, India",True
+"River Ganga Near Danapur (Near Pipa Pul) ,Patna",3114,25.5499638,85.2813696,"pipa patna, Bihar, India",True
+"River Ganga At Kurji, Patna U/S",1077,25.6426637,85.1004656,"kurji patna, Bihar, India",True
+"River Ganga At Gandhighat, Nit Patna",2552,25.6093239,85.1235252,"patna, Bihar, India",True
+River Ganga At Gulabi Ghat,10115,25.6996142,85.1352099,"ghat, Bihar, India",True
+"River Ganga At Patna D/S (Ganga Bridge), Gaighat",1079,26.1419165,85.6535113,"gaighat, Bihar, India",True
+"River Ganga At Malsalami, Patna",3122,25.6093239,85.1235252,"patna, Bihar, India",True
+"River Ganga At Kachchi-Dargah- Bidupur Road Bridge, Patna",4297,25.5905442,85.3022517,"dargah bidupur patna, Bihar, India",True
+"River Ganga At Bakhtiyarpur-Tajpur Bridge On Ganga, Athmalgola",4301,25.5022501,85.6892339,"ganga athmalgola, Bihar, India",True
+"River Ganga At Kewala Ghat,Fatuha, Patna",2553,25.5085264,85.3099134,"fatuha patna, Bihar, India",True
+River Ganga At Barh,3115,25.4509766,85.7002486,"barh, Bihar, India",True
+"River Ganga At Mokama (U/S), Mahadeo Asthan, Patna",1817,25.5776054,85.0406031,"asthan patna, Bihar, India",True
+River Ganga At Mokama (D/S),1815,25.3958052,85.9220644,"mokama, Bihar, India",True
+"River Ganga At Barahiya, Nepalitola, Maranchi, ;Lakshisarai",3123,,,,False
+River Ganga At U/S Munger (Near Intake Well On Ganga),3116,25.7060977,84.6115381,"ganga, Bihar, India",True
+River Ganga At Munger,1818,25.2202864,86.5161484,"munger, Bihar, India",True
+"River Ganga At U/S Sultanganj, Bhagalpur",3117,25.2414966,86.7349906,"sultanganj bhagalpur, Bihar, India",True
+"River Ganga At Water Intake Point, Bhagalpur",4398,25.2861354,87.1304229,"bhagalpur, Bihar, India",True
+"River Ganga At Sultanganj, Bhagalpur",2554,25.2414966,86.7349906,"sultanganj bhagalpur, Bihar, India",True
+River Ganga At Bhagalpur,1819,25.2861354,87.1304229,"bhagalpur, Bihar, India",True
+River Ganga At U/S Bhagalpur Near Bararighat,3118,,,,False
+River Ganga At Kahalgaon,1816,25.2651895,87.2835414,"kahalgaon, Bihar, India",True
+"River Ghaghara Near Chapra, Ribilganj, Saran",1076,25.9214451,84.7759731,"saran, Bihar, India",True
+"River Sone At Koelwar, Bhojpur",1075,25.5693726,84.7927554,"koelwar bhojpur, Bihar, India",True
+"River Sone Near Banzari, Rohtas",3121,24.9394143,84.0197031,"rohtas, Bihar, India",True
+"River Sone At Bahiyara, Bhojpur",3127,25.5345016,84.7600817,"bahiyara bhojpur, Bihar, India",True
+"River Sone At Nasiriganj Dam, Rohtas",3128,24.9394143,84.0197031,"rohtas, Bihar, India",True
+"River Sone At Indrapuri, Dehri On Sone, Rohtas",2556,24.9057108,84.1771979,"dehri sone rohtas, Bihar, India",True
+"River Sone At Obra, Aurangabad",4406,24.9377167,84.4326295,"obra aurangabad, Bihar, India",True
+"River Sone At Water Intake Point Bhartiya Rail Bijali Co. Ltd (Brbcl) Navinagar, Aurangabad",4407,24.8033201,84.4110198,"aurangabad, Bihar, India",True
+"River Sone At Road Bridge-Dehri-On- Sone, Rohtas",4298,24.9057108,84.1771979,"sone dehri on sone rohtas, Bihar, India",True
+"River Gandak At Sonepur, Patna (B/C Ganga), Saran",1078,25.6543203,85.1811273,"ganga saran, Bihar, India",True
+"River Gandak At Rewaghat, Mujaffarpur",2568,,,,False
+River Gandak Gopalganj Piprakothi Road Bridge (Dumaria Ghat),3125,25.6996142,85.1352099,"ghat, Bihar, India",True
+"River Gandak At Konhara Ghat, Vaishali",10126,25.685113,85.2001634,"ghat vaishali, Bihar, India",True
+"River Gandak At Road Bridge, U/S Hajipur",10163,25.6905702,85.2090351,"hajipur, Bihar, India",True
+"River Sikrahna At Lal Parse, Bittiah, East Champaran",2575,26.6393261,84.8990136,"east champaran, Bihar, India",True
+"River Sikrahna At Chanpatiya, East Champaran",1820,26.6393261,84.8990136,"east champaran, Bihar, India",True
+"River Sikrahna At Laurea, Harinagar Road Bridge",3134,27.156368,84.3244117,"harinagar, Bihar, India",True
+"River Sikrahna Lauria-Narkatiaganj Road Bridge, West Champaran",4291,27.0968882,84.4585344,"narkatiaganj west champaran, Bihar, India",True
+"River Burhi Gandak At Z Road Bridge, Samastipur",2570,25.8613568,85.8038414,"burhi gandak samastipur, Bihar, India",True
+River Burhi Gandak U/S Road Bridge Muzaffarpur (Nh),3124,26.2649007,85.2338941,"burhi gandak muzaffarpur, Bihar, India",True
+"River Burhi Gandak At Akharaghat, Muzaffarpur",2562,26.1482548,85.3316097,"muzaffarpur, Bihar, India",True
+"River Burhi Gandak At Barachakia, East Champaran",4403,26.6393261,84.8990136,"east champaran, Bihar, India",True
+"River Burhi Gandak At Lal Bagla Ghat, Motihari Dhaka Road, East Champaran",4300,26.6923775,85.1986362,"dhaka east champaran, Bihar, India",True
+"River Burhi Gandak At Khagaria Road Bridge, Khagaria",4295,25.5032041,86.3344842,"burhi gandak khagaria khagaria, Bihar, India",True
+"River Harbora, U/S West Champaran",3126,27.0518367,84.3351209,"west champaran, Bihar, India",True
+"River Harbora At Narkatiaganj, West Champaran",2558,27.0968882,84.4585344,"narkatiaganj west champaran, Bihar, India",True
+River Kamala At Benipatti (Madhubani),2567,26.4434731,85.9104806,"benipatti madhubani, Bihar, India",True
+River Kamala At Darbhanga,2569,26.0829899,86.0324951,"darbhanga, Bihar, India",True
+River Kamala At Jaynagar,3133,26.5902775,86.1356516,"jaynagar, Bihar, India",True
+"River Kamala (Bihar) Ganga At Jeewach Ghat, Darbhanga",4299,26.1667379,86.0432955,"ghat darbhanga, Bihar, India",True
+River Koshi At Kurshela At Katihar,2565,25.5586421,87.6457196,"katihar, Bihar, India",True
+River Koshi At Madhepura,2566,25.8794585,86.7716341,"koshi madhepura, Bihar, India",True
+"River Koshi At Beerpur, Supaul",3137,26.2768089,86.7959614,"supaul, Bihar, India",True
+River Daha At Siwan,1821,26.131008,84.3910745,"siwan, Bihar, India",True
+River Daha D/S Rajendra Road Bride Siwan,4397,26.131008,84.3910745,"siwan, Bihar, India",True
+"River Daha D/S At Sasamusa, Gopalganj",2560,26.4211166,84.3739133,"gopalganj, Bihar, India",True
+"River Daha At Itwa Bridge, Gopalganj",2561,26.4211166,84.3739133,"gopalganj, Bihar, India",True
+River Daha At Meerganj,3129,,,,False
+"River Daha U/S Sasamusa, Gopalganj",4292,26.4211166,84.3739133,"gopalganj, Bihar, India",True
+"River Dhos At Madhuvapur, Madhubani",1823,26.3503076,86.2296424,"madhubani, Bihar, India",True
+"River Dhos At Madhwapur, Madhubani",4405,26.5325132,85.8553124,"madhwapur madhubani, Bihar, India",True
+"River Ramrekha At Harinagar, West Champaran",2559,27.156368,84.3244117,"harinagar west champaran, Bihar, India",True
+"River Ramrekha At U/S Harinagar, West Champaran",3130,27.156368,84.3244117,"harinagar west champaran, Bihar, India",True
+"River Sirsiya At Raxaul, East Champaran",1822,26.9819612,84.8520361,"raxaul east champaran, Bihar, India",True
+"River Sirsiya D/S Raxaul (Koeria Tola), East Champaran",3136,26.6393261,84.8990136,"east champaran, Bihar, India",True
+"River Bagmati At Muzaffarpur- Sitamarhi Road Bridge, Sitamarhi",3132,26.7540088,85.2752508,"sitamarhi sitamarhi, Bihar, India",True
+"River Bagmati At Darbanga, Samastipur Road Bridge, Darbhanga",3135,26.0829899,86.0324951,"darbhanga, Bihar, India",True
+"River Manusmar U/S (Riga), Sitamarhi",3131,26.6233704,85.3980911,"riga sitamarhi, Bihar, India",True
+"River Manusmar At Riga, Sitamarhi",2563,26.6233704,85.3980911,"riga sitamarhi, Bihar, India",True
+"River Manusmar At Parshurampur, Riga - Belsund Road, Sitamarhi",4402,26.5942841,85.500428,"sitamarhi, Bihar, India",True
+"River Poonpun Near Poonpun Rail Bridge, Patna",3119,25.6692687,85.1091733,"rail patna, Bihar, India",True
+"River Poonpun Near Kinzer Road Bridge, Jehanabad",3120,25.1529579,85.0065043,"jehanabad, Bihar, India",True
+"River Kohra (Ganga) U/S Raj Ghat, Manjhaulia, West Champaran",4293,27.0518367,84.3351209,"west champaran, Bihar, India",True
+"River Kohra (Ganga) D/S Raj Ghat, Manjhaulia, West Champaran",4294,27.0518367,84.3351209,"west champaran, Bihar, India",True
+"River Gangi At Ara, D/S",4404,26.2395299,87.9044595,"gangi, Bihar, India",True
+"River Parmar At Jogbani, Araria",1824,26.3826806,87.2609063,"jogbani araria, Bihar, India",True
+"Bore Well Water At Bhootnath Road Water Tank Sec-3, Kankarbagh,Patna",1826,25.6018853,85.1666591,"kankarbagh patna, Bihar, India",True
+"Tap Water In Campus Of Kali Asthan, Bishanpur, Begusarai",1832,25.5125411,86.0883392,"begusarai, Bihar, India",True
+"Hand Pump Water Near Lower Court Lower Court, Purnea",1835,25.796677,87.4815747,"court purnea, Bihar, India",True
+"Hand Pump Water Near Bus Stand Tilka Manjhi Chowk, Bhagalpur",1836,25.4084094,87.1696691,"chowk bhagalpur, Bihar, India",True
+"Ground Water From Railway Station, Bhagalpur",1837,25.2413642,86.9727974,"railway station bhagalpur, Bihar, India",True
+"Groundwater Water From T. Modal Inter School, G.B Road, Gaya",1841,24.9404472,84.8468387,"inter gaya, Bihar, India",True
+"Borewell Water Dandibagh Water Works, Phed, Gaya",1842,24.7964355,85.0079563,"gaya, Bihar, India",True
+"Supply Water Near Bus Stand, Rajgir",1843,25.0299973,85.4207368,"rajgir, Bihar, India",True
+"Hand Pump Water At Civil Court, Aurangabad",2576,24.7541981,84.3738643,"civil court aurangabad, Bihar, India",True
+"Hand Pump Water At Sardar Patel Bus Stand, Ara, Bhojpur",2578,25.4501182,84.5635193,"bhojpur, Bihar, India",True
+"Hand Pump Water From Nagar Parishad Office, Bhabhua",2580,,,,False
+"Tap Water Near Pani Tanki At Jehanabad Court, Jehanabad",2585,25.200279,84.9845519,"jehanabad court jehanabad, Bihar, India",True
+"Tap Water Inside The Campus Of Government Tourist Cafeteria, Nalanda",2591,25.3832144,85.5072997,"cafeteria nalanda, Bihar, India",True
+"Handpump Water At Collectriate Campus,Nawadah",2593,24.8858896,85.5481255,"nawadah, Bihar, India",True
+"Hand Pump Water Near Sadar Hospital,Saharsa",2594,25.8872763,86.5894559,"sadar hospital saharsa, Bihar, India",True
+"Ground Water From Collectriate Campus ,Samastipur",2595,25.7747885,85.8672314,"samastipur, Bihar, India",True
+"Ground Water From Sri Ram Janki Mandir, Sitamarhi",2596,26.5954675,85.4971075,"janki mandir sitamarhi, Bihar, India",True
+"Ground Water At Collectriate Campus, Siwan",2597,26.131008,84.3910745,"siwan, Bihar, India",True
+"Ground Water At Railway Station Campus,Hajipur At Vaishali",2600,25.6920655,85.2111172,"hajipur vaishali, Bihar, India",True
+"Ground Water From Ara Near Railway Station, Ara",3138,25.5977248,85.2042559,"railway station, Bihar, India",True
+Ground Water Near Bus Stand Araria,3139,26.1346459,87.4654062,"araria, Bihar, India",True
+"Ground Water At Railway Sation, Bettiah",3140,26.8023,84.5074,"bettiah, Bihar, India",True
+"Ground Water At Lord Buddha Temple Outside Main Temple,Bodhgaya",3141,24.6959303,84.9913903,"temple bodhgaya, Bihar, India",True
+"Ground Water Fromn Bus Stand Chowk,Bikramganj",3142,25.2263789,84.2707826,"chowk bikramganj, Bihar, India",True
+Ground Water From Bagaha Bazar Bagaha,3143,27.0590112,84.2064638,"bagaha, Bihar, India",True
+"Ground Water Near Ans College,Barh",3144,25.4509766,85.7002486,"barh, Bihar, India",True
+"Ground Water Near Muffasil Thana More,Dehri On Sone",3145,24.9057108,84.1771979,"dehri sone, Bihar, India",True
+"Ground Water From Dumraon,Pani Tanki (Phed)",3146,,,,False
+"Ground Water From Jaynagar Railway Station ,Jaynagar",3147,26.5902775,86.1356516,"railway station jaynagar, Bihar, India",True
+"Ground Water From Jamalpur Police Station, Jamalpur",3148,25.3199073,86.4926928,"police station jamalpur, Bihar, India",True
+"Ground Water From Kudra Railway Station, Kaimur",3149,25.047524,83.7939078,"station kaimur, Bihar, India",True
+"Ground Water At Main Road Near Kali Manir,Maner",3150,25.6595984,84.9104699,"maner, Bihar, India",True
+Ground Water From Govt. Guest House Mohania,3151,25.1676579,83.621622,"mohania, Bihar, India",True
+"Ground Water From Old Bus Stand,Narkatiaganj",3152,27.0968882,84.4585344,"narkatiaganj, Bihar, India",True
+"Ground Water Near Church High School,Piro",3153,25.3383191,84.3540878,"piro, Bihar, India",True
+"Ground Water From Supual Bus Stand, Supaul",3155,26.1562954,86.7958129,"stand supaul, Bihar, India",True
+"Ground Water From Samastipur Bus Stand,Samastipur",3156,25.8629717,85.7801413,"samastipur stand samastipur, Bihar, India",True
+"Ground Water From J.P. Park Chowk ,Sultanganj",3157,25.2414966,86.7349906,"sultanganj, Bihar, India",True
+"Ground Water Near Govt. Hospital, Sherghati",3158,24.5678621,84.8029706,"govt. hospital sherghati, Bihar, India",True
+Ground Water From Raxaul Bus Stand Raxaul,3160,26.9868738,84.8447219,"raxaul, Bihar, India",True
+Ground Water Near Bus Stand Katihar,3161,25.5586421,87.6457196,"katihar, Bihar, India",True
+"Ground Water Near Vaishali Block Office,At Hajipur, Vaishali",3162,25.6920655,85.2111172,"office hajipur vaishali, Bihar, India",True
+"Dighi Talab Near Kachhari Road, Gaya",2573,24.7964355,85.0079563,"gaya, Bihar, India",True
+River Ganga Chusa At Buxar,1074,25.5044834,84.1097525,"buxar, Bihar, India",True
+River Ganga At D/S Buxar Near Veer Kunwar Singh Road Bridge,3113,25.7262585,84.8136918,"veer kunwar singh, Bihar, India",True
+"River Ganga D/S Of M/S Ntpc, Barh Water Intake Point,Pathanichak, Bindtola Barh",10131,25.4509766,85.7002486,"barh, Bihar, India",True
+River Ganga At Manjhighat Dist. Chhapra(Bihar),30076,25.7800413,84.7400786,"dist. chhapra bihar, Bihar, India",True
+River Ganga At Ara- Chapra Road Bridge (Koiilwar Barhara- Chapra Road),10162,25.7733443,84.7849772,"chapra, Bihar, India",True
+"River Ganga At The Balughat, Doriganj, Saran",2564,25.9214451,84.7759731,"saran, Bihar, India",True
+"River Ganga At Digha, Near J P Setu, Patna U/S",1077,25.6056689,85.1658334,"setu patna, Bihar, India",True
+"River Ganga At Gulabi Ghat, Patna",10115,25.5876533,85.238043,"ghat patna, Bihar, India",True
+"River Ganga At Patna D/S (Ganga Bridge), Gaighat, Patna",1079,25.6093239,85.1235252,"patna, Bihar, India",True
+"River Ganga At Malsalami, Patna City, Patna",3122,25.6093239,85.1235252,"patna city patna, Bihar, India",True
+River Ganga At Kachchi-Dargah-,4297,25.5907158,85.3021326,"dargah, Bihar, India",True
+"River Ganga At Bakhtiyarpur-Tajpur Bridge On Ganga, Athmalgola, Patna",4301,25.4521197,85.5974084,"athmalgola patna, Bihar, India",True
+"River Ganga At Uma Nath Mandir,Barh",3115,25.4509766,85.7002486,"barh, Bihar, India",True
+"River Ganga U/S Of M/S Ntpc, Barh Water Intake Point, Barh",10130,25.4711351,85.7060668,"barh barh, Bihar, India",True
+"River Ganga At Mokama (D/S), Near Rajendra Bridge , Simiriya Ghat",1815,25.6996142,85.1352099,"ghat, Bihar, India",True
+"River Ganga At Barahiya, Nepalitola, Maranchi, Hathidah At Mokama, Patna",3123,25.3958052,85.9220644,"mokama patna, Bihar, India",True
+River Ganga At U/S Munger Kashatharni Ghat,3116,25.6996142,85.1352099,"ghat, Bihar, India",True
+"River Ganga At Munger D/S, Creamination Ghat",1818,25.6996142,85.1352099,"ghat, Bihar, India",True
+"River Ganga At U/S Ajgabinath Mandir Sultanganj, Bhagalpur",3117,25.2414966,86.7349906,"sultanganj bhagalpur, Bihar, India",True
+"River Ganga D/S Cremination Ghat At Sultanganj, Bhagalpur",2554,25.2414966,86.7349906,"sultanganj bhagalpur, Bihar, India",True
+"River Ganga At Champanagar, Rasidpur, Bhagalpur",10138,25.2664532,86.9360556,"rasidpur bhagalpur, Bihar, India",True
+"River Ganga At Bhagalpur, Opp. Kuppa Ghat",1819,25.6996142,85.1352099,"ghat, Bihar, India",True
+River Ganga At D/S Bhagalpur Near Bararighat,3118,,,,False
+"River Ganga, Jhajghat At Kahalgaon",1816,25.2651895,87.2835414,"kahalgaon, Bihar, India",True
+"River Ganga At Rajmahal, Bihar",1059,25.1672903,85.5502398,"bihar, Bihar, India",True
+"River Ghaghara Near Chapra, Rivilganj, Manjhi, Saran",1076,25.8970019,84.5392617,"manjhi saran, Bihar, India",True
+"River Sone At Koilwar, Near Mandir, Bhojpur",1075,25.5625622,84.6665777,"mandir bhojpur, Bihar, India",True
+"River Sone At Banjari Near Banjari Near Sun Temple Kalyanpur, Rohtas",3121,24.9394143,84.0197031,"rohtas, Bihar, India",True
+"River Sone At Indrapuri Dam, Dehri On Sone, Rohtas",2556,24.9057108,84.1771979,"dehri sone rohtas, Bihar, India",True
+River Sone At Arwal Near Balughat (Sahar),4913,25.258462,84.5772592,"sahar, Bihar, India",True
+River Gandak At Sonepur Near Hariharnath Temple,1078,25.5811219,85.0409287,"temple, Bihar, India",True
+"River Gandak At Rewaghat, Muzaffarpur",2568,26.1482548,85.3316097,"muzaffarpur, Bihar, India",True
+"River Gandak At Konhara Ghat, Opposite Hariharnath Mandir,Sonepur",10126,25.6828526,85.1898208,"hariharnath mandir sonepur, Bihar, India",True
+"River Gandak At Road Bridge, U/S Hajipur, Vaishali (Border Of Saran & Vaishali)",10163,25.7491703,85.3972164,"vaishali, Bihar, India",True
+"River Sikrahna At Lal Parsa, Betiah, East Champaran",2575,26.6393261,84.8990136,"east champaran, Bihar, India",True
+"River Sikrahna At Chanpatiya, Near Chanpatiya Road Bridge, West Champaran",1820,27.0518367,84.3351209,"west champaran, Bihar, India",True
+"River Sikrahna At Lauria, Harinagar Road Bridge",3134,27.156368,84.3244117,"harinagar, Bihar, India",True
+"River Sikrahna Lauria- Narkatiaganj Road Bridge, West Champaran",4291,27.0968882,84.4585344,"narkatiaganj west champaran, Bihar, India",True
+"River Burhi Gandak Near Magardahi Ghat At Samastipur Road Bridge, Samastipur",2570,25.7458309,86.0360531,"ghat samastipur samastipur, Bihar, India",True
+River Burhi Gandak U/S Road Bridge Nh Near Zero Mile Muzaffarpur,3124,26.1482548,85.3316097,"muzaffarpur, Bihar, India",True
+"River Burhi Gandak At Khagaria Road Bridge Before Confluence With Ganga , Khagaria",4295,25.4930513,86.6982264,"khagaria, Bihar, India",True
+"River Harbora,U/S At Narkatiaganj, West Champaran",3126,27.0968882,84.4585344,"narkatiaganj west champaran, Bihar, India",True
+"River Harbora D/S At Narkatiaganj, West Champaran",2558,27.0968882,84.4585344,"narkatiaganj west champaran, Bihar, India",True
+"River Kamala At Gausaghat, Darbhanga",2569,26.1732621,85.9509373,"gausaghat darbhanga, Bihar, India",True
+"River Kamala At Kamala Ghat Near Barrage Atjaynagar , Madhubani",3133,26.3503076,86.2296424,"madhubani, Bihar, India",True
+"River Kamala (Bihar) At Jeewach Ghat, Darbhanga",4299,26.1667379,86.0432955,"ghat darbhanga, Bihar, India",True
+River Daha U/S Rajendra Road Bridge At Siwan,1821,26.193249,84.2546677,"rajendra siwan, Bihar, India",True
+"River Daha D/S At Renua, Siwan",4397,26.131008,84.3910745,"siwan, Bihar, India",True
+"River Daha At Meerganj Near Badarjhimmi Bazar, Gopalganj",3129,26.4875154,84.3828186,"bazar gopalganj, Bihar, India",True
+"River Dhos At Saharghat, Madhubani",1823,26.5427193,85.85749,"saharghat madhubani, Bihar, India",True
+"River Sirsiya At Raxaul,Birganj Check Post Road Bridge East Champaran",1822,26.9831694,84.8523834,"post east champaran, Bihar, India",True
+"River Bagmati At Darbhanga, Samastipur Road Bridge, Darbhanga",3135,26.0829899,86.0324951,"darbhanga, Bihar, India",True
+"River Manusmar At Riga, Uphraulia, Sitamarhi",2563,26.5942841,85.500428,"sitamarhi, Bihar, India",True
+"River Manusmar At Parshurampur, Riga - Belsand Road, Sitamarhi",4402,26.4322849,85.394562,"belsand sitamarhi, Bihar, India",True
+"River Punpun Near Patna Fatuha Road Bridge, Fatuha",2555,25.5827935,85.0978318,"patna fatuha fatuha, Bihar, India",True
+"River Unpun Near Punpun Road Bridge, Punpun",3119,25.5290696,85.1806118,"punpun punpun, Bihar, India",True
+"River Punpun At Kinjar Road Bridge, Jehanabad-Arwal Border , Jehanabad",3120,25.1529579,85.0065043,"jehanabad, Bihar, India",True
+"River Punpun At Obra, Aurangabad",4406,24.8739322,84.3412707,"punpun obra aurangabad, Bihar, India",True
+"River Kohra U/S Raj Ghat, Majhaulia, West Champaran",4293,26.7956289,84.6628685,"majhaulia west champaran, Bihar, India",True
+"River Kohra D/S Near Railway Bridge, Majhaulia, West Champaran",4294,26.7956289,84.6628685,"majhaulia west champaran, Bihar, India",True
+River Lakhandei U/S Sitamarhi At Mehandi Nagar,4400,25.6030752,85.1519679,"nagar, Bihar, India",True
+River Lakhandei D/S Sitamarhi At Parori Road Bridge,4401,,,,False
+River Damodar At Dishergarh Vill.(Nr.Bihar-West,1331,26.3223696,89.4592445,"nr.bihar west, Bihar, India",True

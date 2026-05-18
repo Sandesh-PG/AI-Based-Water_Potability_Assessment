@@ -1,0 +1,9 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+2041,"Ground Water From Sector 34, Chandigarh",Groundwater,CHANDIGARH,2022,Safe,5.59,None,26.75,,7.05,833.5,1.5,3.9,,33.0,
+2043,Ground Water Palsora Chandigarh,Groundwater,CHANDIGARH,2022,Safe,0.16,None,28.0,,7.6,948.0,,1.7,,79.0,
+2044,Ground Dhanas Chandigarh,Groundwater,CHANDIGARH,2022,Safe,0.08,None,27.5,,7.0,828.5,,4.1,,38.0,
+2045,"Ground Water Dadu Majra Colony, Chandigarh",Groundwater,CHANDIGARH,2022,Safe,4.3,None,27.5,,7.25,729.0,1.15,4.8,,37.0,
+2046,"Sukhna Lake, Chandigarh",Pond/Tank,CHANDIGARH,2022,Unsafe,25.7,"pH Out of Range, High BOD, High Total Coliform",,25.0,9.35,7.9,242.5,2.8,1.4,4613.5,8085.0
+2047,"N-Choe (Attawa Choe), Chandigarh(Exit Point)",River,CHANDIGARH,2022,Unsafe,40.0,"High BOD, High Total Coliform",,23.0,6.85,7.45,500.0,15.35,1.1,46585.0,380140.0
+2048,"Patiala Ki Rao, Chandigarh(Exit Point)",River,CHANDIGARH,2022,Unsafe,59.08,"pH Out of Range, High BOD, High Total Coliform",,24.0,0.3,7.7,500.0,100.0,1.6,5000000.0,73500000.0
+2049,"Sukhna Choe, Chandigarh(Exit Point)",River,CHANDIGARH,2022,Unsafe,59.08,"pH Out of Range, High BOD, High Total Coliform",,24.5,0.3,7.6,500.0,100.0,1.6,5000000.0,87000000.0

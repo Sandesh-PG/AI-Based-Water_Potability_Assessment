@@ -1,0 +1,12 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+GEN-D0921D,2394,Pond/Tank,JHARKHAND,2018,Safe,0.14,None,,,,,,24.0,,34.0,7.4
+GEN-565030,2398,Pond/Tank,JHARKHAND,2018,Safe,0.11,None,,,,,,8.5,,26.5,7.5
+GEN-4DD9CE,2402,Pond/Tank,JHARKHAND,2018,Safe,0.15,None,,,,,,16.0,,38.0,6.5
+GEN-52CF49,2393,Pond/Tank,JHARKHAND,2018,Safe,0.13,None,,,,,,13.0,,32.0,6.5
+10144,U/S Near Lct Ghat,River,JHARKHAND,2018,Safe,9.25,None,23.5,8.25,8.25,310.0,2.5,,,,
+10146,Sangi Dalan,River,JHARKHAND,2018,Safe,9.62,None,25.0,8.25,8.15,311.0,2.6,,,,
+3555,"Damodar River Near Zarangdih Bridge, Bokaro",River,JHARKHAND,2018,Safe,6.66,None,27.5,7.55,7.55,,1.8,,,,
+3556,Confluence Of Bokaro & Damodar River Near Zarangdi,River,JHARKHAND,2018,Safe,7.58,None,28.5,7.45,7.45,,2.05,,,,
+2383,Damodar U/S Jamadova,River,JHARKHAND,2018,Safe,3.88,None,27.0,7.3,7.45,,1.05,,,,
+1036,"Koel At Manoharpur After Meeting Koina River D/S,",River,JHARKHAND,2018,Safe,2.03,None,25.0,7.7,7.5,255.0,0.55,,,,
+1033,"Koel At Basia, Dam U/S, Jharkhand",River,JHARKHAND,2018,Safe,6.58,None,24.0,8.05,7.75,,2.4,,145.0,840.0,

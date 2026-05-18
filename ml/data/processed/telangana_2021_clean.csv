@@ -1,0 +1,207 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+4280,"B,W At Ids Rampur, Hanamkonda, Warangal",Groundwater,TELANGANA,2021,Safe,0.02,None,28.0,,7.4,7040.0,,22.8,2.0,2.0,
+1525,"B/W - Ida , Near Chaitanya Chlorides , Pashamaylam , Medak Dist.",Groundwater,TELANGANA,2021,Safe,0.0,None,25.0,,7.1,3490.0,,22.5,,,
+1794,"B/W - Manakondur (V) , Karimnagar Dist.",Groundwater,TELANGANA,2021,Safe,0.16,None,29.5,,7.85,1205.0,,13.15,2.0,109.0,
+1810,"B/W - Sri Ramnagar Colony, Shakkar Nagar, Bodhan, Nizamabad Dist.",Groundwater,TELANGANA,2021,Safe,0.0,None,25.0,,7.15,2267.5,,20.5,,,
+3094,"B/W At Akbarnagar, Ramagundam, Karimnagar",Groundwater,TELANGANA,2021,Safe,0.02,None,29.0,,8.25,1107.5,,1.35,2.0,2.0,
+4278,"B/W At Aurobindo, Hatnur, Sangareddy",Groundwater,TELANGANA,2021,Safe,0.0,None,25.0,,6.85,1208.0,,14.5,,,
+4265,"B/W At Gram Panchayath Office, Dothigudam",Groundwater,TELANGANA,2021,Safe,0.0,None,22.0,,7.2,1514.5,,10.0,,,
+3088,"B/W At J.Narasimha Raoã‚Â’S House, 14Nos. Area, Ramavaram, Near Mws Dumpsite, Kothagudem, Khammam",Groundwater,TELANGANA,2021,Safe,0.02,None,30.1,,7.35,1412.0,,2.45,2.0,2.0,
+4277,B/W At Zphs Sulthanpur,Groundwater,TELANGANA,2021,Safe,0.0,None,25.0,,6.9,3516.5,,25.5,,,
+4282,"B/W Near Aarla Bavi (Agricultural Field), Pochampally Mandal",Groundwater,TELANGANA,2021,Safe,0.0,None,22.0,,7.1,1551.0,,13.5,,,
+4286,B/W Near Ankireddigudam Village (Agrucultural Field) Choutuppal Mandal,Groundwater,TELANGANA,2021,Safe,0.0,None,21.0,,7.2,2019.0,,18.0,,,
+4281,B/W Near Bhimanpalli Village (Open Land ) Pochampally Mandal,Groundwater,TELANGANA,2021,Safe,0.0,None,21.0,,7.05,2550.0,,22.5,,,
+1792,"B/W -Near Ckm College , Enumamula (V) , Warangal Dist.",Groundwater,TELANGANA,2021,Unsafe,0.8,pH Out of Range,30.0,,8.7,1106.0,,6.2,2.0,2.0,
+4283,"B/W Near Dantur (Open Land), Pochampally Mandal",Groundwater,TELANGANA,2021,Safe,0.0,None,21.0,,7.3,3456.5,,25.0,,,
+4287,B/W Near Lingareddygudam Village (Beside Choutuppal- Valigonda Road) Choutuppal Mandal,Groundwater,TELANGANA,2021,Safe,0.0,None,22.0,,7.05,1702.5,,12.5,,,
+4279,"B/W Near M/S Arch Pharma, Gundla Machanur, Sangareddy",Groundwater,TELANGANA,2021,Safe,0.0,None,25.0,,6.55,1100.5,,17.5,,,
+4284,"B/W Near Malkapur Lake, Malkapur Village (Agricultural Field) Choutuppa; Mandal",Groundwater,TELANGANA,2021,Safe,0.0,None,21.0,,7.15,1682.0,,13.5,,,
+4288,"B/W Near Nagaram Cheruvu, Devalamma Nagaram Village",Groundwater,TELANGANA,2021,Safe,0.0,None,21.0,,7.3,1068.5,,9.0,,,
+4285,"B/W Near Peddakondur Village (Agricultural Field), Choutuppal Mandal",Groundwater,TELANGANA,2021,Safe,0.0,None,22.0,,7.05,1826.0,,11.5,,,
+4289,B/W Near Pittam Palle Village (Open Land Beside Village Road) Chityal Mandal,Groundwater,TELANGANA,2021,Safe,0.0,None,22.0,,6.6,1449.0,,9.5,,,
+4290,B/W Near Pittam Peddakaparthi Vikkage (Open Land Beside Village Road) Chityal Mandal,Groundwater,TELANGANA,2021,Safe,0.0,None,21.0,,6.8,1198.0,,7.0,,,
+1791,"B/W. - East Of Saicheruvu , Paidipally (V), Warangal Dist.",Groundwater,TELANGANA,2021,Safe,0.02,None,29.0,,7.8,2708.0,,10.8,2.0,2.0,
+1515,"B/W. - Nagaram(V), Palvoncha, Khammam Dist.",Groundwater,TELANGANA,2021,Safe,0.02,None,29.7,,8.35,1721.5,,19.7,2.0,2.0,
+1795,"B/W. - Panchayat Office , , Bollaram (V) Medak Dist.",Groundwater,TELANGANA,2021,Safe,0.0,None,25.0,,7.05,2360.0,,12.0,,,
+1811,"B/W. - Primary School - Rudravelli (V) , Bibinagar (M), Nalgonda Dist.",Groundwater,TELANGANA,2021,Safe,0.0,None,19.5,,7.2,1497.5,,8.5,,,
+4260,"Bore Well Near Msw Dump Yard, Medak Town Medak District",Groundwater,TELANGANA,2021,Safe,0.0,None,31.0,,6.8,1050.0,,6.5,,,
+4264,Bore Well Water Point At Zp Girls High School Bhudam Pochampally (V & M) Yadadri District,Groundwater,TELANGANA,2021,Safe,0.0,None,24.0,,7.15,1869.5,,19.5,,,
+4271,Borewell Located At Government Primary,Groundwater,TELANGANA,2021,Safe,0.1,None,29.0,,7.9,1580.0,,22.15,2.0,63.0,
+4270,"Borewell Located At House Of P. Anjaneyulu, Plot No,25, Shakthipuram, Prashanth Nagar, I. E. Kukatpally, Medchal District",Groundwater,TELANGANA,2021,Safe,0.05,None,31.0,,7.65,2120.5,,15.0,2.0,30.5,
+4269,"Borewell Located At House Of Sri P Nekatesh Raju, Plot No 115,22 321, Apiic, Co- [Perative Conony, Jeedimetla, Quthbullapur (M) Medchal District",Groundwater,TELANGANA,2021,Safe,0.09,None,32.0,,7.25,2709.5,,9.75,2.0,55.5,
+4268,"Borewell Located At House Of Sri Vital Rao, H.No. 2-42 875, Abestos Colony, Gandhi Nagar, Balanagar, Medchal District",Groundwater,TELANGANA,2021,Safe,0.07,None,30.0,,8.3,1043.5,,14.65,2.0,40.5,
+4272,"Borewell Located At Rahiv Gruha Ka;Pa, Ahmedguda, Ambedkar Nagar, Kapra Medchal District.",Groundwater,TELANGANA,2021,Safe,0.07,None,30.0,,8.5,835.0,,5.6,2.0,41.5,
+4273,Borewell Located At Thanda Dundigal (V) Dhundigal (M) Medchal District,Groundwater,TELANGANA,2021,Safe,0.08,None,32.0,,7.6,2239.5,,13.45,2.0,46.5,
+4276,"Borewell Near Gram Panchayat Office, Khazipally Village, Sangareddy Distrist",Groundwater,TELANGANA,2021,Safe,0.0,None,31.0,,6.95,1986.0,,18.5,,,
+4262,"Borewell Near Grampanchyat Office, Kistaipally Village Jinnarm Mandal, Sangareddy District",Groundwater,TELANGANA,2021,Safe,0.0,None,29.5,,6.75,2089.0,,19.5,,,
+4263,"Borewell Near Mpp School Gaddapotharam Village, Jinnaram Mandal, Sangareddy District",Groundwater,TELANGANA,2021,Safe,0.0,None,29.5,,6.55,3717.5,,25.0,,,
+4266,"Borewell Near Primary School, Adloor Yellareddy (N) Sadashivanagar (M) Kamareddy Dist",Groundwater,TELANGANA,2021,Safe,0.0,None,25.0,,7.0,896.5,,11.0,,,
+4274,"Borewell Points At The Periphery Of The Ida, Jeedimetla",Groundwater,TELANGANA,2021,Safe,0.06,None,29.0,,7.65,1474.0,,12.1,2.0,33.0,
+4275,Borewell Points At The Periphery Of The Isa Balanagar,Groundwater,TELANGANA,2021,Safe,0.07,None,28.0,,7.85,2184.5,,29.9,2.0,42.0,
+1793,"O/W - Bhoomaiah Near Ashponds Of Ntpc , Kundanpally (V) , Ramagundam , Karimnagar",Groundwater,TELANGANA,2021,Safe,0.02,None,30.0,,8.05,1803.5,,1.0,2.0,5.0,
+15,Well At Kuyyura,Groundwater,TELANGANA,2021,Safe,0.02,None,27.0,,8.25,512.5,,0.3,2.0,2.0,
+27,Well At Peddavoora,Groundwater,TELANGANA,2021,Safe,0.0,None,23.5,,7.05,1207.5,,5.5,,,
+16,Well At Tadavai A.P.,Groundwater,TELANGANA,2021,Safe,0.06,None,28.0,,7.95,924.0,,13.7,2.0,33.5,
+5052,"Bakshi Kunta (Vemana Colony Park), Chandanagar, Serilingampally, Rr",Pond/Tank,TELANGANA,2021,Unsafe,32.8,"pH Out of Range, High BOD",,22.0,2.35,7.5,500.0,9.5,5.4,12.5,310.0
+4676,"Banda Cheruvu, Malkajigiri (V), Malkajigiri (New Mandal)",Pond/Tank,TELANGANA,2021,Unsafe,37.62,"pH Out of Range, High BOD",,28.5,0.8,7.6,500.0,10.9,13.7,36.0,335.0
+5048,"Bandam Cheruvu, Gajularamaram, Qutubullapur, Medchal – Malkagiri",Pond/Tank,TELANGANA,2021,Unsafe,31.13,"pH Out of Range, High BOD",,27.0,2.9,7.65,500.0,6.0,4.7,38.5,340.0
+4682,"Bandam Cheruvu, Hanamkonda",Pond/Tank,TELANGANA,2021,Unsafe,32.71,"pH Out of Range, High BOD",,28.0,2.4,7.8,500.0,7.7,19.35,22.5,285.0
+5040,"Bandlaguda Cheruvu, Bandalguda Uppal, Medchal - Malkagiri",Pond/Tank,TELANGANA,2021,Unsafe,39.16,"pH Out of Range, High BOD",,30.0,0.3,7.45,500.0,11.2,9.15,53.5,410.0
+4690,"Banjara Kunta (Singadi Kunta(, Shaikpet",Pond/Tank,TELANGANA,2021,Unsafe,33.28,"pH Out of Range, High BOD",,26.5,2.2,7.85,500.0,4.7,8.9,23.0,355.0
+3074,"Banjara Lake, Banjara Hills, Ranga Reddy",Pond/Tank,TELANGANA,2021,Unsafe,39.13,"pH Out of Range, High BOD",,24.0,0.3,7.3,500.0,12.0,6.0,40.5,375.0
+5035,"Bathar Kunta, Shaikpet, Hyderabad",Pond/Tank,TELANGANA,2021,Unsafe,36.53,"pH Out of Range, High BOD",,26.5,1.15,7.8,500.0,8.0,8.5,42.0,600.0
+4684,"Campus Lake, Icrisat",Pond/Tank,TELANGANA,2021,Unsafe,20.65,"pH Out of Range, High BOD",,24.5,6.3,6.95,500.0,2.55,5.595,13.5,175.0
+5060,"Chakalavani Cheruvu, Lingampally, Serilingampally, Rr",Pond/Tank,TELANGANA,2021,Unsafe,35.14,"pH Out of Range, High BOD",,25.0,1.6,7.65,500.0,12.0,11.45,26.5,390.0
+5051,"Chinna Bandam, Suraram, Qutubullapur, Medchal – Malkagiri",Pond/Tank,TELANGANA,2021,Unsafe,33.6,"pH Out of Range, High BOD",,28.0,2.1,7.65,500.0,8.05,7.45,37.0,355.0
+GEN-82D46A,"Chinna Pedda Cheruvu, Gopanpally, Serilingampally, Rr",Pond/Tank,TELANGANA,2021,Unsafe,31.35,"pH Out of Range, High BOD",,24.5,3.05,7.8,500.0,4.5,179.9,19.5,280.5
+4668,"Chinnarayan Cheruvu, Alwal (V)",Pond/Tank,TELANGANA,2021,Unsafe,36.23,"pH Out of Range, High BOD",,29.0,1.25,7.7,500.0,9.0,10.1,42.0,410.0
+5046,"Chintal Cheruvu, Gajularamaram, Qutubullapur, Medchal – Malkagiri",Pond/Tank,TELANGANA,2021,Unsafe,28.95,"pH Out of Range, High BOD",,28.5,3.6,7.9,474.5,4.05,2.15,17.5,284.0
+5039,"Dmrl Lake, Kanchanbagh, Bandlaguda, Hyderabad",Pond/Tank,TELANGANA,2021,Unsafe,33.76,"pH Out of Range, High BOD",,26.0,2.05,7.65,500.0,10.6,8.55,46.0,317.0
+3070,"Fox Sagar, Jeedimetla, Ranga Reddy",Pond/Tank,TELANGANA,2021,Unsafe,33.9,"pH Out of Range, High BOD",,27.5,2.0,8.05,500.0,4.5,7.5,30.5,410.0
+5059,"Gopi Cheruvu, Lingampally, Serilingampally, Rr",Pond/Tank,TELANGANA,2021,Unsafe,33.27,"pH Out of Range, High BOD",,26.0,2.2,7.75,500.0,6.5,6.45,22.0,380.0
+5062,"Gurunath Cheruvu, Miyapur, Serilingampally, Rr",Pond/Tank,TELANGANA,2021,Unsafe,33.65,"pH Out of Range, High BOD",,25.0,2.1,7.75,500.0,9.0,22.6,20.5,355.0
+3073,"Hasmathpet Lake, Hasmathpet, Ranga Reddy",Pond/Tank,TELANGANA,2021,Unsafe,39.14,"pH Out of Range, High BOD",,25.5,0.3,7.75,500.0,8.0,4.55,52.5,485.0
+1789,"Himayat Sagar Lake , R.R.Dist.",Pond/Tank,TELANGANA,2021,Unsafe,22.93,"pH Out of Range, High BOD",,24.5,5.55,7.7,457.0,2.35,0.75,3.0,56.0
+4679,Huda Park Lake/ Bumrukh Khan Dowla,Pond/Tank,TELANGANA,2021,Unsafe,38.28,"pH Out of Range, High BOD",,31.5,0.6,7.7,500.0,14.0,17.1,73.0,635.0
+1391,"Hussain Sagar Lake, Budameru",Pond/Tank,TELANGANA,2021,Unsafe,35.94,"pH Out of Range, High BOD",,27.6,1.35,7.7,500.0,6.9,8.2,79.5,675.0
+4686,"Icrisat Lake, Icrisat",Pond/Tank,TELANGANA,2021,Unsafe,20.5,"pH Out of Range, High BOD",,25.0,6.35,6.9,500.0,2.85,5.13,17.5,200.0
+4699,"Kaprai Cheruvu, Sahebnagar (V), Hayathnagar",Pond/Tank,TELANGANA,2021,Unsafe,27.87,"pH Out of Range, High BOD",,27.5,3.95,7.75,500.0,3.05,1.35,21.0,195.0
+5054,"Komati Kunta, Gopanpally, Serilingampally, Rr",Pond/Tank,TELANGANA,2021,Unsafe,29.42,"pH Out of Range, High BOD",,25.0,3.45,7.8,500.0,4.55,5.0,15.5,231.5
+4705,"Kotha Cheruvu (Alwal Cheruvu), Alwal (V)",Pond/Tank,TELANGANA,2021,Unsafe,38.26,"pH Out of Range, High BOD",,28.0,0.6,7.9,500.0,10.0,17.1,42.0,445.0
+5032,"Kotha Cheruvu, Shaikpet, Hyderabad",Pond/Tank,TELANGANA,2021,Unsafe,33.28,"pH Out of Range, High BOD",,26.5,2.2,7.85,500.0,6.5,6.9,30.0,280.0
+5057,"Kudi Kunta (Gautami Lake), Kondapur, Serilingampally, Rr",Pond/Tank,TELANGANA,2021,Unsafe,39.15,"pH Out of Range, High BOD",,26.5,0.3,7.25,500.0,11.5,12.65,28.5,445.0
+4235,Lake Kamuni ( Shamshabad Lake),Pond/Tank,TELANGANA,2021,Unsafe,30.5,"pH Out of Range, High BOD",,31.5,3.1,7.7,500.0,3.95,5.15,22.0,355.0
+4680,"Laknavaram Cheruvu, Mulugu (V)",Pond/Tank,TELANGANA,2021,Unsafe,22.16,"pH Out of Range, High BOD",,28.5,5.8,7.65,167.5,2.35,0.55,2.0,18.0
+3071,"Langarhouse Lake, Hyderabad",Pond/Tank,TELANGANA,2021,Unsafe,38.08,"pH Out of Range, High BOD",,25.0,0.65,7.7,500.0,7.1,7.8,58.5,410.0
+2340,"Laxminarayana Cheruvu At Edulabad, Rangareddy",Pond/Tank,TELANGANA,2021,Unsafe,26.94,"pH Out of Range, High BOD",,25.5,4.25,7.9,500.0,3.9,2.45,12.5,250.0
+4677,"Lingam Cheruvu, Suraram (V), Quthubullapur",Pond/Tank,TELANGANA,2021,Unsafe,39.15,"pH Out of Range, High BOD",,28.0,0.3,7.4,500.0,9.1,11.1,40.0,675.0
+4701,"Lingam Kunta, Chandanagar (V) Serlingampally",Pond/Tank,TELANGANA,2021,Unsafe,34.67,"pH Out of Range, High BOD",,23.5,1.75,7.7,500.0,7.0,7.5,28.5,340.0
+4670,Maddella Kunta/ Bairamalguda Cheruvu,Pond/Tank,TELANGANA,2021,Unsafe,26.8,"pH Out of Range, High BOD",,31.5,4.3,7.35,500.0,3.75,3.15,27.5,355.0
+5047,"Mahaboob Kunta, Suraram, Qutubullapur, Medchal – Malkagiri",Pond/Tank,TELANGANA,2021,Unsafe,30.97,"pH Out of Range, High BOD",,28.0,2.95,7.25,500.0,5.05,6.7,22.0,375.0
+4698,"Mannevari Kunta, Machabollaram (V) Alwal",Pond/Tank,TELANGANA,2021,Unsafe,39.17,"pH Out of Range, High BOD",,28.5,0.3,7.85,500.0,8.5,12.5,55.0,485.0
+5049,"Meddela Kunta, Gajularamaram, Qutubullapur, Medchal – Malkagiri",Pond/Tank,TELANGANA,2021,Unsafe,31.6,"pH Out of Range, High BOD",,27.5,2.75,7.7,500.0,7.0,11.7,24.5,302.0
+4672,"Medi Kunta (Wipro Lake), Nanakramguda",Pond/Tank,TELANGANA,2021,Unsafe,32.84,"pH Out of Range, High BOD",,25.5,2.35,7.8,500.0,6.6,8.7,44.0,390.0
+4673,"Meedi Kunta (Bk Enclave Lake), Maqta Mahboobpet, (Madeenaguda)",Pond/Tank,TELANGANA,2021,Unsafe,34.97,"pH Out of Range, High BOD",,23.5,1.65,7.55,500.0,7.1,6.4,28.5,340.0
+4674,"Meedi Kunta, Hafeezpet (V)",Pond/Tank,TELANGANA,2021,Unsafe,31.13,"pH Out of Range, High BOD",,26.5,2.9,7.9,500.0,6.4,4.8,42.0,355.0
+2341,"Miralam Lake Near Zoo Park, Rangareddy",Pond/Tank,TELANGANA,2021,Unsafe,35.13,"pH Out of Range, High BOD",,27.5,1.6,7.65,500.0,5.1,3.8,44.0,355.0
+5029,"Mohini Cheruvu, Amberpet, Hyderabad",Pond/Tank,TELANGANA,2021,Unsafe,33.44,"pH Out of Range, High BOD",,24.0,2.15,7.85,500.0,10.05,5.8,36.0,254.5
+5045,"Mothkula Kunta, Machabollaram, Alwal, Medchal - Malkagiri",Pond/Tank,TELANGANA,2021,Unsafe,34.84,"pH Out of Range, High BOD",,34.0,1.7,7.5,500.0,7.0,9.45,39.0,309.5
+5043,"Mysamma Cheruvu, Kukatpally, Balanagar, Medchal - Malkagiri",Pond/Tank,TELANGANA,2021,Unsafe,36.52,"pH Out of Range, High BOD",,27.5,1.15,7.55,500.0,9.0,6.45,42.0,675.0
+4691,"Nagole Cheruvu, Uppal (V)",Pond/Tank,TELANGANA,2021,Unsafe,36.53,"pH Out of Range, High BOD",,30.0,1.15,7.65,500.0,8.9,7.25,50.5,390.0
+5063,"Nanakram Kunta, Nanakramguda, Serilingampally, Rr",Pond/Tank,TELANGANA,2021,Unsafe,33.72,"pH Out of Range, High BOD",,27.5,2.05,7.75,500.0,17.05,4.1,12.5,355.0
+4688,Narinja Lake,Pond/Tank,TELANGANA,2021,Unsafe,20.03,High BOD,,24.5,6.5,7.1,500.0,2.55,5.625,7.5,31.0
+5030,"Naya Quila Talab, Golkonda, Hyderabad",Pond/Tank,TELANGANA,2021,Unsafe,34.53,"pH Out of Range, High BOD",,27.0,1.8,8.2,500.0,11.65,8.35,40.0,305.0
+5056,"Nayanamma Kunta (Baspalli Cheruvu), Hafeezpet, Serilingampally, Rr",Pond/Tank,TELANGANA,2021,Unsafe,33.43,"pH Out of Range, High BOD",,23.5,2.15,7.85,500.0,6.5,8.0,22.0,345.0
+4229,Neknampur Lake,Pond/Tank,TELANGANA,2021,Unsafe,35.5,"pH Out of Range, High BOD",,30.5,1.5,7.85,500.0,9.0,19.4,50.5,530.0
+2342,"Noor Md. Kunta, Kattedan, Rangareddy",Pond/Tank,TELANGANA,2021,Unsafe,39.19,"pH Out of Range, High BOD",,27.0,0.3,7.55,500.0,14.1,16.35,57.5,485.0
+4696,"Parki Cheruvu, Kukatpally (V), Balanagar",Pond/Tank,TELANGANA,2021,Unsafe,39.16,"pH Out of Range, High BOD",,27.0,0.3,7.65,500.0,9.0,14.5,35.5,375.0
+4678,"Patel Cheruvu, Nacharam (V), Uppal (New Mandal)",Pond/Tank,TELANGANA,2021,Unsafe,39.17,"pH Out of Range, High BOD",,24.5,0.3,7.65,500.0,14.5,15.9,38.5,390.0
+4693,"Patel Cheruvu, Uppal (V)",Pond/Tank,TELANGANA,2021,Unsafe,35.6,"pH Out of Range, High BOD",,25.5,1.45,7.4,500.0,9.3,6.8,47.0,320.0
+5041,"Pathulguda Lake, Pathalguda, Uppal, Medchal - Malkagiri",Pond/Tank,TELANGANA,2021,Unsafe,36.22,"pH Out of Range, High BOD",,29.5,1.25,7.85,500.0,13.0,6.2,49.0,410.0
+4702,"Pedda Cheruvu - Khaja Guda, Khjaguda (V), Serlingampally 9New Mandal)",Pond/Tank,TELANGANA,2021,Unsafe,29.85,"pH Out of Range, High BOD",,31.0,3.35,7.75,500.0,13.5,10.05,145.0,915.0
+4669,"Pedda Cheruvu, Gangaram (V) Serlingampally (New Mandal)",Pond/Tank,TELANGANA,2021,Unsafe,34.38,"pH Out of Range, High BOD",,24.0,1.85,7.55,500.0,8.75,8.0,55.5,355.0
+4683,"Pedda Cheruvu, Madikonda",Pond/Tank,TELANGANA,2021,Unsafe,25.87,"pH Out of Range, High BOD",,28.5,4.6,7.75,500.0,5.05,1.7,16.5,188.0
+5061,"Peddakudi Cheruvu, Maqta Mahboobpet, Serilingampally, Rr",Pond/Tank,TELANGANA,2021,Unsafe,34.67,"pH Out of Range, High BOD",,23.5,1.75,7.7,500.0,9.5,9.75,23.0,350.0
+4681,"Phakal Cheruvu, Narsampet",Pond/Tank,TELANGANA,2021,Unsafe,22.62,"pH Out of Range, High BOD",,27.5,5.65,8.0,297.0,2.45,0.55,2.0,24.5
+5053,"Ramamma Kunta (Dr. Ysr Tourism College), Gachibowli, Serilingampally, Rr",Pond/Tank,TELANGANA,2021,Unsafe,35.89,"pH Out of Range, High BOD",,32.5,1.35,7.85,500.0,4.5,7.0,20.5,355.0
+3068,"Ramappa Lake, Warangal",Pond/Tank,TELANGANA,2021,Unsafe,22.47,"pH Out of Range, High BOD",,27.0,5.7,7.95,272.0,2.2,0.75,3.0,67.5
+4687,"Red Lake, Icrisat",Pond/Tank,TELANGANA,2021,Unsafe,21.43,"pH Out of Range, High BOD",,25.0,6.05,7.1,500.0,3.7,7.675,22.5,260.0
+5058,"Regula Kunta, Miyapur Serilingampally, Rr",Pond/Tank,TELANGANA,2021,Unsafe,33.11,"pH Out of Range, High BOD",,26.0,2.25,7.7,500.0,5.3,5.1,15.0,310.0
+3072,"Safilguda Lake, Ranga Reddy",Pond/Tank,TELANGANA,2021,Unsafe,37.15,"pH Out of Range, High BOD",,25.5,0.95,7.7,500.0,9.5,7.1,50.5,445.0
+5038,"Salkam Cheruvu, Bandlaguda, Hyderabad",Pond/Tank,TELANGANA,2021,Unsafe,36.22,"pH Out of Range, High BOD",,25.5,1.25,7.7,500.0,19.5,9.45,40.0,445.0
+1788,"Saroornagar , Ranga Reddy Dist.",Pond/Tank,TELANGANA,2021,Unsafe,37.74,"pH Out of Range, High BOD",,29.5,0.75,7.75,500.0,9.9,6.3,27.5,410.0
+5033,"Shahatam Cheruvu, Shaikpet, Hyderabad",Pond/Tank,TELANGANA,2021,Unsafe,39.13,"pH Out of Range, High BOD",,26.0,0.3,7.55,500.0,13.0,6.7,37.5,340.0
+3069,"Shameerpet Lake, Shameerpet, Ranga Reddy",Pond/Tank,TELANGANA,2021,Unsafe,22.63,"pH Out of Range, High BOD",,25.5,5.65,7.9,500.0,2.45,1.35,7.0,153.5
+5034,"Shikari Kunta, Shaikpet, Hyderabad",Pond/Tank,TELANGANA,2021,Unsafe,29.13,"pH Out of Range, High BOD",,27.0,3.55,7.95,500.0,4.55,5.9,38.5,286.5
+5044,"Sudalavani Kunta (Sunnam Cheruvu), Allahpur, Balanagar, Medchal - Malkagiri",Pond/Tank,TELANGANA,2021,Unsafe,38.06,"pH Out of Range, High BOD",,34.5,0.65,7.45,500.0,9.5,7.25,42.0,485.0
+4685,Surisigal Lake Icrisat,Pond/Tank,TELANGANA,2021,Unsafe,20.81,"pH Out of Range, High BOD",,24.5,6.25,7.15,500.0,2.75,5.63,19.5,205.0
+4667,"Surram Cheruvu (Palle Cheruvu), Bandlaguda (V), Bandlaguda (New Mandal)",Pond/Tank,TELANGANA,2021,Unsafe,38.09,"pH Out of Range, High BOD",,28.0,0.65,7.4,500.0,11.0,11.75,50.0,445.0
+5037,"Tirumalagiri Tank, Tirumalagiri, Hyderabad",Pond/Tank,TELANGANA,2021,Unsafe,39.13,"pH Out of Range, High BOD",,33.5,0.3,7.75,500.0,9.0,7.25,27.0,485.0
+4234,"Umda Sagar Lake, Shamshabad",Pond/Tank,TELANGANA,2021,Unsafe,33.89,"pH Out of Range, High BOD",,31.0,2.0,7.65,500.0,5.05,3.85,32.0,275.0
+5050,"Venna Cheruvu, Jeedimetla, Qutubullapur, Medchal – Malkagiri",Pond/Tank,TELANGANA,2021,Unsafe,34.92,"pH Out of Range, High BOD",,28.5,1.7,7.45,500.0,10.5,29.9,36.0,335.0
+5042,"Yellamma Cheruvu, Kukatpally, Medchal - Malkagiri",Pond/Tank,TELANGANA,2021,Unsafe,35.03,"pH Out of Range, High BOD",,27.5,1.65,7.55,500.0,12.9,18.8,45.0,570.0
+5031,"Yerra Kunta, Shaikpet, Hyderabad",Pond/Tank,TELANGANA,2021,Unsafe,33.73,"pH Out of Range, High BOD",,25.5,2.05,7.6,500.0,11.5,4.75,29.5,570.0
+3076,"Amber Cheruvu, Kukatpally, Ranga Reddy",Pond/Tank,TELANGANA,2021,Unsafe,39.14,"pH Out of Range, High BOD",,27.0,0.3,7.75,500.0,9.9,4.2,56.0,390.0
+2347,"Asani Kunta, Kajipally, Medak",Pond/Tank,TELANGANA,2021,Unsafe,37.69,"pH Out of Range, High BOD",,21.5,0.8,6.85,500.0,100.0,35.37,10.0,355.0
+2346,"Bhadrakali Cheruvu, Bhadrakali Temple, Warangal",Pond/Tank,TELANGANA,2021,Unsafe,24.63,"pH Out of Range, High BOD",,27.5,5.0,8.05,500.0,3.05,1.5,14.5,115.5
+2357,Durgam Cheruvu,Pond/Tank,TELANGANA,2021,Unsafe,31.42,"pH Out of Range, High BOD",,28.0,2.8,7.9,500.0,4.2,3.1,32.0,335.0
+3077,"Kapra Cheruvu, Kapra, Ranga Reddy",Pond/Tank,TELANGANA,2021,Unsafe,34.19,"pH Out of Range, High BOD",,25.0,1.9,7.65,500.0,5.6,2.8,34.0,375.0
+4675,"Lotus Pond, Hakimpet (V), Shaik Pet (New Mandal)",Pond/Tank,TELANGANA,2021,Unsafe,27.58,"pH Out of Range, High BOD",,30.0,4.05,7.75,500.0,3.1,5.9,22.5,275.0
+2344,"Nalla Cheruvu, Rangareddy",Pond/Tank,TELANGANA,2021,Unsafe,37.73,"pH Out of Range, High BOD",,27.0,0.75,7.85,500.0,8.0,2.55,34.0,485.0
+4665,"Outlet Of Ktpp Ash Pond Joining To Morancha Vagu, Chelpur, Ghanpur",Pond/Tank,TELANGANA,2021,Unsafe,27.08,"pH Out of Range, High BOD",,27.5,4.2,7.8,500.0,3.0,1.05,3.0,70.0
+2359,Pedda Cheruvu,Pond/Tank,TELANGANA,2021,Unsafe,37.79,"pH Out of Range, High BOD",,28.0,0.75,7.85,500.0,9.0,14.2,48.0,675.0
+4236,Pedda Cheruvu (Nacharam Cheruvu),Pond/Tank,TELANGANA,2021,Unsafe,35.5,"pH Out of Range, High BOD",,24.5,1.5,7.65,500.0,5.0,19.5,50.5,485.0
+3078,"Pragathinagar Cheruvu, Kukatpally, Ranga Reddy",Pond/Tank,TELANGANA,2021,Unsafe,36.81,"pH Out of Range, High BOD",,27.0,1.05,7.6,500.0,9.6,5.3,25.5,445.0
+3075,"Rangadhamuni Cheruvu, Ranga Reddy",Pond/Tank,TELANGANA,2021,Unsafe,36.2,"pH Out of Range, High BOD",,26.0,1.25,7.8,500.0,7.5,4.35,37.0,445.0
+2345,"Sai Cheruvu, Near Tannery Industries, Desaipet, Warangal",Pond/Tank,TELANGANA,2021,Unsafe,34.97,"pH Out of Range, High BOD",,27.5,1.65,8.0,500.0,18.0,7.55,16.5,235.0
+4238,"Ameenpur Cheruvu, Ameenpur (V & M) Sangareddy District",Pond/Tank,TELANGANA,2021,Unsafe,23.13,"pH Out of Range, High BOD",,25.0,5.5,7.0,500.0,4.6,11.15,8.0,124.5
+1464,Bibinagar Tank,Pond/Tank,TELANGANA,2021,Unsafe,22.81,"pH Out of Range, High BOD",,20.0,5.6,7.3,500.0,3.35,8.615,8.0,42.5
+4703,"Bulbul Kunta, Laxmi Nagar (V), Rajendranagar",Pond/Tank,TELANGANA,2021,Unsafe,39.17,"pH Out of Range, High BOD",,29.5,0.3,7.7,500.0,13.2,12.9,54.5,635.0
+3085,"Chinna Waddepally Tank, Warangal",Pond/Tank,TELANGANA,2021,Unsafe,32.51,"pH Out of Range, High BOD",,28.0,2.45,7.7,500.0,10.9,6.7,30.0,325.0
+4241,"Chitkul Tank, Chitkul (V) Patancheru (M) Sangareddy District",Pond/Tank,TELANGANA,2021,Unsafe,23.29,"pH Out of Range, High BOD",,26.0,5.45,7.1,500.0,4.6,12.615,7.5,94.5
+1447,Dharmasagar Tank Near Warangal,Pond/Tank,TELANGANA,2021,Unsafe,22.63,"pH Out of Range, High BOD",,28.0,5.65,8.2,377.5,2.05,1.45,9.5,147.0
+4233,"Gaddapotharam Cheruvu, Gaddapotharam Village, Jinnaram Mandal, Sangareddy Dist",Pond/Tank,TELANGANA,2021,Unsafe,25.62,"pH Out of Range, High BOD",,29.0,4.7,7.05,500.0,12.5,17.165,19.5,175.0
+1780,"Gandigudem Tank , Medak District",Pond/Tank,TELANGANA,2021,Unsafe,22.82,"pH Out of Range, High BOD",,21.5,5.6,7.15,500.0,6.6,11.665,7.0,105.0
+4228,"Ibrahim Cheruvu, Rajendra Nagar",Pond/Tank,TELANGANA,2021,Unsafe,37.76,"pH Out of Range, High BOD",,29.5,0.75,7.75,500.0,12.8,8.5,37.0,445.0
+4243,"Isnapur Tank, Isnapur (V) Patancheru 9M) Sangareddy District",Pond/Tank,TELANGANA,2021,Unsafe,26.09,"pH Out of Range, High BOD",,24.5,4.55,7.15,500.0,15.0,18.23,16.5,195.0
+4225,"Jogulamba Temple, Gadwal",Pond/Tank,TELANGANA,2021,Unsafe,25.25,"pH Out of Range, High BOD",,26.0,4.8,7.75,500.0,3.15,2.45,17.5,223.5
+2348,"Kajipally Tank, Kajipally, Medak",Pond/Tank,TELANGANA,2021,Unsafe,25.3,"pH Out of Range, High BOD",,22.5,4.8,7.15,500.0,7.5,16.675,5.0,51.0
+4230,"Kistaipally Tank, Kazipet, Warangal",Pond/Tank,TELANGANA,2021,Unsafe,25.45,"pH Out of Range, High BOD",,29.5,4.75,7.35,500.0,6.0,14.11,7.5,106.5
+1783,"Kistareddypet Tank , Medak Dist.",Pond/Tank,TELANGANA,2021,Unsafe,22.85,"pH Out of Range, High BOD",,21.0,5.6,7.1,500.0,7.45,19.6,5.0,61.0
+4232,"Komati Cheruvu, Siddipet Town, Sidipet District",Pond/Tank,TELANGANA,2021,Unsafe,21.73,"pH Out of Range, High BOD",,29.5,5.95,7.25,500.0,12.85,8.085,4.0,39.0
+4248,"Koti Cheruvu, Hanamkonda, Warangal",Pond/Tank,TELANGANA,2021,Unsafe,31.56,"pH Out of Range, High BOD",,27.5,2.75,7.6,500.0,4.05,3.7,14.5,225.5
+4242,"Lakadaram Cheruvu, Lakadaram (V) Patancheru (M) Sangareddy District",Pond/Tank,TELANGANA,2021,Unsafe,24.5,"pH Out of Range, High BOD",,25.5,5.05,7.2,500.0,5.0,8.635,6.5,68.5
+4700,"Large Tank, Saroornagar (V)",Pond/Tank,TELANGANA,2021,Unsafe,39.14,"pH Out of Range, High BOD",,31.5,0.3,7.7,500.0,17.0,9.9,31.0,330.0
+4239,Mahaboobsagar Tank Sangareddy (V & M) Sangareddy District,Pond/Tank,TELANGANA,2021,Unsafe,22.66,"pH Out of Range, High BOD",,24.5,5.65,7.15,500.0,5.0,8.65,8.0,114.0
+2358,Mallapur Tank,Pond/Tank,TELANGANA,2021,Unsafe,39.15,"pH Out of Range, High BOD",,26.0,0.3,7.6,500.0,12.8,7.65,55.5,445.0
+4245,Mallepally Tank Mallepally (V) Kondapur (M) Sangareddy District,Pond/Tank,TELANGANA,2021,Unsafe,21.89,"pH Out of Range, High BOD",,24.0,5.9,7.15,500.0,3.55,9.115,9.0,58.5
+4247,"Mucharla Nagaram Cheruvu, Warangal",Pond/Tank,TELANGANA,2021,Unsafe,27.26,"pH Out of Range, High BOD",,28.0,4.15,8.0,500.0,3.05,3.7,20.5,250.0
+4237,"Mullakatwa Cheruvu, Ji Tech City, Madhapur,",Pond/Tank,TELANGANA,2021,Unsafe,39.17,"pH Out of Range, High BOD",,30.5,0.3,7.45,500.0,10.0,17.15,25.0,940.0
+4240,"Muthangi Tank, Muthangi (V), Patancheru (M) Sangareddy District",Pond/Tank,TELANGANA,2021,Unsafe,23.57,"pH Out of Range, High BOD",,25.0,5.35,7.15,500.0,3.95,8.105,4.5,48.0
+4704,"Pedda Cheruvu, Mansoorabad (V), Saroornagar",Pond/Tank,TELANGANA,2021,Unsafe,32.5,"pH Out of Range, High BOD",,31.0,2.45,7.65,500.0,5.05,3.7,31.0,325.0
+2343,"Premajipet Tank, Kattedan, Rangareddy",Pond/Tank,TELANGANA,2021,Unsafe,35.58,"pH Out of Range, High BOD",,26.5,1.45,7.9,500.0,15.6,7.2,12.5,410.0
+4249,"Rangasamudram, Warangal",Pond/Tank,TELANGANA,2021,Unsafe,31.72,"pH Out of Range, High BOD",,28.0,2.7,7.85,500.0,6.05,3.0,14.5,275.0
+4231,"Rayam Cheruvu, Bonthapally Village, Jinnaram Mandal, Sangareddy District",Pond/Tank,TELANGANA,2021,Unsafe,24.03,"pH Out of Range, High BOD",,29.0,5.2,7.25,500.0,3.25,7.15,5.5,37.0
+4302,"Rudraram Tank, Rudraram (V)Patancheru (M) Sangareddy District",Pond/Tank,TELANGANA,2021,Unsafe,22.36,"pH Out of Range, High BOD",,24.5,5.75,7.05,500.0,4.75,11.1,5.0,65.5
+3086,"Saki Tank, Patancheru, Ranga Reddy",Pond/Tank,TELANGANA,2021,Unsafe,21.89,"pH Out of Range, High BOD",,20.5,5.9,7.15,500.0,4.6,10.13,8.5,41.0
+4689,"Sunnam Kunta, Jubille Hills",Pond/Tank,TELANGANA,2021,Unsafe,27.11,"pH Out of Range, High BOD",,26.0,4.2,7.6,500.0,5.05,4.45,17.0,290.0
+3084,"Waddepally Tank, Kazipet, Warangal",Pond/Tank,TELANGANA,2021,Unsafe,24.02,"pH Out of Range, High BOD",,28.5,5.2,8.05,497.0,2.55,1.55,14.0,188.0
+4244,"Yerdanoor Tank, Yerdanoor (V) Sangareddy District",Pond/Tank,TELANGANA,2021,Unsafe,21.9,"pH Out of Range, High BOD",,24.5,5.9,7.1,500.0,3.6,12.125,10.0,63.5
+2360,"River Godavari At Basara, Adilabad",River,TELANGANA,2021,Safe,4.7,None,18.0,6.35,7.25,574.5,2.1,5.765,4.5,22.0,4.0
+2361,"River Godavari At Mancherial, Near Rly Bdg B/C Of Rallavagu",River,TELANGANA,2021,Unsafe,6.81,High BOD,28.5,5.45,7.95,562.5,3.05,1.15,2.0,36.5,2.0
+13,River Godavari At Mancherial,River,TELANGANA,2021,Safe,5.58,None,28.0,5.25,8.0,566.0,2.5,1.2,2.0,30.0,2.0
+2362,"River Godavari At Ramagundam D/S, Near Fci Intake Well, Karimnagar",River,TELANGANA,2021,Safe,5.7,None,27.5,5.05,7.8,487.5,2.55,2.65,2.0,38.0,2.0
+2363,"River Godavari At Godavarikhani, Near Bathing Ghat, Karimnagar",River,TELANGANA,2021,Safe,6.02,None,27.0,5.1,7.6,478.0,2.7,1.25,2.0,27.5,2.0
+2364,"River Godavari At Ramagundam U/S , Karimnagar",River,TELANGANA,2021,Safe,5.7,None,28.0,5.6,7.95,555.5,2.55,2.15,2.0,33.0,2.0
+2365,"River Godavari At Kamalpur U/S M/S Ap Rayons Ltd. Intake Well, Warangal",River,TELANGANA,2021,Safe,5.03,None,28.5,5.95,7.85,360.5,2.25,0.45,2.0,29.5,2.0
+2366,"River Godavari At Kamalpur D/S At M/S. Ap Rayons Ltd. Discharge Point, Warangal",River,TELANGANA,2021,Safe,5.25,None,28.0,5.85,7.8,383.5,2.35,0.55,2.0,32.5,2.0
+2367,"River Godavari At Bhadrachalam U/S Bathing Ghat, Khammam",River,TELANGANA,2021,Safe,5.73,None,28.5,5.05,7.7,385.5,2.55,3.15,6.5,60.0,2.0
+2369,"River Godavari At Burgampahad, Khammam",River,TELANGANA,2021,Unsafe,6.3,Low DO,27.5,4.85,7.65,515.5,2.55,3.15,5.5,22.5,2.0
+4227,"River Godavari- Pochera Water Falls, Pochera (V), Boath (M), Adilabad (D)",River,TELANGANA,2021,Safe,4.7,None,23.0,6.4,7.15,673.0,2.1,5.63,4.0,24.0,3.0
+2368,"River Godavari At Bhadrachalam D/S Bathing Ghat, Khammam",River,TELANGANA,2021,Safe,5.77,None,29.0,5.45,7.65,390.0,2.55,2.65,9.5,93.0,2.0
+2356,"River Godavari, D/S Of Ramanugundam, Manthani",River,TELANGANA,2021,Safe,5.47,None,26.5,5.5,7.8,555.5,2.45,2.15,2.0,34.0,2.0
+4662,"River Godavari At Kaleshwaram, 500 Mts.Before Bathing Ghat",River,TELANGANA,2021,Safe,5.1,None,27.0,5.95,7.9,422.5,2.25,1.2,4.0,108.0,3.0
+4367,"River Godavari Koundinya Mukthi (V), Kukunur (M), Border Point Between Andhra Pradesh & Telangana States",River,TELANGANA,2021,Unsafe,20.08,High BOD,24.0,17.2,8.1,144.3,314.55,1.35,5.81,67.5,106.0
+2374,River Manjeera At Gowdicharla B/C With Nakkavagu,River,TELANGANA,2021,Safe,5.82,None,22.5,6.35,7.05,1141.0,2.6,10.665,6.0,35.5,4.0
+2375,River Manjeera At Gowdicharla A/C With Nakkavagu,River,TELANGANA,2021,Safe,5.94,None,22.5,6.1,7.1,1181.5,2.65,13.18,6.0,40.5,4.0
+1781,"River Manjeera - Near Ganapathi Sugars , Medak Dist.",River,TELANGANA,2021,Safe,6.15,None,23.0,6.3,7.25,597.0,2.75,4.7,5.0,34.5,4.5
+1157,River Manjeera At Raipally,River,TELANGANA,2021,Safe,5.48,None,24.0,6.35,7.3,612.5,2.45,3.23,5.5,27.0,4.0
+4226,"River Manjeera At Yedu Payala Temple, Medak",River,TELANGANA,2021,Safe,5.69,None,29.0,6.3,7.05,744.5,2.55,7.1,3.0,24.5,2.0
+4258,"River Singur Dam Reservoir, Sangareddy",River,TELANGANA,2021,Safe,4.69,None,23.0,6.4,7.2,417.0,2.1,4.6,4.0,19.0,3.0
+1215,River Maner At Warangal U/S (Maneru At Thummala Cheruvu/Madannapet),River,TELANGANA,2021,Safe,5.02,None,27.0,5.2,7.85,386.5,2.25,0.85,2.0,18.0,2.0
+1158,River Maner At Somnapalli,River,TELANGANA,2021,Safe,5.7,None,26.0,5.5,7.9,523.0,2.55,1.65,2.0,43.5,2.0
+2372,"River Kinnerasani A/C Of Ktps Ash Pond Effluents, Khammam",River,TELANGANA,2021,Safe,5.72,None,27.0,5.2,7.85,525.0,2.55,2.65,2.0,63.0,2.0
+3080,"River Karakavagu U/S At Paloncha, Khammam",River,TELANGANA,2021,Unsafe,7.65,"Low DO, High BOD",25.5,4.8,7.9,681.0,3.05,2.4,6.5,71.0,2.0
+3081,"River Karakavagu D/S At Paloncha, Khammam",River,TELANGANA,2021,Unsafe,6.79,Low DO,26.75,4.85,7.7,560.5,2.75,1.55,8.0,62.0,2.0
+4255,"River Ali Sagar Reservior Project Area, Alisagar (V) Yedapally (M) Nizamabad Dist.",River,TELANGANA,2021,Safe,4.7,None,18.5,6.3,7.5,486.0,2.1,4.675,5.0,20.0,3.0
+39,River Krishna At Gadwal Bridge,River,TELANGANA,2021,Safe,5.89,None,25.5,5.3,7.6,1015.0,2.55,1.98,14.5,217.0,2.0
+1465,River Krishna At Wadapally After Confl. With R. Musi(Shifted From 1220),River,TELANGANA,2021,Safe,6.04,None,19.5,6.1,7.25,961.5,2.7,9.115,5.5,33.5,4.0
+1784,"River Krishna At Thangadi , Mahaboobnagar Dist.",River,TELANGANA,2021,Safe,5.87,None,24.5,5.2,8.0,1008.5,2.55,2.5,14.5,183.5,2.0
+4259,"River Krishna - Nagarjuna Sagar Dam Spill Way, Nagarjuna (V), Peddavoora (M), Nalgonda",River,TELANGANA,2021,Safe,5.7,None,18.0,6.4,7.3,650.0,2.55,6.63,4.0,26.5,3.0
+4663,"River Krishna At Mattepally, 500 Mts Before Bathing Gaht",River,TELANGANA,2021,Safe,6.06,None,20.5,6.0,7.25,847.5,2.7,8.125,8.0,39.0,5.5
+4381,River Krishna After Confluence With River Musi At Vadapalli (V) Between Andhra Pradesh & Telangana States,River,TELANGANA,2021,Safe,5.87,None,23.0,7.25,7.7,701.5,2.6,1.35,3.0,112.5,2.0
+1172,"River Musi U/S At Gandipet, Osmansagar Lake, Hyderabad",River,TELANGANA,2021,Safe,4.83,None,25.5,5.7,7.95,435.5,2.15,0.75,3.0,59.5,2.0
+1173,"River Musi D/S At Pratapsingaram, Hyderabad",River,TELANGANA,2021,Unsafe,33.98,"Low DO, High BOD",26.0,1.2,7.45,1263.0,8.0,8.6,136.0,600.0,20.0
+2339,"River Musi At Nagole, Rangareddy",River,TELANGANA,2021,Unsafe,40.15,"Low DO, High BOD",27.0,0.3,7.75,1324.5,10.5,10.28,135.5,1015.0,24.5
+3082,"River Musi Reservoir At Kasaniguda, Nalgonda",River,TELANGANA,2021,Unsafe,9.61,High BOD,19.5,5.9,7.25,1346.5,4.3,8.63,4.5,63.5,3.0
+2349,"River Nakkavagu, Bachugudem, Medak",River,TELANGANA,2021,Unsafe,29.73,"Low DO, High BOD",21.0,2.05,6.95,1569.0,8.0,16.705,19.5,110.0,12.5

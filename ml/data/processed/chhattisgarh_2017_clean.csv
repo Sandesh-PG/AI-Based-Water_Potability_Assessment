@@ -1,0 +1,8 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1620,"At Raipur Region, Chhatisgarh.",Groundwater,CHHATTISGARH,2017,Safe,1.12,None,26.5,,7.65,593.0,0.3,,,4.0,
+1621,"At Raipur Region, Chhatisgarh.",Groundwater,CHHATTISGARH,2017,Safe,1.27,None,28.0,,7.5,557.0,0.45,,3.0,1.7,
+1622,"At Bilaspur Region, Chhatisgarh.",Groundwater,CHHATTISGARH,2017,Safe,0.29,None,30.0,,7.5,369.0,0.1,,2.0,0.4,
+1623,"At Bilaspur Region, Chhatisgarh.",Groundwater,CHHATTISGARH,2017,Safe,0.29,None,29.5,,7.35,440.5,0.1,,2.0,0.45,
+3172,"Borewell/ Handpump In Rogbahri Village, Korba, Chhatisgarh.",Groundwater,CHHATTISGARH,2017,Safe,0.74,None,26.9,,7.2,,0.2,,,0.0,
+3174,"Borewell/ Handpump In Dhanras, Ntpc, Korba, Chhatisgarh.",Groundwater,CHHATTISGARH,2017,Safe,1.48,None,26.9,,7.15,,0.4,,,0.0,
+3164,"Nehru Nagar Talab, Bhilai, Chhatisgarh.",Pond/Tank,CHHATTISGARH,2017,Safe,0.0,None,,,6.8,7.5,,,0.185,,460.0

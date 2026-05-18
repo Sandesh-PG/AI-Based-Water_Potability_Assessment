@@ -1,0 +1,134 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1736,"Ground Water Quality Station Sardarnagar, Gorakhpur,U.P",Groundwater,UTTAR PRADESH,2022,Unsafe,29.91,"pH Out of Range, High BOD",22.0,,6.075,629.0,4.8,,,,
+1738,"Site 1, Industrial Area Near Electric Convertor Repairing Workshop,Thana- Dahi Unnao",Groundwater,UTTAR PRADESH,2022,Safe,0.48,None,30.0,,7.82,675.5,,,21.0,255.0,
+1739,"Site 2, Industrial Area Near M/S Jaijagdamba Metaloys Unnao, U.P",Groundwater,UTTAR PRADESH,2022,Safe,2.14,None,30.0,,7.655,1213.5,,,20.0,1502.0,
+1740,"At Roadways Bus Station, Unnao, U.P",Groundwater,UTTAR PRADESH,2022,Safe,2.81,None,30.5,,7.735,3646.5,,0.98,22.0,2001.0,
+1741,"Magawara Industrial Area Near Oriental Palace Unnao, U.P",Groundwater,UTTAR PRADESH,2022,Safe,2.83,None,29.5,,7.745,824.0,,1.1,25.0,2000.0,
+1742,"Chinhat Industrial Area In Lucknow Near M/S India Pesticides Lucknow, U.P",Groundwater,UTTAR PRADESH,2022,Safe,0.15,None,,,7.21,693.0,,1.66,13.0,46.0,
+1743,"Aishbagh Industrial Area At Lucknow Near M/S Eveready Industries Ltd. Lucknow, U.P",Groundwater,UTTAR PRADESH,2022,Safe,0.04,None,,,7.88,745.0,,1.6,4.0,12.0,
+1746,"Nagar Palika Tube Well, Sultanpur, U.P",Groundwater,UTTAR PRADESH,2022,Safe,0.0,None,19.5,,7.915,884.5,,0.17,,,
+1747,"India Marka Hand Pump In Sarowni Block At Raibareilly, U.P",Groundwater,UTTAR PRADESH,2022,Safe,0.0,None,20.0,,7.995,895.0,,0.2,,,
+1749,"Tube Well At Meerut City, U.P",Groundwater,UTTAR PRADESH,2022,Safe,0.0,None,14.5,,7.15,615.0,,1.8,,,
+1750,"Tube Well At Bagpat City, U.P",Groundwater,UTTAR PRADESH,2022,Safe,0.0,None,15.5,,7.25,635.0,,1.7,,,
+1751,"Tube Well In Industrial Area At Gajraula, Amroha, U.P",Groundwater,UTTAR PRADESH,2022,Unsafe,5.4,High Total Coliform,,,7.535,565.5,,4.88,110.0,3500.0,
+1752,"Sahibabad Industrial Area, Ghaziabad, U.P",Groundwater,UTTAR PRADESH,2022,Safe,6.1,None,20.0,,7.25,2050.0,1.1,0.425,,,
+1753,"Meerut Road Industrial Area Ghaziabad, U.P",Groundwater,UTTAR PRADESH,2022,Safe,0.0,None,20.5,,7.65,1237.5,,0.33,,,
+1754,"Hapur Road Industrial Area Ghaziabad, U.P",Groundwater,UTTAR PRADESH,2022,Safe,0.0,None,20.0,,7.4,872.5,,0.32,,,
+1755,"Pilkhua Industrial Area Ghaziabad, U.P",Groundwater,UTTAR PRADESH,2022,Safe,0.0,None,20.5,,7.55,1235.5,,,,,
+1756,"Gopiganj Industrial Area Bhadohi, Varanasi, U.P",Groundwater,UTTAR PRADESH,2022,Unsafe,39.96,High BOD,27.5,,7.58,533.0,7.2,,,,
+1758,"Ground Around Stp Dinapur, Varanasi, U.P",Groundwater,UTTAR PRADESH,2022,Safe,0.0,None,26.35,,7.705,524.0,,,,,
+1759,"Iffco, Phoolpur, Prayagraj ,U.P",Groundwater,UTTAR PRADESH,2022,Safe,0.0,None,25.3,,7.165,1182.0,,1.4,,,
+2467,"Chandpur Industrial Area, Lahartara, Varanasi",Groundwater,UTTAR PRADESH,2022,Safe,0.0,None,26.5,,7.75,555.0,,,,,
+2468,"Bhadohi Industrial Area, Development Authority, Sant Ravidas Nagar",Groundwater,UTTAR PRADESH,2022,Safe,0.0,None,27.0,,7.655,547.0,,,,,
+2469,"At Industrial Area. Naini, Allahabad",Groundwater,UTTAR PRADESH,2022,Safe,0.0,None,25.25,,7.11,1163.0,,1.31,,,
+2470,"At Industrial Area, Fatehpur",Groundwater,UTTAR PRADESH,2022,Safe,0.0,None,25.15,,7.12,1818.5,,1.08,,,
+2471,"Gorakhpur Industrial Development Authority Area (Gida), Gorakhpur",Groundwater,UTTAR PRADESH,2022,Unsafe,30.56,"pH Out of Range, High BOD",20.0,,5.99,626.0,4.8,,,,
+2472,"Village Daurala, Meerut",Groundwater,UTTAR PRADESH,2022,Safe,0.0,None,15.5,,7.2,565.0,,1.9,,,
+2473,"Khekra, Baghpat",Groundwater,UTTAR PRADESH,2022,Safe,0.0,None,14.5,,7.05,580.0,,1.85,,,
+2474,Unchahaar (Near Thermal Power Plant),Groundwater,UTTAR PRADESH,2022,Safe,0.0,None,19.5,,7.795,899.5,,0.18,,,
+2475,"Industrial Area, Sultanpur Road",Groundwater,UTTAR PRADESH,2022,Safe,0.0,None,19.0,,8.015,961.5,,0.2,,,
+2477,"Gautam Budha Junior High School Rajendra Nagar, Orai",Groundwater,UTTAR PRADESH,2022,Safe,0.0,None,19.0,,7.5,945.0,,,,,
+2478,"Deva Road, Industrial Area, Chainhat, Lko Near Uptron Police Chowki, Lucknow",Groundwater,UTTAR PRADESH,2022,Safe,0.02,None,,,7.78,536.0,,1.52,2.0,4.0,
+2480,"Near Brahman Majra, Pilkhani",Groundwater,UTTAR PRADESH,2022,Safe,0.0,None,18.0,,7.3,310.0,,,,,
+2481,"Near Peer Begraj Indstrial Area, Muzaffarnagar",Groundwater,UTTAR PRADESH,2022,Safe,0.0,None,21.75,,7.4,510.0,,,,,
+1364,"Ramgarh Lake, Gorakhpur U.P.",Pond/Tank,UTTAR PRADESH,2022,Unsafe,47.9,"High BOD, High Total Coliform",,21.0,7.95,8.0,500.0,5.0,,22900.0,48000.0
+2499,"Samaspur Jheel, Raebareli",Pond/Tank,UTTAR PRADESH,2022,Unsafe,23.0,"High BOD, High Total Coliform",,24.5,6.55,8.05,411.0,4.6,0.88,3750.0,6650.0
+2501,"Laxmi Pond, Jhansi",Pond/Tank,UTTAR PRADESH,2022,Unsafe,44.62,"pH Out of Range, High BOD",,22.5,4.3,7.65,500.0,12.5,,,
+2500,"Maahil Pond, Urai Tehsil, Jalaun",Pond/Tank,UTTAR PRADESH,2022,Unsafe,51.28,"pH Out of Range, High BOD",,22.0,3.0,7.35,500.0,11.25,,,
+3050,Water Works- Ghaziabad,"WATER TREATMENT
+PLANT (RAW WATER)",UTTAR PRADESH,2022,Safe,2.23,None,20.0,10.2,7.4,146.5,1.0,0.31,2.0,2.0,2.0
+30006,River Ganga At Bijnor (U.P.),River,UTTAR PRADESH,2022,Unsafe,47.77,"High BOD, High Fecal Coliform, High Total Coliform",24.0,8.35,7.9,287.0,3.5,0.53,7200.0,66650.0,430.0
+10150,"River Ganga At Madhya Ganga Barrage, Bijnor",River,UTTAR PRADESH,2022,Unsafe,7.47,High Fecal Coliform,,9.35,7.825,243.0,1.3,,795.0,1750.0,
+10149,"River Ganga At U/S Brij Ghat ,Gharmukteshwar",River,UTTAR PRADESH,2022,Unsafe,7.74,High Fecal Coliform,19.5,9.65,7.3,460.0,2.2,0.32,525.0,940.0,192.0
+1062,"River Ganga At D/S Garhmukteshwar, U.P",River,UTTAR PRADESH,2022,Unsafe,7.24,High Fecal Coliform,19.5,9.55,7.3,479.0,1.85,,570.0,1070.0,198.0
+2488,"River Ganga U/S, Anoopshahar",River,UTTAR PRADESH,2022,Safe,6.37,None,24.5,9.0,7.22,115.5,1.95,,325.0,920.0,
+2489,"River Ganga D/S, Anoopshahar",River,UTTAR PRADESH,2022,Unsafe,7.19,High Fecal Coliform,25.0,8.85,7.25,116.5,1.85,,515.0,1275.0,
+1145,"River Ganga At Narora (Bulandsahar), U.P.",River,UTTAR PRADESH,2022,Unsafe,7.87,High Fecal Coliform,25.5,8.45,7.245,121.5,1.9,,600.0,1560.0,
+2490,"River Ganga At Kachhla Ghat, Aligarh",River,UTTAR PRADESH,2022,Safe,4.15,None,26.5,9.4,7.35,149.0,1.3,2.485,245.0,350.0,
+10151,River Ganga At Ghatiyaghat Farrukabad,River,UTTAR PRADESH,2022,Unsafe,15.06,"High BOD, High Fecal Coliform",23.5,9.1,8.15,265.5,3.1,,1575.0,2350.0,
+1063,"River Ganga At Kannauj U/S (Near Mehndighat Bridge), U.P",River,UTTAR PRADESH,2022,Unsafe,19.55,"High BOD, High Fecal Coliform, High Total Coliform",23.5,8.9,8.24,284.5,4.6,,1775.0,2800.0,
+1066,"River Ganga At Durjanpur, Kannauj D/S, U.P",River,UTTAR PRADESH,2022,Unsafe,20.99,"High BOD, High Fecal Coliform, High Total Coliform",23.5,8.95,8.24,279.0,3.85,,2400.0,3550.0,
+1146,"River Ganga At Bithoor (Kanpur), U.P.",River,UTTAR PRADESH,2022,Unsafe,22.9,"High BOD, High Fecal Coliform, High Total Coliform",23.5,8.75,8.245,282.0,4.1,,2550.0,4500.0,34.0
+1067,"River Ganga At Kanpur U/S (Shuklaganj U/S), U.P",River,UTTAR PRADESH,2022,Unsafe,20.23,"High BOD, High Fecal Coliform, High Total Coliform",23.0,8.55,8.145,286.5,4.3,,1950.0,3600.0,34.0
+10154,River Ganga At Bathing Ghat (Bharaoghat),River,UTTAR PRADESH,2022,Unsafe,21.2,"High BOD, High Fecal Coliform, High Total Coliform",23.0,8.5,8.16,284.5,4.2,,2200.0,3850.0,44.5
+10155,River Ganga At D/S (Shuklaganj),River,UTTAR PRADESH,2022,Unsafe,22.6,"High BOD, High Fecal Coliform, High Total Coliform",23.5,8.55,8.355,308.0,4.45,,2350.0,4150.0,52.0
+1068,"River Ganga At Kanpur D/S (Jana Village), U.P",River,UTTAR PRADESH,2022,Unsafe,40.73,"High BOD, High Fecal Coliform, High Total Coliform",23.0,8.0,8.15,313.0,4.6,,7050.0,13150.0,
+10157,River Ganga At Bathing Ghat (Jajmau Bridge),River,UTTAR PRADESH,2022,Unsafe,25.65,"High BOD, High Fecal Coliform, High Total Coliform",23.5,8.2,8.14,302.0,4.6,,2850.0,5050.0,268.5
+1147,"River Ganga At Dalmau (Rai Bareilly), U.P.",River,UTTAR PRADESH,2022,Unsafe,16.95,"High BOD, High Fecal Coliform",23.0,8.7,7.985,335.0,3.85,3.93,1600.0,2500.0,10.0
+2498,"River Ganga At Kala Kankar, Raebareli",River,UTTAR PRADESH,2022,Unsafe,16.37,"High BOD, High Fecal Coliform",23.0,8.95,8.075,336.0,3.95,0.91,1400.0,2500.0,16.0
+1046,"River Ganga At Prayagraj (Rasoolabad), U.P.",River,UTTAR PRADESH,2022,Unsafe,10.64,High Fecal Coliform,25.25,8.3,7.87,241.0,2.75,0.615,745.0,1950.0,
+2487,"River Ganga At Kadaghat, Kaushamabi",River,UTTAR PRADESH,2022,Unsafe,10.06,High Fecal Coliform,25.4,7.85,7.805,262.5,2.75,0.645,640.0,1750.0,
+1049,"River Ganga At Prayagraj D/S (Sangam), U.P.",River,UTTAR PRADESH,2022,Unsafe,11.34,"High Fecal Coliform, High Total Coliform",25.35,7.6,7.91,258.0,2.8,0.635,770.0,2550.0,
+10158,"River Ganga A/C Tamsa River, Sirsa, Son Barsa",River,UTTAR PRADESH,2022,Unsafe,9.97,High Fecal Coliform,25.4,7.7,7.985,261.5,2.7,0.64,615.0,1900.0,
+2485,"River Ganga U/S, Vindhyachal, Mirzapur",River,UTTAR PRADESH,2022,Unsafe,36.01,"High BOD, High Fecal Coliform, High Total Coliform",25.0,8.9,8.21,450.0,3.05,1.03,6840.0,11550.0,750.0
+2486,"River Ganga D/S, Mirzapur",River,UTTAR PRADESH,2022,Unsafe,39.38,"High BOD, High Fecal Coliform, High Total Coliform",25.0,8.1,7.66,466.0,3.65,1.24,9150.0,14100.0,6050.0
+10153,River Ganga At Chunar,River,UTTAR PRADESH,2022,Unsafe,37.84,"High BOD, High Fecal Coliform, High Total Coliform",25.5,8.5,7.515,460.0,3.35,1.18,7500.0,13000.0,6200.0
+1070,"River Ganga At Varanasi U/S Near Vishwasundari Bridge B/C Drains( Nagwa Nala, Samne Ghat Nala,Nakhhi Nala)",River,UTTAR PRADESH,2022,Unsafe,10.12,High Fecal Coliform,24.75,9.35,8.125,438.5,2.25,1.16,970.0,1550.0,650.0
+1071,"River Ganga At Varanasi D/S , A/C River Varuna , U.P",River,UTTAR PRADESH,2022,Unsafe,42.04,"High BOD, High Fecal Coliform, High Total Coliform",24.75,8.2,8.09,495.5,3.8,1.29,12500.0,17000.0,8500.0
+10152,"River Ganga A/C Gomti River, Bhusaula",River,UTTAR PRADESH,2022,Unsafe,36.88,"High BOD, High Fecal Coliform, High Total Coliform",25.25,8.8,8.12,486.0,3.1,4.06,7500.0,12500.0,5850.0
+10156,River Ganga At Bathing Ghat (Gola Ghat),River,UTTAR PRADESH,2022,Unsafe,22.99,"High BOD, High Fecal Coliform, High Total Coliform",23.5,7.45,8.055,292.0,4.5,,2400.0,4250.0,49.5
+1073,"River Ganga At Tarighat (Ghazipur), U.P",River,UTTAR PRADESH,2022,Unsafe,44.88,"High BOD, High Fecal Coliform, High Total Coliform",25.25,8.0,8.07,502.0,4.0,1.39,12500.0,20000.0,9500.0
+30075,"River Ganga At Road Bridge Tarighat,Dist Ghazipur (U.P.)",River,UTTAR PRADESH,2022,Unsafe,48.77,"High BOD, High Fecal Coliform, High Total Coliform",24.95,7.5,7.565,453.0,3.95,0.83,9150.0,25500.0,
+2493,River Yamuna At Shahpur,River,UTTAR PRADESH,2022,Unsafe,60.0,"High BOD, High Fecal Coliform, High Total Coliform",21.5,5.2,7.65,,12.0,,45500.0,106500.0,
+2495,"River Yamuna At Kesighat, Vrindavan",River,UTTAR PRADESH,2022,Unsafe,60.0,"High BOD, High Fecal Coliform, High Total Coliform",21.0,5.9,7.65,,10.0,,30500.0,82000.0,
+1123,"River Yamuna At Mathura U/S ,Near Gaughat U.P.",River,UTTAR PRADESH,2022,Unsafe,60.0,"High BOD, High Fecal Coliform, High Total Coliform",21.5,5.8,7.55,,11.2,,31000.0,79500.0,
+2494,"River Yamuna At Vishramghat, Mathura",River,UTTAR PRADESH,2022,Unsafe,60.0,"High BOD, High Fecal Coliform, High Total Coliform",21.5,5.5,7.7,,11.9,,40000.0,91500.0,
+1124,"River Yamuna At Mathura D/S , Near Shamshan Ghat U.P.",River,UTTAR PRADESH,2022,Unsafe,60.0,"High BOD, High Fecal Coliform, High Total Coliform",21.5,5.4,7.7,,12.3,,40000.0,109500.0,
+1125,"River Yamuna At Agra U/S, U.P.(Kailash Ghat)",River,UTTAR PRADESH,2022,Unsafe,55.14,"High BOD, High Fecal Coliform, High Total Coliform",25.5,7.3,7.34,420.0,8.8,,10400.0,19500.0,
+1126,"River Yamuna At D/S Of Agra, U.P.",River,UTTAR PRADESH,2022,Unsafe,60.0,"High BOD, High Fecal Coliform, High Total Coliform",25.5,6.3,7.3,450.0,10.4,,32000.0,56000.0,
+1498,"River Yamuna At Bateswar, U.P",River,UTTAR PRADESH,2022,Unsafe,59.09,"High BOD, High Fecal Coliform, High Total Coliform",25.0,7.3,7.5,632.0,8.6,,15000.0,25500.0,
+1127,"River Yamuna At Etawah, U.P.",River,UTTAR PRADESH,2022,Unsafe,60.0,"High BOD, High Fecal Coliform, High Total Coliform",27.5,5.7,7.75,1071.0,11.85,,19500.0,60000.0,
+1499,"River Yamuna At Juhika B/C With Chanbal, Etawah, U.P",River,UTTAR PRADESH,2022,Unsafe,53.75,"High BOD, High Fecal Coliform, High Total Coliform",28.2,6.65,7.75,708.5,8.5,,5970.0,18600.0,
+2283,River Yamuna At Hamirpur,River,UTTAR PRADESH,2022,Unsafe,17.02,High BOD,26.4,6.45,7.475,900.0,4.6,,,,
+1069,"River Yamuna At Prayagraj D/S (Balua Ghat), U.P.",River,UTTAR PRADESH,2022,Unsafe,9.2,High Fecal Coliform,25.5,7.65,7.9,410.5,2.65,0.555,540.0,1450.0,
+30000,"River Pilkhar At Rampur, Bhot(U.P)",River,UTTAR PRADESH,2022,Unsafe,44.15,"High BOD, High Fecal Coliform, High Total Coliform",24.2,6.0,7.835,680.0,6.5,0.465,6534.0,12150.0,23.0
+10102,River Hindon At Mohan Nagar U/S,River,UTTAR PRADESH,2022,Unsafe,76.6,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",22.0,0.85,7.35,1106.0,17.5,0.42,225000.0,270000.0,
+10103,River Hindon At Mohan Nagar D/S,River,UTTAR PRADESH,2022,Unsafe,71.0,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",22.5,2.25,7.495,1123.5,23.5,0.46,1000000.0,2020000.0,
+10106,River Hindon At Ghaziabad U/S,River,UTTAR PRADESH,2022,Unsafe,74.6,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",22.0,1.35,7.425,739.0,21.5,0.43,210000.0,290000.0,
+10100,River Hindon At Barnawa U/S,River,UTTAR PRADESH,2022,Unsafe,78.8,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",18.5,0.3,7.55,940.0,54.0,25.3,137500.0,155000.0,
+10101,River Hindon At Barnawa D/S,River,UTTAR PRADESH,2022,Unsafe,78.8,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",17.5,0.3,7.45,850.0,51.0,23.5,102000.0,130000.0,
+1483,"River Hindon After Confl. With R. Krishna & Kali Near Binauli Town, Pura Mahadev, Meerut, U.P.",River,UTTAR PRADESH,2022,Unsafe,78.8,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",18.0,0.3,7.55,900.0,58.0,26.0,112000.0,165000.0,
+2496,"River Hindon At Sardhana Budhana Road, Village Baparsi, Meerut",River,UTTAR PRADESH,2022,Unsafe,78.8,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",18.0,0.3,7.55,930.0,55.0,26.3,117000.0,170000.0,
+1358,"River Hindon At Ghaziabad D/S Kuleshra Gb Nagar, U.P.",River,UTTAR PRADESH,2022,Unsafe,78.8,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",22.5,0.3,7.55,1073.5,39.0,1.52,1000000.0,2420000.0,
+1356,"River Betwa Before Conf. Yamuna At Hamirpur, U.P.",River,UTTAR PRADESH,2022,Unsafe,13.13,High BOD,23.0,6.7,7.86,806.0,3.55,,,,
+30079,"River Betwa Downstream At Sukma-Dukma Dam, Dist-Jhansi (U.P.)",River,UTTAR PRADESH,2022,Unsafe,27.78,"High Fecal Coliform, High Total Coliform",26.5,8.7,8.145,333.0,2.1,4.675,4400.0,6900.0,
+30001,"River Bahela At Badli Village Lohiya Bridge , Tanda (U.P.)",River,UTTAR PRADESH,2022,Unsafe,60.8,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",24.6,4.8,7.665,449.0,11.75,0.32,750000.0,5000000.0,14000.0
+1064,"River Ramganga At Kannauj (Before Conf.), U.P",River,UTTAR PRADESH,2022,Unsafe,41.79,"High BOD, High Fecal Coliform, High Total Coliform",23.0,8.35,8.265,369.0,4.95,0.9,7750.0,13500.0,
+30077,"River Ramganga At Road Bridge Sherkot, Dist.Bijnaur (U.P.)",River,UTTAR PRADESH,2022,Unsafe,38.81,"High BOD, High Fecal Coliform, High Total Coliform",23.75,8.0,7.485,467.5,5.5,0.66,4900.0,8750.0,
+2497,"River Kali East At Kharkhoda-Parikshit Garh Road, Vill. Kol, Meerut",River,UTTAR PRADESH,2022,Unsafe,78.8,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",17.5,0.3,7.55,860.0,57.0,24.0,120000.0,150000.0,
+1477,River Kalinadi At U/S Of Muzaffar Nagar U.P.,River,UTTAR PRADESH,2022,Unsafe,50.0,"Low DO, High BOD",21.5,2.5,7.4,335.0,15.0,,,,
+1478,"River Kalinadi At D/S Of Muzaffar Nagar, U.P.",River,UTTAR PRADESH,2022,Unsafe,66.67,"Low DO, High BOD",21.5,0.0,7.15,680.0,33.5,,,,
+1480,"River Kalinadi At U/S Of Gulaothi Town In Bulandsahar, U.P.",River,UTTAR PRADESH,2022,Unsafe,80.0,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",25.5,0.0,7.695,405.5,52.0,,1000000.0,3500000.0,
+1065,"River Kalinadi Near Gumatiya Village ,Kannauj (Before Conf.), U.P",River,UTTAR PRADESH,2022,Unsafe,45.28,"High BOD, High Fecal Coliform, High Total Coliform",23.0,6.5,7.78,417.0,4.9,,10500.0,18000.0,
+30038,River Banganga At D/S Shukratal (Before Confluence Of Laksar Drain ),River,UTTAR PRADESH,2022,Unsafe,48.99,"High BOD, High Fecal Coliform, High Total Coliform",23.55,7.15,7.745,457.0,4.05,0.995,25500.0,121000.0,330.0
+2502,"Shukra Tal Ghat (Confluence Of Baanganga And Saloni River), Muzaffarnagar,",River,UTTAR PRADESH,2022,Safe,7.03,None,20.75,7.5,8.05,216.0,1.9,,,,
+2482,"River Varuna At Rameshwar, Varanasi",River,UTTAR PRADESH,2022,Unsafe,15.72,"High BOD, High Fecal Coliform, High Total Coliform",25.5,7.6,8.325,416.0,3.1,1.08,1650.0,2800.0,
+2483,River Varuna B/C With Ganga At Varanasi,River,UTTAR PRADESH,2022,Unsafe,60.0,"High BOD, High Fecal Coliform, High Total Coliform",25.5,5.75,7.675,738.0,11.1,2.27,21500.0,32500.0,
+1361,"River Sai At Unnao After Drain Outfall, U.P.",River,UTTAR PRADESH,2022,Unsafe,27.28,"High BOD, High Fecal Coliform, High Total Coliform",27.0,6.5,8.08,2607.5,3.35,1.06,3550.0,7050.0,
+2484,"River Sai At Jalalpur, Jaunpur",River,UTTAR PRADESH,2022,Unsafe,30.79,"High Fecal Coliform, High Total Coliform",25.5,7.95,8.295,407.0,2.95,1.13,4600.0,7300.0,
+1350,"River Gomti At Sitapur U/S Dadnamau Ghat, U.P.",River,UTTAR PRADESH,2022,Unsafe,9.73,High Fecal Coliform,,9.25,8.17,350.0,2.3,2.0,775.0,1900.0,
+1351,"River Gomti At Lucknow U/S At Water Intake Point, U.P.",River,UTTAR PRADESH,2022,Unsafe,30.93,"High BOD, High Fecal Coliform, High Total Coliform",,7.15,7.835,387.0,3.5,1.37,4450.0,6700.0,
+1352,"River Gomti At Lucknow D/S Pipraghat , U.P.",River,UTTAR PRADESH,2022,Unsafe,74.0,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",,1.5,7.345,573.5,12.7,2.08,88950.0,205000.0,
+10097,River Gomti At Jaunpur U/S,River,UTTAR PRADESH,2022,Unsafe,13.85,High Fecal Coliform,25.75,8.05,8.325,409.0,2.85,1.085,1400.0,2400.0,
+1353,"River Gomti At Jaunpur D/S, U.P.",River,UTTAR PRADESH,2022,Unsafe,45.17,"High BOD, High Fecal Coliform, High Total Coliform",25.75,7.2,8.425,430.0,3.95,1.265,12500.0,20500.0,
+1072,"River Gomti At Varanasi, Rajwari U.P",River,UTTAR PRADESH,2022,Unsafe,34.97,"High BOD, High Fecal Coliform, High Total Coliform",25.25,7.5,8.36,425.0,3.5,1.23,5500.0,9000.0,
+10083,River Gomti At Neemsar U/S,River,UTTAR PRADESH,2022,Unsafe,10.8,High Fecal Coliform,,8.9,8.15,357.5,2.45,2.4,890.0,2250.0,
+10084,River Gomti At Neemsar D/S,River,UTTAR PRADESH,2022,Unsafe,12.36,"High Fecal Coliform, High Total Coliform",,8.65,8.1,2438.5,2.65,1.67,1090.0,2650.0,
+10085,River Gomti At Bhatpur U/S,River,UTTAR PRADESH,2022,Unsafe,14.26,"High Fecal Coliform, High Total Coliform",,8.55,8.08,2410.0,2.75,1.175,1400.0,3200.0,
+10086,River Gomti At Bhatpur D/S,River,UTTAR PRADESH,2022,Unsafe,16.46,"High Fecal Coliform, High Total Coliform",,8.15,8.03,396.0,3.0,1.31,1700.0,3750.0,
+10087,River Gomti At Gaughat U/S,River,UTTAR PRADESH,2022,Unsafe,30.93,"High BOD, High Fecal Coliform, High Total Coliform",,7.15,7.845,2515.5,3.5,1.26,4450.0,6700.0,
+10088,River Gomti At Gaughat D/S,River,UTTAR PRADESH,2022,Unsafe,31.72,"High BOD, High Fecal Coliform, High Total Coliform",,7.1,7.805,2087.0,3.65,1.53,4345.0,7800.0,
+10089,River Gomti At Mohmeak U/S,River,UTTAR PRADESH,2022,Unsafe,68.45,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",,2.8,7.515,514.0,8.85,2.68,49300.0,97000.0,
+10090,River Gomti At Mohmeak D/S,River,UTTAR PRADESH,2022,Unsafe,70.6,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",,2.35,7.85,527.5,9.7,2.94,58950.0,119000.0,
+10091,River Gomti At Pipraghat U/S,River,UTTAR PRADESH,2022,Unsafe,72.4,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",,1.9,7.335,561.0,12.0,1.95,119000.0,185000.0,
+10092,River Gomti At Pipraghat D/S,River,UTTAR PRADESH,2022,Unsafe,73.2,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",,1.7,7.29,573.0,12.6,2.11,124500.0,205000.0,
+10093,River Gomti At Gangaganj U/S,River,UTTAR PRADESH,2022,Unsafe,57.16,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",,3.9,7.485,3565.0,5.75,1.39,24000.0,51500.0,
+10094,River Gomti At Gangaganj D/S,River,UTTAR PRADESH,2022,Unsafe,54.28,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",,4.4,7.7,1640.5,5.35,1.5,21100.0,45500.0,
+1363,"River Rapti After Confl. Of R. Honin Nr. Domingarh Rly Bridge, Gorakhpur, U.P.",River,UTTAR PRADESH,2022,Unsafe,51.99,"High BOD, High Fecal Coliform, High Total Coliform",21.5,7.75,7.78,15436.0,5.4,,23500.0,38000.0,
+2491,"River Rapti At Rajghat, Gorakhpur",River,UTTAR PRADESH,2022,Unsafe,53.43,"High BOD, High Fecal Coliform, High Total Coliform",21.5,7.25,7.67,392.0,6.05,,23000.0,43000.0,
+1354,"River Saryu At Ayodhya At Main Bathing Ghat, U.P.",River,UTTAR PRADESH,2022,Unsafe,25.58,"High BOD, High Fecal Coliform, High Total Coliform",22.0,8.75,7.84,2564.5,3.65,0.84,3300.0,5350.0,
+1357,"River Hindon At Saharanpur D/S, At Maheshpur .Deoband U.P.",River,UTTAR PRADESH,2022,Unsafe,50.0,High BOD,22.0,,7.1,760.0,42.0,,,,
+2492,"River Ghaghra At Barhalganj, Gorakhpur",River,UTTAR PRADESH,2022,Unsafe,53.76,"High BOD, High Fecal Coliform, High Total Coliform",21.0,7.7,7.44,2087.0,6.2,0.32,28000.0,42000.0,
+1355,"River Ghaghara At Turtipar,Deoria D/S, U.P.",River,UTTAR PRADESH,2022,Unsafe,47.55,"High BOD, High Fecal Coliform, High Total Coliform",20.0,7.7,7.74,1896.0,3.4,,17000.0,33000.0,
+30081,"River Sone At Road Bridge Chopan,Dist- Sonebhadra (U.P.)",River,UTTAR PRADESH,2022,Safe,6.99,None,25.1,7.75,7.79,244.0,1.8,0.32,,2000.0,
+30086,"River Chambal At Gwalior Road Bridge, Udi, Etawah Dist.",River,UTTAR PRADESH,2022,Unsafe,48.44,"High BOD, High Fecal Coliform, High Total Coliform",26.85,8.05,7.845,599.0,3.8,1.21,9500.0,66000.0,

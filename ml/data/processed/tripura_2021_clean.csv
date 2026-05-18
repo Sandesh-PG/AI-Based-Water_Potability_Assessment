@@ -1,0 +1,101 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1732,"A.D.Nagar, Agartala, Tripura",Groundwater,TRIPURA,2021,Unsafe,4.9,pH Out of Range,24.25,,5.95,114.5,1.0,0.3,2.0,2.0,
+1734,"Gandhigram, Agartala, Tripura",Groundwater,TRIPURA,2021,Unsafe,5.67,pH Out of Range,24.0,,5.75,111.0,1.0,0.3,2.0,2.0,
+1730,"Kunjban, Agartala, Tripura",Groundwater,TRIPURA,2021,Unsafe,2.98,pH Out of Range,24.25,,6.45,111.5,1.0,0.3,2.0,2.0,
+1731,"Lankamura, Tripura",Groundwater,TRIPURA,2021,Unsafe,4.52,pH Out of Range,25.75,,6.05,522.0,1.0,0.3,2.0,2.0,
+1733,"Shibnagar, Agartala, Tripura",Groundwater,TRIPURA,2021,Unsafe,5.29,pH Out of Range,24.25,,5.85,116.0,1.0,0.3,2.0,2.0,
+4205,"Tube Well At Amar Sagar, Udaipur",Groundwater,TRIPURA,2021,Unsafe,6.25,pH Out of Range,24.5,,5.6,107.0,1.0,0.3,2.0,2.0,
+4204,Tube Well At Amarpur,Groundwater,TRIPURA,2021,Unsafe,6.83,pH Out of Range,24.0,,5.45,112.0,1.0,0.3,2.0,2.0,
+4210,Tube Well At Ambassa,Groundwater,TRIPURA,2021,Unsafe,6.63,pH Out of Range,23.5,,5.5,95.5,1.0,0.3,2.0,2.0,
+4188,Tube Well At Arundhati Nagar,Groundwater,TRIPURA,2021,Unsafe,4.33,pH Out of Range,24.5,,6.1,101.5,1.0,0.3,2.0,2.0,
+3426,"Tube Well At B.C.Manu, South Tripura",Groundwater,TRIPURA,2021,Unsafe,6.63,pH Out of Range,24.25,,5.5,90.5,1.0,0.3,2.0,2.0,
+4187,Tube Well At Badharghat,Groundwater,TRIPURA,2021,Unsafe,4.9,pH Out of Range,25.0,,5.95,123.5,1.0,0.3,2.0,2.0,
+3428,"Tube Well At Bagafa, South Tripura",Groundwater,TRIPURA,2021,Unsafe,7.4,pH Out of Range,24.25,,5.3,92.5,1.0,0.3,2.0,2.0,
+4209,Tube Well At Belonia,Groundwater,TRIPURA,2021,Unsafe,6.25,pH Out of Range,24.75,,5.6,112.5,1.0,0.3,2.0,2.0,
+4200,Tube Well At Bishalgarh,Groundwater,TRIPURA,2021,Unsafe,5.86,pH Out of Range,24.5,,5.7,94.0,1.0,0.3,2.0,2.0,
+4636,Tube Well At Bishalgarh,Groundwater,TRIPURA,2021,Unsafe,3.75,pH Out of Range,24.5,,6.25,94.0,1.0,0.3,2.0,2.0,
+4202,Tube Well At Bishramganj,Groundwater,TRIPURA,2021,Unsafe,6.63,pH Out of Range,24.5,,5.5,116.0,1.0,0.3,2.0,2.0,
+3425,"Tube Well At Bodhjung Nagar, West Tripura",Groundwater,TRIPURA,2021,Unsafe,5.67,pH Out of Range,24.75,,5.75,101.0,1.0,0.3,2.0,2.0,
+4651,"Tube Well At Chakmaghat, Teliamura",Groundwater,TRIPURA,2021,Safe,2.79,None,24.25,,6.65,95.5,1.0,0.3,2.0,2.0,
+4638,Tube Well At Champaknagar,Groundwater,TRIPURA,2021,Unsafe,2.98,pH Out of Range,24.25,,6.45,92.5,1.0,0.3,2.0,2.0,
+4212,Tube Well At Chawmanu,Groundwater,TRIPURA,2021,Unsafe,7.4,pH Out of Range,25.0,,5.3,96.0,1.0,0.3,2.0,2.0,
+3432,"Tube Well At Churaibari (Interstate Boundry), North Tripura",Groundwater,TRIPURA,2021,Unsafe,5.86,pH Out of Range,23.75,,5.7,102.0,1.0,0.3,2.0,2.0,
+4216,Tube Well At Damcherra,Groundwater,TRIPURA,2021,Unsafe,6.63,pH Out of Range,23.5,,5.5,95.0,1.0,0.3,2.0,2.0,
+4190,Tube Well At Debendra Chandra Nagar,Groundwater,TRIPURA,2021,Unsafe,6.25,pH Out of Range,24.25,,5.6,97.5,1.0,0.335,2.0,2.0,
+4206,"Tube Well At Dhani Sagar, Udaipur",Groundwater,TRIPURA,2021,Unsafe,7.21,pH Out of Range,24.75,,5.35,110.5,1.0,0.3,2.0,2.0,
+4215,Tube Well At Dharmanagar,Groundwater,TRIPURA,2021,Unsafe,6.06,pH Out of Range,24.25,,5.65,122.5,1.0,0.3,2.0,2.0,
+4186,Tube Well At Dokli,Groundwater,TRIPURA,2021,Unsafe,5.86,pH Out of Range,24.75,,5.7,125.0,1.0,0.3,2.0,2.0,
+3435,"Tube Well At Gour Nagar, North Tripura",Groundwater,TRIPURA,2021,Unsafe,4.71,pH Out of Range,23.25,,6.0,101.0,1.0,0.3,2.0,2.0,
+3423,"Tube Well At Hapania, West Tripura",Groundwater,TRIPURA,2021,Unsafe,4.13,pH Out of Range,24.75,,6.15,84.0,1.0,0.3,2.0,2.0,
+3430,"Tube Well At Jawahanagar, Dhalai",Groundwater,TRIPURA,2021,Unsafe,4.9,pH Out of Range,24.0,,5.95,90.5,1.0,0.3,2.0,2.0,
+4185,Tube Well At Jirania,Groundwater,TRIPURA,2021,Unsafe,6.06,pH Out of Range,24.5,,5.65,118.5,1.0,0.3,2.0,2.0,
+4208,Tube Well At Jolaibari,Groundwater,TRIPURA,2021,Unsafe,6.63,pH Out of Range,24.5,,5.5,108.5,1.0,0.3,2.0,2.0,
+3436,"Tube Well At Kailashahar, North Tripura",Groundwater,TRIPURA,2021,Unsafe,5.48,pH Out of Range,23.75,,5.8,99.5,1.0,0.3,2.0,2.0,
+4648,Tube Well At Kaladepha Manu,Groundwater,TRIPURA,2021,Safe,2.79,None,24.5,,7.15,101.0,1.0,0.3,2.0,2.0,
+4211,Tube Well At Kamalpur,Groundwater,TRIPURA,2021,Unsafe,4.33,pH Out of Range,24.0,,6.1,113.5,1.0,0.3,2.0,2.0,
+3433,"Tube Well At Kameswar, Industrial Estate Area, North Tripura",Groundwater,TRIPURA,2021,Unsafe,3.17,pH Out of Range,24.0,,6.4,112.5,1.0,0.3,2.0,2.0,
+4217,Tube Well At Kanchanpur,Groundwater,TRIPURA,2021,Unsafe,5.67,pH Out of Range,23.5,,5.75,111.0,1.0,0.3,2.0,2.0,
+4203,Tube Well At Karbook,Groundwater,TRIPURA,2021,Unsafe,6.63,pH Out of Range,24.0,,5.5,110.0,1.0,0.3,2.0,2.0,
+4214,Tube Well At Khowai,Groundwater,TRIPURA,2021,Unsafe,6.83,pH Out of Range,24.5,,5.45,103.0,1.0,0.3,2.0,2.0,
+3431,"Tube Well At Kulai, Dhalai",Groundwater,TRIPURA,2021,Unsafe,6.44,pH Out of Range,24.0,,5.55,86.0,1.0,0.3,2.0,2.0,
+3434,"Tube Well At Kumarghat, Industrial Estate Area, North Tripura",Groundwater,TRIPURA,2021,Unsafe,3.94,pH Out of Range,24.0,,6.2,109.5,1.0,0.3,2.0,2.0,
+4647,Tube Well At Manubazar,Groundwater,TRIPURA,2021,Safe,2.79,None,24.5,,6.7,99.0,1.0,0.3,2.0,2.0,
+4641,Tube Well At Melaghar,Groundwater,TRIPURA,2021,Unsafe,7.59,pH Out of Range,24.5,,5.25,100.0,1.0,0.3,2.0,2.0,
+3424,"Tube Well At Nagicherra, West Tripura",Groundwater,TRIPURA,2021,Unsafe,4.71,pH Out of Range,24.5,,6.0,86.5,1.0,0.3,2.0,2.0,
+4189,Tube Well At Nanadannagar,Groundwater,TRIPURA,2021,Unsafe,5.67,pH Out of Range,24.5,,5.75,93.0,1.0,0.3,2.0,2.0,
+4218,Tube Well At Panisagar,Groundwater,TRIPURA,2021,Unsafe,5.86,pH Out of Range,23.5,,5.7,93.0,1.0,0.3,2.0,2.0,
+4653,Tube Well At Pecharthal,Groundwater,TRIPURA,2021,Unsafe,4.52,pH Out of Range,24.25,,6.05,110.0,1.0,0.3,2.0,2.0,
+4637,Tube Well At Rajnagar,Groundwater,TRIPURA,2021,Unsafe,3.17,pH Out of Range,24.5,,6.4,92.5,1.0,0.3,2.0,2.0,
+4639,Tube Well At Ranirbazar,Groundwater,TRIPURA,2021,Safe,2.79,None,24.5,,6.7,97.0,1.0,0.3,2.0,2.0,
+4207,Tube Well At Sabroom,Groundwater,TRIPURA,2021,Unsafe,6.44,pH Out of Range,24.75,,5.55,107.0,1.0,0.3,2.0,2.0,
+3427,"Tube Well At Shantir Bazar, South Tripura",Groundwater,TRIPURA,2021,Unsafe,3.75,pH Out of Range,24.5,,6.25,78.0,1.0,0.3,2.0,2.0,
+4201,Tube Well At Sonamura,Groundwater,TRIPURA,2021,Unsafe,5.86,pH Out of Range,24.5,,5.7,112.0,1.0,0.335,2.0,2.0,
+4191,Tube Well At Suryamoni Nagar,Groundwater,TRIPURA,2021,Unsafe,5.29,pH Out of Range,24.5,,5.85,96.5,1.0,0.3,2.0,2.0,
+4213,Tube Well At Teliamura,Groundwater,TRIPURA,2021,Unsafe,6.25,pH Out of Range,24.25,,5.6,91.5,1.0,0.3,2.0,2.0,
+4652,Tube Well At Teliamura Market,Groundwater,TRIPURA,2021,Unsafe,4.33,pH Out of Range,24.5,,6.1,111.5,1.0,0.3,2.0,2.0,
+1406,"Well Around Udaipur (Tubewell), Tripura",Groundwater,TRIPURA,2021,Unsafe,6.06,pH Out of Range,25.0,,5.65,114.0,1.0,0.3,2.0,2.0,
+1405,"Well At Udaipur (Tubewell), Tripura",Groundwater,TRIPURA,2021,Unsafe,5.29,pH Out of Range,25.0,,5.85,104.5,1.0,0.3,2.0,2.0,
+3391,"Dhambur Lake, Dhalai",Pond/Tank,TRIPURA,2021,Unsafe,23.11,"pH Out of Range, High BOD",,23.25,5.5,7.2,177.5,1.3,1.86,37.5,157.0
+4193,"Dimasagar Lake, North Gate",Pond/Tank,TRIPURA,2021,Unsafe,22.96,"pH Out of Range, High BOD",,24.5,5.55,6.95,159.5,1.6,1.815,42.0,210.0
+1727,"Laxmi Narayan Bari Palace Compound, Tripura",Pond/Tank,TRIPURA,2021,Unsafe,22.19,"pH Out of Range, High BOD",,24.0,5.8,7.3,167.5,1.25,1.76,35.5,144.5
+4192,Mbb College Lake,Pond/Tank,TRIPURA,2021,Unsafe,22.49,"pH Out of Range, High BOD",,24.5,5.7,7.2,167.5,1.4,1.515,31.5,165.0
+4643,Rudrasagar East Lake Tripura,Pond/Tank,TRIPURA,2021,Unsafe,22.35,"pH Out of Range, High BOD",,23.5,5.75,7.3,177.5,1.45,1.735,39.5,157.0
+4642,"Rudrasagar North Lake,Tripura",Pond/Tank,TRIPURA,2021,Unsafe,21.28,"pH Out of Range, High BOD",,23.5,6.1,7.1,177.0,1.85,2.11,55.5,215.0
+4644,Rudrasagar West Lake Tripura,Pond/Tank,TRIPURA,2021,Unsafe,21.43,"pH Out of Range, High BOD",,23.5,6.05,7.35,155.0,1.55,1.73,44.0,215.0
+1728,"Rudrasagar, Sonumura, Tripura",Pond/Tank,TRIPURA,2021,Unsafe,23.27,"pH Out of Range, High BOD",,23.75,5.45,7.05,159.5,1.4,2.065,40.0,205.0
+3393,"Bramakunda Pond, West Tripura",Pond/Tank,TRIPURA,2021,Unsafe,21.73,"pH Out of Range, High BOD",,23.75,5.95,7.2,192.5,1.4,1.74,32.5,127.0
+4197,Chaturdash Debata Bari Pond,Pond/Tank,TRIPURA,2021,Unsafe,21.11,"pH Out of Range, High BOD",,23.75,6.15,7.0,166.5,1.4,1.53,31.5,127.0
+4195,Durgabari Pond,Pond/Tank,TRIPURA,2021,Unsafe,22.95,"pH Out of Range, High BOD",,24.25,5.55,6.75,170.0,1.45,1.595,31.5,136.5
+3396,"Jagannath Dighi, South Tripura",Pond/Tank,TRIPURA,2021,Unsafe,22.5,"pH Out of Range, High BOD",,24.25,5.7,7.1,172.0,1.6,1.895,37.5,147.0
+3394,"Kalyansagar At Matarbari, South Tripura",Pond/Tank,TRIPURA,2021,Unsafe,21.75,"pH Out of Range, High BOD",,24.5,5.95,7.35,180.5,2.05,2.77,63.0,210.0
+4221,Katal Dighi Pond,Pond/Tank,TRIPURA,2021,Unsafe,22.96,"pH Out of Range, High BOD",,23.5,5.55,7.2,167.0,1.35,1.545,37.0,160.0
+4194,Lalbahadur Dighi Pond,Pond/Tank,TRIPURA,2021,Unsafe,23.11,"pH Out of Range, High BOD",,24.5,5.5,7.1,166.5,1.45,1.49,32.0,165.0
+3395,"Mahadeb Dighi, South Tripura",Pond/Tank,TRIPURA,2021,Unsafe,21.27,"pH Out of Range, High BOD",,24.0,6.1,7.15,163.0,1.25,1.555,40.0,167.0
+4196,Radhanagar Pond,Pond/Tank,TRIPURA,2021,Unsafe,28.69,"pH Out of Range, High BOD",,24.75,3.7,7.2,181.5,7.05,3.745,70.5,320.0
+3392,"Shipahijala Pond, West Tripura",Pond/Tank,TRIPURA,2021,Unsafe,23.27,"pH Out of Range, High BOD",,24.0,5.45,6.9,160.0,1.5,1.79,37.5,147.0
+1729,"Katakhal Canal At Near Pragati Vidyabhawan, Agartala, Tripura",Canal,TRIPURA,2021,Unsafe,33.24,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",24.0,3.65,6.7,329.5,63.5,22.95,1070.0,4450.0,
+3387,"Gilatali Canal, West Tripura",Canal,TRIPURA,2021,Safe,3.62,None,23.0,5.8,7.1,161.5,1.5,1.7,42.0,157.0,
+3388,"Palatana Canal At D/S Of Pollution Outfall, South Tripura",Canal,TRIPURA,2021,Safe,4.05,None,24.25,5.85,7.0,175.0,1.7,1.9,39.5,152.0,
+3389,"Ghandha Charra Canal At Domburnagar, Dhalai",Canal,TRIPURA,2021,Safe,4.24,None,23.0,5.5,7.1,162.5,1.8,1.95,36.5,116.5,
+3390,"Samanu Charra Canal At Chawmanu, Dhalai",Canal,TRIPURA,2021,Safe,4.17,None,22.5,5.3,6.9,161.0,1.75,1.9,42.0,140.0,
+4198,Chandrapur Canal,Canal,TRIPURA,2021,Safe,5.23,None,24.0,5.45,7.05,161.5,2.2,1.8,44.0,215.0,
+4199,Katakhal Canal At Kalikapur,Canal,TRIPURA,2021,Unsafe,27.63,"Low DO, High BOD",24.75,3.25,7.1,294.0,28.0,8.3,91.5,335.0,
+3411,"River Feni At Chotokhil Battala, South Tripura",River,TRIPURA,2021,Safe,3.96,None,23.5,5.55,7.0,160.0,1.65,1.91,40.0,167.0,
+3410,"River Feni At Sabroom (Interstate Boundary), South Tripura",River,TRIPURA,2021,Safe,3.64,None,23.75,5.7,7.2,164.0,1.5,1.6,42.0,175.0,
+3407,"River Gumti At Amarpur, South Tripura",River,TRIPURA,2021,Safe,4.11,None,23.5,5.5,7.25,165.5,1.65,1.735,63.5,245.0,
+1404,"River Gumti At D/S South Tripura, Tripura",River,TRIPURA,2021,Safe,5.47,None,25.0,5.55,7.2,206.0,2.2,3.72,83.5,320.0,
+3406,"River Gumti At Rajdharnagar, South Tripura",River,TRIPURA,2021,Safe,4.29,None,23.75,5.9,7.2,162.0,1.75,2.25,58.5,215.0,
+3409,"River Gumti At Subhas Setu, Dhajanagar, D/S Udaipur City, South Tripura",River,TRIPURA,2021,Safe,4.77,None,24.0,5.55,7.1,167.0,1.95,2.24,67.5,215.0,
+3408,"River Gumti At Thirthamukh, South Tripura",River,TRIPURA,2021,Safe,3.87,None,23.0,5.85,6.95,162.5,1.6,1.51,44.5,169.0,
+1403,"River Gumti At U/S South Tripura, Tripura",River,TRIPURA,2021,Safe,3.52,None,22.75,6.0,7.5,160.0,1.4,1.54,61.0,215.0,
+4640,"River Haora At Bordowali,",River,TRIPURA,2021,Safe,5.44,None,24.5,6.0,7.35,206.5,2.2,2.575,76.0,315.0,
+3397,"River Haora At Dashamighat, West Tripura",River,TRIPURA,2021,Safe,5.92,None,25.25,5.35,7.15,199.0,2.35,3.25,86.5,445.0,
+1726,"River Haora D/S Of Chandrapur, Agartala D/S Of Tripura",River,TRIPURA,2021,Safe,4.5,None,24.25,5.45,7.4,193.0,1.85,2.235,39.0,290.0,
+3401,"River Howrah At Aralia, West Tripura",River,TRIPURA,2021,Safe,5.08,None,25.25,5.8,6.8,171.0,2.1,3.1,48.0,280.0,
+3403,"River Howrah At Joynagar, West Tripura",River,TRIPURA,2021,Safe,3.99,None,23.5,5.95,6.9,152.5,1.65,1.645,42.0,195.0,
+3402,"River Howrah At Kalabagan, West Tripura",River,TRIPURA,2021,Safe,4.02,None,23.5,5.75,7.2,164.5,1.65,2.41,47.0,215.0,
+3412,"River Muhari At Bankar (Interstate Boundry), Belonia, South Tripura",River,TRIPURA,2021,Safe,3.97,None,23.5,5.7,7.15,166.5,1.65,1.95,44.0,167.0,
+3413,"River Muhari At Muharichar, South Tripura",River,TRIPURA,2021,Safe,3.54,None,23.25,5.45,7.1,161.5,1.45,1.95,45.0,175.0,
+3417,"River Manu At Manughat, Confl Point Of Chawmanu Charra & Manu River, Dhalai",River,TRIPURA,2021,Safe,3.89,None,23.5,5.5,7.0,166.0,1.6,2.0,47.5,185.0,
+3418,"River Manu At Kailashahar D/S, North Tripura",River,TRIPURA,2021,Safe,4.2,None,23.75,5.55,7.05,180.5,1.75,2.16,42.5,175.0,
+3419,"River Manu At Kumarghat, North Tripura",River,TRIPURA,2021,Safe,3.5,None,23.5,5.4,7.1,177.5,1.4,1.79,58.5,195.0,

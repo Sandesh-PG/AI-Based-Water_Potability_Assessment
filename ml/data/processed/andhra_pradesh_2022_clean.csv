@@ -1,0 +1,96 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+26,"Bore Well At Kanuru Panchayat, Vijayawada",Groundwater,ANDHRA PRADESH,2022,Safe,6.41,None,24.0,,7.34,2345.0,2.3,3.46,3.0,16.0,
+1513,"Bore Well At Autonagar, Vijayawada.( In The R/O Of Mr Satyanarayana Plot No:79 H.No:74-1-7/2C,Auto Nagar Vijayawada)",Groundwater,ANDHRA PRADESH,2022,Safe,6.14,None,24.0,,7.465,2175.0,2.2,2.4,3.5,16.5,
+1514,"Bore Well At Autonagar, Vijayawada. ( In The R/O Of Mr. Vijay Kumar)",Groundwater,ANDHRA PRADESH,2022,Safe,5.86,None,25.0,,7.235,2078.0,2.1,3.8,3.0,13.0,
+1516,"Borewell Of Navlok Gardens, Nellore Town",Groundwater,ANDHRA PRADESH,2022,Safe,5.3,None,20.5,,7.955,1305.0,1.9,1.37,3.0,14.5,
+1517,"Borewell Near Tungbhadra River, Mamidalapadu (V), Kurnool (M)",Groundwater,ANDHRA PRADESH,2022,Safe,3.43,None,22.5,,7.35,4239.0,1.2,5.015,9.0,53.0,
+1518,Borewell At Nandyal Town,Groundwater,ANDHRA PRADESH,2022,Safe,3.39,None,24.0,,6.95,7477.5,1.2,18.24,5.0,40.0,
+1519,Borewell At Nagiri Town,Groundwater,ANDHRA PRADESH,2022,Safe,0.14,None,25.0,,6.7,1612.0,,7.805,8.0,62.0,
+1520,Borewell Near Swarnamukhi River At Srikalahasti Town,Groundwater,ANDHRA PRADESH,2022,Safe,0.06,None,25.0,,7.05,824.0,,1.48,2.0,34.0,
+1521,"Open Well Near Rama Temple, Ward No.2, Mindi, Visakhapatnam",Groundwater,ANDHRA PRADESH,2022,Safe,4.81,None,26.5,,7.64,2076.5,1.7,9.895,4.0,69.5,
+1522,"Open Well Peddanuvvi, Ponnada (V), Etcherla (M)",Groundwater,ANDHRA PRADESH,2022,Safe,7.04,None,26.0,,7.5,1200.0,2.5,3.44,5.0,78.5,
+1523,"Borewell Near M/S Andhra Sugars Ltd., Kovvur Town",Groundwater,ANDHRA PRADESH,2022,Safe,5.6,None,28.5,,7.795,521.0,2.0,2.36,3.0,33.5,
+1524,Open Well Near Partap Nagar Bridge - Kakinada Town,Groundwater,ANDHRA PRADESH,2022,Safe,3.98,None,26.5,,7.67,1157.5,1.4,4.755,3.5,79.5,
+3087,"Borewell Near Grampanchayat Office, Pathapadu (V), Vijayawada Rural",Groundwater,ANDHRA PRADESH,2022,Safe,5.31,None,24.0,,7.515,2257.5,1.9,1.73,3.5,17.0,
+3089,"Hand Pump At Tanam (V), Parawada (M)",Groundwater,ANDHRA PRADESH,2022,Safe,6.45,None,27.5,,6.51,2190.0,2.3,9.275,3.0,51.5,
+3090,"Hand Pump At Pittavanipalem (V), Parawada (M)",Groundwater,ANDHRA PRADESH,2022,Safe,5.88,None,26.5,,7.69,1446.0,2.1,9.495,3.0,41.0,
+3091,"Bore Well At Kapuluppada Dumpsite, Vishakhapatnam",Groundwater,ANDHRA PRADESH,2022,Safe,6.11,None,24.5,,7.285,3535.0,2.15,10.8,7.0,112.5,
+3092,"Bore Well At Arinam Akkivalasa (V), Etcherla (M)",Groundwater,ANDHRA PRADESH,2022,Safe,6.17,None,27.0,,7.725,1201.5,2.2,8.325,3.5,42.5,
+3093,"Bore Well At Alladapalem (V), Pusapatirega(M)",Groundwater,ANDHRA PRADESH,2022,Safe,5.34,None,25.0,,7.87,1273.0,1.9,7.08,3.5,51.5,
+4350,"Borewell At Zp High School, Uddanam Region, Amalapadu (V), Vajrapukotturu (M)",Groundwater,ANDHRA PRADESH,2022,Safe,6.32,None,28.0,,7.46,1005.0,2.25,6.275,3.0,57.0,
+4353,"Bore Well At Mangaraju House, Gajapathinagaram Village, Payakaraopeta (M)",Groundwater,ANDHRA PRADESH,2022,Safe,5.63,None,27.0,,8.04,3675.0,2.0,30.1,3.5,64.0,
+4354,"Bore Well, Sri Nookatata Temple Rajayyapeta Village, Nakkapalli (M)",Groundwater,ANDHRA PRADESH,2022,Safe,5.9,None,26.5,,7.685,10750.0,2.1,9.48,3.5,59.0,
+4355,"Bore Well, Chippada (V), Bheemunipatnam (M)",Groundwater,ANDHRA PRADESH,2022,Safe,3.83,None,25.5,,6.985,856.5,1.35,9.065,3.0,64.0,
+4360,"Bore Well At Ida, Ramanayyapeta, Kakinada Town",Groundwater,ANDHRA PRADESH,2022,Safe,3.1,None,26.0,,8.075,842.0,1.1,3.705,3.0,35.5,
+4364,"Bore Wall At Rajiv Gruhakalapa, Near Ap Paper Mills Workers Colony, Mallayyapeta, Katheru, Rajamahendravaram",Groundwater,ANDHRA PRADESH,2022,Safe,4.5,None,25.0,,7.87,824.5,1.6,4.17,3.0,43.5,
+4376,"Borewell Water , Apiic Office, Ida Kondapalli, Kondapalli (V), Ibrahimpatnam (M)",Groundwater,ANDHRA PRADESH,2022,Safe,7.98,None,23.0,,7.52,6220.0,2.85,2.95,5.0,49.0,
+4377,"Borewell At Imitation Jewellary Park, Machiliptnam Town",Groundwater,ANDHRA PRADESH,2022,Safe,7.97,None,27.0,,8.13,9560.0,2.85,3.905,4.0,46.0,
+4380,"Borewell Water , Sri Venkateswara Swamy Temple, Venkata Palem (V), Tullur (M)",Groundwater,ANDHRA PRADESH,2022,Safe,6.41,None,21.5,,7.595,891.0,2.3,0.68,3.0,11.5,
+4382,"Borewell At Pedakakani Police Station, Autonagar, Pedakakani (V & M)",Groundwater,ANDHRA PRADESH,2022,Safe,6.42,None,21.5,,7.54,4418.0,2.3,4.575,3.5,18.0,
+4384,"Borewell In Front Of M/S Bhageeradha Chemicals & Industries Ltd, Cheruvukommupalem (V), Ongole (M)",Groundwater,ANDHRA PRADESH,2022,Safe,7.3,None,24.5,,7.64,9740.0,2.6,8.735,6.5,57.0,
+4392,"Borewell Near Sri Govindaraja Swamy Temple, Tirupati Town",Groundwater,ANDHRA PRADESH,2022,Safe,0.11,None,26.5,,6.65,1042.5,,6.625,7.0,46.0,
+4393,"Closed Msw Dumpsite, Ukkayapalli (V), Kadapa (M)",Groundwater,ANDHRA PRADESH,2022,Safe,5.68,None,25.0,,7.15,2505.5,2.0,9.215,12.0,69.0,
+4394,"Borewell At Apiic Office Industrial Estate Growth Centre, Thumakunta (V), Hindupur (M)",Groundwater,ANDHRA PRADESH,2022,Safe,3.41,None,28.0,,6.9,2488.0,1.2,3.515,8.0,42.0,
+4395,"Borewell At Apiic Office Industrial Estate, Anantapur(M)",Groundwater,ANDHRA PRADESH,2022,Safe,0.05,None,27.0,,7.2,3098.5,,7.86,2.0,27.0,
+4349,"Sea Water, Bay Of Bengal, After Confluence Of Marine Outfall Of M/S.Aurobindo Pharma Ltd. Pydibheemavaram (V), Ranasthalam (M)",MARINE,ANDHRA PRADESH,2022,Safe,4.19,None,25.5,6.2,7.9,35550.0,1.85,0.85,5.0,84.0,
+4352,"Sea Waer Bay Of Bengal, After Confluence Of Marine Outfall Of M/S Matrix Laboratories Ltd Thammayyapalem (V) Pusapatirega (M)",MARINE,ANDHRA PRADESH,2022,Safe,4.79,None,26.5,5.9,8.1,44300.0,2.1,0.6,7.0,124.5,
+4357,"Rushikonda Beach,Visakhapatnam",BEACH,ANDHRA PRADESH,2022,Safe,4.66,None,27.0,5.9,8.1,43700.0,2.05,0.725,8.5,94.5,
+4361,"Sea Water Bay Bengal, Uppada Beach Road, Kakinada",BEACH,ANDHRA PRADESH,2022,Safe,5.68,None,26.5,6.2,8.15,28100.0,2.5,0.87,11.5,99.0,
+4362,"Sea Water, Bay Of Bengal Near Deep Water Port, Kakinada (1Km Away From Jetty)",SEA,ANDHRA PRADESH,2022,Unsafe,7.04,High BOD,26.0,6.65,7.9,25580.5,3.05,2.07,13.5,267.5,
+4363,"Sea Water Bay Of Bengal Near Kumbhabhishekam Tempale, Kakinada",SEA,ANDHRA PRADESH,2022,Safe,5.81,None,25.0,6.6,7.65,23740.5,2.5,2.585,12.0,262.0,
+4371,"Sea Water, Bay Of Bengal After Confluence Of River Vashista Godavari At Chinnamainavanilanka (V), Narsapur (M)",MARINE,ANDHRA PRADESH,2022,Safe,3.76,None,26.0,6.55,8.1,29400.0,1.65,0.765,8.5,84.5,
+4378,"Sea Water, Bay Of Bengal, Manginapudi Beach, Machilipatnam (V & M)",BEACH,ANDHRA PRADESH,2022,Safe,5.93,None,26.0,6.15,7.75,48350.0,2.6,1.325,7.0,163.5,3.0
+4383,"Sea Water Bay Of Bengal, Fishing Harbour, Nizampatnam (V & M)",MARINE,ANDHRA PRADESH,2022,Safe,5.94,None,23.0,5.65,7.65,41100.0,2.6,1.335,8.0,168.0,3.5
+4385,"Sea Water, Bay Of Bengal, Kothapatnam Beach",BEACH,ANDHRA PRADESH,2022,Safe,5.87,None,24.0,5.85,7.9,45400.0,2.55,1.265,10.5,209.0,4.0
+4386,"Sea Water, Bay Of Bengal, Vodarevu Beach, Chirala",BEACH,ANDHRA PRADESH,2022,Safe,6.24,None,23.5,6.05,7.85,44900.0,2.75,1.19,6.5,142.5,3.5
+4387,"Sea Water, Bay Of Bengal, Krishnapatnam Port",MARINE,ANDHRA PRADESH,2022,Safe,6.03,None,20.0,6.15,7.6,41880.0,2.65,0.975,7.0,153.5,3.0
+4919,"Brahmamsagar, Kandimallayapalli (V)",Pond/Tank,ANDHRA PRADESH,2022,Unsafe,21.83,"pH Out of Range, High BOD",,24.0,5.95,7.5,500.0,1.6,0.72,172.5,626.0
+4917,"Gangineni Cheruvu, Chittoor Town",Pond/Tank,ANDHRA PRADESH,2022,Unsafe,24.84,"pH Out of Range, High BOD",,22.5,5.05,7.25,500.0,2.4,1.955,466.5,1426.0
+1448,"River Nagavali At Thotapalli Regulator, Thotapalli (V), Garugubilli (M)",River,ANDHRA PRADESH,2022,Safe,4.64,None,26.5,6.95,7.9,290.0,2.0,1.68,16.0,166.5,2.0
+4351,"River Nagavali Immediate Border Between Andhra Pradesh & Orissa States, Near Sivalayam, Kuneru (V), Komarada (M)",River,ANDHRA PRADESH,2022,Safe,4.49,None,26.5,6.9,7.8,300.5,1.95,1.275,9.0,152.0,2.0
+4346,"River Nagavali Near Nh- 16 Bridge, Upstream (U/S) Of Srikakulam Town, Before Confluence Of Town Sewage",River,ANDHRA PRADESH,2022,Safe,4.82,None,25.5,6.5,7.85,329.5,2.05,1.545,9.5,290.0,2.0
+4347,"River Nagavali Near Water Pump House (Killipalem) , Down Stream (D/S) Of Srikakulam Town, After Confluence Of Town Sewage",River,ANDHRA PRADESH,2022,Safe,5.66,None,26.0,6.75,7.75,348.0,2.3,1.8,17.5,610.0,2.0
+2352,"River Vamsadhara, Gara (V & M)",River,ANDHRA PRADESH,2022,Safe,4.36,None,25.0,7.15,8.05,259.0,1.9,1.88,11.5,116.5,2.0
+4348,"River Vamsadhara, Immediate Border Between Andhra Pradesh & Orissa States, Near Lalithamba Temple, Battili (V) Bhamini (M)",River,ANDHRA PRADESH,2022,Safe,4.49,None,26.0,7.1,7.9,799.5,1.95,1.425,13.0,134.0,2.0
+20004,Stp At Rajahmundry,Drain/STP/WTP,ANDHRA PRADESH,2022,Unsafe,20.02,High BOD,,28.0,7.1,7.45,500.0,40.0,2.94,14.0,625.0
+2355,"Teki Drain At Tallarevu, Tallarevu (V & M), Before Joining Coringa Wildlife Sanctuary",River,ANDHRA PRADESH,2022,Unsafe,27.56,"pH Out of Range, High BOD",,25.5,4.05,7.8,500.0,4.8,1.905,17.5,610.0
+3052,"Guntathippa Drain B/C With Rives Canal At Ramavarappadu, Vijayawada Town",River,ANDHRA PRADESH,2022,Unsafe,31.7,"pH Out of Range, High BOD",,25.0,3.3,7.4,500.0,11.1,5.04,2286.0,5781.0
+3053,"Tulia Bagh Drain At Matlapalem (V), Vemulavada (M)",River,ANDHRA PRADESH,2022,Unsafe,27.26,"pH Out of Range, High BOD",,26.5,4.15,7.7,500.0,6.8,1.975,26.0,1275.0
+4369,"Colling Water Blow Downs From Andhra Sugars Ltd., Kovvur, Before Joining River Godavari",River,ANDHRA PRADESH,2022,Unsafe,20.63,"pH Out of Range, High BOD",,24.5,6.3,7.95,336.5,5.5,1.125,8.5,124.5
+2354,"Samarla Kota Canal,Samarla Kota (V & M)",Canal,ANDHRA PRADESH,2022,Unsafe,26.18,"pH Out of Range, High BOD",,25.0,4.5,7.625,379.5,3.3,1.5,25.0,290.0
+3051,"Budameru Canal Near Bdg At Nh-5, Keesarapalli (V), Gannavaram (M)",Canal,ANDHRA PRADESH,2022,Unsafe,27.79,"pH Out of Range, High BOD",,24.0,4.1,7.43,500.0,6.6,4.8,487.5,2620.0
+4356,"Eleru Canal, Near Pharma City,Thadi (V),Paravada (M)",Canal,ANDHRA PRADESH,2022,Unsafe,20.01,High BOD,,27.5,6.65,7.89,384.5,2.55,1.31,9.0,276.5
+4370,"Krishna Canal At Hanuman Nagar, Near Saibaba Temple, Eluru",Canal,ANDHRA PRADESH,2022,Unsafe,22.79,"pH Out of Range, High BOD",,24.0,5.6,7.915,500.0,3.15,2.07,14.0,290.0
+4374,"Gostta Nadi- Velpuru Canal At Hanuman Temple, Downstream Of Tanuku Town, Tanuku",Canal,ANDHRA PRADESH,2022,Unsafe,22.02,"pH Out of Range, High BOD",,25.0,5.85,7.775,500.0,3.75,1.625,12.5,290.0
+4359,River Godavari After Confluence With Sabari Tributary (Kunavaram) At Waddigudem(V) V.R. Puram (M),River,ANDHRA PRADESH,2022,Safe,4.04,None,26.0,7.2,7.945,383.0,1.8,2.575,3.5,34.5,
+1218,"River Godavari At Rajahmundry U/S, Kumaradevam (V), Kovvur (M)",River,ANDHRA PRADESH,2022,Safe,4.18,None,24.0,7.3,7.845,257.0,1.8,1.57,21.0,124.5,
+1219,"River Godavari At Rajahmundry D/S, Dowleswaram (V), Rajahmundry (M)",River,ANDHRA PRADESH,2022,Safe,5.09,None,26.5,7.1,7.73,252.5,2.2,1.12,23.5,141.5,
+2370,"River Godavari At Rajamundry U/S Of Nalla Channel,Rajamundry",River,ANDHRA PRADESH,2022,Safe,4.42,None,25.5,6.9,7.785,343.0,1.9,1.4,17.5,166.5,
+2371,"River Godavari At Rajamundry D/S Of Nalla Channel, Rajamundry",River,ANDHRA PRADESH,2022,Safe,4.85,None,26.0,6.95,7.945,268.0,2.05,1.39,17.5,290.0,
+14,River Godavari At Polavaram (V & M),River,ANDHRA PRADESH,2022,Safe,4.68,None,25.0,7.4,7.875,1091.0,2.05,1.56,9.0,112.5,
+3067,"River Godavari D/S Dowleiswaram After Confluence Of Stp Outlet, Dowleiswaram (V)",River,ANDHRA PRADESH,2022,Safe,5.31,None,26.5,6.95,7.925,1109.5,2.3,1.19,12.5,195.0,3.0
+2373,"River Sabari At Kunavaram, East Godavari Dist",River,ANDHRA PRADESH,2022,Safe,3.84,None,26.5,7.25,7.985,802.5,1.7,2.33,7.0,43.0,
+4372,"River Gostani Sample Before Confluence With M/S Delta Paper Mill Effluents, Vendra (V), Palakoderu (M)",River,ANDHRA PRADESH,2022,Unsafe,15.58,"Low DO, High BOD",23.0,4.05,7.995,10569.0,5.2,1.7,9.0,251.5,
+4373,"River Gostani Sample After Confluence With M/S Delta Papeer Mill Effluents, Bendra, Palakoderu (M), But Before Confluence With Yanamadurru Drain",River,ANDHRA PRADESH,2022,Unsafe,19.21,"Low DO, High BOD",24.0,3.65,7.685,10585.0,6.1,1.83,12.5,267.5,
+1175,"River Krishna A/C With Tungabhadra, Sangameshwaram (V), Kottapalle (M)",River,ANDHRA PRADESH,2022,Safe,5.64,None,24.5,5.95,7.5,907.0,1.9,1.825,218.0,693.0,
+1786,"River Krishna At Vedadri (V), Jaggayyapeta (M)",River,ANDHRA PRADESH,2022,Safe,6.26,None,26.0,7.05,7.61,835.0,2.65,1.43,26.0,340.0,5.5
+3083,"River Krishna D/S Of Srishailam, Srishailam",River,ANDHRA PRADESH,2022,Safe,5.44,None,23.5,5.95,7.5,601.0,1.65,0.86,259.5,925.0,
+3079,"River Krishna D/S Of Ramalingeshwarnagar A/C With Treated Sewage Discharging From 10Mld Stp Located At Ramalingeshwarnagar, Vijayawada, Krishna",River,ANDHRA PRADESH,2022,Safe,6.09,None,25.0,7.4,7.82,826.0,2.6,1.46,14.0,330.0,5.0
+1787,"River Krishna At Amaravati, Amaravati (V & M)",River,ANDHRA PRADESH,2022,Safe,6.13,None,23.0,7.3,7.7,757.5,2.65,1.6,16.5,229.5,5.0
+25,River Krishna At Vijaywada Town,River,ANDHRA PRADESH,2022,Safe,6.17,None,25.5,7.3,7.75,729.0,2.65,1.245,20.0,262.0,7.0
+1782,River Krishna At Hamsaladeevi Puligadda Aqueduct Near Avanigadda (V),River,ANDHRA PRADESH,2022,Safe,6.38,None,25.5,6.5,7.7,22700.0,2.75,1.38,24.5,216.0,3.5
+4375,"River Krishna, Pavithra Sangamam, After Confluence With River Godavari Water, Ferry (V), Ibrahimpatnam (M)",River,ANDHRA PRADESH,2022,Safe,6.05,None,25.0,7.2,7.9,665.0,2.6,1.095,10.5,290.0,4.0
+1174,"River Tungabhadra At Kurnool U/S, Bhavapuram (V), Kurnool (M)",River,ANDHRA PRADESH,2022,Safe,7.68,None,25.5,5.65,7.4,942.5,2.55,1.09,285.5,1092.0,
+1785,River Tungabhadra At Manthralayam (V & M),River,ANDHRA PRADESH,2022,Safe,8.48,None,25.5,5.5,7.55,1133.0,2.75,0.885,351.5,1211.0,
+4388,"River Tungabhadra, Upstream Of Kurnool Town Before Joining City Domestic Sewage And After M/S Rayalaseema Alkalies Industries Near Sivalayam Temple, Gondiparla (V), Kurnool (M)",River,ANDHRA PRADESH,2022,Safe,8.07,None,26.0,5.45,7.35,1031.0,2.6,1.13,338.0,1184.5,
+4389,"River Tungabhadra, Downstream Of Kurnool Town After Joining City Domestic Sewage, Padidempadu (V),",River,ANDHRA PRADESH,2022,Safe,8.06,None,24.5,5.3,7.25,971.0,2.5,1.59,349.0,1389.5,
+1178,"River Palleru B/C With Krishna, Jaggaiapet (V &M)",River,ANDHRA PRADESH,2022,Safe,6.4,None,26.5,7.15,7.835,973.5,2.75,1.34,13.5,303.0,5.5
+1177,"River Muneru B/C With Krishna, Keesara (V & M)",River,ANDHRA PRADESH,2022,Safe,6.15,None,26.0,7.05,8.06,861.0,2.65,1.37,10.0,281.5,4.5
+2350,"River Hundri At Laxmipuram (V), Kallur",River,ANDHRA PRADESH,2022,Safe,6.55,None,24.5,5.75,7.55,1158.5,2.0,1.395,313.0,1070.5,
+4379,"River Upputeru Before Confluence With Sea, At Chinna Gollapalem (V), Kruthivennu (M)","ANDHRA
+PRADESH",ANDHRA PRADESH,2022,Safe,6.31,None,25.0,5.6,7.64,44775.0,2.75,1.2,9.5,208.0,4.55
+1255,"River Pennar B/C With Chitravathi, Tadipatri (M), Venganur (V)",River,ANDHRA PRADESH,2022,Safe,7.1,None,25.0,5.8,7.65,783.5,2.0,0.665,399.5,1327.0,
+1256,"River Pennar A/C With Papagni, Pushpagiri (V),Vallur (M)",River,ANDHRA PRADESH,2022,Safe,7.3,None,25.5,5.65,7.75,924.0,2.35,2.345,301.5,1091.0,
+1257,"River Pennar A/C With Cheyyuru, Somasila (V), Ananthasagaram (M)",River,ANDHRA PRADESH,2022,Safe,6.3,None,20.0,7.1,7.755,841.0,2.7,1.51,16.4,304.0,7.5
+30,River Pennar At Siddavatam (V & M),River,ANDHRA PRADESH,2022,Safe,6.57,None,24.0,5.65,7.4,866.0,2.0,1.27,314.0,1092.0,
+2351,"River Kundu, Nandyal, Near Over Bdg.,Nandyal Town",River,ANDHRA PRADESH,2022,Unsafe,9.01,High Fecal Coliform,24.0,5.25,7.45,962.0,2.6,3.565,514.0,1476.0,

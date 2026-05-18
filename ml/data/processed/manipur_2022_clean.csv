@@ -1,0 +1,97 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1920,"Tube Well Near Padma English School, Kakching",Groundwater,MANIPUR,2022,Safe,0.0,None,23.0,,7.5,875.0,,,,,
+1921,Tube Well At Heirok Bazar,Groundwater,MANIPUR,2022,Safe,0.0,None,24.0,,7.0,820.0,,,,,
+1922,"Tube Well At Khumujamba Near Ibudhou Maigeingakpa Temple , Lamka",Groundwater,MANIPUR,2022,Safe,0.0,None,25.0,,7.5,675.0,,,,,
+1923,"Tube Well Near Turel Wangma Community Hall, Moreh",Groundwater,MANIPUR,2022,Safe,0.0,None,25.0,,7.4,620.0,,,,,
+1924,"Tube Well At Molnoi Village C. Ganmnum Village, Pallel",Groundwater,MANIPUR,2022,Safe,0.0,None,25.0,,7.25,650.0,,,,,
+2881,Hand Pump At Takhel,Groundwater,MANIPUR,2022,Safe,0.0,None,23.5,,7.1,615.0,,,,,
+2885,Hand Pump At Saiton,Groundwater,MANIPUR,2022,Safe,0.0,None,24.0,,7.3,580.0,,,,,
+1426,Loktak Lake At Bishnupur,Pond/Tank,MANIPUR,2022,Unsafe,25.05,High BOD,,21.5,7.15,7.3,170.0,3.2,,47.5,95.0
+1630,Loktak Lake At Karang Island,Pond/Tank,MANIPUR,2022,Unsafe,25.02,High BOD,,22.0,7.05,7.3,180.0,3.3,,15.0,47.5
+1629,Loktak Lake At Sendra,Pond/Tank,MANIPUR,2022,Unsafe,25.08,High BOD,,22.0,7.1,7.2,175.0,3.2,,77.5,102.5
+1425,Loktak Lake At Thana,Pond/Tank,MANIPUR,2022,Unsafe,25.04,High BOD,,21.5,7.1,7.3,170.0,3.25,,40.0,67.5
+2837,Pumlen Lake At Tokpaching,Pond/Tank,MANIPUR,2022,Unsafe,25.02,High BOD,,21.5,7.35,7.25,165.0,3.3,,20.0,45.0
+2849,Chanam Pukhuri,Pond/Tank,MANIPUR,2022,Unsafe,25.05,High BOD,,22.0,6.55,7.3,287.0,3.65,,50.0,115.0
+2841,Hiranmei Pukhuri At Hiyanglam,Pond/Tank,MANIPUR,2022,Unsafe,25.04,High BOD,,21.5,7.0,7.15,250.0,3.3,,40.0,87.5
+2861,Kangla Pond Near Western Kangla Gate,Pond/Tank,MANIPUR,2022,Unsafe,25.07,High BOD,,22.0,6.7,7.25,233.0,3.6,,65.0,152.5
+2840,Lamjao Pukhuri At Achouba,Pond/Tank,MANIPUR,2022,Unsafe,25.01,High BOD,,21.0,7.15,7.35,209.0,3.3,,12.5,42.5
+2842,Langmeidong Pukhuri At Thoubal,Pond/Tank,MANIPUR,2022,Unsafe,25.02,High BOD,,22.0,7.1,7.25,220.0,3.4,,15.0,45.0
+2844,Lilong Chajing Pukhuri Achouba,Pond/Tank,MANIPUR,2022,Unsafe,25.02,High BOD,,21.5,7.05,7.35,213.0,3.3,,22.5,55.0
+2850,Ningthem Pukhuri,Pond/Tank,MANIPUR,2022,Unsafe,25.25,"pH Out of Range, High BOD",,22.0,6.45,7.3,263.5,3.8,,55.0,137.5
+2848,Pond At Kakwa Bazar,Pond/Tank,MANIPUR,2022,Unsafe,25.45,"pH Out of Range, High BOD",,22.0,6.4,7.3,405.0,3.7,,65.0,127.5
+2851,Pond At Kongba Bazar,Pond/Tank,MANIPUR,2022,Unsafe,25.48,"pH Out of Range, High BOD",,22.0,6.4,7.3,445.0,3.85,,92.5,307.5
+2843,Pond At Lalambung,Pond/Tank,MANIPUR,2022,Unsafe,25.03,High BOD,,21.5,6.95,7.2,225.0,3.4,,30.0,67.5
+2846,Pond At Moidangpok,Pond/Tank,MANIPUR,2022,Unsafe,25.02,High BOD,,21.5,7.25,7.2,148.0,3.25,,17.5,42.5
+2845,Pond At Ngairangbam,Pond/Tank,MANIPUR,2022,Unsafe,25.02,High BOD,,21.5,7.25,7.4,155.0,3.25,,25.0,57.5
+2839,Pukhri At Langmeidong,Pond/Tank,MANIPUR,2022,Unsafe,25.02,High BOD,,22.0,7.3,7.25,235.0,3.3,,25.0,60.0
+2847,Pukhuri Near Maibam Lokpaching,Pond/Tank,MANIPUR,2022,Unsafe,25.04,High BOD,,22.0,7.2,7.2,349.5,3.45,,42.5,92.5
+2871,River Thoubal Kong Near Yaolen Village,River,MANIPUR,2022,Unsafe,8.21,High BOD,22.0,6.45,7.25,265.0,3.5,,77.5,160.0,
+2868,River Chakpi At Chakpikarong,River,MANIPUR,2022,Unsafe,6.97,High BOD,21.0,7.4,7.45,205.0,3.1,,12.5,42.5,
+2879,River Ethai Barrage On Manipur River,River,MANIPUR,2022,Unsafe,7.57,High BOD,21.5,7.3,7.25,185.0,3.2,,77.5,197.5,
+1627,River Imphal At Kiyamgi,River,MANIPUR,2022,Unsafe,7.25,High BOD,22.0,7.1,7.25,295.0,3.1,,62.5,150.0,
+1457,River Imphal At Koirengei,River,MANIPUR,2022,Unsafe,7.05,High BOD,21.5,7.3,7.3,180.0,3.05,,47.5,115.0,
+1424,River Imphal At Mahabali,River,MANIPUR,2022,Unsafe,7.58,High BOD,22.5,7.0,7.35,190.0,3.25,,62.5,145.0,
+1628,River Imphal At Minuthong,River,MANIPUR,2022,Unsafe,7.61,High BOD,22.0,7.15,7.4,188.5,3.25,,67.5,162.5,
+2862,River Imphal At Samurou,River,MANIPUR,2022,Unsafe,7.59,High BOD,22.0,7.3,7.35,190.0,3.25,,67.5,135.0,
+2864,"River Imphal Near Leikinthabi Road, Awang Sekmai",River,MANIPUR,2022,Unsafe,7.59,High BOD,22.0,7.15,7.4,230.0,3.25,,67.5,135.0,
+2874,River Irang At Tamenglong,River,MANIPUR,2022,Unsafe,7.47,High BOD,22.0,6.65,7.5,185.0,3.2,,65.0,137.5,
+2863,River Iril At Kangla Siphai,River,MANIPUR,2022,Safe,6.85,None,21.5,7.4,7.4,222.5,3.0,,35.0,65.0,
+1624,River Iril At Lilong,River,MANIPUR,2022,Unsafe,7.59,High BOD,22.5,7.25,7.35,240.0,3.25,,62.5,162.5,
+2873,River Iril At Lilong,River,MANIPUR,2022,Unsafe,7.31,High BOD,22.5,7.1,7.35,275.0,3.1,,72.5,170.0,
+1458,River Iril At Porampet,River,MANIPUR,2022,Unsafe,7.02,High BOD,22.0,7.3,7.45,260.0,3.05,,42.5,97.5,
+1926,"River Khujairok Near Elora Hotel Road, Moreh",River,MANIPUR,2022,Unsafe,8.31,High BOD,23.5,7.15,7.2,389.0,3.4,,122.5,345.0,
+2867,River Maha Near Komlathabi Bazar,River,MANIPUR,2022,Unsafe,7.32,High BOD,21.5,7.1,7.35,240.0,3.25,,17.5,47.5,
+2852,River Manipur At Sekmaijin,River,MANIPUR,2022,Unsafe,7.51,High BOD,21.5,7.35,7.45,180.5,3.2,,70.0,152.5,
+2857,River Manipur At Thoubal,River,MANIPUR,2022,Unsafe,8.98,High BOD,22.0,7.0,7.2,272.5,3.85,,72.5,180.0,
+1626,River Nambul At Heirangoithong,River,MANIPUR,2022,Unsafe,11.02,High BOD,22.0,6.25,7.05,525.0,4.3,,200.0,837.5,
+1625,River Nambul At Hump Bridge,River,MANIPUR,2022,Unsafe,12.05,High BOD,22.5,5.9,6.7,478.0,4.8,,187.5,802.5,
+2860,River Nambul At Naoremthong,River,MANIPUR,2022,Unsafe,9.82,High BOD,22.0,6.55,7.05,245.0,4.15,,105.0,227.5,
+2858,River Nambul At Samusang (U.K. Road),River,MANIPUR,2022,Unsafe,10.11,High BOD,22.0,6.55,6.9,275.0,4.25,,115.0,267.5,
+2859,River Nambul At Singda Dam,River,MANIPUR,2022,Unsafe,7.18,High BOD,21.0,7.6,7.45,138.5,3.15,,22.5,120.0,
+1927,"River Sekmai River, Kakching",River,MANIPUR,2022,Unsafe,7.76,High BOD,22.0,7.25,7.4,186.5,3.35,,57.5,115.0,
+2872,River Thoubal At Litan Bridge,River,MANIPUR,2022,Unsafe,7.06,High BOD,21.5,7.25,7.45,220.0,3.1,,30.0,67.5,
+2854,River Thoubal At Phadom,River,MANIPUR,2022,Unsafe,7.22,High BOD,22.5,7.25,7.4,180.5,3.15,,35.0,105.0,
+2870,River Thoubal At Shong Kong,River,MANIPUR,2022,Unsafe,8.57,High BOD,21.5,7.45,7.35,234.5,3.8,,22.5,50.0,
+2856,River Thoubal At Yairipok,River,MANIPUR,2022,Unsafe,7.56,High BOD,22.0,7.15,7.2,245.0,3.25,,57.5,147.5,
+2853,River Thoubal On Mapithel Dam,River,MANIPUR,2022,Unsafe,7.28,High BOD,22.0,7.3,7.45,182.5,3.2,,30.0,70.0,
+2855,River Wangjing At Heirok,River,MANIPUR,2022,Unsafe,7.62,High BOD,22.0,7.1,7.15,190.0,3.3,,50.0,122.5,
+2876,River Wangjing At Wangjing,River,MANIPUR,2022,Unsafe,7.57,High BOD,22.0,7.25,7.2,235.0,3.25,,55.0,165.0,
+2836,"Morambamarine Canal Near Presbyterian Church, Tokpaching",CANAL,MANIPUR,2022,Safe,6.73,None,21.0,7.2,7.35,177.5,2.95,,32.5,62.5,
+2838,"River Noney/Ijei At Noney Bridge, Noney",River,MANIPUR,2022,Unsafe,7.35,High BOD,22.5,7.4,7.3,177.5,3.15,,62.5,132.5,
+2869,River Barak At Senapati,River,MANIPUR,2022,Unsafe,7.04,High BOD,21.0,7.4,7.5,235.0,3.1,,27.5,60.0,
+2875,"River Barak At N.H. 53, Tamenglong",River,MANIPUR,2022,Unsafe,7.1,High BOD,22.5,7.3,7.35,180.0,3.15,,17.5,47.5,
+1424,River Imphal At Mahabali,River,MANIPUR,2022,Unsafe,7.58,High BOD,22.5,7.0,7.35,190.0,3.25,,62.5,145.0,
+1457,River Imphal At Koirengei,River,MANIPUR,2022,Unsafe,7.05,High BOD,21.5,7.3,7.3,180.0,3.05,,47.5,115.0,
+1627,River Imphal At Kiyamgi,River,MANIPUR,2022,Unsafe,7.25,High BOD,22.0,7.1,7.25,295.0,3.1,,62.5,150.0,
+1628,River Imphal At Minuthong,River,MANIPUR,2022,Unsafe,7.61,High BOD,22.0,7.15,7.4,188.5,3.25,,67.5,162.5,
+2862,River Imphal At Samurou,River,MANIPUR,2022,Unsafe,7.59,High BOD,22.0,7.3,7.35,190.0,3.25,,67.5,135.0,
+2864,"River Imphal Near Leikinthabi Road, Awang Sekmai",River,MANIPUR,2022,Unsafe,7.59,High BOD,22.0,7.15,7.4,230.0,3.25,,67.5,135.0,
+1458,River Iril At Porampet,River,MANIPUR,2022,Unsafe,7.02,High BOD,22.0,7.3,7.45,260.0,3.05,,42.5,97.5,
+1624,River Iril At Lilong,River,MANIPUR,2022,Unsafe,7.59,High BOD,22.5,7.25,7.35,240.0,3.25,,62.5,162.5,
+2863,River Iril At Kangla Siphai,River,MANIPUR,2022,Safe,6.85,None,21.5,7.4,7.4,222.5,3.0,,35.0,65.0,
+2873,River Iril At Lilong,River,MANIPUR,2022,Unsafe,7.31,High BOD,22.5,7.1,7.35,275.0,3.1,,72.5,170.0,
+1625,River Nambul At Hump Bridge,River,MANIPUR,2022,Unsafe,12.05,High BOD,22.5,5.9,6.7,478.0,4.8,,187.5,802.5,
+1626,River Nambul At Heirangoithong,River,MANIPUR,2022,Unsafe,11.02,High BOD,22.0,6.25,7.05,525.0,4.3,,200.0,837.5,
+2858,River Nambul At Samusang (U.K. Road),River,MANIPUR,2022,Unsafe,10.11,High BOD,22.0,6.55,6.9,275.0,4.25,,115.0,267.5,
+2859,River Nambul At Singda Dam,River,MANIPUR,2022,Unsafe,7.18,High BOD,21.0,7.6,7.45,138.5,3.15,,22.5,120.0,
+2860,River Nambul At Naoremthong,River,MANIPUR,2022,Unsafe,9.82,High BOD,22.0,6.55,7.05,245.0,4.15,,105.0,227.5,
+1925,"River Khuga (Tuitha) At Rengkai, Churachandpur",River,MANIPUR,2022,Unsafe,7.75,High BOD,22.0,7.25,7.3,265.0,3.3,,65.0,202.5,
+1926,"River Khujairok Near Elora Hotel Road, Moreh",River,MANIPUR,2022,Unsafe,8.31,High BOD,23.5,7.15,7.2,389.0,3.4,,122.5,345.0,
+1927,"River Sekmai River, Kakching",River,MANIPUR,2022,Unsafe,7.76,High BOD,22.0,7.25,7.4,186.5,3.35,,57.5,115.0,
+2852,River Manipur At Sekmaijin,River,MANIPUR,2022,Unsafe,7.51,High BOD,21.5,7.35,7.45,180.5,3.2,,70.0,152.5,
+2853,River Thoubal On Mapithel Dam,River,MANIPUR,2022,Unsafe,7.28,High BOD,22.0,7.3,7.45,182.5,3.2,,30.0,70.0,
+2854,River Thoubal At Phadom,River,MANIPUR,2022,Unsafe,7.22,High BOD,22.5,7.25,7.4,180.5,3.15,,35.0,105.0,
+2856,River Thoubal At Yairipok,River,MANIPUR,2022,Unsafe,7.56,High BOD,22.0,7.15,7.2,245.0,3.25,,57.5,147.5,
+2870,River Thoubal At Shong Kong,River,MANIPUR,2022,Unsafe,8.57,High BOD,21.5,7.45,7.35,234.5,3.8,,22.5,50.0,
+2871,River Thoubal Kong Near Yaolen Village,River,MANIPUR,2022,Unsafe,8.21,High BOD,22.0,6.45,7.25,265.0,3.5,,77.5,160.0,
+2872,River Thoubal At Litan Bridge,River,MANIPUR,2022,Unsafe,7.06,High BOD,21.5,7.25,7.45,220.0,3.1,,30.0,67.5,
+2855,River Wangjing At Heirok,River,MANIPUR,2022,Unsafe,7.62,High BOD,22.0,7.1,7.15,190.0,3.3,,50.0,122.5,
+2857,River Manipur At Thoubal,River,MANIPUR,2022,Unsafe,8.98,High BOD,22.0,7.0,7.2,272.5,3.85,,72.5,180.0,
+2867,River Maha Near Komlathabi Bazar,River,MANIPUR,2022,Unsafe,7.32,High BOD,21.5,7.1,7.35,240.0,3.25,,17.5,47.5,
+2868,River Chakpi At Chakpikarong,River,MANIPUR,2022,Unsafe,6.97,High BOD,21.0,7.4,7.45,205.0,3.1,,12.5,42.5,
+2876,River Wangjing At Wangjing,River,MANIPUR,2022,Unsafe,7.57,High BOD,22.0,7.25,7.2,235.0,3.25,,55.0,165.0,
+2877,River Khuga (Tuitha) Dam On Khuga River,River,MANIPUR,2022,Unsafe,7.27,High BOD,22.0,7.35,7.4,198.5,3.2,,22.5,97.5,
+2878,River Thongjaorok At Thongjaorok Bridge,River,MANIPUR,2022,Unsafe,7.62,High BOD,21.5,7.2,7.3,190.0,3.3,,45.0,140.0,
+2879,River Ethai Barrage On Manipur River,River,MANIPUR,2022,Unsafe,7.57,High BOD,21.5,7.3,7.25,185.0,3.2,,77.5,197.5,
+2880,River Nambol At Bishnupur,River,MANIPUR,2022,Unsafe,7.78,High BOD,22.0,7.25,7.2,190.0,3.3,,72.5,202.5,
+2874,River Irang At Tamenglong,River,MANIPUR,2022,Unsafe,7.47,High BOD,22.0,6.65,7.5,185.0,3.2,,65.0,137.5,

@@ -1,0 +1,101 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg,latitude,longitude,geocode_query,geocoded
+1533,"Digboi, Tinsukia Distt",Groundwater,ASSAM,2016,Safe,13.16,,21.0,,6.6,200.0,2.8,0.1,,2100.0,,27.3956145,95.614868,"digboi tinsukia distt, Assam, India",True
+1534,Karbi Anglong Distt,Groundwater,ASSAM,2016,Safe,11.1,,25.0,,6.55,694.0,2.0,0.3,,,,26.0712781,93.4552969,"karbi anglong distt, Assam, India",True
+1535,Sibsagar,Groundwater,ASSAM,2016,Safe,9.16,,23.5,,6.5,245.5,1.65,0.2,,,,26.9834936,94.6394226,"sibsagar, Assam, India",True
+1536,Sibsagar,Groundwater,ASSAM,2016,Unsafe,13.26,pH Out of Range,24.0,,6.4,186.0,2.25,0.25,,,,26.9834936,94.6394226,"sibsagar, Assam, India",True
+1537,(Jorhat,Groundwater,ASSAM,2016,Safe,11.93,,25.0,,6.5,170.0,2.15,3.05,,,,26.7577925,94.2079645,"jorhat, Assam, India",True
+1538,Silchar,Groundwater,ASSAM,2016,Unsafe,5.76,pH Out of Range,26.5,,5.9,74.0,0.7,0.55,,73.0,,24.830302,92.7875689,"silchar, Assam, India",True
+1539,Barpeta,Groundwater,ASSAM,2016,Safe,10.45,,29.0,,6.95,255.0,2.3,3.15,,1455.0,,26.345941,91.039708,"barpeta, Assam, India",True
+1540,Bonaigaon,Groundwater,ASSAM,2016,Unsafe,4.75,pH Out of Range,29.5,,6.35,426.0,1.05,7.15,,73.0,,,,,False
+1541,Guwahati,Groundwater,ASSAM,2016,Unsafe,12.65,High BOD,26.5,,6.75,241.5,3.3,0.2,,330.0,,26.1805978,91.753943,"guwahati, Assam, India",True
+1542,Guwahati,Groundwater,ASSAM,2016,Unsafe,20.54,High BOD,24.0,,6.6,587.5,3.7,7.4,,,,26.1805978,91.753943,"guwahati, Assam, India",True
+2243,"Ground Water From Ledo, Margherita",Groundwater,ASSAM,2016,Safe,10.82,,22.0,,6.95,223.0,1.95,0.1,,,,27.2945211,95.73688,"ledo margherita, Assam, India",True
+2244,Ground Water From Nazira,Groundwater,ASSAM,2016,Safe,6.89,,24.5,,7.05,197.5,1.85,0.15,,36.0,,26.8622087,94.7183167,"nazira, Assam, India",True
+2245,Ground Water From Numaligarh (Near Nrl Te Labor Colony),Groundwater,ASSAM,2016,Unsafe,7.35,pH Out of Range,26.0,,6.05,102.5,0.7,1.05,,,,26.7472242,94.2480731,"colony, Assam, India",True
+2246,Ground Water From Semenchapari,Groundwater,ASSAM,2016,Safe,8.05,,22.5,,7.05,151.0,1.45,0.2,,,,,,,False
+2247,Ground Water From Silapathar,Groundwater,ASSAM,2016,Safe,9.16,,23.0,,7.3,224.0,1.65,0.2,,,,27.5893833,94.7255857,"silapathar, Assam, India",True
+2248,Ground Water From Lakhimpur Town,Groundwater,ASSAM,2016,Unsafe,6.07,pH Out of Range,25.0,,6.2,191.5,1.2,0.3,,72.0,,27.236211,94.1038765,"lakhimpur town, Assam, India",True
+2249,Ground Water From Tezpur (Mission Chariali),Groundwater,ASSAM,2016,Safe,8.0,,24.5,,6.65,126.5,2.15,0.35,,36.0,,26.352039,92.6906592,"mission chariali, Assam, India",True
+2250,Ground Water From Nagaon (Panigaon),Groundwater,ASSAM,2016,Unsafe,7.14,pH Out of Range,29.0,,6.35,266.5,1.55,0.2,,480.0,,26.3480551,92.698018,"nagaon panigaon, Assam, India",True
+2251,Ground Water From Jagiroad Near Hpc Effluent Discharge Point,Groundwater,ASSAM,2016,Unsafe,14.78,pH Out of Range,31.0,,5.8,882.0,2.7,10.15,,900.0,,,,,False
+2252,Ground Water Near Msw Dumping Site At Garchuk-Guwahati,Groundwater,ASSAM,2016,Safe,5.51,,24.0,,6.75,295.0,0.95,0.1,,1500.0,,26.11114,91.6853199,"garchuk guwahati, Assam, India",True
+2253,Ground Water From Nalbari,Groundwater,ASSAM,2016,Safe,10.82,,25.5,,6.9,308.0,1.95,0.6,,,,26.3533632,91.3983662,"nalbari, Assam, India",True
+2254,Ground Water From Barpeta Road(Rly Station),Groundwater,ASSAM,2016,Safe,8.6,,29.5,,6.95,635.5,2.0,0.85,,900.0,,26.5021259,90.9645713,"barpeta station, Assam, India",True
+2255,"Ground Water Near Bprl, Dhaligaon",Groundwater,ASSAM,2016,Safe,5.28,,29.0,,6.55,204.5,1.4,5.05,,73.0,,26.4958001,90.5226391,"dhaligaon, Assam, India",True
+2256,Ground Water From Kokrajhar District (Hs School ),Groundwater,ASSAM,2016,Unsafe,6.06,pH Out of Range,29.0,,6.05,148.5,1.0,0.15,,36.0,,26.4912104,90.1215209,"kokrajhar district, Assam, India",True
+2257,Ground Water From Dhubri District (College Nagar ),Groundwater,ASSAM,2016,Unsafe,7.2,High Total Coliform,29.5,,7.25,440.0,0.9,0.1,,2900.0,,26.7503197,94.1821094,"district nagar, Assam, India",True
+2260,Ground Water From Hamren,Groundwater,ASSAM,2016,Unsafe,9.69,pH Out of Range,25.0,,6.25,164.5,1.4,0.4,,,,25.8449919,92.5748777,"hamren, Assam, India",True
+2261,Ground Water From Haflong,Groundwater,ASSAM,2016,Safe,5.67,,23.0,,7.8,131.0,1.5,0.1,,91.0,,25.1825103,92.8984045,"haflong, Assam, India",True
+2262,Ground Water From Karimganj (College),Groundwater,ASSAM,2016,Unsafe,8.52,pH Out of Range,26.0,,6.15,86.0,1.05,0.1,,,,24.5828196,92.3725487,"karimganj, Assam, India",True
+2263,Ground Water From Hialakandi (Near,Groundwater,ASSAM,2016,Safe,7.18,,25.5,,6.8,137.0,1.9,1.7,,110.0,,,,,False
+2264,Ground Water In Panchgram Market Near Cachar Paper Mill,Groundwater,ASSAM,2016,Unsafe,12.23,pH Out of Range,25.5,,6.1,160.0,1.65,0.7,,,,26.1692384,91.7598512,"mill, Assam, India",True
+2205,Mer Beel At Madhabpur,Pond/Tank,ASSAM,2016,Unsafe,23.68,"pH Out of Range, High BOD",,25.0,5.45,7.0,131.0,12.35,3.2,550.0,55455.0,,,,False
+2206,Daloni Beel Near Jogighopa,Pond/Tank,ASSAM,2016,Unsafe,23.18,"pH Out of Range, High BOD",,27.0,5.65,7.7,138.5,2.35,0.35,700.0,6360.0,26.2222913,90.5731185,"jogighopa, Assam, India",True
+1263,Elangabeel System Pond (Connected To R. Kolang),Pond/Tank,ASSAM,2016,Unsafe,30.9,"pH Out of Range, High BOD",,30.0,3.15,9.4,500.0,45.9,3.1,730.0,8250.0,,,,False
+2207,Bor Beel At Jakai,Pond/Tank,ASSAM,2016,Unsafe,23.75,"pH Out of Range, High BOD",,23.5,5.4,6.8,130.0,2.2,0.75,455.0,14865.0,26.6283074,94.1137361,"jakai, Assam, India",True
+2208,"Borpukhuri, Nazira",Pond/Tank,ASSAM,2016,Unsafe,23.56,"pH Out of Range, High BOD",,25.0,5.45,7.1,77.5,3.9,0.55,410.5,55180.0,26.8622087,94.7183167,"nazira, Assam, India",True
+2209,"Gaurisagar Tank, Gaurisagar",Pond/Tank,ASSAM,2016,Unsafe,24.16,"pH Out of Range, High BOD",,24.5,5.55,7.0,26.5,2.5,0.35,1550.0,23750.0,26.9484393,94.53558,"gaurisagar, Assam, India",True
+2210,"Rajmaw Pukhuri, Jorhat",Pond/Tank,ASSAM,2016,Unsafe,24.18,"pH Out of Range, High BOD",,24.5,5.3,7.5,105.0,2.3,0.3,605.0,55700.0,26.7484604,94.2176863,"pukhuri jorhat, Assam, India",True
+2211,"Padumpukhuri, Tezpur",Pond/Tank,ASSAM,2016,Unsafe,20.29,High BOD,,25.5,8.5,8.6,227.5,13.55,1.3,350.0,2650.0,26.6229928,92.7976082,"tezpur, Assam, India",True
+2212,"Gophur Tank, Gophur",Pond/Tank,ASSAM,2016,Unsafe,20.6,High BOD,,24.5,7.75,7.7,80.5,5.4,0.55,750.0,55075.0,,,,False
+2213,"Jaipal Pukhuri, Sipajhar",Pond/Tank,ASSAM,2016,Unsafe,20.3,High BOD,,24.5,7.85,7.65,31.5,10.6,1.3,365.0,7500.0,26.3185876,91.861363,"sipajhar, Assam, India",True
+2214,"Botodriva Satra Pond, Nagaon",Pond/Tank,ASSAM,2016,Unsafe,26.32,"pH Out of Range, High BOD",,26.5,4.85,6.75,35.0,7.25,0.5,1550.0,56000.0,26.3313646,92.7524763,"nagaon, Assam, India",True
+2215,Saran Beel,Pond/Tank,ASSAM,2016,Unsafe,21.72,High BOD,,29.5,6.9,7.1,65.5,5.5,0.4,2150.0,55700.0,26.1214488,91.6488261,"beel, Assam, India",True
+2216,"Dighali Pukhuri, Guwahati",Pond/Tank,ASSAM,2016,Unsafe,22.53,"pH Out of Range, High BOD",,26.0,9.4,8.5,187.5,6.25,0.95,515.0,7680.0,26.187556,91.751178,"pukhuri guwahati, Assam, India",True
+2217,"Subhagya Kunda Pond Kamakhya Temple, Guwahati",Pond/Tank,ASSAM,2016,Unsafe,23.06,"pH Out of Range, High BOD",,25.5,5.95,7.55,341.5,6.2,2.8,1700.0,120180.0,26.165107,91.7059298,"kamakhya temple guwahati, Assam, India",True
+2218,"Deepar Beel At Boragaon Near Iasst, Guwahati",Pond/Tank,ASSAM,2016,Unsafe,21.53,High BOD,,27.5,7.0,7.35,208.0,6.7,1.9,1900.0,6365.0,26.11114,91.6853199,"boragaon iasst guwahati, Assam, India",True
+2219,"Bishnu Puskar Pukhuri Of Hayagrib Madhab Temple, Hajo",Pond/Tank,ASSAM,2016,Unsafe,23.73,"High BOD, High Total Coliform",,28.0,7.2,7.85,208.0,9.25,1.8,4650.0,120450.0,26.2429185,91.526535,"temple hajo, Assam, India",True
+2220,"Chand Dubi Beel, Chand Dubi",Pond/Tank,ASSAM,2016,Unsafe,22.34,"pH Out of Range, High BOD",,27.0,6.25,7.0,33.0,3.4,2.25,1950.0,23750.0,,,,False
+2221,"Ganga Pukhuri, Nalbari (Gordon School)",Pond/Tank,ASSAM,2016,Unsafe,21.04,High BOD,,28.0,7.0,7.85,72.5,4.4,0.4,1300.0,120700.0,,,,False
+2222,Rajadinia Pukhuri At Abhayapuri,Pond/Tank,ASSAM,2016,Unsafe,24.11,"pH Out of Range, High BOD",,27.0,5.25,7.35,39.0,3.65,0.55,330.0,7680.0,26.334307,90.6669044,"abhayapuri, Assam, India",True
+2223,Mahamaya Mandir Pukhuri,Pond/Tank,ASSAM,2016,Unsafe,26.35,"pH Out of Range, High BOD, High Total Coliform",,27.0,5.45,7.45,53.0,5.4,0.55,3900.0,55350.0,26.9524218,94.6231425,"pukhuri, Assam, India",True
+2224,Rajapukhuri At Gauripur,Pond/Tank,ASSAM,2016,Unsafe,23.89,"pH Out of Range, High BOD",,27.0,5.55,7.7,65.0,7.1,1.05,1200.0,5105.0,26.0865358,89.964662,"gauripur, Assam, India",True
+2225,"Baskandi Pond Inside The Baskandi Madrasa, Baskandi",Pond/Tank,ASSAM,2016,Unsafe,23.37,"pH Out of Range, High BOD",,26.0,5.5,7.05,190.0,3.3,0.55,365.0,55180.0,24.8100997,92.9150941,"baskandi madrasa baskandi, Assam, India",True
+2226,Sivasagar Tank (Borpukhuri) Near Sivadol,Pond/Tank,ASSAM,2016,Unsafe,22.93,"pH Out of Range, High BOD",,25.0,6.05,6.65,29.5,2.3,0.3,1930.0,15500.0,,,,False
+2227,"Hordai Pukhuri, Charaidew",Pond/Tank,ASSAM,2016,Unsafe,23.54,"pH Out of Range, High BOD",,25.0,5.7,7.05,131.0,3.8,0.5,1350.0,55700.0,,,,False
+2228,Gala Beel At Dergaon,Pond/Tank,ASSAM,2016,Unsafe,20.88,High BOD,,24.0,8.1,7.4,100.5,2.1,0.8,1095.5,7715.0,26.6912061,93.9494079,"dergaon, Assam, India",True
+1532,"Goysagar Tank, Sibsagar",Pond/Tank,ASSAM,2016,Unsafe,22.98,"pH Out of Range, High BOD",,23.5,5.65,6.9,78.0,2.0,0.2,455.0,2350.0,26.9834936,94.6394226,"sibsagar, Assam, India",True
+1260,Brahamputra At Kherghat (A/C With Dibang & Dihang),River,ASSAM,2016,Unsafe,26.33,"High Fecal Coliform, High Total Coliform",23.5,7.4,7.5,173.5,1.5,1.1,751.0,60455.0,,,,,False
+1030,Brahamputra At Dibrugarh,River,ASSAM,2016,Unsafe,11.3,"High Fecal Coliform, High Total Coliform",24.0,8.3,7.7,165.5,1.6,0.2,1150.0,3930.0,,27.4844597,94.9019447,"dibrugarh, Assam, India",True
+1262,Brahamputra At Nimatighat,River,ASSAM,2016,Unsafe,19.0,"High Fecal Coliform, High Total Coliform",21.0,6.55,7.55,115.0,2.45,0.3,900.0,12455.0,,,,,False
+1526,Brahmputra At Dhenukhapahar,River,ASSAM,2016,Unsafe,22.0,"High Fecal Coliform, High Total Coliform",22.5,7.35,7.45,157.5,2.75,0.7,1001.0,14865.0,,,,,False
+1031,Brahamputra At Pandu,River,ASSAM,2016,Unsafe,22.09,"High Fecal Coliform, High Total Coliform",26.0,7.0,7.6,109.0,1.75,0.8,1580.0,14860.0,,26.1634597,91.6806078,"pandu, Assam, India",True
+2066,Brahmaputra At Dhubri,River,ASSAM,2016,Unsafe,28.36,"High Fecal Coliform, High Total Coliform",26.0,5.65,7.4,122.0,2.0,0.25,1230.0,23750.0,,26.0202533,89.9899358,"brahmaputra dhubri, Assam, India",True
+1299,Brahamputra At Jogijhoga Near Bridge,River,ASSAM,2016,Unsafe,16.33,"High Fecal Coliform, High Total Coliform",26.5,5.75,7.75,143.5,1.7,0.2,900.0,11200.0,,,,,False
+2069,"Brahmputra Near Water Intake Point At Kacharighat, Panbazar, Guwahati",River,ASSAM,2016,Unsafe,32.31,"High Fecal Coliform, High Total Coliform",24.0,7.2,7.75,118.5,1.4,0.35,2300.0,60750.0,,26.1805978,91.753943,"guwahati, Assam, India",True
+2064,"Brahmaputra River At Chandrapur, Guwahati",River,ASSAM,2016,Unsafe,30.79,"High Fecal Coliform, High Total Coliform",25.0,6.95,7.3,79.0,2.7,1.05,1200.0,55750.0,,26.1805978,91.753943,"guwahati, Assam, India",True
+2067,"Brahmputra River At Sualkuchi, Dist. Kamrup",River,ASSAM,2016,Unsafe,28.46,"High Fecal Coliform, High Total Coliform",27.5,6.5,7.8,152.0,2.55,0.35,700.0,55700.0,,26.1699129,91.5708517,"sualkuchi dist. kamrup, Assam, India",True
+2068,"Kathakal, U/S At Matijuri, Dist. Hailakandi",River,ASSAM,2016,Unsafe,12.1,"High Fecal Coliform, High Total Coliform",24.0,5.65,7.55,98.0,1.75,1.4,1051.0,5015.0,,24.6473519,92.6126791,"matijuri dist. hailakandi, Assam, India",True
+1259,Dhansiri At Golaghat,River,ASSAM,2016,Unsafe,19.59,"High Fecal Coliform, High Total Coliform",23.0,6.85,7.6,122.5,1.75,1.5,1736.5,10955.0,,26.6504888,93.5855122,"dhansiri golaghat, Assam, India",True
+1928,"Dhansiri At Nagaland- Assam Border, Dimapur",River,ASSAM,2016,Unsafe,48.33,"Low DO, High BOD",25.5,2.75,7.55,260.5,13.5,1.05,,,,26.4986126,93.9348134,"dimapur, Assam, India",True
+2240,Barak D/S Of Silchar,River,ASSAM,2016,Unsafe,28.68,"High Fecal Coliform, High Total Coliform",26.5,5.7,7.3,105.5,2.65,0.65,700.0,55455.0,,24.8076698,92.7951287,"barak silchar, Assam, India",True
+2238,Beki At Nh-37 Crossing At Barpeta Road,River,ASSAM,2016,Unsafe,27.88,"High Fecal Coliform, High Total Coliform",25.0,5.5,7.8,193.0,2.2,0.65,8001.0,3751.0,,26.345941,91.039708,"barpeta, Assam, India",True
+1528,Bharalu At Guwahati,River,ASSAM,2016,Unsafe,79.4,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",26.0,0.15,7.25,516.0,30.1,4.85,120360.0,121750.0,,26.1805978,91.753943,"guwahati, Assam, India",True
+1527,Bhogdoi At Jorhat,River,ASSAM,2016,Unsafe,35.34,"High Fecal Coliform, High Total Coliform",24.0,5.35,7.35,96.5,2.75,0.6,2310.0,56750.0,,26.6873576,94.3021534,"bhogdoi jorhat, Assam, India",True
+2233,"Boginadi Near Bridge Nh-52, Lakhimpur",River,ASSAM,2016,Unsafe,25.49,High Total Coliform,22.0,7.7,7.6,77.5,1.65,0.15,456.0,120350.0,,27.1763356,94.1992932,"lakhimpur, Assam, India",True
+1423,Borak At Panchagram,River,ASSAM,2016,Unsafe,31.06,"High Fecal Coliform, High Total Coliform",23.5,5.7,7.4,84.0,2.1,1.3,1600.0,60455.0,,,,,False
+1422,Burhidihing At Margherita,River,ASSAM,2016,Unsafe,15.65,"High Fecal Coliform, High Total Coliform",25.0,6.85,7.35,135.5,2.3,0.6,501.0,10680.0,,27.438398,95.7409824,"margherita, Assam, India",True
+2230,Burhidihing At Duliajan (Intake Point Of Oil India Ltd.),River,ASSAM,2016,Unsafe,14.18,High Total Coliform,23.5,6.45,7.45,121.0,1.6,0.45,456.0,11000.0,,26.1801244,91.7357277,"india ltd., Assam, India",True
+2062,Buridihing D/S Near Duliajan Tinsukia,River,ASSAM,2016,Unsafe,18.44,"High Fecal Coliform, High Total Coliform",24.5,7.65,7.6,121.0,2.2,0.35,1150.0,11200.0,,27.4879722,95.3601855,"tinsukia, Assam, India",True
+1529,Deepar Beel,River,ASSAM,2016,Unsafe,26.59,"High BOD, High Fecal Coliform, High Total Coliform",27.5,7.65,7.5,207.5,5.9,0.95,1200.0,10865.0,,26.1214488,91.6488261,"beel, Assam, India",True
+1530,"Digboi At Lakhipathe, Reserve Forest, Digboi",River,ASSAM,2016,Unsafe,31.88,"High BOD, High Fecal Coliform, High Total Coliform",24.0,5.3,8.2,439.0,7.6,4.05,701.0,15250.0,,27.3956145,95.614868,"digboi, Assam, India",True
+2231,Dikhow At Dikhow Bridge Sivasagar,River,ASSAM,2016,Unsafe,39.6,"High Fecal Coliform, High Total Coliform",24.0,6.4,7.2,137.5,1.8,0.4,3900.0,55750.0,,26.9219131,94.7397334,"dikhow dikhow sivasagar, Assam, India",True
+1298,Disang At Gundamghat,River,ASSAM,2016,Unsafe,30.93,"High Fecal Coliform, High Total Coliform",23.5,5.75,7.05,135.0,2.4,2.25,1401.0,55180.0,,,,,False
+2058,"Disang At Dillighat, Dibrugarh Dist",River,ASSAM,2016,Unsafe,14.42,High Total Coliform,23.5,5.7,7.55,113.5,1.8,0.4,366.0,11200.0,,27.1409392,95.3685808,"dillighat dibrugarh dist, Assam, India",True
+2063,"Jai Bharali Near Biswanath Charali, Sonitpur",River,ASSAM,2016,Unsafe,15.94,High Total Coliform,22.5,7.65,7.6,58.0,1.25,0.6,361.0,14650.0,,26.72667,93.147765,"biswanath charali sonitpur, Assam, India",True
+1258,Jhanji At N.H. Crossing Jorhat,River,ASSAM,2016,Unsafe,28.84,"High Fecal Coliform, High Total Coliform",23.5,6.15,7.25,80.0,2.45,1.1,850.0,55465.0,,26.7577925,94.2079645,"jorhat, Assam, India",True
+2237,"Kalong At U/S Of Anandaram Dekial Phukan Bridge, Nagaon",River,ASSAM,2016,Unsafe,44.99,"High Fecal Coliform, High Total Coliform",26.5,5.15,7.05,113.0,2.25,2.35,12150.0,121400.0,,26.3592774,92.6928657,"phukan nagaon, Assam, India",True
+2236,"Kapili At Dharmtul Bridge, Nh- 31, Nagaon",River,ASSAM,2016,Unsafe,36.75,"High Fecal Coliform, High Total Coliform",26.5,6.65,7.1,75.0,2.05,0.6,6180.0,15250.0,,26.3313646,92.7524763,"nagaon, Assam, India",True
+2061,Kharsang B/C With Buridihing Near Kharsang (Assam- Arunanchal Border),River,ASSAM,2016,Unsafe,12.66,High BOD,24.5,6.7,7.45,106.0,4.1,2.0,456.0,2165.0,,25.9170076,89.8736159,"border, Assam, India",True
+2232,"Kohora At N.H. Crossing, Kohora",River,ASSAM,2016,Unsafe,20.71,"High Fecal Coliform, High Total Coliform",24.0,6.5,7.25,49.0,2.65,1.1,1395.5,11550.0,,26.5869979,93.4105813,"kohora, Assam, India",True
+2059,Kolong At Marigaon,River,ASSAM,2016,Unsafe,31.04,"High Fecal Coliform, High Total Coliform",28.5,6.15,7.5,76.0,2.45,1.65,1401.0,120750.0,,26.2233129,92.4491387,"kolong marigaon, Assam, India",True
+2229,"Kundli At Kundli/ Sapakhowa, Sadia",River,ASSAM,2016,Unsafe,9.24,High Total Coliform,23.0,7.3,7.75,173.5,1.6,0.45,456.0,4830.0,,,,,False
+2242,Kushiara At Karimganj,River,ASSAM,2016,Unsafe,26.69,"High Fecal Coliform, High Total Coliform",24.0,5.75,7.25,95.5,1.75,1.7,701.0,55365.0,,24.5828196,92.3725487,"karimganj, Assam, India",True
+2060,"Manas At Nh-31 Crossing, Barpeta, District",River,ASSAM,2016,Unsafe,8.89,High Fecal Coliform,26.5,5.85,8.0,220.5,1.55,0.6,1001.0,1801.0,,26.345941,91.039708,"barpeta district, Assam, India",True
+1531,Mora Bharali At Tezpur,River,ASSAM,2016,Unsafe,31.54,"High Fecal Coliform, High Total Coliform",24.5,7.75,7.35,269.0,2.7,0.7,1751.0,23180.0,,26.6229928,92.7976082,"tezpur, Assam, India",True
+2065,"Pagldia Near Nalbari Town, Dist. Nalbari",River,ASSAM,2016,Unsafe,23.44,"High BOD, High Fecal Coliform, High Total Coliform",28.0,6.85,8.15,183.5,4.45,0.7,1151.0,11200.0,,26.3533632,91.3983662,"dist. nalbari, Assam, India",True
+2235,"Panchnai At Nh-52 Crossing, Orang",River,ASSAM,2016,Unsafe,28.0,"High Fecal Coliform, High Total Coliform",21.5,7.6,7.65,74.0,2.25,0.55,751.0,120455.0,,26.5468365,92.3134803,"orang, Assam, India",True
+2234,Ranga Nadi D/S Of Hydel Project,River,ASSAM,2016,Unsafe,13.73,High Total Coliform,22.0,7.5,7.65,95.5,1.4,0.45,456.0,11000.0,,27.5511724,94.2600497,"project, Assam, India",True
+2239,Sankosh Dhubri,River,ASSAM,2016,Unsafe,12.44,"High Fecal Coliform, High Total Coliform",26.5,5.15,7.3,79.0,2.05,0.6,700.0,6360.0,,26.132275,90.1249962,"dhubri, Assam, India",True
+2241,Sonai River At Sonai,River,ASSAM,2016,Unsafe,17.91,"High Fecal Coliform, High Total Coliform",26.5,5.8,7.35,84.0,2.5,0.5,900.0,10955.0,,24.4891428,92.9635349,"sonai river sonai, Assam, India",True
+1261,"Subansiri At Gerekamukh, B/C With Brahmaputra",River,ASSAM,2016,Safe,5.75,,19.5,8.5,7.65,85.0,1.1,1.05,361.0,2330.0,,26.0960868,90.859726,"brahmaputra, Assam, India",True

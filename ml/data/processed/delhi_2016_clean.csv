@@ -1,0 +1,9 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1111,W.Yam. Canal C-3 Delhi Branch At R.D.245250,Canal,DELHI,2016,Unsafe,35.49,"pH Out of Range, High BOD",,,6.08,7.18,480.0,8.65,0.0,,
+1112,"W.Yam. Canal C-4 Before Enter Into Delhi Branch, R.D.282628",Canal,DELHI,2016,Unsafe,34.9,"pH Out of Range, High BOD",,,6.195,7.3,444.5,7.4,0.0,,
+1115,W.Yam. Canal C-7 Delhi Parallel Branch At Khubru Fall Rd- 145250,Canal,DELHI,2016,Unsafe,35.54,"pH Out of Range, High BOD",,,6.07,7.64,500.0,9.61,0.0,,
+1116,W.Yam. Canal Wc-4 Delhi Parallel Branch At Panipat,Canal,DELHI,2016,Unsafe,33.33,High BOD,,,8.14,7.965,245.0,1.79,0.0,,
+1120,Yamuna At Wazirabad,River,DELHI,2016,Unsafe,51.1,"High BOD, High Fecal Coliform, High Total Coliform",24.75,9.3,7.6,2037.0,5.0,0.0,12100.0,27245.0,
+1121,Yamuna At Nizamuddin,River,DELHI,2016,Unsafe,74.0,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",24.0,1.5,7.5,1146.5,24.5,0.0,1000000.0,4720000.0,
+GEN-DC2A9A,Okhla Bridge (Inlet Of Agra Canal),River,DELHI,2016,Unsafe,75.6,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",23.85,1.1,7.45,1018.0,26.0,,1000000.0,4720000.0,
+1812,Yamuna At Okhla A/M Of Shahdara Drain,River,DELHI,2016,Unsafe,76.6,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",25.6,0.85,7.45,1092.0,35.5,0.0,1000000.0,5000000.0,

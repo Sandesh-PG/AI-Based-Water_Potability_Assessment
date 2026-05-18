@@ -1,0 +1,17 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+GEN-6A508A,1951,Groundwater,J & K,2018,Unsafe,38.2,"High BOD, High Fecal Coliform",,,,,28.0,17.95,608.95,605.25,
+GEN-2CD4E8,2095,Groundwater,J & K,2018,Unsafe,41.07,"High BOD, High Fecal Coliform",,,,,27.0,17.55,953.65,1033.6,
+GEN-D15426,3240,Groundwater,J & K,2018,Unsafe,42.4,"High BOD, High Fecal Coliform",,,,,28.0,17.65,1106.55,1270.05,
+GEN-8F125D,2574,Pond/Tank,J & K,2018,Safe,0.15,None,,,,,,18.0,,37.0,6.4
+1306,"Gawkadal, Srg (Sherghari, Srg), J&K",River,J & K,2018,Unsafe,11.28,High BOD,18.0,6.1,7.75,274.5,3.05,,,,
+1410,"Jhelum At Dalagate (Inlet), Srinagar, J&K",River,J & K,2018,Unsafe,11.65,High BOD,17.0,7.05,7.75,259.5,3.15,,,,
+1411,"Jhelum At Chattabal Weir (Outlet), J&K",River,J & K,2018,Safe,9.43,None,16.0,6.85,7.65,276.0,2.55,,,,
+2755,"Banganga (Bathing Ghat), Katra, J&K",River,J & K,2018,Safe,8.14,None,19.0,6.55,8.15,612.5,2.2,3.005,,,
+2748,"L.H.S.(Below Bridge Chenab), J&K",River,J & K,2018,Safe,3.51,None,11.5,8.5,7.75,174.5,0.95,0.275,,,
+2750,"Chadra Gaon View Point(4 Km U/S From Spot), J&K",River,J & K,2018,Safe,3.33,None,11.5,8.4,7.7,177.0,0.9,0.345,,,
+2746,"Belicharana(4Km D/S Tawi Bridge), J&K",River,J & K,2018,Unsafe,17.39,High BOD,19.0,7.45,8.15,363.5,4.7,0.24,,,
+2745,"Baghwati Nagar (2Km D/S Tawi Bridge), J&K",River,J & K,2018,Safe,3.7,None,15.0,8.1,8.3,490.0,1.0,0.04,,,
+2745,"Baghwati Nagar (2Km D/S Tawi Bridge), J&K",River,J & K,2018,Safe,3.7,None,15.0,8.1,8.3,490.0,1.0,0.04,,,
+2746,"Belicharana(4Km D/S Tawi Bridge), J&K",River,J & K,2018,Unsafe,17.39,High BOD,19.0,7.45,8.15,363.5,4.7,0.24,,,
+2758,"River Ujh At Dam Site(L.H.S.), Kathua, J&K",River,J & K,2018,Safe,4.07,None,17.0,8.15,8.0,266.0,1.1,0.665,,,
+3305,"River Banjar At Malanjkhand Near W/S Intake Point,",River,J & K,2018,Safe,3.73,None,24.5,7.1,7.75,305.0,1.65,2.25,7.0,45.0,

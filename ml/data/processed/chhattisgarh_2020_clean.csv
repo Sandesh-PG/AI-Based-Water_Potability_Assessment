@@ -1,0 +1,38 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1620,"Ground Water At Janta Colony, Station Road, Raipur Region, Chhatisgarh.",Groundwater,CHHATTISGARH,2020,Safe,0.0,None,25.0,,7.3,225.0,,,,,
+1621,"Ground Water At Raipur Region, Chhatisgarh.",Groundwater,CHHATTISGARH,2020,Safe,0.0,None,23.0,,7.5,257.0,,,,,
+3171,"Hand Pump Water 17/10 Nepali Mohlla, Shankar Nagar, Heavy Industrial Area, Bhilai, Chhatisgarh.",Groundwater,CHHATTISGARH,2020,Safe,0.0,None,28.0,,7.1,,,,,,
+3172,"Borewell/ Handpump In Rogbahri Village, Korba, Chhatisgarh.",Groundwater,CHHATTISGARH,2020,Unsafe,6.15,pH Out of Range,26.0,,6.1,,,,,,
+3173,"Borewell/ Handpump In Parsabhata, Balco, Korba, Chhatisgarh.",Groundwater,CHHATTISGARH,2020,Safe,0.0,None,26.1,,7.1,,,,,,
+3174,"Borewell/ Handpump In Dhanras, Ntpc, Korba, Chhatisgarh.",Groundwater,CHHATTISGARH,2020,Safe,0.0,None,26.1,,7.1,,,,,,
+3163,"Hitkasa Tailing Dam, Rajhara, Chhatisgarh.(Dalli Rajhara Iron Ore Mines, Dalli Rajhara)",Pond/Tank,CHHATTISGARH,2020,Unsafe,20.15,High BOD,,29.5,6.6,7.4,308.0,11.5,0.44,180.5,803.0
+3164,"Nehru Nagar Talab, Bhilai, Chhatisgarh.",Pond/Tank,CHHATTISGARH,2020,Unsafe,20.12,High BOD,,28.5,6.95,7.35,322.0,44.0,0.36,152.5,800.5
+1851,"Mahanadi At Sihawa, Chhatisgarh.",River,CHHATTISGARH,2020,Safe,5.83,None,25.0,6.8,7.4,266.0,2.6,,10.0,21.5,
+1264,Chhattisgarh,River,CHHATTISGARH,2020,Unsafe,9.13,High BOD,24.0,7.0,7.4,281.0,4.1,,2.0,22.0,
+1099,"Mahanadi At U/S Of Rajim, Chhatisgarh.",River,CHHATTISGARH,2020,Unsafe,7.44,High BOD,25.5,6.5,7.45,1614.0,3.3,,17.0,53.0,
+1852,"Mahanadi At Arrang, Raipur, Chhatisgarh.",River,CHHATTISGARH,2020,Safe,4.08,None,25.0,6.6,7.55,335.0,1.8,,16.0,27.0,
+1100,"Mahanadi At Kharad, Chhatisgarh.",River,CHHATTISGARH,2020,Safe,3.8,None,25.5,7.6,8.3,260.0,1.65,3.3,11.0,111.0,
+1282,Chhattisgarh,River,CHHATTISGARH,2020,Safe,4.37,None,25.75,6.9,8.45,181.0,1.9,3.65,16.0,115.0,
+1467,Chhattisgarh,River,CHHATTISGARH,2020,Safe,4.41,None,25.75,7.0,8.35,283.0,1.9,3.85,21.0,141.0,
+3168,Chhattisgarh,River,CHHATTISGARH,2020,Safe,3.95,None,25.8,6.65,7.15,6369.5,1.4,7.84,136.5,374.5,
+1101,Chhattisgarh,River,CHHATTISGARH,2020,Safe,6.04,None,23.0,6.95,7.3,209.0,2.7,22.435,5.5,28.5,
+1107,"Seonath At U/S Rajnandgaon, Chhatisgarh.",River,CHHATTISGARH,2020,Safe,4.52,None,29.5,7.5,7.25,229.0,1.4,0.33,192.0,801.0,
+1266,Chhattisgarh,River,CHHATTISGARH,2020,Unsafe,7.46,High BOD,25.5,6.8,7.5,336.0,3.3,,25.0,48.0,
+1845,Chhattisgarh,River,CHHATTISGARH,2020,Safe,4.41,None,25.0,7.45,7.3,202.0,1.45,,137.5,801.0,
+3166,Chhattisgarh,River,CHHATTISGARH,2020,Safe,7.8,None,29.0,6.45,7.6,465.0,2.9,0.78,181.0,802.0,260.0
+3167,Chhattisgarh,River,CHHATTISGARH,2020,Safe,5.02,None,29.0,7.45,7.3,208.0,1.5,34.02,251.0,854.5,
+1265,"Kharoon At Raipur U/S, Chhatisgarh.",River,CHHATTISGARH,2020,Safe,5.33,None,23.5,6.85,7.4,286.5,2.35,,19.5,46.5,
+1846,"Kharoon River A/C Khapri Drain, Chhatisgarh.",River,CHHATTISGARH,2020,Safe,5.41,None,29.0,7.3,7.35,294.0,1.85,0.64,156.0,851.0,2.0
+1847,Chhattisgarh,River,CHHATTISGARH,2020,Safe,5.19,None,29.0,7.15,7.35,285.0,1.85,0.98,110.0,801.0,2.0
+1853,"Kharoon River Bundri, Raipur, Chhatisgarh.",River,CHHATTISGARH,2020,Safe,5.07,None,24.5,6.45,7.45,294.0,2.25,,11.0,43.0,
+1105,"Hasdeo At U/S Korba, Chhatisgarh.",River,CHHATTISGARH,2020,Safe,1.63,None,25.65,7.5,7.05,5264.5,0.6,2.63,44.5,151.5,
+1106,"Hasdeo At U/S Of Champa, Chhatisgarh.",River,CHHATTISGARH,2020,Unsafe,9.82,High BOD,24.5,7.2,7.95,324.0,4.35,4.05,22.0,96.0,
+3165,Chhattisgarh,River,CHHATTISGARH,2020,Unsafe,6.28,Low DO,25.8,4.0,7.1,7620.5,0.8,5.05,74.5,258.5,2.0
+3169,Chhattisgarh,River,CHHATTISGARH,2020,Unsafe,4.31,Low DO,25.85,4.3,7.1,6507.0,0.6,2.65,19.5,128.5,
+3170,Chhattisgarh,River,CHHATTISGARH,2020,Safe,0.98,None,25.95,7.6,7.15,7918.5,0.4,2.3,19.0,19.0,
+1848,"Arpa River D/S Of Bilaspur, Chhatisgarh.",River,CHHATTISGARH,2020,Safe,5.24,None,24.9,6.85,8.3,1769.0,2.25,5.25,32.0,148.5,
+1849,"Kelo River U/S Of Raigarh, Chhatisgarh.",River,CHHATTISGARH,2020,Safe,6.07,None,23.0,6.9,7.3,1219.0,2.65,1.03,43.5,22.0,
+1850,"Kelo River D/S Of Raigarh, Chhatisgarh.",River,CHHATTISGARH,2020,Unsafe,10.32,High BOD,23.0,6.55,7.6,214.0,4.6,1.175,16.0,57.5,
+1854,Chhattisgarh,River,CHHATTISGARH,2020,Safe,4.84,None,30.0,7.55,7.45,,2.15,,7.0,43.0,2.0
+1855,Chhattisgarh,River,CHHATTISGARH,2020,Safe,4.75,None,30.0,7.45,7.5,,2.1,,12.0,54.0,2.0
+1856,Chhattisgarh,River,CHHATTISGARH,2020,Safe,5.39,None,30.0,7.5,7.45,,2.4,,8.0,37.5,2.0

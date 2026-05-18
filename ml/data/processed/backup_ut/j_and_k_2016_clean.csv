@@ -1,0 +1,6 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1951,Rajkot,Groundwater,J & K,2016,Safe,6.1,None,26.0,,7.95,1085.0,1.1,1.1,,,
+2095,"Bore Well At Stp Madhapar, Dist. Rajkot.",Groundwater,J & K,2016,Safe,5.83,None,26.5,,7.55,2565.0,1.05,1.1,,,
+3240,"Borewell Of Aji Gidc, Rajkot",Groundwater,J & K,2016,Safe,4.63,None,27.5,,7.65,1139.5,1.25,1.05,,2.0,
+2572,"Mahananda At Thakurganj, Kishanganj Road Bridge",River,J & K,2016,Unsafe,32.16,"High BOD, High Fecal Coliform, High Total Coliform",21.0,7.3,7.05,266.0,15.0,0.0,1900.0,5700.0,
+3305,"Banjar At Malanjkhand Near W/S Intake Point, Jabalpur",River,J & K,2016,Safe,3.83,None,25.0,7.6,7.8,433.0,1.7,0.75,5.0,42.0,

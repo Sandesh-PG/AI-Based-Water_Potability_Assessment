@@ -1,0 +1,148 @@
+monitoring_location,stn_code,latitude,longitude,geocode_query,geocoded
+"Canal Up Stream Of Cuncolim Indl.Est. Cuncolim, Salcete (1 Km From M/S Nicoment Industries)",2265,15.2597389,73.9458617,"industries, Goa, India",True
+"Canal Downstream Of Cuncolim Indl.Est. Cuncolim, Salcete (Near Railway Bridge)",2266,15.261496,74.10762,"railway, Goa, India",True
+Cumbarjua Canal Corlim(Discharge Point Of Syngenta Limited),2268,15.4034381,73.8244822,"limited, Goa, India",True
+"Creek At Dando Mollo, Velsao, Mamugao",2267,,,,False
+Ground Water From Goalpara Dist. (Goalpara College ),2258,,,,False
+Well At Verna Indi.Estate.(M/S Cipla Limited),2277,15.4034381,73.8244822,"limited, Goa, India",True
+Well At Sancoale Indl.Estate,2278,,,,False
+"Well At Zuari Industries Ltd, Zuari Nagar",2279,15.5353081,73.8233478,"nagar, Goa, India",True
+Well At Kudai Indl. Estate(M/S Cadila Healthcare Limited),2280,15.4614635,73.9700633,"cadila healthcare limited, Goa, India",True
+Well At Corlim Indl. Estate,2281,15.3681223,73.9420759,"estate, Goa, India",True
+Well At Pilerne Industrial Estate(M/S Unichem ),2282,15.5321069,73.7971347,"unichem, Goa, India",True
+Bore Well At Cuncolim Industrial Estate,3193,15.3681223,73.9420759,"industrial estate, Goa, India",True
+Bore Well At Bethora Industrial Estate,3194,15.3681223,73.9420759,"industrial estate, Goa, India",True
+Bore Well At Madkaim Industrial Estate,3195,15.3681223,73.9420759,"industrial estate, Goa, India",True
+Zuari D/S Of Pt. Where Kumbarjria Canal Joins,1399,,,,False
+Mandovi At Neghbourhood Of Panaji,1400,15.4989946,73.8282141,"panaji, Goa, India",True
+Zuari At Panchawadi,1475,,,,False
+"Mandovi At Tonca, Marcela",1476,15.5140574,73.9612967,"marcela, Goa, India",True
+Kalna At Chandel- Pernem,1543,15.7358361,73.8961243,"chandel pernem, Goa, India",True
+Valvant At Sankli - Bicholim,1544,15.5557695,73.977291,"bicholim, Goa, India",True
+Madai At Dabos - Valpoi,1545,15.531466,74.1372751,"valpoi, Goa, India",True
+Khandepar At Opa - Ponda,1546,15.424983,74.047646,"khandepar ponda, Goa, India",True
+Talpona At Canacona,1547,14.9989488,74.2022366,"talpona canacona, Goa, India",True
+Assonora At Assonora,1548,15.6145308,73.9067739,"assonora assonora, Goa, India",True
+"Khandepar , U/S Codli Near Bridge Opa Waterworks, Sanguem",2270,15.2282657,74.1512667,"sanguem, Goa, India",True
+"Sal Pazorkhoni, Cuncolim(Near Culvert Margao- Canacona National Highway)",2271,15.0069072,74.0570639,"canacona, Goa, India",True
+"Kushawati Near Bund At Kevona, Rivon, Sanguem",2272,15.2282657,74.1512667,"sanguem, Goa, India",True
+"Sal Near Hotel Leela Mobor, Cavelossim",2273,15.1770682,73.9476626,"mobor cavelossim, Goa, India",True
+Mapusa On Culvert On Highway Mapusa-Panaji,2274,15.5892327,73.8106671,"mapusa panaji, Goa, India",True
+"Chapora Near Alorna Fort , Pernem",2275,15.7002238,73.905392,"alorna fort pernem, Goa, India",True
+"Bicholim Varazan Nagar , Bicholim",2276,15.561067,74.0106149,"nagar bicholim, Goa, India",True
+Zuari At Borim Bridge,3181,15.3688993,74.0111898,"borim, Goa, India",True
+Zuari At Marcaim Jetty,3182,15.5051876,73.8341008,"jetty, Goa, India",True
+"Sal At Khareband, Margao",3183,15.2686778,73.9588882,"khareband margao, Goa, India",True
+"Sal At Orlim Bridge, Orlim",3184,15.1726967,73.9462681,"sal orlim orlim, Goa, India",True
+Mandovi At Amona Bridge,3185,15.5354085,73.9838381,"amona, Goa, India",True
+Mandovi At Iffi Jetty,3186,15.5051876,73.8341008,"jetty, Goa, India",True
+Mandovi Near Hotel Marriot,3187,15.4868906,73.8090406,"marriot, Goa, India",True
+Tiracol At Tiracol,3188,15.7241008,73.6887317,"tiracol tiracol, Goa, India",True
+Chapora At Siolim,3189,15.6105032,73.7519531,"chapora siolim, Goa, India",True
+Sinquerim (Candolim Side Near Bridge),3190,15.543038,73.780728,"side, Goa, India",True
+Sinquerim Near Nerul Temple,3191,15.7055247,73.7129932,"temple, Goa, India",True
+"Ground Water From Goalpara Dist. (Goalpara College ), Assam",2258,,,,False
+Bore Well At Pilerne Industrial Estate,3192,15.5293001,73.7960887,"pilerne industrial estate, Goa, India",True
+"Salaulim Lake At Salaulim - Sanguem, Goa",1549,15.2137227,74.1796466,"salaulim sanguem, Goa, India",True
+"Mayem Lake, Bicholim",2269,15.5746055,73.9415466,"mayem lake bicholim, Goa, India",True
+Anjunem Lake,3175,15.481087,73.811431,"lake, Goa, India",True
+Rumder Lake,3176,15.481087,73.811431,"lake, Goa, India",True
+Carambolim Lake,3177,15.4905424,73.9275775,"carambolim lake, Goa, India",True
+Raia Lake,3178,15.481087,73.811431,"lake, Goa, India",True
+Saipem Lake,3179,15.481087,73.811431,"lake, Goa, India",True
+Curtorim Lake,3180,15.2894364,74.0187747,"curtorim lake, Goa, India",True
+20013,GEN-FCE1EA,28.0881033,93.3835385,"20013, Goa, India",True
+1475,GEN-571D3A,32.4485066,76.5391409,"1475, Goa, India",True
+1476,GEN-97275A,32.4485066,76.5391409,"1476, Goa, India",True
+1545,GEN-89AE0F,32.4485066,76.5391409,"1545, Goa, India",True
+1547,GEN-204DA2,32.4485066,76.5391409,"1547, Goa, India",True
+1548,GEN-35464C,32.4485066,76.5391409,"1548, Goa, India",True
+3181,GEN-F4AA0D,32.4485066,76.5391409,"3181, Goa, India",True
+3182,GEN-8051A3,32.4485066,76.5391409,"3182, Goa, India",True
+3183,GEN-D98961,32.4485066,76.5391409,"3183, Goa, India",True
+3184,GEN-3EB414,32.4485066,76.5391409,"3184, Goa, India",True
+3191,GEN-F02355,32.4485066,76.5391409,"3191, Goa, India",True
+2278,GEN-CC7E2B,28.0881033,93.3835385,"2278, Goa, India",True
+2281,GEN-0F46C6,28.0881033,93.3835385,"2281, Goa, India",True
+3192,GEN-766E42,32.4485066,76.5391409,"3192, Goa, India",True
+3193,GEN-68A975,32.4485066,76.5391409,"3193, Goa, India",True
+3194,GEN-563CA5,32.4485066,76.5391409,"3194, Goa, India",True
+3195,GEN-7F01C9,32.4485066,76.5391409,"3195, Goa, India",True
+2269,GEN-51DE85,28.0881033,93.3835385,"2269, Goa, India",True
+3175,GEN-CE47BE,32.4485066,76.5391409,"3175, Goa, India",True
+3176,GEN-59DFA2,32.4485066,76.5391409,"3176, Goa, India",True
+3177,GEN-D36304,32.4485066,76.5391409,"3177, Goa, India",True
+3178,GEN-BA95D7,32.4485066,76.5391409,"3178, Goa, India",True
+3179,GEN-91378B,32.4485066,76.5391409,"3179, Goa, India",True
+3180,GEN-C20A7C,32.4485066,76.5391409,"3180, Goa, India",True
+"Zuari At D/S Of Pt. Where Kumbarjria Canal Joins,",1399,,,,False
+"Mandovi At Tonca, Marcela, Goa",1476,15.5140574,73.9612967,"marcela, Goa, India",True
+"River Kalna At Chandel- Pernem, Goa",1543,15.7358361,73.8961243,"chandel pernem, Goa, India",True
+"River Valvant At Sankli - Bicholim, Goa",1544,15.5557695,73.977291,"bicholim, Goa, India",True
+"River Madai At Dabos - Valpoi, Goa",1545,15.531466,74.1372751,"valpoi, Goa, India",True
+"River Khandepar At Opa - Ponda, Goa",1546,15.424983,74.047646,"khandepar ponda, Goa, India",True
+"River Assonora At Assonora, Goa",1548,15.616783,73.9023693,"assonora assonora goa, Goa, India",True
+"River Khandepar At Codli Near Bridge , U/S Opa Wat",2270,15.3566621,74.12375,"codli, Goa, India",True
+"River Sal Pazorkhoni, Cuncolim(Near Culvert Margao",2271,15.272923,73.9583159,"margao, Goa, India",True
+"River Kushawati Near Bund At Kevona, Rivon, Sangue",2272,,,,False
+"River Sal Near Hotel Leela Mobor, Cavelossim",2273,15.1770682,73.9476626,"mobor cavelossim, Goa, India",True
+River Mapusa On Culvert On Highway Mapusa-Panaji,2274,15.5892327,73.8106671,"mapusa panaji, Goa, India",True
+"River Chapora Near Alorna Fort , Pernem",2275,15.7002238,73.905392,"alorna fort pernem, Goa, India",True
+"River Bicholim Varazan Nagar , Bicholim",2276,15.561067,74.0106149,"nagar bicholim, Goa, India",True
+"River Sal At Khareband, Margao",3183,15.2686778,73.9588882,"khareband margao, Goa, India",True
+"River Sal At Orlim Bridge, Orlim",3184,15.1726967,73.9462681,"sal orlim orlim, Goa, India",True
+River Sinquerim Near Nerul Temple,3191,15.7055247,73.7129932,"temple, Goa, India",True
+Goa,"CANAL UP STREAM OF CUNCOLIM
+INDL.EST. CUNCOLIM, SA",15.4989946,73.8282141,"goa, Goa, India",True
+Harwale Water Fall,4408,,,,False
+Tiracol Beach,4013,15.4545636,73.8027839,"beach, Goa, India",True
+Miramar Beach,4014,15.4766811,73.8066757,"miramar beach, Goa, India",True
+Calangute Beach,4015,15.5424885,73.7555617,"calangute beach, Goa, India",True
+Morjim Beach,4016,15.6225007,73.7298563,"morjim beach, Goa, India",True
+Mobor Beach,4017,15.1770682,73.9476626,"mobor beach, Goa, India",True
+Baina Beach,4018,15.3876092,73.8074469,"baina beach, Goa, India",True
+Galgibag Beach,4019,14.9659619,74.0467007,"galgibag beach, Goa, India",True
+Colva Beach,4020,15.2857909,73.9105447,"colva beach, Goa, India",True
+Vagator Beach,4021,15.5976166,73.733518,"vagator beach, Goa, India",True
+Velsao Beach,4022,15.354467,73.8839713,"velsao beach, Goa, India",True
+Panaji-1 Tonca,20013,15.5357452,73.9590114,"tonca, Goa, India",True
+Chapoli Dam,4410,15.0320552,74.0525969,"chapoli, Goa, India",True
+"River Khandepar At Codli Near Bridge , U/S Opa Waterworks, Sanguem",2270,15.2282657,74.1512667,"sanguem, Goa, India",True
+"River Kushawati Near Bund At Kevona, Rivon, Sanguem",2272,15.2282657,74.1512667,"sanguem, Goa, India",True
+"Mandovi At Neghbourhood Of Panaji, Goa",1400,15.4989946,73.8282141,"panaji, Goa, India",True
+River Mandovi At Panaji U/S,10012,15.50011,73.8293449,"mandovi panaji, Goa, India",True
+"River Sal Pazorkhoni, Cuncolim(Near Culvert Margao- Canacona National Highway)",2271,15.0069072,74.0570639,"canacona, Goa, India",True
+Salmona Spring,4409,,,,False
+River Sinquerim (Candolim Side Near Bridge),3190,15.543038,73.780728,"side, Goa, India",True
+"River Talpona At Canacona, Goa",1547,14.9989488,74.2022366,"talpona canacona goa, Goa, India",True
+"Zuari At D/S Of Pt. Where Kumbarjria Canal Joins, Goa",1399,,,,False
+River Zuari At Borim Bridge,3181,15.3688993,74.0111898,"borim, Goa, India",True
+River Zuari At Marcaim Jetty,3182,15.5051876,73.8341008,"jetty, Goa, India",True
+"River Zuari At Cortalim, Goa",1399,15.4114912,73.9063115,"zuari cortalim goa, Goa, India",True
+"River Mandovi At Neghbourhood Of Panaji, Goa",1400,15.4989946,73.8282141,"panaji, Goa, India",True
+River Zuari At Panchawadi,1475,,,,False
+"River Mandovi At Tonca, Marcela, Goa",1476,15.5140574,73.9612967,"marcela, Goa, India",True
+River Salmona Spring,4409,,,,False
+River Mandovi At Panaji U/S Ribandar Chodan Ferry,10012,15.6319858,73.764273,"ferry, Goa, India",True
+River Chapora At Siolim,3189,15.6105032,73.7519531,"chapora siolim, Goa, India",True
+River Mandovi At Amona Bridge,3185,15.5354085,73.9838381,"amona, Goa, India",True
+River Mandovi At Iffi Jetty,3186,15.5051876,73.8341008,"jetty, Goa, India",True
+River Mandovi Near Hotel Marriot,3187,15.4868906,73.8090406,"marriot, Goa, India",True
+River Tiracol At Tiracol,3188,15.7241008,73.6887317,"tiracol tiracol, Goa, India",True
+"Downstream Colva Creek, Colva- Goa",5277,15.2773035,73.9202034,"colva, Goa, India",True
+"Upstream Of Bethora Nallah, Bethora, Ponda - Goa",5278,15.4035516,74.0101676,"ponda, Goa, India",True
+"Downstream Of Bethora Nallah, Bethora, Ponda -Goa",5279,15.4035516,74.0101676,"ponda, Goa, India",True
+"Creek At Dando Mollo, Velsao, Marmugao",2267,,,,False
+Raitollem Lake,3178,15.2717295,74.0177287,"raitollem lake, Goa, India",True
+"Downstream Of River Mandovi, M/S Vedanta Pvt. Ltd.",5102,15.2579443,73.9446465,"pvt. ltd., Goa, India",True
+River Kalna At Chandel,1543,15.7358361,73.8961243,"chandel, Goa, India",True
+River Madei At Dabos,1545,,,,False
+River Mandovi At Panaji,1400,15.50011,73.8293449,"mandovi panaji, Goa, India",True
+River Mandovi At Tonca,1476,15.5357452,73.9590114,"tonca, Goa, India",True
+River Sal At Rumder,3176,,,,False
+River Valvanti At Sanquelim,1544,15.5626483,74.0114543,"sanquelim, Goa, India",True
+River Zuari At Cortalim,1399,15.4114912,73.9063115,"zuari cortalim, Goa, India",True
+Upstream Of River Mandovi At Ribandar-Chodan Ferry,10012,15.6319858,73.764273,"ferry, Goa, India",True
+"Upstream Of River Mandovi, M/S Vedanta Pvt. Ltd.",5101,15.2579443,73.9446465,"pvt. ltd., Goa, India",True
+Panaji Stp At Tonca,20013,15.5357452,73.9590114,"tonca, Goa, India",True
+"River Ganga D/S Near Cremation Ghat, Khalgoan",10143,,,,False

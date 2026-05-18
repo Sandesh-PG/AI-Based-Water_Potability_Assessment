@@ -1,0 +1,2 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+3096,"Dikrong River At Nirjuli,",River,ARUNACHAL PRADESH,2018,Safe,0.0,None,25.5,,7.05,64.5,,,,,

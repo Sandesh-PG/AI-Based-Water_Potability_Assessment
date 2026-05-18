@@ -1,0 +1,61 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1748,Handpump In Village Damauda At Kashipur Near M/S India Glycoles Ltd.,Groundwater,UTTARAKHAND,2022,Safe,0.0,None,28.0,,7.55,583.0,,0.355,,,
+3440,"Ground Water At Sitar Ganj Industrial Area- 1,Us Nagar",Groundwater,UTTARAKHAND,2022,Safe,0.0,None,28.5,,7.4,361.5,,0.39,,,
+3441,"Ground Water At Sitar Ganj Industrial Area- 2,Us Nagar",Groundwater,UTTARAKHAND,2022,Safe,0.0,None,28.5,,7.0,433.0,,0.335,,,
+3442,"Ground Water At Pantnagar Industrial Area- 1,Us Nagar",Groundwater,UTTARAKHAND,2022,Safe,0.0,None,28.0,,7.4,321.5,,0.41,,,
+3443,"Ground Water At Pantnagar Industrial Area- 2,Us Nagar",Groundwater,UTTARAKHAND,2022,Safe,0.0,None,28.0,,7.5,301.5,,0.32,,,
+3444,"Ground Water At Santipuri Kichha- 1,Us Nagar",Groundwater,UTTARAKHAND,2022,Safe,0.0,None,28.0,,7.45,349.0,,0.54,,,
+3445,"Ground Water At Santipuri Kichha- 2,Us Nagar",Groundwater,UTTARAKHAND,2022,Safe,0.0,None,28.0,,7.4,337.0,,0.325,,,
+3446,"Ground Water At Kashipur Moradabad Road- 1,Us Nagar",Groundwater,UTTARAKHAND,2022,Safe,0.0,None,28.0,,7.25,341.0,,0.32,,,
+3447,"Ground Water At Kashipur Moradabad Road- 2,Us Nagar",Groundwater,UTTARAKHAND,2022,Safe,0.0,None,28.0,,7.45,342.0,,0.325,,,
+3448,"Ground Water At Kashipur Bazpur Road- 1,Us Nagar",Groundwater,UTTARAKHAND,2022,Safe,0.0,None,25.0,,7.3,328.0,,0.32,,,
+3449,"Hand Pump Near Kendriya Vidyalaya, Bazpur Road Kashipur,Us Nagar",Groundwater,UTTARAKHAND,2022,Safe,0.0,None,26.0,,7.3,356.0,,0.38,,,
+3450,"Ground Water At Sidcul Industrial Area- 1, Roshanabad Collectorate, Haridwar",Groundwater,UTTARAKHAND,2022,Safe,0.0,None,22.35,,7.55,794.5,,3.49,,,
+3451,"Ground Water At Sidcul Industrial Area- 2, Saleempur Chowk,Roorkee,Haridwar",Groundwater,UTTARAKHAND,2022,Safe,0.0,None,22.95,,7.29,1704.0,,1.79,,,
+3452,"Ground Water At Ramnagar Industrial Area-1,Roorkee ,Haridwar",Groundwater,UTTARAKHAND,2022,Safe,0.0,None,23.05,,7.6,749.0,,0.475,,,
+3453,"Ground Water At Bhagwan Industrial Area- 2, Sikanderpur, Lakheswari, Roorkee, Haridwar",Groundwater,UTTARAKHAND,2022,Safe,0.0,None,22.25,,7.65,583.5,,0.42,,,
+3454,"Ground Water At Roorkee Industrial Area- 1, Chc Bhagwanpur,Haridwar",Groundwater,UTTARAKHAND,2022,Safe,0.0,None,22.5,,7.745,633.0,,0.42,,,
+3455,"Ground Water At Roorkee Industrial Area- 2, Sunehra",Groundwater,UTTARAKHAND,2022,Safe,0.0,None,20.7,,7.85,644.0,,0.43,,,
+3456,"Ground Water At Selaqui Industrial Area- 1, Dehradun",Groundwater,UTTARAKHAND,2022,Unsafe,3.77,pH Out of Range,19.0,,6.255,226.0,,0.32,,,
+3457,"Ground Water At Selaqui Industrial Area- 2, Dehradun",Groundwater,UTTARAKHAND,2022,Unsafe,0.15,pH Out of Range,18.5,,6.49,240.5,,0.32,,,
+20048,Drain After Stp At Swarg Ashram,Drain/STP/WTP,UTTARAKHAND,2022,Unsafe,21.57,High BOD,,17.5,7.7,7.25,292.0,5.5,0.36,1955.0,8017.0
+20049,Drain After Stp At Lakkarghat,Drain/STP/WTP,UTTARAKHAND,2022,Unsafe,34.01,"High BOD, High Total Coliform",,19.0,7.5,7.35,391.5,5.4,0.36,17507.5,27019.0
+20050,Drain After Stp At Jagjitpur,Drain/STP/WTP,UTTARAKHAND,2022,Unsafe,20.05,High BOD,,24.0,6.7,7.4,500.0,3.7,1.61,52.5,95.0
+1491,"River Bhagirathi At Gangotri,",River,UTTARAKHAND,2022,Safe,0.0,None,2.0,10.2,7.34,59.0,,0.32,,,
+1484,River Alaknanda B/C To River Mandakini At Rudra Prayag,River,UTTARAKHAND,2022,Safe,0.0,None,13.5,10.0,7.69,119.0,,0.33,,,
+1486,River Alaknanda A/C Of River Mandakini And River Alaknanda At Rudraprayag,River,UTTARAKHAND,2022,Safe,0.0,None,13.5,10.2,7.435,116.0,,0.33,,,
+1488,"River Bhagirathi B/C To River Alaknanda At Devprayag,Dist-Tehri Garhwal",River,UTTARAKHAND,2022,Safe,0.0,None,13.5,10.1,7.635,81.0,,0.33,,,
+1487,"River Alaknanda B/C Toriver Bhagirathi At Devprayag,Dist-Tehri Garhwal",River,UTTARAKHAND,2022,Safe,0.0,None,13.5,9.9,7.725,121.5,,0.33,,,
+1489,"River Ganga After Confluence Of River Bhagirathi And River Alaknanda At Devprayag ,Dist-Tefri Garhwal",River,UTTARAKHAND,2022,Safe,0.0,None,13.5,10.2,7.71,114.5,,0.335,,,
+1485,"River Mandakini B/C To River Alkalnada At Rudraprayag,",River,UTTARAKHAND,2022,Safe,0.0,None,13.0,10.0,7.575,83.5,,0.33,,,
+1060,"River Ganga U/S At Laxmanjhula,Rishikesh",River,UTTARAKHAND,2022,Safe,3.7,None,17.35,9.6,7.615,114.5,1.6,0.34,26.0,57.0,22.0
+10147,"River Ganga D/S At Bairaaj,Rishikesh",River,UTTARAKHAND,2022,Safe,0.12,None,17.5,10.1,7.72,100.5,,0.35,17.5,37.5,
+2725,River Ganga After Confluence Of Song Near Satyanarayan,River,UTTARAKHAND,2022,Safe,3.33,None,18.0,9.4,7.745,295.0,1.4,0.355,42.0,71.0,
+3997,"River Ganga U/S At Abindughat, Dudhiyabad, Haridwar",River,UTTARAKHAND,2022,Safe,4.44,None,23.05,8.9,7.735,398.0,1.9,0.61,37.0,90.0,16.5
+10148,River Ganga At Har-Ki- Pauri Ghat,River,UTTARAKHAND,2022,Safe,4.21,None,20.8,9.0,7.7,1042.5,1.8,0.68,34.5,89.0,15.0
+1061,"River Ganga D/S At Balkumari Mandir, Ajeetpur, Haridwar",River,UTTARAKHAND,2022,Safe,4.62,None,22.5,8.9,7.9,436.5,1.95,0.84,50.5,116.5,21.5
+2727,"Upper Ganga Canal D/S At Roorkee, Haridwar",River,UTTARAKHAND,2022,Safe,4.62,None,20.35,7.9,7.75,436.5,1.95,1.35,53.0,95.0,21.5
+30005,River Ganga At Sultanpur (Uttarakhand),River,UTTARAKHAND,2022,Unsafe,20.05,"High Fecal Coliform, High Total Coliform",23.85,8.2,7.76,222.0,1.7,0.82,2950.0,5600.0,130.0
+1492,River Yamuna At Yamunotri,River,UTTARAKHAND,2022,Safe,0.0,None,3.0,10.4,7.21,62.0,,0.32,,,
+1493,River Yamuna At Hanumanchatti,River,UTTARAKHAND,2022,Safe,0.0,None,15.0,10.2,7.28,92.0,,0.32,,,
+1494,River Yamuna At U/S Of Lakhwar Dam,River,UTTARAKHAND,2022,Safe,0.01,None,17.5,10.2,7.675,177.5,,0.34,2.0,2.0,
+1490,"River Yamuna At U/S Dakpather, Dehradun",River,UTTARAKHAND,2022,Safe,0.25,None,19.0,9.9,7.645,142.5,,0.35,35.5,70.0,7.0
+30023,River Tons At Haripur (U.K.),River,UTTARAKHAND,2022,Unsafe,42.89,"High Fecal Coliform, High Total Coliform",18.75,9.05,8.3,224.0,1.3,0.42,10502.0,39506.5,2.0
+2724,"River Suswa At Mathurawala, Dehradun",River,UTTARAKHAND,2022,Unsafe,41.52,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",18.0,3.9,7.13,484.5,20.5,0.485,3200.0,5400.0,730.0
+2734,"River Bhella U/S Of Kashipur,Us Nagar",River,UTTARAKHAND,2022,Unsafe,8.66,High BOD,18.0,5.8,7.6,220.5,3.35,0.345,240.0,335.0,50.5
+2735,"River Bhella D/S Of Lohiya Bridge Kashipur,Us Nagar",River,UTTARAKHAND,2022,Unsafe,32.11,"Low DO, High BOD",19.5,2.4,7.4,419.5,36.0,0.345,310.0,590.0,64.5
+2732,"River Dhella U/S At Kashipur Moradabad Road Bridge,Us Nagar",River,UTTARAKHAND,2022,Unsafe,8.87,High BOD,19.0,5.8,7.75,298.5,3.3,0.355,270.0,580.0,67.0
+2733,"River Dhella D/S At Thakurdwara Aliganj Road,Us Nagar",River,UTTARAKHAND,2022,Unsafe,32.53,"Low DO, High BOD",19.5,2.35,7.3,523.5,21.0,0.355,355.0,635.0,250.0
+30004,River Dhela At Adampur,River,UTTARAKHAND,2022,Unsafe,65.6,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",24.75,3.6,7.46,784.5,60.9,0.82,1000000.0,1835000.0,15000.0
+2731,"River Kosi At Kashipur Bajpur Road Bridge,Kashipur,Us Nagar",River,UTTARAKHAND,2022,Unsafe,11.22,High BOD,19.0,6.4,7.6,359.0,4.5,0.39,204.0,515.0,25.5
+30002,"River Kosi At Dadiyal Bridge, Uttrakhand",River,UTTARAKHAND,2022,Unsafe,54.65,"High BOD, High Fecal Coliform, High Total Coliform",24.25,7.5,7.775,492.0,6.6,0.42,16730.0,246100.0,49.0
+2728,River Gola At Haldwani,River,UTTARAKHAND,2022,Safe,5.06,None,17.0,8.6,7.705,235.0,2.1,0.35,70.5,145.0,8.5
+2729,River Kichha At Kichha U.S. Nagar,River,UTTARAKHAND,2022,Unsafe,22.18,High BOD,20.5,5.45,7.5,595.5,9.6,0.36,410.0,675.0,128.5
+30003,River Kiccha At Pull Bhatta,River,UTTARAKHAND,2022,Unsafe,58.65,"High BOD, High Fecal Coliform, High Total Coliform",24.6,6.3,7.87,653.0,8.4,0.44,9500.0,272250.0,14000.0
+2730,"River Pilkhar At Bilaspur, Rampur,Us Nagar",River,UTTARAKHAND,2022,Unsafe,20.56,"Low DO, High BOD",19.0,4.75,7.35,551.0,8.0,0.355,335.0,570.0,117.0
+2736,"River Nandour U/S At Sitarganj Industrial Area, Us Nagar",River,UTTARAKHAND,2022,Unsafe,7.67,High BOD,19.0,6.65,7.8,273.5,3.2,0.355,90.0,260.0,25.0
+2737,"River Nandour D/S At Sitarganj Industrial Area, Us Nagar",River,UTTARAKHAND,2022,Unsafe,10.57,High BOD,20.0,5.6,7.55,299.0,4.0,0.35,305.0,590.0,61.0
+3439,"River Kalyani D/S Of Pantnagar Industrial Area, Us Nagar",River,UTTARAKHAND,2022,Unsafe,34.46,"Low DO, High BOD",20.5,1.9,7.25,715.5,26.5,0.355,380.0,675.0,257.0
+3438,"River Kalyani U/S Of Pantnagar Indusrial Area, Us Nagar",River,UTTARAKHAND,2022,Unsafe,19.56,"Low DO, High BOD",20.0,4.3,7.5,429.5,7.0,0.35,230.0,375.0,61.0
+30078,"River Ramganga At Kalagarhbarrage,Kalagarh, Dist,Paudhigadhwal (U.K.)",River,UTTARAKHAND,2022,Unsafe,45.92,"High BOD, High Fecal Coliform, High Total Coliform",24.4,8.2,7.565,300.5,4.2,0.365,4150.0,5000000.0,
+30037,River Banganga At U/S Idrishpur (U.K.),River,UTTARAKHAND,2022,Unsafe,60.0,"High BOD, High Fecal Coliform, High Total Coliform",22.7,6.15,7.515,867.0,52.4,0.82,141000.0,1203900.0,330.0

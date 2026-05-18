@@ -1,0 +1,7 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1092,"Kalu At Atale Village, Kalyan, Thane",River,MAHARASHTRA,2020,Unsafe,20.72,High BOD,28.5,5.3,7.65,1781.0,11.5,1.1,86.0,471.0,
+2168,"Mithi River, Mahim, Bandra, Mumbai",River,MAHARASHTRA,2020,Unsafe,65.8,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",27.0,3.55,7.4,24936.5,28.5,2.8,46175.0,80460.0,
+"BHIMA AT PUNE U/S VITHALWADI, HAWELI, PUNE",Maharashtra,River,MAHARASHTRA,2020,Unsafe,24.74,"Low DO, High BOD",29.0,4.35,7.45,418.5,15.1,,300.0,1175.0,9.0
+"BHIMA AFTER CONF. WITH DAUND, DAUND, PUNE",Maharashtra,River,MAHARASHTRA,2020,Unsafe,16.12,High BOD,29.0,5.0,7.71,845.0,6.9,,76.0,625.0,13.0
+"BHIMA AT TAKLI, SOUTH SOLAPUR, SOLAPUR",Maharashtra,River,MAHARASHTRA,2020,Unsafe,14.96,High BOD,35.0,6.0,7.75,1117.5,6.5,6.3,42.0,450.0,3.9
+"RAW WATER PUMP HOUSE, KUMBARGAON,",Maharashtra,River,MAHARASHTRA,2020,Unsafe,13.17,High BOD,29.0,6.2,7.75,777.5,5.7,,21.0,535.0,1.9

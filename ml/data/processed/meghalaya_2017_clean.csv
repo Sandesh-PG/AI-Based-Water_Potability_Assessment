@@ -1,0 +1,35 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1634,"Police Bazar, Shillong",Groundwater,MEGHALAYA,2017,Unsafe,7.68,pH Out of Range,18.5,,5.9,303.5,1.9,10.0,12.0,37.5,
+1635,"Mawlai, Shillong",Groundwater,MEGHALAYA,2017,Unsafe,6.38,pH Out of Range,18.0,,6.25,300.5,1.85,16.0,54.0,12.51,
+1636,"Industrial Estate, Byrnihat",Groundwater,MEGHALAYA,2017,Unsafe,5.58,pH Out of Range,25.0,,6.25,113.5,1.5,16.0,90.0,1.61,
+1637,"Sohra, Cherrapunjee",Groundwater,MEGHALAYA,2017,Unsafe,6.44,pH Out of Range,17.0,,6.05,113.5,1.65,7.0,26.0,3.1,
+1638,Shangpung,Groundwater,MEGHALAYA,2017,Unsafe,3.38,pH Out of Range,20.5,,6.45,142.5,1.1,3.0,25.0,8.77,
+3385,Mawthadrishan Well At Markasa,Groundwater,MEGHALAYA,2017,Safe,5.68,None,15.0,,6.8,48.5,2.0,8.0,26.0,0.335,
+3386,Jakrem Hot Spring At Jakrem,Groundwater,MEGHALAYA,2017,Unsafe,5.81,pH Out of Range,43.5,,9.5,342.5,1.0,2.0,18.5,0.43,
+1347,"Umiam Lake At Barapani, Meghalaya",River,MEGHALAYA,2017,Unsafe,23.61,"pH Out of Range, High BOD",,20.5,5.9,7.3,92.5,5.15,0.83,2200.0,3800.0
+1348,"Ward Lake At Shilong East, Khasi Hill Dt., Meghalaya",River,MEGHALAYA,2017,Unsafe,21.13,High BOD,,20.0,7.3,7.25,165.0,5.25,0.65,1405.0,2850.0
+1459,"Thadlaskein Lake, Meghalaya",River,MEGHALAYA,2017,Unsafe,20.02,High BOD,,19.0,6.85,7.2,48.5,2.0,0.23,19.5,47.0
+3346,"Umiam Lake At Outfall Of Umiam River Into Lake, Ri- Bhoi",River,MEGHALAYA,2017,Unsafe,26.47,"pH Out of Range, High BOD",,20.0,5.05,7.6,165.0,7.6,1.875,2500.0,4550.0
+3347,"Umiam Lake At Middle Point, Ri- Bhoi",River,MEGHALAYA,2017,Unsafe,24.41,"pH Out of Range, High BOD",,18.5,5.6,7.7,124.5,4.85,0.885,2050.0,3600.0
+3348,"Umiam Lake Atnear United Christian College, Ri- Bhoi",River,MEGHALAYA,2017,Unsafe,22.53,"pH Out of Range, High BOD",,20.5,6.2,7.45,127.0,4.9,0.79,2000.0,3600.0
+3349,"Tasek Lake At Songsak (Naphak), East Garo Hills",River,MEGHALAYA,2017,Unsafe,27.87,"pH Out of Range, High BOD",,21.5,3.95,7.1,71.0,1.95,0.35,22.0,46.5
+GEN-970AF3,1427,River,MEGHALAYA,2017,Unsafe,33.61,High BOD,,,,17.0,15.3,7.3,31.2,52.2,4.145
+GEN-6BA3AF,1631,River,MEGHALAYA,2017,Unsafe,33.59,High BOD,,,,15.0,13.8,6.85,28.65,49.5,2.715
+GEN-0771FC,1632,River,MEGHALAYA,2017,Unsafe,33.65,High BOD,,,,16.0,17.45,7.6,33.0,72.0,1.325
+GEN-21FE5B,1633,River,MEGHALAYA,2017,Unsafe,33.65,High BOD,,,,17.0,17.4,7.7,32.95,70.6,1.34
+GEN-B7EE0D,3350,River,MEGHALAYA,2017,Unsafe,33.56,High BOD,,,,13.0,13.6,7.25,27.6,33.3,1.53
+GEN-0B6ACE,3351,River,MEGHALAYA,2017,Unsafe,33.53,High BOD,,,,15.0,14.95,7.65,21.8,35.1,1.36
+GEN-0987B8,3352,River,MEGHALAYA,2017,Unsafe,33.54,High BOD,,,,14.0,14.65,7.75,23.85,35.0,1.4
+GEN-A36B59,3356,River,MEGHALAYA,2017,Unsafe,33.6,High BOD,,,,15.0,17.5,7.6,26.5,66.5,1.05
+GEN-0CD6A6,3357,River,MEGHALAYA,2017,Unsafe,33.51,High BOD,,,,13.0,13.7,7.5,20.15,32.05,1.36
+GEN-971086,3358,River,MEGHALAYA,2017,Unsafe,33.52,High BOD,,,,15.0,13.15,7.4,20.25,42.0,0.975
+GEN-664DD8,3363,River,MEGHALAYA,2017,Unsafe,33.75,High BOD,,,,10.0,13.7,7.2,18.6,222.7,1.375
+GEN-B445E3,3365,River,MEGHALAYA,2017,Unsafe,33.97,High BOD,,,,13.0,13.0,7.0,58.65,181.4,15.185
+GEN-07F75D,3366,River,MEGHALAYA,2017,Unsafe,33.52,High BOD,,,,16.0,16.5,7.85,21.75,28.05,3.2
+GEN-0668E2,3383,River,MEGHALAYA,2017,Unsafe,33.69,High BOD,,,,19.0,17.4,7.45,37.95,78.2,1.245
+GEN-251775,3384,River,MEGHALAYA,2017,Unsafe,33.69,High BOD,,,,20.0,19.45,7.45,36.5,81.7,1.275
+3377,"Myntang River At Nartiang, Jayantia Hills",MEGHALAYA,MEGHALAYA,2017,Safe,3.37,None,17.5,7.75,7.0,50.5,1.45,0.5,22.0,80.0,
+3378,"Myntang River At Mynso, Jayantia Hills",MEGHALAYA,MEGHALAYA,2017,Safe,3.22,None,18.0,7.7,7.05,50.5,1.4,0.25,18.5,51.5,
+3380,"Damring River (Krishnei River) At Resubelpara,",MEGHALAYA,MEGHALAYA,2017,Safe,4.29,None,24.5,7.45,7.4,82.5,1.85,0.4,30.0,84.0,
+3381,"Manda River (Dudhai River) At Jampa,",MEGHALAYA,MEGHALAYA,2017,Safe,4.16,None,23.5,7.15,7.75,148.0,1.8,0.6,26.5,71.5,
+3382,Manda River (Dudhai River) At Wagaisi,MEGHALAYA,MEGHALAYA,2017,Safe,3.04,None,23.5,7.1,7.7,85.0,1.3,0.5,22.0,80.0,

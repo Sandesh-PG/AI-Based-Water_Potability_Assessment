@@ -235,23 +235,35 @@ def run_geocode_for_all_years(input_dir: str, output_dir: str, state: str, exclu
     input_path = Path(input_dir)
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
-
-    files = sorted(input_path.glob("karnataka_*_clean.csv"))
+    files = [
+        f for f in sorted(input_path.glob("*_clean.csv"))
+        if "train" not in f.stem
+    ]
 
     for file in files:
-        year = int(file.stem.split("_")[1])
+        # filename stem examples: 'karnataka_2022_clean' or 'andhra_pradesh_2020_clean'
+        try:
+            year = int(file.stem.split("_")[-2])
+        except Exception:
+            print(f"Skipping (unrecognized filename): {file.name}")
+            continue
 
         if year in exclude_years:
             print(f"Skipping year {year}")
             continue
 
-        out_file = output_path / f"karnataka_{year}_geocoded.csv"
+        state_year = file.stem.replace("_clean", "")
+        out_file = output_path / f"{state_year}_geocoded.csv"
+
+        # Derive human-friendly state name from file stem
+        state_name = "_".join(file.stem.split("_")[:-2])
+        state_name = state_name.replace("_", " ").title()
 
         print(f"\n{'='*60}")
-        print(f"Processing year {year}")
+        print(f"Processing {state_year} (year {year}) — state: {state_name}")
         print(f"{'='*60}")
 
-        run_geocoding(str(file), str(out_file), state)
+        run_geocoding(str(file), str(out_file), state_name)
 
 # ─── CLI ──────────────────────────────────────────────────────────────────────
 

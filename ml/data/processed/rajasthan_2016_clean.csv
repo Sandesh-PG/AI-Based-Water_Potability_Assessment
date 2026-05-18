@@ -1,0 +1,52 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+2932,"River Narmada Main Canal (Before Entering In Rajasthan State), Tehsil Sanchore, Jalore",River,RAJASTHAN,2016,Unsafe,21.7,"pH Out of Range, High BOD",,25.5,5.95,8.15,460.0,1.4,1.0,5.5,77.0
+2933,"Gang Canal At Khakka Hear Near Hindumal Kot, Ganganagar",River,RAJASTHAN,2016,Unsafe,22.48,"pH Out of Range, High BOD",,23.45,5.7,8.05,240.0,1.45,0.9,13.5,560.0
+2934,Masitawala Head Hanumangarh,River,RAJASTHAN,2016,Unsafe,24.02,"pH Out of Range, High BOD",,24.4,5.2,8.1,285.0,1.15,0.95,16.0,235.5
+1415,"Well Of Loomji, Chaudhary, Near Nayagaon, Pali, (U/S 1 Km. From Pali Town)",Groundwater,RAJASTHAN,2016,Unsafe,25.02,High BOD,24.5,,8.3,7000.0,11.15,5.6,3.0,3.5,
+1416,"Well Of Bhopal Singh, 24 Km. From Pali Town",Groundwater,RAJASTHAN,2016,Unsafe,25.46,"pH Out of Range, High BOD",24.5,,8.65,14650.0,14.25,11.25,3.0,3.5,
+1706,"Riico Pump House Near Monto Motors, Mia, Alwar",Groundwater,RAJASTHAN,2016,Safe,4.32,None,27.5,,7.8,1100.0,1.55,1.35,3.0,3.0,
+1707,"Bore Well In Modi Alkalis & Chemicals, Mia, Alwar",Groundwater,RAJASTHAN,2016,Safe,4.32,None,29.5,,7.9,1355.0,1.55,1.75,3.0,3.0,
+1708,"Well Kothi In Village Bagar Rajput, Alwar",Groundwater,RAJASTHAN,2016,Safe,5.29,None,28.5,,7.6,1350.0,1.9,1.45,3.0,3.5,
+1709,"Well At Village Santhla Very Near Bhiwadi Industrial Area, Bhiwadi",Groundwater,RAJASTHAN,2016,Safe,4.74,None,27.5,,7.6,2350.0,1.7,2.25,3.0,3.0,
+1710,"Well At Village Alupur, Very Near Bhiwadi Industrial Area, Bhiwadi",Groundwater,RAJASTHAN,2016,Safe,4.74,None,27.5,,7.6,1475.0,1.7,2.45,3.0,3.0,
+1711,"Well At Village Harchandpur, Very Near, Bhiwadi To Bhiwadi Industrial Area, Bhiwadi",Groundwater,RAJASTHAN,2016,Safe,5.43,None,27.0,,7.7,3230.0,1.95,3.7,3.0,3.0,
+1712,"Well At Village Bhiwadi , Very Near, Bhiwadi To Bhiwadi Industrial Area, Bhiwadi",Groundwater,RAJASTHAN,2016,Safe,6.12,None,27.5,,7.6,2085.0,2.2,2.1,3.0,3.0,
+1713,"Well At Village Gattal, Near, Bhiwadi To Bhiwadi Industrial Area, Bhiwadi",Groundwater,RAJASTHAN,2016,Safe,4.46,None,27.5,,7.5,1510.0,1.6,1.9,3.0,3.0,
+1715,Hand Pump Near Secondary School About 300Mt. From Kansua Nallah Kota,Groundwater,RAJASTHAN,2016,Safe,4.87,None,27.5,,8.05,1295.0,1.75,1.1,3.0,3.0,
+1720,"Chaudhary Ka Well Village Paniala, Kotaputali Near Associated Alcohol Breveries Ltd Jaipur",Groundwater,RAJASTHAN,2016,Safe,4.32,None,27.5,,8.0,2015.0,1.55,2.7,3.0,3.0,
+1721,"Phed Well Near Railway Line Jhotawara, Jaipur",Groundwater,RAJASTHAN,2016,Safe,3.08,None,28.0,,7.75,1325.0,1.1,1.35,4.0,4.0,
+1717,"Kodra Dam, Mount Abu",River,RAJASTHAN,2016,Safe,2.36,None,19.5,6.4,7.65,130.0,1.05,0.7,5.0,12.0,
+2947,"Jawai Dam, Sirohi",River,RAJASTHAN,2016,Safe,2.48,None,23.5,5.3,8.4,350.0,1.1,1.05,5.5,17.5,
+2948,"Hemawas Dam, Pali",River,RAJASTHAN,2016,Unsafe,5.98,Low DO,20.5,4.25,8.0,520.0,1.3,1.05,7.5,78.5,
+2949,"Ranakpur Dam, Ranakpur, Pali",River,RAJASTHAN,2016,Safe,2.42,None,22.0,5.15,8.35,535.0,1.05,1.9,5.5,78.5,
+1285,Pichola Lake At Udaipur (Water Intake Point),Pond/Tank,RAJASTHAN,2016,Unsafe,20.01,High BOD,,25.0,7.7,8.45,435.0,1.85,1.2,9.0,80.5
+1286,Udaisagar Lake At Udaipur (Intake Pt.),Pond/Tank,RAJASTHAN,2016,Unsafe,20.07,High BOD,,24.0,7.2,8.4,500.0,1.7,1.75,78.5,560.0
+1414,Pushkar Lake,Pond/Tank,RAJASTHAN,2016,Unsafe,24.94,"pH Out of Range, High BOD",,25.5,4.9,8.1,415.0,2.05,0.95,16.0,108.5
+1481,Fateh Sagar Lake At Udaipur Intake Point Of Phed,Pond/Tank,RAJASTHAN,2016,Unsafe,20.01,High BOD,,25.0,7.85,8.4,500.0,1.8,1.3,7.5,19.5
+1714,Kayalana Jheel Jodhpur,Pond/Tank,RAJASTHAN,2016,Unsafe,20.01,High BOD,,26.5,7.25,7.85,380.0,1.25,0.95,5.5,17.5
+1716,"Nakki Lake, Mt. Abu",Pond/Tank,RAJASTHAN,2016,Unsafe,23.7,"pH Out of Range, High BOD",,19.5,5.3,7.95,355.0,0.95,0.9,5.5,17.5
+2935,"Lake Jet Sagar, Bundi",Pond/Tank,RAJASTHAN,2016,Unsafe,23.86,"pH Out of Range, High BOD",,24.5,5.25,8.25,370.0,1.1,0.95,12.0,110.5
+2936,"Jaisamand Lake, Alwar",Pond/Tank,RAJASTHAN,2016,Unsafe,23.85,"pH Out of Range, High BOD",,23.5,5.25,8.0,220.0,1.1,1.1,4.0,50.0
+2937,"Lake Siliserh, Alwar",Pond/Tank,RAJASTHAN,2016,Unsafe,22.31,"pH Out of Range, High BOD",,25.0,5.75,7.85,190.0,1.35,0.8,5.0,39.5
+2938,"Lake Rajsamand, Rajsamand- Point No. 1, Rajsamand",Pond/Tank,RAJASTHAN,2016,Unsafe,24.01,"pH Out of Range, High BOD",,25.0,5.2,8.7,500.0,1.45,0.95,5.5,78.5
+2939,"Lake Rajsamand, Rajsamand- Point No. 2, Rajsamand",Pond/Tank,RAJASTHAN,2016,Unsafe,25.55,"pH Out of Range, High BOD",,24.95,4.7,8.8,500.0,1.45,0.85,16.0,80.5
+2940,"Gape- Sagar Lake, Dungarpur",Pond/Tank,RAJASTHAN,2016,Unsafe,20.02,High BOD,,22.0,6.85,8.2,500.0,1.65,1.25,13.5,560.0
+2941,"Lake Jaisamand, Salumber, Udaipur, Point No. 1",Pond/Tank,RAJASTHAN,2016,Unsafe,20.01,High BOD,,23.0,8.25,8.2,500.0,1.55,1.2,9.0,85.0
+2942,"Lake Jaisamand, Salumber, Udaipur, Point No. 2",Pond/Tank,RAJASTHAN,2016,Unsafe,20.01,High BOD,,23.0,8.1,8.1,500.0,1.2,1.1,9.0,43.0
+2943,"Lodha Talab, Banswara- Dungarpur Road, Banswara",Pond/Tank,RAJASTHAN,2016,Unsafe,25.39,"pH Out of Range, High BOD",,27.5,4.75,8.05,500.0,2.9,1.05,7.5,108.5
+2944,"Jalmahal, Jaipur",Pond/Tank,RAJASTHAN,2016,Unsafe,31.45,"pH Out of Range, High BOD",,25.0,2.8,8.9,500.0,8.6,5.0,52.0,587.5
+2955,"Chambal Entering In Rajasthan At Gandhi Sagar Dam, Kota",River,RAJASTHAN,2016,Unsafe,3.05,pH Out of Range,24.5,5.65,8.65,345.0,1.2,0.95,5.5,13.5,
+1288,Chambal At Kota U/S (Intake Pt. Near Barrage),River,RAJASTHAN,2016,Safe,2.02,None,24.5,6.3,8.25,285.0,0.9,0.85,4.0,13.5,
+1289,Chambal At Kota D/S (2 Km. From City),River,RAJASTHAN,2016,Safe,4.99,None,25.0,5.65,8.5,545.0,2.0,1.1,17.5,596.5,
+1413,Chambal At Rameshwarghat Nr. Sawaimadhopur,River,RAJASTHAN,2016,Safe,3.34,None,23.5,5.5,8.45,440.0,1.45,0.9,13.5,80.5,
+2954,"Parvati B/M Chambal At Khatoli, Kota",River,RAJASTHAN,2016,Safe,3.1,None,24.0,6.2,8.5,450.0,1.35,1.05,9.0,78.5,
+2953,"Kali Sindh At Anicut Of M/S Cfcl Gadepan, Kota",River,RAJASTHAN,2016,Safe,2.83,None,23.0,5.5,8.4,420.0,1.25,1.05,5.5,41.0,
+2956,"River Kali Sindh At Barod Road Bridge, Kota",River,RAJASTHAN,2016,Unsafe,20.12,High BOD,23.5,5.75,8.5,570.0,91.45,1.2,13.5,80.5,
+2950,"Banas,Dhanari Dam, Near Swaroopganj, Sirohi",River,RAJASTHAN,2016,Safe,2.87,None,20.5,5.9,8.25,465.0,1.25,2.6,9.0,78.5,
+2952,"Banas,Near Newta Dam, Jaipur",River,RAJASTHAN,2016,Unsafe,27.43,"Low DO, pH Out of Range, High BOD",23.5,3.05,8.75,1160.0,8.45,3.65,17.5,267.5,
+2951,"Banas,Bisulpur Dam, Tonk",River,RAJASTHAN,2016,Unsafe,3.55,"Low DO, pH Out of Range",27.0,4.85,8.6,345.0,1.2,1.0,5.5,39.5,
+2945,"Chhapi ,U/S Of Chhapi Dam, Jhalawar",River,RAJASTHAN,2016,Safe,2.43,None,25.0,5.3,8.1,300.0,1.05,0.85,9.0,78.5,
+2946,"Ujad,U/S Of Bhim Sagar Dam, Jhalawar",River,RAJASTHAN,2016,Safe,2.94,None,24.5,5.7,8.15,385.0,1.3,0.9,5.5,41.0,
+1232,Mahi (D/S) Conf With R. Chap (Under Sagwara-Sarhi Rd. Bdg.),River,RAJASTHAN,2016,Safe,3.38,None,27.0,5.45,8.2,455.0,1.5,0.9,5.5,41.0,
+1229,Mahi Near Rajasthan Border At Kadana Dam,River,RAJASTHAN,2016,Unsafe,7.37,High BOD,30.5,7.6,7.9,353.5,3.3,0.5,6.5,22.0,
+1224,Meshwa Near Rajasthan Border At Samlaji,River,RAJASTHAN,2016,Safe,3.38,None,27.0,6.6,8.0,375.0,1.5,0.1,6.1,26.0,

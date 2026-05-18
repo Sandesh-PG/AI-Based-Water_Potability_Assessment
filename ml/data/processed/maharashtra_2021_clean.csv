@@ -1,0 +1,234 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+2002,"Anjangaon,Akot, Akola",Groundwater,MAHARASHTRA,2021,Unsafe,11.83,High BOD,26.0,,7.95,874.5,4.2,0.47,8.0,140.0,
+1990,"Bmw Site, Burudgaon, Ahmednagar",Groundwater,MAHARASHTRA,2021,Unsafe,14.52,High BOD,22.5,,7.2,1625.5,5.2,7.695,6.0,58.0,
+2821,"Bore Well At Bale Railway Station Premises Owned By Shri Digambar Joshi, Dahegaon, North Solapur",Groundwater,MAHARASHTRA,2021,Unsafe,13.93,High BOD,23.0,,7.65,3538.5,4.8,9.9,40.0,412.5,
+2817,"Bore Well At Chitali Near Wagh Vasthi, Rahata, Ahmadnagar",Groundwater,MAHARASHTRA,2021,Unsafe,9.81,High BOD,22.0,,7.45,879.5,3.5,6.53,6.0,63.0,
+2200,"Bore Well At Katpur, Near Z.P School, Katpur, Paithan, Aurangabad",Groundwater,MAHARASHTRA,2021,Unsafe,17.76,High BOD,,,7.3,1395.0,3.2,1.75,,,
+2818,"Bore Well At M/S Spectron Ethers Siddeshwar Mahadev Mandir, Rasegaon, Dindori, Nashik",Groundwater,MAHARASHTRA,2021,Safe,8.53,None,21.0,,7.1,999.0,3.0,6.5,22.0,100.0,
+2830,"Bore Well At Midc Gokul- Shirgaon, Karvir, Kolhapur",Groundwater,MAHARASHTRA,2021,Safe,10.54,None,28.0,,7.7,781.5,1.9,5.17,,,
+2829,Bore Well At Midc Shiroli Near M/S Pratibha,Groundwater,MAHARASHTRA,2021,Safe,12.76,None,28.0,,7.75,1415.5,2.3,2.965,,,
+2823,"Bore Well At Shete Vasti Near Old Tuljapur Road, Tuljapur Naka, Solapur",Groundwater,MAHARASHTRA,2021,Unsafe,14.33,High BOD,24.0,,7.75,2913.0,4.8,9.98,77.5,625.0,
+2825,"Bore Well At Wahegaon Near Zilla Parishad School, Wahegaon,Paithan, Aurangabad",Groundwater,MAHARASHTRA,2021,Safe,13.88,None,29.0,,7.55,2737.5,2.5,2.875,,,
+2822,"Bore Well Near Chincholi, Mohol, Solapur",Groundwater,MAHARASHTRA,2021,Unsafe,12.56,High BOD,24.5,,7.7,1358.0,4.4,9.605,23.5,235.0,
+1998,"Brhamni, Kalmeshwar, Nagpur",Groundwater,MAHARASHTRA,2021,Unsafe,11.3,High BOD,,,8.0,748.0,4.0,0.3,17.0,120.0,
+1999,"Changera, Gondia",Groundwater,MAHARASHTRA,2021,Safe,8.54,None,,,8.2,913.0,3.0,,14.0,140.0,
+2204,"Dug Well At Gunjalwadi, Sangamner Near Primary Health Care Center, Ahmednagar",Groundwater,MAHARASHTRA,2021,Unsafe,10.06,High BOD,21.5,,7.35,889.0,3.6,7.15,4.0,49.0,
+2201,"Dug Well At Ranjangaon, Ganagapur, Aurangabad",Groundwater,MAHARASHTRA,2021,Safe,14.43,None,29.0,,7.9,1915.0,2.6,0.3,,,
+2831,"Dug Well At Sakharali Near Midc Islampur Near Krishna Milk Industry, Walwa, Sangali",Groundwater,MAHARASHTRA,2021,Safe,7.25,None,24.0,,7.4,1046.0,2.6,4.86,4.0,11.0,
+2828,"Dug Well Near Jilla Parishad Primary School, Visapur, Ballarpur, Chandrapur",Groundwater,MAHARASHTRA,2021,Unsafe,11.53,High BOD,42.0,,8.15,811.0,4.1,0.65,9.5,106.0,
+2826,"Dug Well Near Railway Station, Cotton Market, Wardha",Groundwater,MAHARASHTRA,2021,Unsafe,8.84,High BOD,19.0,,7.9,741.5,3.15,1.45,6.5,71.0,
+2832,"Dug Well No-1 At Brahmanwadi Anjanwel Owned By Shri Vaidya, Guhagar, Ratnagiri",Groundwater,MAHARASHTRA,2021,Safe,5.03,None,26.0,,6.85,87.0,1.8,0.4,4.0,12.5,
+2833,Dug Well No-1 At Group Gram Panchayat At,Groundwater,MAHARASHTRA,2021,Safe,4.76,None,27.0,,6.7,340.5,1.7,0.55,5.0,16.0,
+2834,"Dug Well No-2 At Arketwadi, Khed, Ratnagiri",Groundwater,MAHARASHTRA,2021,Safe,6.42,None,27.0,,6.75,483.5,2.3,0.4,5.0,15.0,
+2835,"Dug Well No-2 Owned By Group Gram Panchayat Brahmanwadi, Anjanwel, Guhagar, Ratnagiri",Groundwater,MAHARASHTRA,2021,Safe,4.75,None,26.0,,6.6,283.0,1.7,1.385,4.5,15.0,
+2816,"Dug Well Of Mr.Sampat Walunj Near M/S Mahajeet Clayton, Shinde Village, Nashik",Groundwater,MAHARASHTRA,2021,Unsafe,11.88,High BOD,21.0,,7.3,1510.0,4.2,7.0,22.0,120.0,
+2819,"Dug Well Owned By Shri Deshmukh, Malegaon, Baramati, Pune",Groundwater,MAHARASHTRA,2021,Unsafe,19.59,High BOD,28.25,,7.65,3830.0,6.8,10.855,27.5,587.5,
+2820,"Dug Well Owned By Shri Shivaji Baban Darekar, Sanaswadi, Shirur, Pune",Groundwater,MAHARASHTRA,2021,Unsafe,14.72,High BOD,24.5,,7.95,778.5,5.1,5.48,15.5,492.5,
+1987,"Gokhiware,Vasai, Thane",Groundwater,MAHARASHTRA,2021,Unsafe,10.37,High BOD,33.0,,7.4,5222.0,3.7,1.845,9.0,53.0,
+2203,"Hand Pump In The Premises Of Zilla Parishad Primary School, Bhugaon, Wardha",Groundwater,MAHARASHTRA,2021,Unsafe,8.74,High BOD,18.5,,7.8,1064.0,3.1,1.75,11.5,76.0,
+1985,"Kashimira,Bhayander, Thane",Groundwater,MAHARASHTRA,2021,Unsafe,10.82,High BOD,33.0,,7.75,1845.5,3.8,1.1,21.5,171.5,
+2005,"Khanjirenagar, Hatkanangale, Kolhapur",Groundwater,MAHARASHTRA,2021,Safe,11.65,None,28.0,,7.8,1543.0,2.1,2.585,,,
+1995,"Khaperkheda, Saoner,Nagpur",Groundwater,MAHARASHTRA,2021,Unsafe,13.23,High BOD,24.0,,8.05,725.0,4.75,1.55,3.0,36.0,
+1996,"Koradi, Kamptee,Nagpur",Groundwater,MAHARASHTRA,2021,Unsafe,10.7,High BOD,,,8.0,714.0,3.8,0.3,12.0,94.0,
+2006,"Midc, Shinoli, Chandgad, Kolhapur",Groundwater,MAHARASHTRA,2021,Safe,11.1,None,28.0,,7.7,1334.0,2.0,2.715,,,
+1989,"Msw Site, Karawala,Taloja,Panvel, Raigad",Groundwater,MAHARASHTRA,2021,Unsafe,9.85,High BOD,28.5,,7.95,99.0,3.5,0.37,14.0,66.5,
+1992,"Msw Site, Moshi,Pimpri- Chinchwad, Haweli,Pune",Groundwater,MAHARASHTRA,2021,Unsafe,15.54,High BOD,26.0,,7.5,550.0,5.4,4.625,13.0,490.0,
+1991,"Msw Site, Pathardi, Nasik",Groundwater,MAHARASHTRA,2021,Unsafe,14.16,High BOD,21.0,,6.9,970.0,5.0,2.7,26.0,150.0,
+2004,"Parvati Indl. Estate, Yadrav, Shirol, Kolhapur",Groundwater,MAHARASHTRA,2021,Safe,9.99,None,28.0,,7.7,1587.0,1.8,5.27,,,
+1993,"Phandarpur, Gangapur, Aurangabad",Groundwater,MAHARASHTRA,2021,Unsafe,18.87,High BOD,,,7.3,1745.0,3.4,3.75,,,
+1997,"Raipur,Hingna Nagpur",Groundwater,MAHARASHTRA,2021,Unsafe,10.31,High BOD,16.0,,8.0,826.0,3.6,0.3,20.0,220.0,
+2008,"Rasulwadi-Sambarwadi, Mirajsangli",Groundwater,MAHARASHTRA,2021,Unsafe,6.2,pH Out of Range,23.0,,6.2,4448.0,1.8,13.59,6.0,24.0,
+2007,"Savali, Miraj, Sangli",Groundwater,MAHARASHTRA,2021,Safe,5.04,None,23.0,,7.1,4363.0,1.8,13.59,6.0,17.0,
+2003,"Sawargaon, Yavatmal",Groundwater,MAHARASHTRA,2021,Unsafe,11.8,High BOD,33.0,,8.15,695.0,4.2,0.82,11.5,86.0,
+1994,"Tps-Durgapur, Chandrapur",Groundwater,MAHARASHTRA,2021,Unsafe,12.61,High BOD,32.0,,8.15,687.5,4.5,1.2,8.0,86.0,
+1316,"Bassein Creek At Vasaifort At Bassein , Vasai,Thane",CREEK,MAHARASHTRA,2021,Unsafe,23.99,"Low DO, High BOD",31.0,4.3,7.55,36665.0,11.5,3.6,188.5,545.0,
+1317,"Thane Creek At Elephanta Island, Elephanta, Mumbai",CREEK,MAHARASHTRA,2021,Unsafe,24.37,"Low DO, High BOD",26.5,4.4,7.55,46270.0,13.0,1.8,309.5,910.0,
+1318,"Mahim Creek At Mahim Bay, Mahim, Mumbai",CREEK,MAHARASHTRA,2021,Unsafe,23.48,"Low DO, High BOD",27.0,4.6,7.75,36310.0,13.5,2.6,287.0,920.0,
+2165,"Sea Water At Gateway Of India,Colaba, Mumbai",SEA,MAHARASHTRA,2021,Unsafe,23.91,"Low DO, High BOD, High Fecal Coliform",26.5,4.75,7.4,46475.0,14.0,1.8,525.0,1015.0,
+2166,"Sea Water At Charni Road Choupathy, Girgaon, Mumbai",SEA,MAHARASHTRA,2021,Unsafe,23.92,"Low DO, High BOD",27.0,4.5,7.5,38970.0,13.2,1.8,293.0,940.0,
+2167,"Sea Water At Worli Sea Face, Worli, Mumbai",SEA,MAHARASHTRA,2021,Unsafe,24.88,"Low DO, High BOD",27.0,4.3,7.5,46210.0,13.2,1.9,325.0,975.0,
+2169,"Sea Water At Versova Beach, Versova, Andheri, Mumbai",BEACH,MAHARASHTRA,2021,Unsafe,22.78,High BOD,26.0,5.0,7.75,48355.0,11.6,1.7,499.5,975.0,
+2184,"Vashi Creek At Airoli Bridge,Airoli, Thane",CREEK,MAHARASHTRA,2021,Unsafe,20.89,High BOD,26.5,5.35,7.3,24864.5,9.9,3.83,125.5,483.0,
+2185,"Vashi Creek At Vashi Bridge, Vashi,Thane",CREEK,MAHARASHTRA,2021,Unsafe,20.88,High BOD,27.5,5.3,7.5,26051.0,9.5,6.9,118.5,502.0,
+2791,"Ulhas Creek At Reti Bunder, D/S Of Kalyan- Bhiwandi Bridge, Kalyan,Kalyan, Thane",CREEK,MAHARASHTRA,2021,Unsafe,21.4,"Low DO, High BOD",24.5,4.8,7.2,6636.0,15.7,5.6,91.5,293.0,
+2792,"Ulhas Creek At Mumbra Reti Bunder, Village Mumbra, Thane",CREEK,MAHARASHTRA,2021,Unsafe,20.58,High BOD,27.5,5.5,7.25,16213.5,9.3,7.6,87.25,283.5,
+2793,"Thane Creek At Kalwa Road Bridge, Kalwa, Thane",CREEK,MAHARASHTRA,2021,Unsafe,20.27,High BOD,27.5,5.4,7.25,16209.0,8.8,7.5,88.4,476.5,
+2794,"Ulhas Creek At Kolshet Reti Bunder, Kolshet, Thane",CREEK,MAHARASHTRA,2021,Unsafe,20.88,High BOD,27.5,5.35,7.4,16468.0,9.3,6.1,122.25,484.5,
+2795,"Ulhas Creek At Gaimukh At Nagla Bunder On Ghod Bunder Road, Nagla, Thane",CREEK,MAHARASHTRA,2021,Unsafe,21.13,"Low DO, High BOD",27.5,4.9,7.45,19111.0,9.8,7.3,87.25,471.0,
+2796,"Ulhas Creek At Versova Bridge, Versova, Vasai, Thane",CREEK,MAHARASHTRA,2021,Unsafe,20.48,High BOD,29.5,5.35,7.55,27811.0,8.8,4.0,141.0,471.5,
+2797,"Bhayander Creek At D/S Of Railway Bridge, Jasal Park Choupathy, Navghar, Bhayander, Thane",CREEK,MAHARASHTRA,2021,Unsafe,24.07,"Low DO, High BOD",29.5,4.35,7.6,30556.0,10.4,4.4,186.5,905.0,
+2798,"Kharekuran Murbe Creek, Kharekuran, Palghar, Thane",CREEK,MAHARASHTRA,2021,Unsafe,23.6,"Low DO, High BOD",26.0,4.5,7.9,50000.0,12.2,2.3,290.0,545.0,
+2799,"Dandi Creek, Dandi, Palghar, Thane",CREEK,MAHARASHTRA,2021,Unsafe,22.82,"Low DO, High BOD",26.0,4.6,7.9,49665.0,11.2,3.8,191.5,565.0,
+2800,"Sarawali Creek, Sarawali, Palghar, Thane",CREEK,MAHARASHTRA,2021,Unsafe,18.62,High BOD,26.0,5.35,7.9,22206.0,8.0,2.8,122.25,468.5,
+2801,"Savta Creek, Savta, Dahanu, Thane",CREEK,MAHARASHTRA,2021,Unsafe,21.53,High BOD,25.5,5.05,7.45,38546.0,11.4,1.9,276.5,530.0,
+2802,"Dahanu Creek At Dahanu Fort, Danugaon, Dahanu, Thane",CREEK,MAHARASHTRA,2021,Unsafe,23.6,"Low DO, High BOD",25.5,4.55,7.55,40967.0,11.0,2.0,281.0,847.0,
+2803,"Panvel Creek At Kopra Bridge, Kopra, Panvel, Raigad",CREEK,MAHARASHTRA,2021,Unsafe,13.17,High BOD,28.5,6.0,7.2,11916.0,5.7,9.2,72.25,283.5,
+2804,"Karambavane Creek At Chiplun, Karambavane, Ratnagiri",CREEK,MAHARASHTRA,2021,Safe,4.29,None,31.5,6.5,7.1,5071.0,1.9,4.6,9.5,41.5,
+2805,"Arnala Sea, Arnala, Vasai, Thane",MARINE,MAHARASHTRA,2021,Unsafe,24.88,"Low DO, High BOD",29.5,4.25,7.95,38543.0,12.0,2.2,281.5,940.0,
+2806,"Uttan Sea, Uttan, Bhayander, Thane",MARINE,MAHARASHTRA,2021,Unsafe,24.22,"Low DO, High BOD",29.5,4.35,8.05,38599.0,11.5,1.11,285.5,600.0,
+2807,"Navapura Sea, Navapur, Palghar, Thane",MARINE,MAHARASHTRA,2021,Unsafe,25.07,"Low DO, High BOD",26.0,4.1,7.9,50000.0,13.5,2.9,186.5,910.0,
+2808,"Sea Water At Nariman Point, Colaba, Mumbai",MARINE,MAHARASHTRA,2021,Unsafe,25.71,"Low DO, High BOD, High Fecal Coliform",26.5,4.3,7.6,46320.0,13.5,1.9,525.0,1015.0,
+2809,"Sea Water At Malabar Hill, Walkeshwar, Mumbai",MARINE,MAHARASHTRA,2021,Unsafe,24.82,"Low DO, High BOD",27.0,4.25,7.55,46385.0,13.0,2.1,317.0,690.0,
+2810,"Sea Water At Haji Ali, Worli, Mumbai",MARINE,MAHARASHTRA,2021,Unsafe,25.08,"Low DO, High BOD",27.0,4.2,7.6,38940.0,13.0,1.9,286.5,920.0,
+2811,"Sea Water At Shivaji Park, Dadar Choupathy,Dadar, Mumbai",MARINE,MAHARASHTRA,2021,Unsafe,25.48,"Low DO, High BOD",27.0,4.3,7.6,36205.0,13.0,2.1,483.0,940.0,
+2812,"Sea Water At Juhu Beach, Juhugaon, Santacruz, Mumbai",BEACH,MAHARASHTRA,2021,Unsafe,21.8,High BOD,26.0,5.5,7.65,31995.0,22.4,1.8,281.0,847.0,
+2813,"Sea Water At Ganapatipule, Ratnagiri, Ratnagiri",MARINE,MAHARASHTRA,2021,Safe,6.43,None,29.0,5.95,7.7,50000.0,2.8,2.6,30.5,116.5,
+2814,"Sea Water At Bhagwati Bunder Near Ultra Tech Cement Jetty, Mirkarwada, Ratnagiri, Ratnagiri",MARINE,MAHARASHTRA,2021,Unsafe,21.45,"Low DO, High BOD",29.0,4.0,7.75,50000.0,7.35,2.5,182.0,502.0,
+2815,"Madvi Sea Water Near Jodhale Maruti Temple, Madvigaon, Ratnagiri, Ratnagiri",MARINE,MAHARASHTRA,2021,Safe,6.67,None,29.0,6.3,7.6,31515.5,2.9,2.9,26.0,155.0,
+2651,"River Amba At D/S Of Waken Bridge-U/S Of Js Petrochemicals, Wakenphata, Roha, Raigad",River,MAHARASHTRA,2021,Unsafe,8.14,High BOD,32.0,6.7,7.8,1571.5,3.5,0.35,56.0,182.0,
+2653,"River Bhatsa At D/S Of Liberty Oil Mills, Satne, Shahapur, Thane",River,MAHARASHTRA,2021,Unsafe,7.88,High BOD,26.5,6.7,7.55,131.5,3.5,0.405,12.5,76.0,
+1461,"River Bhatsa At D/S Of Pise Dam Near Pise Village (Ulhas), Bhiwandi, Thane",River,MAHARASHTRA,2021,Unsafe,7.93,High BOD,31.0,7.1,7.5,162.5,3.5,0.45,16.0,121.0,
+2654,"River Bhatsa At U/S Of Liberty Oil Mills, Satne, Shahapur, Thane",River,MAHARASHTRA,2021,Unsafe,7.86,High BOD,25.5,7.1,7.6,132.0,3.5,0.405,11.5,55.5,
+1092,"River Kalu At Atale Village, Kalyan, Thane",River,MAHARASHTRA,2021,Unsafe,12.32,High BOD,24.5,5.85,7.55,518.5,5.5,0.95,14.0,65.5,
+2670,"River Kan Near Sakri Water Works, Sakri, Dhule",River,MAHARASHTRA,2021,Safe,6.29,None,,6.3,7.75,751.0,2.8,2.585,7.5,58.5,
+2198,"River Kundalika At Are Khurd ( Saline Zone ), Arekhurd, Roha, Raigad",River,MAHARASHTRA,2021,Unsafe,13.6,High BOD,32.0,5.9,7.55,4938.0,6.0,1.7,40.5,148.5,
+2672,"River Kundalika At Dhatav At Jackwell, Dhatav, Roha, Raigad",River,MAHARASHTRA,2021,Unsafe,16.81,High BOD,31.5,5.7,7.5,5457.5,7.5,0.75,17.5,115.5,
+1152,"River Kundalika At Roha Bridge, Roha City, Raigad",River,MAHARASHTRA,2021,Unsafe,8.32,High BOD,31.5,6.7,7.9,113.0,3.6,0.595,25.5,278.5,
+2671,"River Kundalika Near Salav Bridge (Salina Zone), Salav, Roha, Raigad",River,MAHARASHTRA,2021,Unsafe,20.56,High BOD,31.5,5.25,7.7,29771.0,10.3,1.35,86.0,274.0,
+2168,"River Mithi River, Mahim, Bandra, Mumbai",River,MAHARASHTRA,2021,Unsafe,64.4,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",26.5,3.9,7.35,16754.0,24.1,8.1,8502.5,46013.5,
+2676,"River Muchkundi At Waked Near M/S Asahi India Glass Ltd, Waked, Lanja, Ratnagiri",River,MAHARASHTRA,2021,Safe,3.59,None,28.0,6.75,7.6,4452.0,1.6,0.645,5.0,18.0,
+2685,"River Patalganga At D/S Of Kharpada Bridge, Kharpada, Khalapur, Raigad",River,MAHARASHTRA,2021,Unsafe,14.9,High BOD,28.0,5.75,7.3,1690.0,6.5,4.75,25.0,468.5,
+2689,"River Patalganga At Gagangiri Maharaj Temple, Khopoli, Khalapur, Raigad",River,MAHARASHTRA,2021,Unsafe,8.49,High BOD,28.0,6.9,7.4,201.0,3.4,1.3,72.5,811.0,
+2687,"River Patalganga At Khalapur Pumping Station, Khalapur, Raigad",River,MAHARASHTRA,2021,Unsafe,11.95,High BOD,29.0,6.25,7.4,3316.0,5.3,3.1,17.5,145.5,
+2688,"River Patalganga At Savroli Bridge, Khalapur. Raigad",River,MAHARASHTRA,2021,Unsafe,12.05,High BOD,29.0,6.3,7.45,3274.0,5.2,3.25,71.0,281.0,
+1151,"River Patalganga At Shilphata, Khopoli, Khalapur, Raigad",River,MAHARASHTRA,2021,Unsafe,8.9,High BOD,28.5,6.95,7.6,277.5,3.5,0.45,121.0,808.5,
+2686,"River Patalganga At Vyal Pump House, Vyal, Khalapur, Raigad",River,MAHARASHTRA,2021,Unsafe,11.93,High BOD,28.5,6.35,7.3,1464.0,5.2,1.9,42.0,278.5,
+1462,"River Patalganga Near Intake Of Midc W/W, Turade, Khalapur, Raigad",River,MAHARASHTRA,2021,Unsafe,8.14,High BOD,28.0,7.1,7.65,848.5,3.5,0.3,36.0,278.5,
+2696,"River Pehlar Dam On Pehlar River-Inlet Of Water Works, Pehlar, Vasai, Thane",River,MAHARASHTRA,2021,Unsafe,7.88,High BOD,29.5,7.0,7.6,665.5,3.5,0.71,12.0,75.5,
+2703,"River Savitri At Dadli Bridge, Dadli, Mahad, Raigadh",River,MAHARASHTRA,2021,Safe,4.06,None,29.5,6.8,7.25,13673.0,1.8,1.325,9.5,32.0,
+2704,"River Savitri At Muthavali Village, Mahad, Raigadh",River,MAHARASHTRA,2021,Safe,4.72,None,30.5,6.25,7.45,15171.0,2.1,2.25,9.5,25.5,
+2199,"River Savitri At Ovale Village, Ovale, Mahad, Raigad",River,MAHARASHTRA,2021,Safe,5.84,None,30.5,5.4,7.3,18195.0,2.6,2.51,10.0,36.0,
+2702,"River Savitri At Shedav Dov, Mahad, Raigad",River,MAHARASHTRA,2021,Safe,4.03,None,33.0,6.35,7.55,155.5,1.8,1.285,4.0,20.5,
+2701,"River Savitri Jackwell At Upsa Kendre, Nangalwadi, Mahad, Raigad",River,MAHARASHTRA,2021,Safe,3.81,None,33.0,7.2,7.45,147.0,1.7,0.78,4.0,21.0,
+2709,"River Tansa Near Road Bridge, Village Dakewali, Wada, Thane",River,MAHARASHTRA,2021,Unsafe,7.87,High BOD,21.5,6.9,8.1,159.0,3.5,0.425,16.0,48.0,
+2162,"River Ulhas At Jambhul Water Works, Jambhul, Ambernath, Thane",River,MAHARASHTRA,2021,Unsafe,7.7,High BOD,27.0,7.2,7.35,165.0,3.4,0.65,19.0,96.0,
+1094,"River Ulhas At U/S Of Badlapur, Kulgaon, Ambernath, Thane",River,MAHARASHTRA,2021,Unsafe,7.87,High BOD,27.0,7.1,7.65,132.0,3.4,0.75,56.0,118.5,
+1093,"River Ulhas At U/S Of Nrc Bund At Mohane, Kalyan, Thane",River,MAHARASHTRA,2021,Unsafe,8.06,High BOD,27.0,7.05,7.45,165.0,3.5,0.545,49.5,113.5,
+2712,"River Vaitarna Near Road Bridge, Gandhare Village, Wada, Thane",River,MAHARASHTRA,2021,Unsafe,7.85,High BOD,22.5,7.15,8.05,125.0,3.5,0.405,11.0,43.5,
+2713,"River Vashisti At D/S Of Three M Paper Mills Near Chiplun Water Intake Jackwell, Kherdi,Chiplun, Ratnagiri",River,MAHARASHTRA,2021,Safe,3.81,None,31.5,6.8,7.2,93.5,1.7,1.275,4.5,19.5,
+2714,"River Vashisti At U/S Of Pophali Near Konphansawane Bridge, Chiplun, Ratnagiri",River,MAHARASHTRA,2021,Safe,3.37,None,31.5,6.9,7.4,84.0,1.5,0.55,5.0,26.0,
+2164,"River Vashisti At U/S Of Three M Paper Mills Near M/S Multifilms Plastic Pvt. Ltd. At Kherdi, Chiplun, Ratnagiri",River,MAHARASHTRA,2021,Safe,3.58,None,31.5,7.05,7.4,91.0,1.6,1.245,4.5,18.0,
+30044,"River Tapi At Prakasha, (Maharashtra)",River,MAHARASHTRA,2021,Unsafe,9.9,High BOD,21.0,5.8,8.2,472.0,4.4,3.19,8.0,120.0,
+30043,"River Tapi At Ajnad, (Maharashtra)",River,MAHARASHTRA,2021,Unsafe,11.66,High BOD,23.0,5.6,8.4,479.0,5.2,3.02,6.0,110.0,
+1251,"River Tapi At Bhusawal U/S, Bhusawal Railway Colony, Bhusawal, Jalgaon",River,MAHARASHTRA,2021,Unsafe,7.18,High BOD,23.0,6.4,7.4,654.5,3.2,1.77,6.5,60.0,2.0
+1313,"River Tapi At Ajand Village, Raver, Jalgaon",River,MAHARASHTRA,2021,Unsafe,6.97,High BOD,25.0,6.4,7.4,3330.0,3.1,1.705,8.0,68.5,2.0
+1314,"River Tapi At Ubad Village,Shahada, Nandurbar",River,MAHARASHTRA,2021,Safe,6.73,None,29.0,5.9,7.65,636.5,3.0,1.53,6.5,58.0,2.0
+2652,"River Amravati D/S Of Dondaicha, Dhule, Dhule",River,MAHARASHTRA,2021,Safe,6.29,None,,6.8,7.6,751.0,2.8,0.51,6.0,63.0,2.0
+2666,"River Gomai D/S Of Shahada, Dhule",River,MAHARASHTRA,2021,Safe,6.27,None,,6.65,7.65,562.0,2.8,1.815,5.0,47.0,2.0
+2659,"River Burai Before Confluece To Tapi River, Mukudas, Dhule",River,MAHARASHTRA,2021,Safe,6.54,None,,6.65,7.75,605.0,2.9,2.135,11.0,74.5,2.0
+1252,River Girna At Jalgaon,River,MAHARASHTRA,2021,Safe,6.3,None,22.75,6.75,7.65,621.0,2.8,1.795,8.0,65.0,2.0
+1253,"River Girna At Malegaon (Manmad), Nashik",River,MAHARASHTRA,2021,Unsafe,8.75,High BOD,21.0,5.45,7.75,813.5,3.9,2.505,8.0,70.0,2.0
+1907,"River Rangavali D/S Of Navapur, Nandurbar",River,MAHARASHTRA,2021,Safe,6.73,None,,6.0,7.6,690.0,3.0,2.415,6.0,55.0,2.0
+2658,"River Bori D/S Of Amalner, Jalgaon, Jalgaon",River,MAHARASHTRA,2021,Safe,6.75,None,23.25,6.45,7.75,567.5,3.0,1.76,8.5,71.0,2.0
+2667,"River Hiwara D/S Of Pachora, Jalgaon",River,MAHARASHTRA,2021,Safe,6.75,None,23.5,6.05,7.75,598.5,3.0,1.7,9.0,64.0,2.0
+2674,"River Mor Near Padalshe, Jalgaon",River,MAHARASHTRA,2021,Safe,6.31,None,21.5,6.95,7.55,574.5,2.8,0.4,9.0,76.0,2.0
+2710,"River Titur D/S Of Chalisgaon, Jalgaon",River,MAHARASHTRA,2021,Unsafe,7.88,High BOD,21.75,5.8,7.75,585.0,3.5,1.145,12.0,82.0,2.0
+2718,River Waghur At Sakegaon Before,River,MAHARASHTRA,2021,Unsafe,7.43,High BOD,23.0,6.45,7.45,657.0,3.3,1.435,8.0,94.0,2.0
+2684,"River Panzara Near Panzarakan Ssk Ltd, Panzara, Dhule",River,MAHARASHTRA,2021,Unsafe,7.64,High BOD,30.0,6.15,7.55,872.5,3.4,2.45,7.5,78.5,2.0
+1913,"River Purna At Dhupeshwar, Malkapur, Akola",River,MAHARASHTRA,2021,Unsafe,10.19,High BOD,25.5,6.25,8.4,769.0,4.5,9.895,25.5,128.0,2.0
+2155,"River Purna A/C Of Morna, Andura Village, Balapur, Akola",River,MAHARASHTRA,2021,Unsafe,11.11,High BOD,25.0,5.9,8.15,795.0,4.9,10.22,26.5,160.5,2.0
+2695,"River Pedhi Near Road Bridge At Dadhi-Pedhi Village, Bhatkuli, Amravati",River,MAHARASHTRA,2021,Unsafe,12.08,High BOD,20.5,5.05,7.25,706.0,5.3,8.96,24.5,270.0,2.0
+2675,"River Morna At D/S Railway Bridge, Akola",River,MAHARASHTRA,2021,Unsafe,12.96,High BOD,27.5,5.2,7.9,720.0,5.75,6.81,23.0,127.0,2.0
+12,"River Godavari At Dhalegaon, Pathari, Parbhani",River,MAHARASHTRA,2021,Unsafe,14.43,High BOD,22.5,5.9,8.4,2120.5,3.9,1.8,,,
+30049,"River Godavari At Belur,Dharmadabad, Nanded (Maharshtra)",River,MAHARASHTRA,2021,Unsafe,9.45,High BOD,22.0,5.8,8.2,524.0,4.2,7.47,7.0,120.0,
+1095,"River Godavari At U/S Of Gangapur Dam, Nashik",River,MAHARASHTRA,2021,Safe,6.05,None,23.0,6.65,7.35,411.0,2.7,0.975,4.0,45.0,2.0
+1096,"River Godavari At Panchavati At Ramkund,Nashik",River,MAHARASHTRA,2021,Unsafe,8.8,High BOD,23.0,6.15,7.45,620.0,3.9,1.25,12.5,120.0,2.0
+1209,"River Godavari At Raher, Nayagaon, Nanded",River,MAHARASHTRA,2021,Unsafe,12.58,High BOD,23.0,6.85,8.3,2821.5,3.4,3.65,,,
+1210,"River Godavari At Vishnupuri,Nanded, Nanded",River,MAHARASHTRA,2021,Unsafe,12.02,High BOD,23.0,6.7,8.4,2537.5,3.25,1.95,,,
+1211,"River Godavari At Nasik D/S, Gadgebaba Maharaj Nagar, Nashik",River,MAHARASHTRA,2021,Unsafe,9.03,High BOD,23.0,5.7,7.55,657.5,4.0,1.255,10.5,133.5,2.0
+2177,"River Godavari Near Someshwar Temple, Someshwar, Nashik",River,MAHARASHTRA,2021,Unsafe,7.66,High BOD,23.0,6.2,7.55,570.0,3.4,1.16,10.5,89.0,2.0
+2179,"River Godavari At Hanuman Ghat, Nashik City, Nashik",River,MAHARASHTRA,2021,Unsafe,7.68,High BOD,21.0,5.9,7.65,731.0,3.4,0.92,11.0,106.5,2.0
+2180,"River Godavari At Tapovan, Tapovan, Nashik",River,MAHARASHTRA,2021,Unsafe,13.03,"Low DO, High BOD",22.0,4.85,7.6,733.5,5.5,1.21,13.5,204.0,2.0
+2181,"River Godavari At Kapila- Godavari Confluence Point, Tapovan, Nashik",River,MAHARASHTRA,2021,Unsafe,14.19,"Low DO, High BOD",20.5,4.55,7.6,634.5,5.5,1.12,15.5,145.0,2.0
+2182,"River Godavari At Saikheda, Niphad, Nashik",River,MAHARASHTRA,2021,Unsafe,9.44,High BOD,21.0,5.85,7.35,994.5,4.2,2.2,10.5,94.0,2.0
+2183,"River Godavari At Nandur- Madmeshwar Dam, Nandur, Nashik",River,MAHARASHTRA,2021,Safe,6.75,None,22.0,6.4,7.3,658.0,3.0,1.8,7.0,74.5,2.0
+2157,"River Godavari At Latur Water Intake Near Pump House At Dhamegaon, Kalumb, Osmanabad",River,MAHARASHTRA,2021,Unsafe,8.67,High BOD,24.5,7.05,7.95,2194.5,3.9,3.225,2.0,2.0,2.0
+2158,"River Godavari At U/S Of Paithan At Paithan Intake Pump House At Jayakwadi, Paithan, Aurangabad",River,MAHARASHTRA,2021,Unsafe,14.06,High BOD,24.0,6.55,8.25,663.5,3.8,1.15,,,
+2159,"River Godavari At D/S Of Paithan At Pathegaon Bridge, Pathegaon, Paithan, Aurangabad",River,MAHARASHTRA,2021,Unsafe,11.47,High BOD,23.5,6.95,8.45,1124.5,3.1,1.06,,,
+2160,"River Godavari At U/S Of Aurangabad Reservoir, Kaigaon Tokka Near Kaigaon Bridge,Kaigaon, Gangapur, Aurangabad",River,MAHARASHTRA,2021,Unsafe,15.91,High BOD,24.0,6.85,8.45,1236.0,4.3,1.49,,,
+2161,"River Godavari At Jalna Intake Water Pump House, Shahabad, Ambad, Jalna",River,MAHARASHTRA,2021,Unsafe,13.88,High BOD,25.0,6.8,8.15,2294.5,3.75,0.85,,,
+1312,"River Godavari At Jayakwadi Dam, Paithan,Auranagabad",River,MAHARASHTRA,2021,Unsafe,12.58,High BOD,23.5,6.9,8.4,822.0,3.4,1.17,,,
+2673,"River Manjeera At D/S Of Latur Near Latur-Nanded Bridge, Bhatkheda, Latur, Latur",River,MAHARASHTRA,2021,Unsafe,17.02,High BOD,21.0,6.8,7.85,2361.0,4.6,1.3,,,
+1212,"River Wardha At Rajura Bridge,Rajura, Chandrapur, Chandrapur",River,MAHARASHTRA,2021,Unsafe,10.96,High BOD,33.0,6.35,8.1,679.0,4.8,10.95,21.5,275.0,3.0
+2156,"River Wardha At Confluence Point Of Penganga & Wardha At Jugad, Wani, Yavatmal",River,MAHARASHTRA,2021,Unsafe,13.09,High BOD,32.0,6.15,8.15,655.5,5.75,5.85,22.5,290.0,2.0
+2174,"River Wardha D/S Of Acc Ghuggus, Chandrapur, Chandrapur",River,MAHARASHTRA,2021,Unsafe,14.07,High BOD,32.5,6.2,8.25,641.0,6.2,6.25,26.5,245.0,2.0
+2700,"River Purna Near Achalpur- Amravati Road Bridge, Asegaon, Chandur Bazar, Amravati",River,MAHARASHTRA,2021,Unsafe,11.23,High BOD,20.5,6.0,8.3,697.5,5.0,3.36,11.0,113.5,2.0
+2660,"River Darna At Chehedi Pumping Station, Chehedi, Nashik, Nashik",River,MAHARASHTRA,2021,Unsafe,6.83,High BOD,21.0,6.4,7.5,796.0,3.05,1.55,5.0,50.5,2.0
+2661,"River Darna At Aswali (Darna Dam), Lgatpuri, Nashik",River,MAHARASHTRA,2021,Safe,6.72,None,21.0,6.55,7.55,368.0,3.0,0.35,5.0,50.5,2.0
+2662,"River Darna At Mes Site Pumping Station, Bhagur, Nashik",River,MAHARASHTRA,2021,Unsafe,8.14,High BOD,21.5,5.9,7.65,526.0,3.6,1.35,26.0,59.0,3.0
+2663,"River Darna At Bhagur Pumping Station Near Pandhurli Bridge, Bhagur, Nashik",River,MAHARASHTRA,2021,Unsafe,8.08,High BOD,22.0,5.85,7.5,485.5,3.6,1.4,8.0,74.5,2.0
+2664,"River Darna At Sansari , Nashik, Nashik",River,MAHARASHTRA,2021,Unsafe,7.21,High BOD,22.0,5.8,7.55,492.5,3.2,1.395,9.0,84.0,2.0
+11,"River Wainganga At Ashti,Gondpipri, Chandrapur",River,MAHARASHTRA,2021,Unsafe,18.11,High BOD,34.0,5.3,8.1,652.0,7.9,3.395,87.0,278.5,3.0
+2172,"River Wainganga D/S Of Ellora Paper Mill, Tumsar, Tumsar, Bhandara",River,MAHARASHTRA,2021,Unsafe,8.73,High BOD,30.0,6.6,8.5,675.0,3.8,3.27,26.5,235.0,2.0
+2173,"River Wainganga U/S Of Ellora Paper Mill, Tumsar, Tumsar, Bhandara",River,MAHARASHTRA,2021,Unsafe,7.74,High BOD,30.0,6.9,8.3,3613.5,3.4,3.535,17.0,160.0,2.0
+2175,"River Wainganga U/S Of Gaurav Paper Mills, Near Jackwell, Bramhpuri, Chandrapur",River,MAHARASHTRA,2021,Unsafe,7.77,High BOD,32.5,6.8,8.25,687.5,3.4,2.75,24.0,157.0,2.0
+2176,"River Wainganga D/S Of Gaurav Paper Mills, Near Jackwell, Bramhpuri, Chandrapur",River,MAHARASHTRA,2021,Unsafe,8.94,High BOD,33.0,6.25,8.35,687.0,3.9,3.95,24.5,230.0,2.0
+30041,"River Wainganga At Bapera, Bhandara,",River,MAHARASHTRA,2021,Safe,6.51,None,23.0,6.9,8.4,351.0,2.9,0.3,6.0,58.0,
+1910,"River Wainganga After Conluence With Kanhan, Ambhora, Kuhi, Nagpur",River,MAHARASHTRA,2021,Unsafe,10.45,High BOD,22.5,6.4,7.85,710.0,4.55,4.65,30.5,285.0,3.0
+2697,"River Penganga Near Water Supply Scheme Of Umarkhed Mc Belkhed, Umarkhed, Yavatmal",River,MAHARASHTRA,2021,Unsafe,7.82,High BOD,33.0,6.8,8.25,682.5,3.4,4.1,22.5,230.0,2.0
+2698,"River Penganga D/S Of Isapur Dam, Isapur, Pusad, Yavatmal",River,MAHARASHTRA,2021,Unsafe,8.71,High BOD,33.0,6.55,8.4,633.0,3.8,2.9,23.0,230.0,2.0
+2699,"River Penganga At Mehkar- Buldana Road Bridge, Mehkar, Buldana",River,MAHARASHTRA,2021,Unsafe,9.11,High BOD,25.5,6.3,8.15,723.5,4.0,10.15,25.0,160.5,2.0
+2719,"River Wardha At D/S Of Erai River, Hadasti, Chandrapur, Chandrapur",River,MAHARASHTRA,2021,Unsafe,15.17,High BOD,33.0,5.95,8.25,747.0,6.7,3.91,25.5,245.0,2.0
+1315,"River Wardha At Pulgaon Railway Bridge, Pulgaon, Wardha, Wardha",River,MAHARASHTRA,2021,Unsafe,9.39,High BOD,19.0,6.45,8.25,718.5,4.1,2.595,25.0,235.0,2.0
+2720,"River Wardha At U/S Of Erai Hadasti, Chandrapur, Chandrapur",River,MAHARASHTRA,2021,Unsafe,13.99,High BOD,32.5,6.25,8.15,760.5,6.2,3.65,21.0,175.0,2.0
+2721,"River Wardha At U/S Of Acc Ghuggus. , Chandrapur, Chandrapur",River,MAHARASHTRA,2021,Unsafe,12.47,High BOD,33.0,6.8,8.15,652.5,5.5,6.36,25.0,195.0,2.0
+2722,"River Wena At U/S Of Mohata Mills, Near Railway Bridge, Hinganghat, Wardha",River,MAHARASHTRA,2021,Unsafe,9.99,High BOD,19.0,6.55,8.2,636.5,4.4,3.65,22.5,165.0,2.0
+2723,"River Wena At D/S Of Mohata Mills, Nr Rd Brg On Hinganghat-Wadner Road, Hinganghat, Wardha",River,MAHARASHTRA,2021,Unsafe,11.93,High BOD,19.0,6.25,8.25,722.5,5.25,4.0,20.5,245.0,2.0
+1908,"River Kolar Before Confluence To Kanhan At Waregaon, Kamptee, Nagpur",River,MAHARASHTRA,2021,Unsafe,8.86,High BOD,24.5,6.8,8.35,784.5,3.85,4.4,23.0,275.0,2.0
+1909,"River Kanhan D/S Of Nagpur, Agargaon, Kuhi, Nagpur",River,MAHARASHTRA,2021,Unsafe,13.63,High BOD,22.0,5.15,7.9,801.0,6.0,17.5,20.5,285.0,3.0
+2170,"River Kanhan U/S Of M/S Vidharbha Paper Mill, Sinora, Parseoni, Nagpur",River,MAHARASHTRA,2021,Unsafe,10.29,High BOD,25.0,6.5,8.35,733.5,4.5,5.65,22.0,270.0,2.0
+2171,"River Kanhan D/S Of M/S Vidharbha Paper Mill, Sinora, Parseoni, Nagpur",River,MAHARASHTRA,2021,Unsafe,10.92,High BOD,25.0,6.25,8.35,741.5,4.8,5.55,26.0,200.0,2.0
+2657,"River Bindusara At Beed Near Intake Water Pump House At Dam, Paligaon, Beed, Beed",River,MAHARASHTRA,2021,Unsafe,13.69,High BOD,26.5,7.0,8.2,1057.0,3.7,1.06,,,
+30047,"River Krishna At Kurundwad, Kolhapur, (Maharashtra)",River,MAHARASHTRA,2021,Unsafe,12.54,High BOD,23.0,5.5,7.4,534.0,5.6,1.49,8.0,95.0,
+1153,"River Krishna At Rajapur Weir, Rajapur, Shirol, Kohlapur",River,MAHARASHTRA,2021,Safe,3.81,None,30.5,6.5,7.55,491.0,1.7,2.65,5.0,26.0,2.0
+1194,"River Krishna At Mahabaleshwar Dhom Dam Near Koina Dam, Mahabaleshwar, Satara",River,MAHARASHTRA,2021,Unsafe,8.71,High BOD,26.0,6.2,7.9,204.5,3.9,0.795,4.0,42.0,2.0
+1310,"River Krishna At Kurundwad, Shirol, Kolhapur",River,MAHARASHTRA,2021,Safe,3.6,None,30.0,6.7,7.55,504.5,1.6,2.65,6.5,28.0,2.0
+1906,"River Krishna D/S Of Islampur, Walwa, Sangli",River,MAHARASHTRA,2021,Safe,4.93,None,27.5,5.7,7.85,456.5,2.2,2.55,6.5,26.5,2.0
+2187,"River Krishna At Kshetra Mahuli, Mahuli, Satara",River,MAHARASHTRA,2021,Unsafe,10.29,High BOD,25.5,5.8,8.0,517.0,4.3,4.34,20.0,835.0,9.0
+2188,"River Krishna At Krishna-Venna Sangam At Mahuli, Satara",River,MAHARASHTRA,2021,Unsafe,10.65,High BOD,26.5,6.0,7.8,644.5,4.6,2.395,13.5,480.0,6.5
+2190,"River Krishna At Wai, Satara",River,MAHARASHTRA,2021,Unsafe,11.33,High BOD,26.25,5.6,7.95,1148.0,4.9,2.69,17.0,477.5,7.5
+1311,"River Panchaganga At Ichalkaranji, Shiradwad,Hatkanangale,K Ohlapur",River,MAHARASHTRA,2021,Safe,4.15,None,31.5,6.5,7.5,254.0,1.85,1.95,5.0,26.5,2.0
+2163,"River Panchaganga At Shirol Near Shirol Intake Well, Kolhapur",River,MAHARASHTRA,2021,Safe,4.27,None,29.5,6.55,7.5,427.0,1.9,2.005,7.0,26.0,2.0
+1904,"River Panchaganga U/S Of Kolhapur Town, Balinga, Karvir, Kolhapur",River,MAHARASHTRA,2021,Safe,3.59,None,30.0,6.65,7.4,165.5,1.6,2.15,5.5,25.5,2.0
+1905,"River Panchaganga D/S Of Kolhapur Town, Uchegaon, Kolhapur",River,MAHARASHTRA,2021,Safe,4.49,None,30.5,6.45,7.35,254.5,2.0,1.965,7.0,23.0,2.0
+1189,"River Bhima At Pune U/S Vithalwadi, Haweli, Pune",River,MAHARASHTRA,2021,Unsafe,17.48,High BOD,24.5,5.2,7.7,372.0,7.25,2.6,122.5,1112.5,13.0
+2655,"River Bhima At Koregaon Near Koregaon Bridge, Shirur, Pune",River,MAHARASHTRA,2021,Unsafe,10.7,High BOD,25.0,5.7,7.95,1089.0,4.45,4.46,31.0,870.0,8.5
+1190,"River Bhima At Pune, D/S Of Bundgarden, Yerwada, Haweli, Pune",River,MAHARASHTRA,2021,Unsafe,21.45,High BOD,26.0,5.1,7.55,571.5,8.75,5.05,285.0,1112.5,22.0
+1191,"River Bhima At Pargaon (After Confl.With Mula Mutha),Pargaon, Daund, Pune",River,MAHARASHTRA,2021,Unsafe,12.18,High BOD,26.0,5.55,7.8,612.0,5.15,4.76,19.0,835.0,7.0
+1188,"River Bhima At Narsingpur, (D/S Af.Confl.With R.Nira), Narsingpur, Malshiros, Solapur",River,MAHARASHTRA,2021,Unsafe,13.62,High BOD,31.5,5.65,8.2,5042.5,5.8,2.535,21.5,817.5,8.0
+28,"River Bhima At Takli, South Solapur, Solapur",River,MAHARASHTRA,2021,Unsafe,11.95,High BOD,30.5,6.0,7.95,1371.0,5.05,2.585,23.0,810.0,5.0
+1192,"River Bhima After Conf. With Daund, Daund, Pune",River,MAHARASHTRA,2021,Unsafe,12.64,High BOD,25.75,5.55,7.9,951.5,5.35,4.8,26.5,820.0,7.0
+2656,"River Bhima River- Backwater Of Ujani Dam Near Raw Water Pump House, Kumbargaon, Indapur, Pune",River,MAHARASHTRA,2021,Unsafe,11.22,High BOD,26.25,16.25,8.0,768.0,4.95,5.15,13.0,230.0,4.5
+30046,"River Bhima At Takli, Solapur, (Maharashtra)",River,MAHARASHTRA,2021,Unsafe,16.2,High BOD,27.0,5.2,8.4,1692.0,5.8,4.48,,110.0,8.0
+2665,"River Ghod At Shirur, Pune",River,MAHARASHTRA,2021,Unsafe,17.5,High BOD,25.0,5.2,7.9,822.0,7.65,2.565,16.5,562.5,7.0
+2196,"River Pawana At Sangavigaon, Haweli Pune.",River,MAHARASHTRA,2021,Unsafe,21.31,High BOD,25.5,5.0,7.45,528.5,9.4,5.25,133.5,975.0,15.5
+2690,"River Pawana At Kasarwadi, Haweli, Pune",River,MAHARASHTRA,2021,Unsafe,22.49,"Low DO, High BOD",26.0,4.8,7.45,488.5,9.5,4.87,187.5,1175.0,17.0
+2691,"River Pawana At Dapodi Bridge At Pawana-Mulla Sangam, Dapodi, Haweli, Pune",River,MAHARASHTRA,2021,Unsafe,22.53,"Low DO, High BOD",26.0,4.7,7.5,488.5,9.9,3.25,135.0,983.0,20.5
+2692,"River Pawana At Ravet Weir, Ravet, Haweli",River,MAHARASHTRA,2021,Unsafe,11.05,High BOD,25.5,6.0,7.75,286.0,4.9,0.81,7.0,177.0,3.0
+2693,"River Pawana At Chinchwadgaon, Haweli",River,MAHARASHTRA,2021,Unsafe,20.04,"Low DO, High BOD",26.0,4.95,7.6,426.5,8.35,2.95,118.5,1037.5,13.0
+2694,"River Pawana At Pimprigaon, Haweli, Pune",River,MAHARASHTRA,2021,Unsafe,22.14,"Low DO, High BOD",25.5,4.8,7.55,476.0,9.8,4.7,142.5,960.0,16.0
+2715,"River Vel At Shikrapur, Shirur, Pune",River,MAHARASHTRA,2021,Unsafe,14.04,High BOD,24.0,5.55,8.0,506.5,6.25,2.11,12.0,150.0,4.5
+2186,"River Venna At Varye, Satara.",River,MAHARASHTRA,2021,Unsafe,8.27,High BOD,26.0,6.2,7.8,326.0,3.5,1.475,87.5,185.0,6.5
+2716,"River Venna At Mahabaleshwar, Satara",River,MAHARASHTRA,2021,Unsafe,9.29,High BOD,24.0,5.7,7.8,216.0,4.1,2.05,9.5,187.5,4.0
+2717,"River Venna At Mahuli, Satara",River,MAHARASHTRA,2021,Unsafe,10.63,High BOD,25.75,5.7,7.6,336.5,4.6,2.22,9.5,477.5,6.0
+2711,"River Urmodi River, Nagthane, Satara",River,MAHARASHTRA,2021,Unsafe,11.78,High BOD,26.25,5.9,7.85,500.0,5.1,1.69,16.0,497.5,8.5
+2197,"River Indrayani At D/S Of Alandigaon, Haweli,Pune",River,MAHARASHTRA,2021,Unsafe,20.92,High BOD,26.0,5.05,7.65,448.0,9.25,4.3,46.0,915.0,10.5
+2668,"River Indrayani At D/S Of Moshigaon, Haweli, Pune",River,MAHARASHTRA,2021,Unsafe,21.18,"Low DO, High BOD",26.0,4.95,7.65,1749.0,10.35,4.3,62.5,917.5,10.5
+2669,"River Indrayani At U/S Of Moshigaon, Haweli, Pune",River,MAHARASHTRA,2021,Unsafe,16.23,High BOD,26.0,5.45,7.5,431.0,6.95,3.575,37.0,812.5,7.5
+2705,"River Sina Near Laboti Toll Naka, Laboti, Mohal",River,MAHARASHTRA,2021,Unsafe,14.67,High BOD,30.5,5.35,7.9,12057.0,6.4,2.82,14.5,505.0,7.5
+2189,"River Koyna At Karad, Satara",River,MAHARASHTRA,2021,Unsafe,10.53,High BOD,28.0,5.85,7.8,396.5,4.4,1.44,21.0,847.5,12.0
+1911,"River Chandrabhaga U/S Of Pandharpur Town, Gursale, Pandharpur",River,MAHARASHTRA,2021,Unsafe,17.02,High BOD,31.5,5.35,8.15,5101.0,7.15,2.95,104.0,917.5,9.5
+1912,"River Chandrabhaga D/S Of Pandharpur Town, Gursale, Pandharpur, Solapur",River,MAHARASHTRA,2021,Unsafe,20.88,High BOD,31.5,5.0,8.25,1133.0,8.85,2.555,121.0,942.5,12.0
+2195,"River Nira At D/S Of Jubilant Organosis, Nimbut, Baramati,Pune",River,MAHARASHTRA,2021,Unsafe,17.62,High BOD,26.0,5.35,7.75,932.0,7.5,4.9,47.5,970.0,8.5
+2681,"River Nira At Sangavi, Phaltan, Satara",River,MAHARASHTRA,2021,Unsafe,13.47,High BOD,31.0,5.2,8.05,1312.0,5.7,3.025,15.5,947.5,6.5
+2682,"River Nira At U/S Of Jubilant Organosis, Nira(Dattaghat), Baramati, Pune",River,MAHARASHTRA,2021,Unsafe,12.28,High BOD,26.0,5.8,7.9,627.0,5.15,2.7,41.5,855.0,5.0
+2683,"River Nira At Shindewadi. Shirval, Khandala, Satara",River,MAHARASHTRA,2021,Unsafe,12.8,High BOD,29.75,5.7,8.05,250.5,5.45,1.24,13.0,810.0,6.0
+1463,"River Nira At Sarola Bdg.On Pune-Banglore Highway, Sarola, Bhor, Pune",River,MAHARASHTRA,2021,Unsafe,10.6,High BOD,25.75,5.8,7.95,610.5,4.35,2.95,40.0,975.0,8.0
+2191,"River Mutha At Sangam Bridge Near Ganapathy Ghat, Shivajinagar, Pune",River,MAHARASHTRA,2021,Unsafe,21.36,High BOD,26.0,5.2,7.45,440.0,9.75,1.985,110.0,1150.0,13.5
+2678,"River Mutha Near Veer Savarkar Bhavan, Pune",River,MAHARASHTRA,2021,Unsafe,23.51,"Low DO, High BOD",26.0,4.65,7.35,429.0,11.75,2.15,292.5,1175.0,22.0
+2679,"River Mutha At Deccan Bridge, Deccan, Pune",River,MAHARASHTRA,2021,Unsafe,23.82,"Low DO, High BOD",26.0,4.55,7.35,367.5,12.45,2.9,235.0,1350.0,20.5
+2680,"River Mutha At Khadakvasla Dam, Khadakvasla, Haweli, Pune.",River,MAHARASHTRA,2021,Unsafe,11.04,High BOD,25.5,5.9,7.7,535.0,4.95,2.5,5.0,37.0,2.0
+2193,"River Mula At Aundh Bridge, Aundhgaon, Haweli, Pune",River,MAHARASHTRA,2021,Unsafe,18.84,High BOD,27.0,5.2,7.55,829.0,7.75,4.35,217.0,955.0,17.0
+2194,"River Mula At Harrison Bridge Near Mula- Pawana Sangam, Bopodi, Haweli, Pune",River,MAHARASHTRA,2021,Unsafe,21.88,"Low DO, High BOD",27.0,4.9,7.55,636.5,10.25,3.7,147.5,1112.5,21.0
+2192,"River Mula-Mutha At Mundhawa Bridge, Munthawa,Haweli, Pune",River,MAHARASHTRA,2021,Unsafe,21.13,High BOD,25.75,5.2,7.5,3299.0,8.75,11.3,230.0,985.0,21.5
+2677,"River Mula-Mutha At D/S Of Theur, Haweli, Pune",River,MAHARASHTRA,2021,Unsafe,17.53,High BOD,26.0,5.5,7.75,435.0,7.5,4.75,20.5,1000.0,9.0

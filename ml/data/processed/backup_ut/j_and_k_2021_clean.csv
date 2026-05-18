@@ -1,0 +1,14 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+2095,"Bore Well At Stp Madhapar, Dist. Rajkot.",Groundwater,J & K,2021,Safe,7.77,None,28.0,,7.2,1206.0,1.4,1.1,,,
+3240,"Borewell Of Aji Gidc, Rajkot",Groundwater,J & K,2021,Safe,7.77,None,27.0,,7.4,1526.0,1.4,1.3,,,
+1951,Ground Water At Rajkot,Groundwater,J & K,2021,Safe,4.17,None,28.0,,7.3,786.0,1.5,1.1,2.0,2.0,
+3824,"Ground Water Vill Bheemjori, Malajkh, Dist Balaghat",Groundwater,J & K,2021,Safe,2.79,None,21.0,,7.9,747.0,1.0,0.3,2.0,4.0,
+2574,Suraj Kund At Gaya,Pond/Tank,J & K,2021,Unsafe,42.71,"pH Out of Range, High BOD, High Total Coliform",,24.5,9.65,7.65,500.0,4.6,0.89,81100.0,81300.0
+2078,"Kuwadava Lake, Vill. Kuwadava, Dist. Rajkot.",Pond/Tank,J & K,2021,Unsafe,20.38,"pH Out of Range, High BOD",,28.0,6.4,7.85,500.0,2.05,0.535,86.0,275.0
+3197,"Machhu-Ii Dam, Rafleshwar, Morbi, Rajkot",Pond/Tank,J & K,2021,Unsafe,20.01,High BOD,,26.5,6.6,7.95,500.0,2.2,0.295,11.5,25.5
+2740,"(Mansar Lake At Mid Point(Surinsar Lake), J&K",Pond/Tank,J & K,2021,Unsafe,25.38,"pH Out of Range, High BOD",,20.5,6.4,8.25,202.0,3.6,0.035,,
+2747,"River Tawi At Surajpur Chatha(10 Km D/S Tawi Bridge)Below Bridge Near Chatha Msw Dumping Site, J&K",River,J & K,2021,Safe,6.48,None,21.0,7.65,8.4,301.0,1.75,0.3,,,
+10004,River Yamuna At Khojkipur Panipat,River,J & K,2021,Unsafe,62.8,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",28.5,4.3,7.7,897.0,11.5,2.31,140100.0,460450.0,47165.0
+2572,"River Mahananda At Thakurganj, Kishanganj Road Bridge, Kishanganj",River,J & K,2021,Unsafe,44.22,"High Fecal Coliform, High Total Coliform",24.0,7.85,7.45,516.5,1.9,0.405,81100.0,81650.0,
+3305,"River Banjar At Malanjkhand Near W/S Intake Point, Jabalpur",River,J & K,2021,Safe,3.15,None,23.45,7.55,7.95,477.0,1.4,0.35,6.0,28.5,
+4617,"River Wainganga Near Vill. Budunda Malanjkhand, Distt Balaghat",River,J & K,2021,Safe,3.14,None,23.4,7.85,7.6,476.0,1.4,0.35,3.0,29.5,

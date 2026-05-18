@@ -1,0 +1,10 @@
+stn_code,monitoring_location,water_body_type,state,year,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg,total_dissolved_solids_avg,fluoride_avg,arsenic_avg
+2095,"BORE WELL AT STP MADHAPAR, DIST. RAJKOT.",Groundwater,J & K,2019,27.0,,3.5,7.5,3271.5,0.85,1.19,,,,,
+3241,"BOREWELL NEAR MUNICIPAL SOLID WASTE SITE, NAKARWADI, RAJKOT",Groundwater,J & K,2019,27.0,,2.65,7.6,1605.0,1.0,1.295,,,,,
+3824,"GROUND WATER VILL BHEEMJORI, MALAJKH, DIST BALAGHAT",Groundwater,J & K,2019,22.0,,,7.9,464.5,0.2,1.0,2.0,,2.0,,
+2574,SURAJ KUND AT GAYA,Pond/Tank,J & K,2019,,26.5,8.8,8.2,619.5,3.3,1.015,8965.0,19150.0,,,
+2078,"KUWADAVA LAKE, VILL. KUWADAVA, DIST. RAJKOT.",Pond/Tank,J & K,2019,,25.0,6.1,8.0,834.0,1.8,0.025,,,,,
+3197,"MACHHU-II DAM, RAFLESHWAR, MORBI, RAJKOT",Pond/Tank,J & K,2019,,28.5,6.35,7.95,1568.0,1.3,0.165,5.0,5.0,,,
+2740,"(MANSAR LAKE AT MID POINT(SURINSAR LAKE), J&K",Pond/Tank,J & K,2019,,22.5,5.95,8.3,155.0,13.75,0.03,,,,,
+2747,"TAWI AT SURAJPUR CHATHA(10 KM D/S TAWI BRIDGE)BELOW BRIDGE NEAR CHATHA MSW DUMPING SITE, J&K",River,J & K,2019,21.0,7.25,8.3,271.0,1.15,0.2,,,,,,
+3305,"BANJAR AT MALANJKHAND NEAR W/S INTAKE POINT, JABALPUR",River,J & K,2019,22.85,7.45,7.75,1330.0,1.45,0.9,6.9,44.5,,,,

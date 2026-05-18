@@ -1,0 +1,22 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+GEN-54F5F4,1740,Groundwater,UTTAR PRADESH,2018,Unsafe,43.26,"High BOD, High Fecal Coliform",,,,,29.0,18.15,1241.15,1237.5,
+GEN-418EF6,1744,Groundwater,UTTAR PRADESH,2018,Unsafe,42.95,"High BOD, High Fecal Coliform",,,,,30.0,18.55,1031.55,2056.0,
+GEN-442CDE,1746,Groundwater,UTTAR PRADESH,2018,Unsafe,37.22,High BOD,,,,,18.0,12.85,404.9,891.0,
+GEN-11C484,1752,Groundwater,UTTAR PRADESH,2018,Unsafe,40.13,"High BOD, High Fecal Coliform",,,,,23.0,15.65,813.7,1030.5,
+GEN-231141,1754,Groundwater,UTTAR PRADESH,2018,Unsafe,36.49,High BOD,,,,,23.0,15.6,383.75,445.1,
+GEN-D8D31B,1755,Groundwater,UTTAR PRADESH,2018,Unsafe,6.01,High Fecal Coliform,,,,,0.0,15.6,748.75,762.6,
+GEN-2612AA,1758,Groundwater,UTTAR PRADESH,2018,Unsafe,35.38,High BOD,,,,,21.0,17.3,254.85,262.95,
+GEN-BA1B3E,1759,Groundwater,UTTAR PRADESH,2018,Unsafe,36.58,High BOD,,,,,25.0,16.35,401.6,424.15,
+GEN-57BAFB,2469,River,UTTAR PRADESH,2018,Unsafe,37.06,"High BOD, High Fecal Coliform",,,,25.0,16.6,100.0,558.15,0.95,1.9
+GEN-7CC234,2470,River,UTTAR PRADESH,2018,Unsafe,37.94,"High BOD, High Fecal Coliform",,,,25.0,16.45,100.0,691.15,1.0,1.8
+GEN-0BF727,2474,River,UTTAR PRADESH,2018,Unsafe,39.07,"High BOD, High Fecal Coliform",,,,18.0,12.9,100.0,861.0,0.2,0.2
+GEN-FEC87A,2475,River,UTTAR PRADESH,2018,Unsafe,39.85,"High BOD, High Fecal Coliform",,,,19.0,13.45,100.0,977.0,0.2,0.2
+1146,Ganga At Bithoor (Kanpur),River,UTTAR PRADESH,2018,Unsafe,21.01,"High BOD, High Fecal Coliform, High Total Coliform",23.5,9.15,8.25,307.5,3.3,,2550.0,4350.0,
+10154,Bathing Ghat (Bharaoghat),River,UTTAR PRADESH,2018,Unsafe,22.33,"High BOD, High Fecal Coliform, High Total Coliform",23.5,8.95,8.15,318.0,3.5,,2700.0,4700.0,
+2498,"Ganga At Kala Kankar, Raebareli",River,UTTAR PRADESH,2018,Unsafe,34.56,"High BOD, High Fecal Coliform, High Total Coliform",21.5,9.0,7.85,311.5,3.8,0.83,5300.0,7650.0,
+1499,Yamuna At,River,UTTAR PRADESH,2018,Unsafe,50.17,"pH Out of Range, High BOD, High Total Coliform",,,8.55,7.8,500.0,9.0,3.6,27002.5,80065.0
+1069,Yamuna At,River,UTTAR PRADESH,2018,Unsafe,23.25,"High BOD, High Total Coliform",,26.0,8.3,7.85,365.0,2.25,1.345,4050.0,8450.0
+2484,"River Sai At Jalalpur, Jaunpur",River,UTTAR PRADESH,2018,Unsafe,42.73,"High BOD, High Fecal Coliform, High Total Coliform",26.5,8.0,8.4,406.0,3.75,0.32,10500.0,18000.0,
+1072,"Gomti At Varanasi, U.P",River,UTTAR PRADESH,2018,Unsafe,42.73,"High BOD, High Fecal Coliform, High Total Coliform",26.0,7.8,8.4,402.5,3.75,1.25,10500.0,18000.0,
+1359,"Rihand At Renukut U/S, U.P.",River,UTTAR PRADESH,2018,Safe,6.55,None,20.5,8.9,8.0,174.5,1.7,0.85,495.0,1000.0,
+1360,"Rihand At Renukut D/S, U.P.",River,UTTAR PRADESH,2018,Unsafe,8.55,High Fecal Coliform,20.5,9.15,8.05,187.5,1.9,0.95,820.0,1320.0,

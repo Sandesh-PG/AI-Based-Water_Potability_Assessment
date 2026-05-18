@@ -1,0 +1,12 @@
+stn_code,monitoring_location,water_body_type,state,year,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg,total_dissolved_solids_avg,fluoride_avg,arsenic_avg
+1402,WELL NEAR PWD ADJACENT TO CHAKIKILUM IN KAVARATTI,Groundwater,LAKSHADWEEP,2019,28.75,,,7.2,975.0,,,,,,,
+,1596,Groundwater,LAKSHADWEEP,2019,,,10.3,27.5,7.2,422.75,4190.0,,,,,
+1603,"WELL C/O OLD POLICE BARRACKS,",Groundwater,LAKSHADWEEP,2019,29.5,,,7.25,3533.0,,,,,,,
+1606,WELL (PUBLIC )OPPOSITE S.B.SCHOOL,Groundwater,LAKSHADWEEP,2019,29.4,,,7.25,741.0,,,,,,,
+4548,WELL NEAR KENDRIYA VIDYALAYA,Groundwater,LAKSHADWEEP,2019,29.3,,,7.25,1539.5,,,,,,,
+4551,WELL NEAR J.B. SCHOOL (E) WITH MOTOR),Groundwater,LAKSHADWEEP,2019,29.1,,,7.45,1382.0,,,,,,,
+4555,WELL NEAR HELIPAD 2,River,LAKSHADWEEP,2019,28.65,,7.45,2488.5,,,,,,,,
+4570,WELL C/O FRIENDS COMMON CLUB,River,LAKSHADWEEP,2019,30.0,,,1191.0,,,,,,,,
+1401,POND NEAR JUMA MASJID,Pond/Tank,LAKSHADWEEP,2019,,28.8,,7.6,903.0,,,,,,,
+4557,POND C/O MOHIDHEEN PALLI,Pond/Tank,LAKSHADWEEP,2019,,28.45,,,1542.5,,,,,,,
+4568,POND NEAR KULAPPINAKKAL,Pond/Tank,LAKSHADWEEP,2019,,28.2,,,1412.0,,,,,,,

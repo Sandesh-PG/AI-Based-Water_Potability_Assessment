@@ -1,0 +1,130 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+3,Well At Ahmedabad,Groundwater,GUJARAT,2019,Unsafe,31.93,"pH Out of Range, High BOD",29.5,,4.7,7.5,500.0,0.85,0.23,2.0,
+1948,Ground Water At Bhavnagar,Groundwater,GUJARAT,2019,Unsafe,40.0,"pH Out of Range, High BOD",29.0,,2.6,8.05,500.0,1.3,0.165,2.0,
+1957,Ground Water At Siddhpur (Dist.Patan),Groundwater,GUJARAT,2019,Unsafe,50.03,High BOD,28.5,,,7.8,500.0,0.95,3.205,,
+1958,Ground Water At Himatnagar,Groundwater,GUJARAT,2019,Unsafe,28.09,"pH Out of Range, High BOD",27.0,,5.7,7.8,500.0,1.2,3.02,2.0,
+1962,Vadodara (Industrial- Nandesari),Groundwater,GUJARAT,2019,Unsafe,45.2,"pH Out of Range, High BOD",26.0,,1.25,7.2,500.0,0.8,0.545,2.0,
+1965,"Mora-Hajira (Industrial), Hajira",Groundwater,GUJARAT,2019,Unsafe,39.43,"pH Out of Range, High BOD",28.5,,2.75,7.95,500.0,0.9,0.37,9.0,
+1966,"Gabheni Village, Surat (Industrial)",Groundwater,GUJARAT,2019,Unsafe,37.12,"pH Out of Range, High BOD",28.5,,3.35,7.7,500.0,0.8,0.24,6.0,
+1968,"Vapi Industrial Area In D/S, Vapi",Groundwater,GUJARAT,2019,Unsafe,34.43,"pH Out of Range, High BOD",27.0,,4.05,7.85,463.0,1.15,0.31,2.0,
+1969,"Sarigam Village (D/S Of Industrialarea), Vapi",Groundwater,GUJARAT,2019,Unsafe,33.85,"pH Out of Range, High BOD",29.0,,4.2,8.0,500.0,2.2,0.33,2.0,
+1970,"Borewell D/S Tsdf Site, Gidc Industrial Area, Vapi",Groundwater,GUJARAT,2019,Unsafe,34.81,"pH Out of Range, High BOD",27.0,,3.95,7.9,500.0,1.1,0.38,2.0,
+2084,Bore Well Of Palsana Village.,Groundwater,GUJARAT,2019,Unsafe,39.24,"pH Out of Range, High BOD",28.5,,2.8,7.5,500.0,0.95,0.11,7.5,
+2087,B/W- Hazardous W. Disposal Site (Guj. Enviro P.& I. Ltd. ),Groundwater,GUJARAT,2019,Unsafe,40.01,"pH Out of Range, High BOD",28.5,,2.6,7.85,500.0,1.0,0.05,11.0,
+2089,"B/W Near Indl. Area Borasara & Navapura, Dist. Surat.",Groundwater,GUJARAT,2019,Unsafe,38.66,"pH Out of Range, High BOD",28.5,,2.95,7.7,500.0,0.95,0.175,9.0,
+2091,Bore Well Of Navsari Gidc Industries Association Office.,Groundwater,GUJARAT,2019,Unsafe,33.35,High BOD,32.0,,,7.75,500.0,0.95,0.15,8.5,
+2093,Well Of Bardoli At Rest House.,Groundwater,GUJARAT,2019,Unsafe,38.09,"pH Out of Range, High BOD",28.5,,3.1,7.6,500.0,0.9,0.09,10.0,
+2094,Well At Ankleshwar Industrial Area (Bore Well Of M/S Industrial Carbon At Ankleshwar- Rajpipla Road.,Groundwater,GUJARAT,2019,Unsafe,30.77,"pH Out of Range, High BOD",29.0,,5.0,7.1,500.0,0.3,0.3,2.0,
+2096,"Bore Well, Snr. Vinayak Jal Suddhikaran Sahakari Mandali Ltd. (Cetp ), Vill. Bavla, Dist. Ahmedabad.",Groundwater,GUJARAT,2019,Unsafe,36.93,"pH Out of Range, High BOD",28.0,,3.4,7.1,500.0,0.9,0.65,2.0,
+2097,"Bore Well Of Someshwar Rice Mill, Nr. Bavla Eco Project, (Cetp ), Vill. Bavla, Dist. Ahmedabad.",Groundwater,GUJARAT,2019,Unsafe,38.08,"pH Out of Range, High BOD",28.0,,3.1,7.4,500.0,1.05,0.64,2.0,
+2098,"Bore Well Of Pirana Terminal Pumping Station,",Groundwater,GUJARAT,2019,Unsafe,30.77,"pH Out of Range, High BOD",29.5,,5.0,7.15,500.0,1.05,0.115,2.0,
+3208,"Jilla Panchayat School, Near Gram Panchayat Kata Falia, Village Namdha, Valsad",Groundwater,GUJARAT,2019,Unsafe,34.62,"pH Out of Range, High BOD",27.0,,4.0,7.9,500.0,1.3,0.465,2.0,
+3209,"Borewell Of Gayatri Pragna School, Bhadarwad Road, Bazar Falia, Sarigam, Valsad",Groundwater,GUJARAT,2019,Unsafe,33.85,"pH Out of Range, High BOD",27.0,,4.2,8.0,500.0,2.3,0.18,2.0,
+3210,"Borewell At Piramal Glass, Village Tarsadi At Kosamba Industrial Area, Surat",Groundwater,GUJARAT,2019,Unsafe,37.9,"pH Out of Range, High BOD",28.5,,3.15,7.25,500.0,0.85,0.29,9.0,
+3211,"Borewell At Primary Health Center, Kadodara, Surat",Groundwater,GUJARAT,2019,Unsafe,38.85,"pH Out of Range, High BOD",28.0,,2.9,7.75,500.0,0.9,0.11,6.0,
+3212,"Borewell Near Center Of Excellence Building, Gidc, Vatva, Ahmedabad",Groundwater,GUJARAT,2019,Unsafe,50.02,High BOD,33.0,,,7.35,500.0,1.0,1.63,,
+3213,"Borewell, Cetp-Naroda, Gidc, Naroda-Ahmedabad",Groundwater,GUJARAT,2019,Unsafe,50.01,High BOD,34.0,,,7.4,500.0,1.15,0.59,,
+3214,"Borewell Near Gidc Odhav Industrial Association Building, Gidc, Odhav, Ahmedabad",Groundwater,GUJARAT,2019,Unsafe,50.02,High BOD,33.0,,,7.4,500.0,1.15,1.87,,
+3215,"Borewell Near Municipal Solid Waste Site- Gyaspur, Narol, Ahmedabad",Groundwater,GUJARAT,2019,Unsafe,31.36,"pH Out of Range, High BOD",28.0,,4.85,6.35,500.0,1.0,1.8,2.0,
+3216,"Borewell Near Tsdf Site Of Green Environmnet Services Co. Op.Ltd, Vatva, Ahmedabad",Groundwater,GUJARAT,2019,Unsafe,50.01,High BOD,33.5,,,7.3,500.0,1.25,0.66,,
+3217,"Borewell Near Tsdf Site Of Naroda Enviro Project.Ltd, Odhave, Ahmedabad",Groundwater,GUJARAT,2019,Unsafe,50.02,High BOD,34.0,,,7.6,500.0,1.05,1.505,,
+3218,"Well Of Modasa, Nagar Palika, Varigruh, Modasa",Groundwater,GUJARAT,2019,Unsafe,33.54,"pH Out of Range, High BOD",27.0,,4.3,7.0,500.0,1.0,15.95,2.0,
+3219,"Well Of Idar, Nagar Palika, Sakaria, Idar",Groundwater,GUJARAT,2019,Unsafe,30.09,"pH Out of Range, High BOD",27.0,,5.2,7.1,500.0,0.7,16.74,2.0,
+3220,"Borewell Of Gidc-Nadiad At Gidc Office, Gidc Nadiad, Kheda",Groundwater,GUJARAT,2019,Unsafe,50.0,High BOD,30.0,,,7.6,500.0,0.4,0.46,,
+3221,"Borewell Of Town Rajpipla, Dist.Narmada",Groundwater,GUJARAT,2019,Unsafe,33.34,High BOD,28.0,,,7.6,500.0,0.4,0.25,2.0,
+3223,Borewell Kadi Industrial Area,Groundwater,GUJARAT,2019,Unsafe,35.01,"pH Out of Range, High BOD",30.0,,3.9,7.85,500.0,0.95,1.32,2.0,
+3231,"Borewell Near Tsdf Site Of Saurashtra Enviro Project Ltd., Juna Katariya, Bhachau",Groundwater,GUJARAT,2019,Unsafe,50.27,"pH Out of Range, High BOD",30.0,,3.2,8.2,500.0,1.5,2.6,,
+3232,"Borewell Of Gidc, Antalia Water Supply, Billimora, Gandevi",Groundwater,GUJARAT,2019,Unsafe,33.34,High BOD,31.5,,,7.55,500.0,0.95,0.11,6.0,
+3233,"Borewell Of Kaliawadi Grid Road, Navsari",Groundwater,GUJARAT,2019,Unsafe,33.34,High BOD,32.0,,,7.85,500.0,0.9,0.135,6.0,
+3234,"Borewell Nera Tsdf Of Nandesari Enviro Control Limited, Nadesari, Vadodara",Groundwater,GUJARAT,2019,Unsafe,33.34,High BOD,26.0,,,6.95,500.0,15.5,0.575,2.0,
+3235,"Borewell Of Gidc Kalol, B/H Gidc Office, Gidc, Kalol, Gandhinagar",Groundwater,GUJARAT,2019,Unsafe,47.96,"pH Out of Range, High BOD",30.0,,3.65,7.4,500.0,0.95,2.435,,
+3236,"Borewell Of M/S Alfa Eca (I) Ltd., Unit-1, Sr.No. 249, Uma Ind. Estate, Vasna , Iyava, Sanand, Ahmedabad",Groundwater,GUJARAT,2019,Unsafe,30.58,"pH Out of Range, High BOD",28.0,,5.05,7.65,500.0,1.0,0.36,2.0,
+3237,"Borewell Of L & T Ltd., Plot No. 144/146, Sarkhej-Bavla Road, Sanand, Ahmedabad",Groundwater,GUJARAT,2019,Unsafe,37.7,"pH Out of Range, High BOD",28.0,,3.2,7.1,500.0,0.85,0.43,2.0,
+3242,"Borewell Near Tsdf Of Gujarat Maritime Board, Alang, Bhavnagar",Groundwater,GUJARAT,2019,Unsafe,41.54,"pH Out of Range, High BOD",29.5,,2.2,8.05,500.0,1.7,0.295,2.0,
+3243,"Borewell Of Gidc, Vartej, Bhavnagar",Groundwater,GUJARAT,2019,Unsafe,40.96,"pH Out of Range, High BOD",29.5,,2.35,7.8,500.0,1.4,0.2,2.0,
+3244,"Borewell Near Tsdf Of Bharuch Enviro Infrastructure Limited, Ankleshwar, Bharuch",Groundwater,GUJARAT,2019,Unsafe,30.39,"pH Out of Range, High BOD",29.0,,5.1,6.8,500.0,0.6,0.31,2.0,
+3245,Borewell At Dhangadhra Near Dhangadhra Chemicals,Groundwater,GUJARAT,2019,Unsafe,35.39,"pH Out of Range, High BOD",41.0,,3.8,7.0,500.0,0.8,1.2,2.0,
+3246,"Borewell Of Gidc Office, Shankar Tekri, Udhyognagar, Jamnangar",Groundwater,GUJARAT,2019,Unsafe,50.0,High BOD,28.0,,,7.45,500.0,,0.315,,
+3247,"Borewell Of Shri Mahavir Metal Craft Pvt. Ltd., Plot No. 3059, Road No.6, Nr. Mahavir Circle, Phase-Iii, Gidc, Dared, Jamnagar",Groundwater,GUJARAT,2019,Unsafe,50.01,High BOD,29.0,,,7.35,500.0,,0.885,,
+4411,"Borewell Of Mr. Hitendrabhai Lakhmanbhai Ker Shiv Sai Park, New Smashan Road, Gandhinagar",Groundwater,GUJARAT,2019,Unsafe,50.0,High BOD,28.0,,,8.15,500.0,,0.29,,
+4412,"Borewell Of Shri Kankeshwar Mahadev Mandir, Opp. Msw Dumpsite, Vibhapar",Groundwater,GUJARAT,2019,Unsafe,50.0,High BOD,27.5,,,7.35,500.0,,0.315,,
+4413,"B/W Of Jashwantbhai Parmar, S. No. 18 At: Village Kalamsar, Ta Khambhat",River,GUJARAT,2019,Unsafe,18.39,Low DO,28.5,1.6,7.95,1502.5,0.5,0.41,,2.0,
+4422,"Bore Well Of Iti Collage Opp, M/S Paliwal Milk At Mota Sonela, Modasa Road, Tal, Lunavada, Dist. Mahisagar",River,GUJARAT,2019,Safe,0.02,None,28.0,,6.8,735.0,,0.44,2.0,2.0,
+1343,"Kankoria Lake At Ahmedabad, Nr. Balvatika,",Pond/Tank,GUJARAT,2019,Unsafe,20.02,High BOD,,27.5,7.4,8.6,500.0,17.5,0.175,29.0,330.0
+1344,"Chandola Lake At Ahmedabad,",Pond/Tank,GUJARAT,2019,Unsafe,20.03,High BOD,,28.5,7.15,7.85,471.0,8.5,0.14,35.0,246.0
+1345,"Ajwah Lake At Sri Sayaji Sabvar, Baroda,",Pond/Tank,GUJARAT,2019,Unsafe,20.0,High BOD,,14.5,7.15,7.95,257.0,0.5,0.555,3.0,25.5
+1346,"Sursagar Lake At Baroda,",Pond/Tank,GUJARAT,2019,Unsafe,28.56,"pH Out of Range, High BOD",,15.15,3.75,7.85,500.0,5.95,0.58,118.0,351.5
+1972,"Nalsarovar Lake (Sanand), Dist.Ahmedabad",Pond/Tank,GUJARAT,2019,Unsafe,20.06,High BOD,,27.0,7.25,8.35,500.0,2.85,0.15,68.5,140.0
+1973,"Bindusarovar, Siddhpur (Dist.Patan)",Pond/Tank,GUJARAT,2019,Unsafe,23.75,"pH Out of Range, High BOD",,26.5,5.3,7.9,500.0,3.35,3.06,62.0,188.0
+1975,"Lakhota Talav, Jamnagar",Pond/Tank,GUJARAT,2019,Unsafe,21.55,"pH Out of Range, High BOD",,25.5,6.0,7.65,486.0,5.2,0.29,7.0,21.0
+1976,Narsimehta Talav- Junagadh,Pond/Tank,GUJARAT,2019,Unsafe,21.89,"pH Out of Range, High BOD",,23.0,9.3,7.9,500.0,100.0,0.04,6.5,29.5
+1977,City Lake Of Nadiad,Pond/Tank,GUJARAT,2019,Unsafe,23.59,"pH Out of Range, High BOD",,27.0,5.35,8.3,500.0,2.05,0.56,61.0,280.5
+2076,Ankleshwar Reservoir At Gidc Ankleshwar At Valia Road.,Pond/Tank,GUJARAT,2019,Unsafe,20.02,High BOD,,29.5,7.1,8.0,500.0,0.65,0.295,21.5,71.5
+2077,"Moticher Lake Near Kakarpar Atomic Power Station, Dist. Surat.",Pond/Tank,GUJARAT,2019,Unsafe,20.01,High BOD,,27.5,6.65,7.7,500.0,1.1,0.09,8.5,59.5
+3198,"Gomti Lake, Opp, Ranchodaji Temple, Dakor, Kheda",Pond/Tank,GUJARAT,2019,Unsafe,24.79,"pH Out of Range, High BOD",,27.0,4.95,7.85,475.5,0.65,0.56,26.5,136.5
+3199,"Hamisar Talav, Bhuj",Pond/Tank,GUJARAT,2019,Unsafe,29.39,"pH Out of Range, High BOD",,14.5,3.45,3.85,255.0,0.55,0.345,4.0,11.5
+3200,Moonsar Lake Of Viramgam,Pond/Tank,GUJARAT,2019,Unsafe,21.59,"pH Out of Range, High BOD",,28.0,6.0,8.9,500.0,48.0,0.2,66.0,495.0
+3201,"Malav Talav, Dholka",Pond/Tank,GUJARAT,2019,Unsafe,21.42,"pH Out of Range, High BOD",,27.5,6.05,8.85,500.0,19.5,0.155,48.0,271.0
+3202,Vheraimata Talav At Anand,Pond/Tank,GUJARAT,2019,Unsafe,29.22,"pH Out of Range, High BOD",,27.0,3.55,7.35,392.5,6.2,0.29,177.0,483.5
+1979,"Olpad, Village Pond:Olpad, Surat",Pond/Tank,GUJARAT,2019,Unsafe,20.01,High BOD,,28.0,6.85,7.7,500.0,1.25,0.24,11.5,61.0
+2079,"Dhudhia Talav At Navsari, Dist. Navsari.",Pond/Tank,GUJARAT,2019,Unsafe,20.01,High BOD,,29.5,6.75,7.65,500.0,1.0,0.155,13.5,87.5
+1971,Thol Tank (Kalol) (Dist. Mehasana),Pond/Tank,GUJARAT,2019,Unsafe,20.51,"pH Out of Range, High BOD",,27.0,8.7,7.95,500.0,41.6,0.065,44.0,78.0
+2073,"Narmada Main Canal, Nr. Village. Limbadia, Dist. Gandhinagar.",Canal,GUJARAT,2019,Unsafe,25.0,High BOD,,27.5,7.3,7.8,299.5,0.8,0.095,,19.5
+2074,"Tapi Canal At Village Umarwada, Near Gidc Estate Of Panoli.",Canal,GUJARAT,2019,Unsafe,20.17,"pH Out of Range, High BOD",,30.0,6.45,8.05,500.0,0.6,0.43,23.5,71.5
+4421,"From Narmada Main Canal At Indorahmedabad Highway Bridge Near Village Motikantadi Tal, Godhra, Dist Panchmahal",Canal,GUJARAT,2019,Unsafe,20.0,High BOD,,29.0,8.05,7.85,294.5,0.35,0.47,2.0,12.5
+2080,Masma Khadi- Olpad- Saras Road,CREEK,GUJARAT,2019,Safe,3.37,None,28.0,6.05,7.6,12842.5,1.45,0.2,20.5,84.0,
+2081,Amlakhadi Creek At Pungam.,CREEK,GUJARAT,2019,Unsafe,21.59,"Low DO, High BOD",30.5,4.7,7.55,2002.5,16.5,0.46,56.0,210.0,
+3196,"Vandkhadi At Village Umarwada, Ta Ankleshwar, Bharuch",CREEK,GUJARAT,2019,Unsafe,20.69,High BOD,30.0,6.5,7.2,2664.0,11.85,0.925,109.5,320.0,
+20015,Ahmedabad-1 Benrampura,River,GUJARAT,2019,Safe,1.63,None,,26.5,,7.55,,89.0,,816.5,975.0
+20016,Ahmedabad-2 Narol Sarkhej Highway,River,GUJARAT,2019,Safe,1.65,None,,29.0,,7.3,,66.5,,823.0,975.0
+1148,Ambika At Bilimora,River,GUJARAT,2019,Safe,2.62,None,30.0,6.65,7.65,25887.5,1.15,0.145,8.5,42.0,
+1434,Amlakhadi After Confl. Of W. Water From Anklesh,River,GUJARAT,2019,Unsafe,27.68,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",31.0,4.4,7.65,1792.5,25.5,0.54,810.0,2550.0,
+1980,Amlakhadi At Pungam Ankleshwar Distt Bharuch,River,GUJARAT,2019,Unsafe,23.07,"Low DO, High BOD",30.5,4.4,7.45,2053.0,22.5,0.505,105.0,315.0,
+1860,Balehwar Khadi At N.H. No. 8,River,GUJARAT,2019,Safe,4.41,None,29.0,6.15,7.65,1129.5,1.9,0.125,19.5,140.0,
+1436,"Bhadar D/S Jetpur Vill. After Conf. Of W.Water From Jetpur City,",River,GUJARAT,2019,Unsafe,20.24,High BOD,28.0,6.7,8.1,6318.5,130.4,0.415,33.0,140.0,
+1150,"Damanganga At Kachigaon U\S At Gidc Wier,",River,GUJARAT,2019,Safe,2.8,None,25.5,6.95,7.5,258.5,1.0,0.215,88.0,279.0,
+1246,"Damanganga At Kachigaon D\S (Daman),",River,GUJARAT,2019,Unsafe,12.12,"Low DO, High BOD, High Fecal Coliform",27.5,4.65,7.7,19115.0,3.05,0.545,813.0,870.0,
+1865,Dhadar River At Kothada,River,GUJARAT,2019,Unsafe,37.27,"Low DO, High BOD, High Fecal Coliform",29.5,1.8,7.5,1101.5,17.85,1.25,905.0,1060.0,
+4420,"Gidc Water Reservoir Vill: Bhersam Ta: Vagra, Dist: Bharuch",River,GUJARAT,2019,Safe,1.71,None,29.5,6.7,8.4,274.5,0.7,0.06,23.0,74.5,
+1862,Kaveri River On Bridge At Billimora-Valsad Road,River,GUJARAT,2019,Safe,2.42,None,29.5,6.65,7.55,36970.0,1.05,0.15,10.5,60.0,
+1149,Kolak At Patalia Bdg.,River,GUJARAT,2019,Unsafe,10.8,"Low DO, High Fecal Coliform",28.0,4.6,7.6,7522.0,2.25,0.29,847.0,1015.0,
+1438,"Mindhola At State Highway Bridge Sachin,",River,GUJARAT,2019,Unsafe,20.14,High BOD,28.5,6.7,7.3,2435.5,14.5,0.13,16.5,98.0,
+1435,"Kolak At Railway Bridge No. 313 Vapi, Valsad,",River,GUJARAT,2019,Unsafe,20.3,High BOD,27.5,6.2,7.5,23780.0,12.3,0.22,37.5,187.0,
+1861,Purna River On Bridge At Surat- Navsari Highway,River,GUJARAT,2019,Safe,2.2,None,29.5,6.65,7.65,10435.5,0.95,0.105,11.5,51.5,
+4423,"Tappar Dam, Village Tappar, Tal. Anjar",River,GUJARAT,2019,Safe,1.8,None,30.0,7.1,7.5,1313.0,0.8,0.95,4.0,12.0,
+2082,"Triveni Sangam, Nr. Somnath Temple, Veraval, Dist. Junagadh.",River,GUJARAT,2019,Safe,3.69,None,24.0,5.75,7.75,23578.5,1.65,0.14,4.0,9.5,
+3204,"Vishwamitri Downstream Of At Khalipur Village, Before Meeting Jambuva River",River,GUJARAT,2019,Unsafe,32.33,"Low DO, High BOD, High Fecal Coliform",24.5,3.1,7.4,929.5,19.9,0.74,948.0,1170.0,
+3205,"Vishwamitri Upstream At Asod Bridge At N.H. 8 , Near Glden Chokdi, Asod Vemali Road",River,GUJARAT,2019,Safe,1.17,None,28.5,7.0,7.95,442.5,0.5,0.52,7.0,42.0,
+1864,Mahi At Mujpur,River,GUJARAT,2019,Safe,1.42,None,29.5,7.2,8.1,31212.5,0.6,0.65,9.0,70.0,
+4,Mahi At Sevalia,River,GUJARAT,2019,Safe,1.18,None,26.0,6.65,8.05,421.5,0.45,0.44,17.0,136.5,
+5,Mahi At Vasad,River,GUJARAT,2019,Safe,1.0,None,27.0,7.65,8.05,470.5,0.4,0.51,15.0,64.0,
+1230,"Mahi After Conf. With Anas At Pardi (Banaswada),",River,GUJARAT,2019,Safe,0.96,None,31.5,7.75,8.15,399.5,0.4,0.45,9.0,42.0,
+1231,"Mahi At Virpur,",River,GUJARAT,2019,Safe,0.95,None,30.5,7.7,7.95,442.0,0.4,0.5,9.0,35.0,
+1863,Mahi At Umeta Bridge,River,GUJARAT,2019,Unsafe,14.74,High BOD,27.5,7.7,8.15,452.0,6.15,0.5,177.0,476.5,
+3206,Mahi At Sherkhi Bridge,River,GUJARAT,2019,Safe,5.17,None,23.0,7.6,7.85,588.5,2.3,0.7,8.0,41.5,
+1228,"Anas At Dahod, (Kushalgarh), Dist. Panchmahal",River,GUJARAT,2019,Safe,1.6,None,31.5,6.75,8.0,454.5,0.65,0.5,21.5,93.5,
+1227,"Panam At Lunawada,",River,GUJARAT,2019,Safe,1.25,None,31.0,6.65,7.85,310.5,0.5,0.5,15.0,101.5,
+1221,"Sabarmati At Kheroj Bridge,",River,GUJARAT,2019,Safe,3.95,None,27.0,7.25,7.75,429.5,1.65,0.65,48.0,117.0,
+1223,"Sabarmati After Conf. With Meshwa At Vautha (Near Dhokla),",River,GUJARAT,2019,Unsafe,28.01,"Low DO, High BOD",27.5,3.4,7.7,2096.0,27.0,0.25,175.5,1135.0,
+1409,"Sabarmati At Railway Bridge Ahmedabad,",River,GUJARAT,2019,Unsafe,17.31,High BOD,27.5,6.75,7.95,668.5,7.55,0.85,61.5,380.0,
+1866,"Sabarmati River At Hansaol Bridge,",River,GUJARAT,2019,Safe,5.99,None,27.5,6.7,7.85,692.5,2.5,1.25,64.5,222.0,
+1,Sabarmati At Dharoi Dam,River,GUJARAT,2019,Safe,1.93,None,27.5,7.6,7.25,452.0,0.85,0.2,1.9,47.5,
+2,Sabarmati At Ahmedabad At V.N. Bridge,River,GUJARAT,2019,Unsafe,35.89,"Low DO, High BOD",27.5,1.6,7.95,2278.5,123.5,0.39,366.5,1025.0,
+1407,"Sabarmati At Gandhi Nagar Chiloda Bridge, Lekawada,",River,GUJARAT,2019,Safe,4.61,None,28.0,7.3,8.0,328.0,1.85,0.65,71.0,270.0,
+1408,"Sabarmati At Vill. Miroli Taluka Dascroi,",River,GUJARAT,2019,Unsafe,32.75,"High BOD, High Total Coliform",30.5,,7.5,1959.5,32.5,0.35,410.0,5700.0,
+1482,"Sabarmati At Mahudi Jain Temple, 150 Km. Form Origin,",River,GUJARAT,2019,Safe,3.21,None,28.0,7.0,8.35,245.0,1.4,0.3,10.5,71.0,
+2075,"Dharoi Dam, Dist. Mehsana.",River,GUJARAT,2019,Safe,2.14,None,27.0,7.35,8.05,375.5,0.95,0.1,2.9,24.5,
+7,Narmada At Garudeshwar,River,GUJARAT,2019,Safe,0.97,None,28.0,6.95,7.85,281.5,0.37,0.115,25.0,56.0,
+1244,"Narmada At Panetha,",River,GUJARAT,2019,Safe,1.47,None,28.0,6.9,7.95,274.0,0.6,0.15,23.0,55.5,
+1245,"Narmada At Chandod,",River,GUJARAT,2019,Safe,1.38,None,25.0,7.4,7.7,286.0,0.55,0.5,15.0,121.5,
+1981,"Narmada At Zanor (Ntpc), Bharuch",River,GUJARAT,2019,Safe,1.72,None,28.0,6.75,7.9,1572.5,0.7,,27.0,70.0,
+1243,"Narmada At Bharuch, Zadeshvar,",River,GUJARAT,2019,Safe,2.54,None,28.5,6.5,7.95,9272.0,0.9,,79.5,280.0,
+46,"Tapi At Ukai, Sherula Bridge",River,GUJARAT,2019,Safe,1.96,None,28.5,6.8,7.35,428.5,0.85,0.085,8.5,52.0,
+1247,"Tapi At Mandavi,",River,GUJARAT,2019,Safe,1.85,None,27.5,6.7,7.6,2060.5,0.8,0.2,7.5,52.0,
+1983,Tapi River Near Bardoli (Kapp Bridge) Bardoli,River,GUJARAT,2019,Safe,1.85,None,27.5,6.75,7.55,404.5,0.8,0.15,8.5,52.0,
+47,"Tapi At Kathore, (Nh-8 Bridge)",River,GUJARAT,2019,Safe,1.84,None,28.0,6.8,7.65,413.5,0.8,0.275,7.5,37.0,
+1248,"Tapi At Surat U/S Kathore,",River,GUJARAT,2019,Safe,2.09,None,27.5,6.85,7.6,443.0,0.9,0.2,11.5,51.5,
+1982,"Tapi At Rander Bridge, Surat",River,GUJARAT,2019,Safe,2.52,None,28.0,6.85,7.6,1093.0,1.1,0.2,9.0,58.0,
+2071,"Tapi River At Ongc Bridge At Surat, Dist. Surat",River,GUJARAT,2019,Safe,4.25,None,27.5,6.15,7.4,29270.0,1.85,0.4,13.0,108.0,
+2070,"Kim River At Sahol Bridge, Olpad Hansot Road, Dist. Surat",River,GUJARAT,2019,Safe,3.14,None,28.0,6.75,7.6,10542.5,1.3,0.225,23.5,201.5,
+3203,"Amravati At Village Dadhal , Ta Ankleshwar, Bharuch",River,GUJARAT,2019,Safe,2.36,None,28.5,6.4,8.05,1514.5,0.95,0.535,36.0,132.0,

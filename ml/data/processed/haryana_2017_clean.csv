@@ -1,0 +1,4 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1349,"Brahmsarovar Lake At Kurukshetra, Haryana",Pond/Tank,HARYANA,2017,Unsafe,25.96,High BOD,,,7.25,7.85,361.0,1.8,0.02,960.0,4620.0
+GEN-F0FCF3,1884,River,HARYANA,2017,Safe,11.74,None,,,,,2.3,5.85,167.45,1588.0,290.0
+GEN-D52377,1885,River,HARYANA,2017,Unsafe,26.89,High BOD,,,,,6.9,7.6,145.6,288.5,6.0

@@ -1,0 +1,152 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+19,"Well At Eloor,Ernakulam",Groundwater,KERALA,2022,Unsafe,9.21,pH Out of Range,26.5,,5.75,120.0,1.6,1.275,290.0,435.0,
+22,"Well At Chungapally, Kerala",Groundwater,KERALA,2022,Unsafe,1.54,pH Out of Range,27.5,,6.25,122.5,,1.21,23.0,80.0,
+35,"Well At Punalur, Kerala",Groundwater,KERALA,2022,Safe,3.31,None,24.0,,7.2,208.5,1.1,2.08,31.0,100.0,
+1581,"Well At Pappanamkode, Thiruvananthapuram, Kerala",Groundwater,KERALA,2022,Unsafe,11.1,pH Out of Range,27.0,,5.2,184.0,1.8,,150.0,355.0,
+1582,"Well At Nedumangad, Thiruvananthapuram, Kerala",Groundwater,KERALA,2022,Unsafe,11.1,pH Out of Range,27.0,,6.0,240.0,2.2,,455.0,800.0,
+1583,"Well At Kundara, Kollam Distt. , Kerala",Groundwater,KERALA,2022,Safe,5.48,None,24.5,,6.8,233.5,1.45,16.2,,90.0,
+1584,"Well At Cherthala, Alleppy, Kerala",Groundwater,KERALA,2022,Safe,5.88,None,30.0,,7.3,238.5,1.6,,200.0,445.0,
+1585,"Well At Vyttila, Ernakulam Distt. Kerala",Groundwater,KERALA,2022,Unsafe,24.53,"High Fecal Coliform, High Total Coliform",28.5,,7.35,495.0,1.4,5.96,3100.0,5150.0,
+1586,"Well At Edayar Ernakulam Distt., Kerala",Groundwater,KERALA,2022,Unsafe,11.16,"pH Out of Range, High Fecal Coliform",27.5,,6.15,302.5,1.25,1.83,790.0,2395.0,
+1587,"Well At Kalamassery Ernakulam Distt. ,Kerala",Groundwater,KERALA,2022,Unsafe,5.81,pH Out of Range,27.0,,5.9,272.5,1.2,4.31,20.5,66.5,
+1588,"Well At Punkunnam Trissur Distt. , Kerala",Groundwater,KERALA,2022,Safe,6.18,None,27.5,,7.3,200.5,1.6,9.35,250.0,490.0,
+1589,"Well At Malapuram , Kerala",Groundwater,KERALA,2022,Safe,0.38,None,22.0,,7.3,339.5,,2.4,38.5,91.5,
+1590,"Well At Mavoor, Kozhikkode Distt. , Kerala",Groundwater,KERALA,2022,Safe,2.4,None,28.0,,6.6,80.0,,,265.0,475.0,
+1591,Well At Kannur Municipality Kannur,Groundwater,KERALA,2022,Unsafe,11.91,pH Out of Range,28.0,,4.95,108.0,1.8,,130.0,300.0,
+1592,"Well At Payyannur, Kannur Distt. , Kerala",Groundwater,KERALA,2022,Safe,5.76,None,28.0,,6.65,187.0,1.4,,265.0,555.0,
+2308,Well At Fathimapuram (Changanassery),Groundwater,KERALA,2022,Safe,6.42,None,27.5,,6.55,159.5,1.9,1.46,150.0,400.0,
+2309,Well At Karoor (Pala),Groundwater,KERALA,2022,Unsafe,9.36,pH Out of Range,25.5,,5.55,117.0,1.15,0.67,,175.0,
+2310,Well At Vaikom,Groundwater,KERALA,2022,Unsafe,10.83,pH Out of Range,25.5,,5.45,202.5,1.4,,,200.0,
+2311,Well At Vadavathoor (Kottayam),Groundwater,KERALA,2022,Unsafe,7.55,pH Out of Range,26.5,,5.55,90.0,,1.655,250.0,760.0,
+2313,"Well At Sarvodapuram, Alappuzha",Groundwater,KERALA,2022,Unsafe,10.71,High Fecal Coliform,30.0,,7.3,195.0,1.95,,700.0,1800.0,
+2314,Well At Kureepuzha (Kollam),Groundwater,KERALA,2022,Safe,3.88,None,25.0,,6.8,243.0,1.3,36.24,40.0,75.0,
+2315,Well At K.M.M.L. (Kollam),Groundwater,KERALA,2022,Safe,4.86,None,23.5,,7.75,329.5,1.65,3.81,35.5,100.5,
+2316,Well At Chellora Trenching Ground (Kannur),Groundwater,KERALA,2022,Unsafe,8.38,pH Out of Range,27.0,,5.45,139.5,,,339.5,550.0,
+2317,Well At Punnalpettippalam,Groundwater,KERALA,2022,Safe,0.77,None,27.0,,6.65,237.5,,,70.0,225.0,
+2320,Well At Manjeri,Groundwater,KERALA,2022,Safe,0.37,None,22.0,,7.1,253.0,,1.7,32.0,115.5,
+2321,Well At Laloor (Thrissur),Groundwater,KERALA,2022,Safe,9.71,None,27.0,,7.45,164.0,1.75,5.38,,,
+2322,Well At Ollur (Thrissur),Groundwater,KERALA,2022,Safe,7.49,None,28.5,,6.7,132.5,1.35,6.38,,,
+2323,Well At Brahmapuram M.S.W. Dumpark,Groundwater,KERALA,2022,Unsafe,7.19,pH Out of Range,27.5,,6.25,177.0,1.45,0.57,247.0,965.0,
+2324,Well At Hazardous Waste Dump (Ambalamugal Borewell),Groundwater,KERALA,2022,Unsafe,10.52,pH Out of Range,27.5,,5.35,105.0,,3.0,495.0,995.0,
+2327,Well At Karukamani,Groundwater,KERALA,2022,Safe,7.32,None,27.5,,7.65,870.0,1.7,0.5,400.0,600.0,
+3463,"Well At Velliparamba, Kozhekode",Groundwater,KERALA,2022,Unsafe,3.48,pH Out of Range,28.0,,6.2,98.5,,,220.0,355.5,
+3472,"Well Of Temple Parassinikadavu, Kannur",Groundwater,KERALA,2022,Unsafe,7.54,pH Out of Range,28.5,,6.3,325.0,1.6,,339.5,630.0,
+3474,"Well At Payanoor, Kannur",Groundwater,KERALA,2022,Safe,9.08,None,28.0,,7.05,114.5,2.45,,335.0,610.0,
+3475,"Well At Karimbam, Kannur",Groundwater,KERALA,2022,Unsafe,11.64,pH Out of Range,27.5,,5.2,92.5,1.9,,195.0,395.0,
+5219,"Well At Sri Kirathamoorthy Siva Temple, Kanjikkode, Palakkad",Groundwater,KERALA,2022,Unsafe,5.87,High Fecal Coliform,26.5,,7.1,119.5,,1.1,600.0,1400.0,
+5173,"River Peruvamba At Ettikulam, Kannur",BEACH,KERALA,2022,Unsafe,11.25,"High BOD, High Fecal Coliform",,5.9,7.6,,3.7,,645.0,570.0,
+5174,"R. Ancharakkandy At Moidupalam,Dharmadam, Kannur",BEACH,KERALA,2022,Unsafe,8.1,High Fecal Coliform,,6.1,7.15,,2.45,,505.0,800.0,
+5178,"Kavvayi Backwaters At Kavvayi, Payyanur",BACKWATER,KERALA,2022,Unsafe,10.65,"High BOD, High Fecal Coliform",,6.45,7.95,,3.6,,560.0,520.0,
+5181,"Beach At Varkala Papanasam, Thiruvananthapuram",BEACH,KERALA,2022,Unsafe,28.85,"Low DO, High BOD, High Fecal Coliform",,4.3,7.2,5.0,4.15,,3850.0,1800.0,
+5194,"Kmml Chavara, Kollam",BACKWATER,KERALA,2022,Unsafe,5.48,High Fecal Coliform,,5.0,8.15,,,,855.0,1200.0,
+1579,"Alappuzha, Kerala",Pond/Tank,KERALA,2022,Unsafe,22.94,"pH Out of Range, High BOD",,29.0,5.7,7.1,500.0,1.9,0.3,601.0,1750.0
+1578,"Kayamkulam, Kerala",Pond/Tank,KERALA,2022,Unsafe,23.86,"pH Out of Range, High BOD",,29.5,5.35,7.45,500.0,2.95,0.49,401.0,751.0
+5182,"Kochi Lake At Goshree Bridge, Kochi",Pond/Tank,KERALA,2022,Unsafe,12.52,"pH Out of Range, High Total Coliform",,,5.55,8.35,,2.65,,2605.0,
+5184,"Kochi Lake Near Thopumpady, Kochi",Pond/Tank,KERALA,2022,Unsafe,29.27,"pH Out of Range, High Total Coliform",,,5.1,8.25,,1.7,,9250.0,
+1574,"Paravur, Kerala",Pond/Tank,KERALA,2022,Unsafe,20.38,"pH Out of Range, High BOD",,24.5,6.45,7.05,500.0,2.0,13.5,215.0,740.0
+5244,"Madhur Bridge Near Madhur Sri Sidhivinayaka Temple, Kasaragod",River,KERALA,2022,Safe,5.02,None,28.0,6.3,7.1,111.0,1.8,0.355,148.0,535.0,35.0
+5177,"Azheekal Port, Azheekode,Kannur",River,KERALA,2022,Unsafe,7.54,High Fecal Coliform,,5.2,7.65,,2.1,,560.0,800.0,
+5193,"Azhikode Ferry, Kodungallur,Thrissur",River,KERALA,2022,Unsafe,12.18,"Low DO, High BOD",,4.45,7.5,,3.7,,401.0,200.0,
+5192,"Beypore Port, Kozhikode",River,KERALA,2022,Unsafe,16.62,High Fecal Coliform,,6.65,7.3,,1.9,,2270.0,,
+5245,"Manjeshwar River At Bangra-Manjeshwar Bridge,Hosdurg, Kasaragod",River,KERALA,2022,Safe,4.87,None,28.0,5.45,7.2,27031.0,1.7,0.38,142.0,660.0,40.0
+2318,"Pazhassi Reservoir, Kannur",River,KERALA,2022,Unsafe,10.51,pH Out of Range,28.5,5.8,4.9,63.5,1.9,0.32,255.0,435.5,25.0
+2319,River Ancharakandy At Ancharakandy,River,KERALA,2022,Unsafe,10.97,pH Out of Range,29.5,6.85,4.6,1780.0,1.85,0.5,175.0,390.5,20.0
+3466,River Achankovil At Pandalam,River,KERALA,2022,Unsafe,25.95,High Total Coliform,25.0,6.4,7.3,185.0,2.4,0.5,155.0,350240.0,2.0
+1443,"River Achankovil At Chennithala, Alappuzha",River,KERALA,2022,Safe,4.52,None,24.5,6.3,7.45,282.5,1.55,0.95,174.0,475.0,81.0
+3465,"River Achankovil At Kallarakadavu, Pathanamthitta",River,KERALA,2022,Safe,5.76,None,23.5,5.7,7.3,195.0,1.95,0.375,205.0,765.0,16.0
+1342,River Achankovil At Thumpamon,River,KERALA,2022,Safe,5.51,None,24.5,6.3,7.4,198.0,1.7,3.45,240.0,970.0,2.0
+2297,River Ancharakandy At Meruvambayi,River,KERALA,2022,Safe,4.9,None,28.5,6.15,6.95,76.0,2.0,0.315,80.0,169.5,29.5
+2286,River Ayiroor At Ayiroor Bridge,River,KERALA,2022,Unsafe,10.56,High Fecal Coliform,26.5,6.6,7.0,166.0,2.1,0.3,1155.0,1600.0,2.0
+2331,River Bharathapuzha At Kuttippuram,River,KERALA,2022,Unsafe,8.48,High Fecal Coliform,29.5,6.65,7.3,207.0,1.55,0.35,901.0,1800.0,156.0
+2332,River Bharathapuzha At Pattambi,River,KERALA,2022,Safe,6.45,None,29.0,6.85,7.3,295.0,1.6,0.855,455.0,1350.0,131.0
+1154,"River Chalakudy At Pulikkakadavu, Thrissur",River,KERALA,2022,Unsafe,9.75,High Fecal Coliform,29.5,7.15,7.05,103.5,1.6,0.455,1092.0,2285.0,205.0
+21,River Chaliyar At Chungapally,River,KERALA,2022,Unsafe,20.75,"High Fecal Coliform, High Total Coliform",27.5,7.45,7.05,6029.5,1.0,0.415,3700.0,4660.0,121.0
+20,River Chaliyar At Koolimadu,River,KERALA,2022,Unsafe,26.34,"High Fecal Coliform, High Total Coliform",28.0,7.25,7.15,65.0,1.0,0.3,2000.0,20155.0,201.0
+3464,"River Chaliyar At Nilambur, Malappuram",River,KERALA,2022,Unsafe,16.86,"High Fecal Coliform, High Total Coliform",27.5,8.4,7.35,78.0,1.0,0.315,2900.0,3800.0,250.0
+1573,"River Chithrapuzha At Irumpanam, Kerala",River,KERALA,2022,Unsafe,30.85,"Low DO, High Fecal Coliform, High Total Coliform",28.0,4.05,7.1,1395.0,2.6,3.34,3420.0,9500.0,430.0
+5215,"River Chitturpuzha At Chittur Bridge, Palakkad",River,KERALA,2022,Safe,5.02,None,29.5,6.95,7.65,409.5,1.45,0.34,250.0,1005.0,151.0
+2287,River Ithikkara At Ithikkara,River,KERALA,2022,Safe,6.66,None,26.0,6.5,7.4,11076.5,2.35,5.2,210.0,760.0,25.0
+1564,River Ithikkara Kerala,River,KERALA,2022,Safe,4.98,None,24.5,7.25,7.4,215.0,1.7,2.15,155.0,730.0,2.0
+2293,River Kadalundi At Hajirappally,River,KERALA,2022,Safe,3.65,None,22.0,7.15,7.5,131.0,1.45,0.555,75.0,165.5,26.0
+2337,River Kadambrayar At Brahmapuram,River,KERALA,2022,Unsafe,43.75,"Low DO, High Fecal Coliform, High Total Coliform",27.5,3.15,7.3,170.0,2.65,0.475,6542.0,13085.0,235.0
+2338,River Kadambrayar At Manckakadavu,River,KERALA,2022,Unsafe,19.9,"Low DO, High Fecal Coliform, High Total Coliform",28.0,4.55,6.85,268.0,2.45,3.92,2465.0,3500.0,451.5
+5203,"River Kallada At Mundrothuruth, Kollam",River,KERALA,2022,Safe,6.22,None,25.0,6.15,7.45,28243.0,2.05,25.65,210.0,1040.0,16.5
+5202,"River Kallada At Kulathupuzha, Kollam",River,KERALA,2022,Safe,5.3,None,25.0,6.7,7.45,348.0,1.6,1.0,255.0,915.0,56.0
+42,"River Kallada At Perumthottamkadavu, Punaloor",River,KERALA,2022,Safe,4.39,None,25.0,6.55,7.55,222.5,1.25,3.05,240.0,820.0,2.0
+2294,"River Kallayi At Kallayi Bridge, Kozhikode",River,KERALA,2022,Unsafe,46.88,"High BOD, High Fecal Coliform, High Total Coliform",28.0,5.25,7.4,24849.5,3.1,1.11,44000.0,49000.0,1300.0
+5225,"River Kallayi At Kothi Bridge, Kozhikode",River,KERALA,2022,Unsafe,44.44,"High Fecal Coliform, High Total Coliform",29.0,6.15,7.5,25602.0,2.0,1.7,35050.0,40745.0,351.0
+5224,"River Kallayi At Mooriyadu, Kozhikode",River,KERALA,2022,Unsafe,44.44,"High Fecal Coliform, High Total Coliform",29.5,5.45,7.35,21418.0,2.0,1.64,400000.0,477500.0,6200.0
+3460,"River Kalpathi Puzha At Kalpathi, Palakkad",River,KERALA,2022,Safe,7.63,None,28.5,6.0,7.65,485.0,1.95,0.48,406.0,2100.0,51.0
+5176,River Kanampuzha In Kannur Muncipality,River,KERALA,2022,Unsafe,9.42,High Fecal Coliform,,6.05,7.35,,2.95,,620.0,490.0,
+3471,"River Karamana At Aruvikara, Thiruvananthapuram",River,KERALA,2022,Unsafe,6.54,pH Out of Range,26.5,7.1,6.4,107.5,1.8,0.3,400.0,800.0,2.0
+1155,"River Karamana At Moonnattumukku, Kerala",River,KERALA,2022,Unsafe,56.61,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",26.5,3.65,6.55,557.0,5.05,1.15,9950.0,37500.0,2.0
+5196,"River Karamana At Peppara Upstream, Peppara Dam, Thiruvananthapuram",River,KERALA,2022,Safe,4.15,None,26.5,6.45,6.75,57.5,1.4,0.3,150.0,555.0,2.0
+5195,"River Karamana At Thiruvallom, Thiruvananthapuram",River,KERALA,2022,Unsafe,28.07,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",26.5,4.3,6.7,529.0,4.7,0.3,2850.0,4300.0,2.0
+3458,River Karapuzha Dam At Wayanad,River,KERALA,2022,Safe,2.89,None,26.5,7.4,7.05,101.5,1.25,0.3,18.0,48.0,25.5
+2289,River Karuvannurr At Karuvannur Bridge,River,KERALA,2022,Safe,5.33,None,26.5,6.8,7.3,98.5,1.7,1.84,269.5,600.0,16.5
+2301,River Kavvai At Kuttiyol Palam,River,KERALA,2022,Unsafe,10.39,pH Out of Range,29.0,5.8,4.7,219.5,1.75,0.3,170.5,350.0,15.0
+2295,River Korapuzha At Kanayankode,River,KERALA,2022,Unsafe,8.63,High Fecal Coliform,27.5,6.7,7.05,19054.0,1.15,0.7,1220.0,1500.0,66.0
+2326,"River Korayar Near Naragampally Bridge At Kanjikode, Palakkad",River,KERALA,2022,Unsafe,10.28,Low DO,29.0,4.0,7.8,831.0,1.8,0.755,351.0,1100.0,41.5
+2298,River Kuppam At Rayarom,River,KERALA,2022,Safe,4.67,None,30.0,5.65,6.65,72.5,1.35,0.3,320.0,495.5,29.5
+5234,"River Kuppam At Urooteri, Kannur",River,KERALA,2022,Safe,3.87,None,29.5,6.6,6.95,80.5,1.5,0.31,95.0,194.5,10.0
+1569,"River Kuppam Thaliparamba, Kerala",River,KERALA,2022,Safe,5.74,None,28.0,5.75,6.6,19735.5,1.9,0.39,270.0,555.0,35.0
+1567,"River Kuttiyady Estate, Kerala",River,KERALA,2022,Unsafe,8.43,High Fecal Coliform,27.5,8.55,6.6,27.5,1.0,0.3,1095.5,2290.0,51.0
+1568,"River Mahe At Valayam, Kozhikode",River,KERALA,2022,Unsafe,20.64,"High Fecal Coliform, High Total Coliform",27.5,8.05,6.75,53.0,1.0,0.3,3805.0,4000.0,51.0
+2285,River Mamom At Mamom Bridge,River,KERALA,2022,Unsafe,10.12,High Fecal Coliform,26.5,7.45,6.7,112.5,2.2,0.3,950.0,1795.0,2.0
+1340,"River Manimala At Kalloopara, Kerala",River,KERALA,2022,Unsafe,9.64,High Fecal Coliform,29.0,7.3,7.35,163.0,2.9,0.33,601.0,1001.0,156.0
+1384,"River Manimala At Thondra, Kerala",River,KERALA,2022,Safe,6.61,None,29.0,7.05,7.05,193.0,1.95,0.375,401.0,851.0,101.0
+3459,"River Maniyankode Puzha At Maniyankode Bridge, Wayanad",River,KERALA,2022,Safe,2.87,None,25.0,6.8,7.15,99.0,1.2,0.605,36.5,77.0,21.0
+2307,River Manjeswaram At Bajrakkara Br.,River,KERALA,2022,Safe,4.41,None,27.5,7.1,7.2,127.5,1.65,0.3,113.0,365.0,25.5
+1339,"River Meenachil At Kidangoor, Kottayam",River,KERALA,2022,Unsafe,4.25,pH Out of Range,28.0,7.0,6.3,55.0,1.05,0.72,171.0,774.5,2.0
+2304,River Mogral At Mogral Br.,River,KERALA,2022,Unsafe,4.83,Low DO,28.0,4.95,6.95,26193.5,1.65,0.365,140.0,510.0,30.0
+43,River Muvattapuzha At Vettikkattumukku,River,KERALA,2022,Unsafe,4.88,pH Out of Range,28.0,7.8,6.1,54.5,1.1,0.39,201.0,501.0,12.0
+5211,"River Muvattupuzha At Peruvammuzhi Bridge, Ernakulam",River,KERALA,2022,Unsafe,13.18,"pH Out of Range, High BOD",28.5,7.5,6.3,69.0,5.6,0.405,25.5,43.5,171.0
+1563,River Neyyar At Amaravila,River,KERALA,2022,Unsafe,8.88,High Fecal Coliform,27.0,5.95,6.9,94.0,1.75,0.3,950.0,1500.0,2.0
+2284,River Neyyar At Aruvipuram,River,KERALA,2022,Unsafe,9.61,High Fecal Coliform,26.5,6.65,6.85,99.5,1.7,0.3,1100.0,1795.0,2.0
+2288,River Pallickal At Nellimukal,River,KERALA,2022,Safe,5.59,None,23.5,6.95,7.25,184.0,1.95,0.625,165.0,750.0,2.0
+5207,"River Pamba At Veeyapuram, Alappuzha",River,KERALA,2022,Unsafe,8.77,High Fecal Coliform,29.5,5.95,7.0,190.5,2.65,0.31,501.0,1101.0,201.0
+1156,"River Pamba At Chengannur, Alappuzha",River,KERALA,2022,Unsafe,3.47,pH Out of Range,28.0,6.3,6.35,50.0,1.0,0.46,125.0,365.0,2.0
+5205,"River Pamba At Munnar, Pathanamthitta",River,KERALA,2022,Unsafe,3.6,pH Out of Range,28.0,5.5,6.4,66.5,1.2,0.33,90.0,330.0,2.0
+1341,"River Pamba At Thakazhy, Kerala",River,KERALA,2022,Unsafe,3.44,pH Out of Range,28.0,5.55,6.45,70.0,1.25,0.305,79.0,245.0,2.0
+10016,River Pamba U/S,River,KERALA,2022,Safe,3.88,None,26.5,6.75,6.95,59.0,1.0,0.365,257.0,790.0,6.0
+10017,River Pamba D/S,River,KERALA,2022,Unsafe,8.93,"High Fecal Coliform, High Total Coliform",27.0,6.55,6.7,64.5,1.0,0.64,1060.0,3090.0,30.0
+1565,"River Pamba Down, Kerala",River,KERALA,2022,Unsafe,4.17,pH Out of Range,28.0,5.3,6.3,61.5,1.3,0.365,105.0,310.0,11.0
+5191,"River Pamba Near Thottappally Harbour, Alappuzha",River,KERALA,2022,Unsafe,4.11,High Fecal Coliform,,5.85,7.5,,,,501.0,1600.0,
+5209,"River Periyar At Panamkutty Bridge, Idukki",River,KERALA,2022,Unsafe,11.97,"High Fecal Coliform, High Total Coliform",25.5,7.7,7.1,82.0,1.95,0.48,1350.0,2800.0,406.0
+17,River Periyar At Aluva- Eloor,River,KERALA,2022,Unsafe,22.24,"High Fecal Coliform, High Total Coliform",27.5,5.15,7.5,7892.5,1.65,0.505,3745.0,4500.0,674.0
+18,River Periyar At Kalady,River,KERALA,2022,Unsafe,16.33,"High Fecal Coliform, High Total Coliform",29.0,7.6,7.0,43.0,1.4,0.38,2555.0,3750.0,428.5
+2335,River Periyar At Kalamassery,River,KERALA,2022,Unsafe,28.11,"High Fecal Coliform, High Total Coliform",27.5,6.6,7.95,61.5,1.7,0.3,4835.0,6250.0,816.0
+3468,"River Periyar At Kwa Intake, Aluva",River,KERALA,2022,Unsafe,13.86,"High Fecal Coliform, High Total Coliform",28.5,7.1,7.2,65.0,1.45,0.435,2050.0,3055.0,323.5
+2333,River Periyar At Muppathadam,River,KERALA,2022,Unsafe,15.6,"High Fecal Coliform, High Total Coliform",27.5,6.55,8.05,64.5,1.45,0.385,2205.0,4450.0,770.0
+2334,River Periyar At Pathalam,River,KERALA,2022,Unsafe,38.4,"High Fecal Coliform, High Total Coliform",27.0,6.45,7.95,10051.5,1.8,1.79,3600.0,75135.0,535.0
+2336,River Periyar At Purappallikadavu,River,KERALA,2022,Unsafe,17.39,"High Fecal Coliform, High Total Coliform",27.0,7.0,7.8,12017.5,1.25,0.47,2931.5,3610.0,327.0
+1338,"River Periyar At Sewage Discharge Point,Aluva, Ernakulam",River,KERALA,2022,Unsafe,21.24,"High Fecal Coliform, High Total Coliform",28.5,7.05,6.85,66.0,1.9,0.485,3295.0,4800.0,874.0
+2300,River Peruvamba At Chandapura,River,KERALA,2022,Unsafe,5.73,pH Out of Range,28.0,5.65,6.3,133.0,2.1,0.44,65.0,245.0,15.0
+5173,"River Peruvamba At Ettikulam, Kannur",River,KERALA,2022,Unsafe,11.25,"High BOD, High Fecal Coliform",,5.9,7.6,,3.7,0.0,645.0,570.0,
+5232,"River Peruvamba At Perumba Bridge, Kannur",River,KERALA,2022,Safe,5.5,None,29.0,6.15,6.55,24340.5,1.9,0.47,220.0,500.0,20.0
+2303,River Pullur At Pullur Bridge,River,KERALA,2022,Safe,5.74,None,28.0,6.1,6.6,84.5,2.15,0.3,168.5,370.0,51.0
+2290,River Puzhackal At Puzhackal Bridge,River,KERALA,2022,Safe,5.3,None,27.5,6.4,6.95,118.0,1.9,2.8,201.0,351.0,16.5
+5213,"River Puzhakkal At Panchikkal Canal, Thrissur",River,KERALA,2022,Safe,5.54,None,28.0,6.7,7.65,184.0,1.9,3.76,251.0,401.0,21.0
+5233,"River Ramapuram At Kappungal, Kannur",River,KERALA,2022,Unsafe,4.5,pH Out of Range,29.0,6.45,6.35,192.5,1.35,0.465,190.0,355.5,15.0
+2299,River Ramapuram At Ramapuram Bridge,River,KERALA,2022,Safe,5.93,None,28.5,5.05,6.8,12793.5,1.9,0.395,324.5,515.0,29.5
+2305,River Shiriya At Angadimogaru,River,KERALA,2022,Safe,4.92,None,28.0,7.3,6.95,92.0,1.75,0.3,154.0,520.0,41.5
+5236,"River Thalassery At Eranjoli Palam, Kannur",River,KERALA,2022,Safe,6.71,None,29.5,5.75,6.8,27110.5,2.35,0.44,274.5,500.0,45.5
+5241,"River Thalassery At Koduvally, Kannur",River,KERALA,2022,Unsafe,8.48,Low DO,29.0,4.65,7.3,28963.0,2.4,0.475,320.0,585.0,26.0
+5240,"River Thalassery At Kunduchira, Kannur",River,KERALA,2022,Safe,7.02,None,30.0,6.5,6.5,22093.0,2.5,0.565,265.0,510.0,35.0
+2296,River Thalassery At Pathipalam,River,KERALA,2022,Unsafe,6.28,pH Out of Range,29.0,6.15,6.4,112.0,1.95,0.5,320.0,450.0,35.0
+1566,"River Thirurangady, Kerala",River,KERALA,2022,Safe,3.62,None,22.0,7.25,7.5,104.0,1.5,0.43,47.0,122.0,20.0
+2306,River Uppala At Uppala Br.,River,KERALA,2022,Safe,4.49,None,28.5,5.15,6.95,26599.0,1.7,0.35,101.5,390.0,25.0
+3473,"River Valapattanam At Parassinikadavu, Kannur",River,KERALA,2022,Safe,6.21,None,30.5,5.95,6.95,19381.0,2.1,0.39,275.5,555.0,40.0
+5235,"River Valapattanam At Pavannur, Kannur",River,KERALA,2022,Safe,5.75,None,30.0,7.8,6.55,3239.0,1.95,0.3,265.0,455.0,15.0
+1442,"River Vamanapuram At Vamanapuram, Thiruvananthapuram",River,KERALA,2022,Safe,6.59,None,26.5,7.0,6.9,102.5,2.15,0.3,295.0,800.0,2.0
+5239,"Valapattanam River At Irrity Bridge,Kannur",River,KERALA,2022,Safe,5.72,None,28.5,7.05,6.85,248.5,2.15,0.345,170.0,330.0,15.0
+20017,Stp Near Pamba At Pathanamthitta Kerala,Drain/STP/WTP,KERALA,2022,Safe,0.0,None,,,,8.35,,100.0,,,432.0
+5172,"Nellikunnu Bridge At Nellikunnu, Kasaragod",River,KERALA,2022,Unsafe,27.28,"pH Out of Range, High BOD",,,4.9,6.9,5.0,1.95,,429.0,152.0
+3461,Canoli Canal At Eranjikkal,Canal,KERALA,2022,Unsafe,24.85,"pH Out of Range, High BOD",,28.0,5.5,7.1,500.0,2.35,0.45,2215.0,3160.0
+3467,"Unthithodu At Eloor, Ernakulam",Canal,KERALA,2022,Unsafe,48.62,"pH Out of Range, High BOD, High Total Coliform",,27.0,3.7,7.95,500.0,2.45,1.965,57150.0,72300.0
+3469,"Palakkattuthazhamthodu At Perumbavoor, Ernakulam",Canal,KERALA,2022,Unsafe,44.92,"pH Out of Range, High BOD, High Total Coliform",,28.0,4.9,7.55,123.5,2.55,0.47,200850.0,217700.0
+1207,"River Kabani At Muthankara, Wayanad",River,KERALA,2022,Safe,3.33,None,26.0,7.05,6.9,68.0,1.4,,42.5,67.0,11.0
+1208,"River Bhavani At Elachivazhy, Palakkad",River,KERALA,2022,Unsafe,6.18,High Fecal Coliform,27.0,7.1,7.25,152.5,1.45,0.57,550.0,950.0,70.0
+5226,"River Papanasini At Thirunelly, Wayanad",River,KERALA,2022,Safe,2.94,None,27.0,7.35,7.05,49.5,1.2,,50.0,95.0,18.5
+5227,"River Kalindi At Bavali, Wayanad",River,KERALA,2022,Safe,2.81,None,26.5,6.95,7.15,83.5,1.2,,23.5,60.0,14.0
+5228,"River Kabani At Muthanga,Wayanad",River,KERALA,2022,Safe,3.5,None,26.5,7.0,7.1,82.5,1.5,,29.5,64.05,19.55

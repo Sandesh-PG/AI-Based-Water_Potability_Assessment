@@ -1,0 +1,136 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1415,"Well Of Loomji, Chaudhary, Near Nayagaon, Pali, (U/S 1 Km. From Pali Town), Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.68,None,23.0,,8.0,8700.0,,3.7615,79.5,112.0,
+1706,"Riico Pump House Near Monto Motors, Mia, Alwar, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.03,None,29.0,,7.05,870.0,,1.848,3.5,5.0,
+1707,"Bore Well In Modi Alkalis & Chemicals, Mia, Alwar, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.03,None,30.5,,7.15,1850.0,,2.068,4.0,5.5,
+1708,"Well Kothi In Village Bagar Rajput, Alwar, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.08,None,29.5,,7.05,1210.0,,1.666,8.0,17.0,
+1709,"Well At Village Santhla Very Near Bhiwadi Industrial Area, Bhiwadi, Rajasthan",Groundwater,RAJASTHAN,2020,Unsafe,0.55,pH Out of Range,30.0,,6.4,1300.0,,1.764,4.0,7.0,
+1710,"Well At Village Alupur, Very Near Bhiwadi Industrial Area, Bhiwadi, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,4.53,None,28.0,,7.4,1280.0,,0.304,460.0,1100.0,
+1711,"Well At Village Harchandpur, Very Near, Bhiwadi To Bhiwadi Industrial Area, Bhiwadi, Rajasthan",Groundwater,RAJASTHAN,2020,Unsafe,1.09,pH Out of Range,28.0,,6.3,3700.0,,1.543,7.0,11.0,
+1712,"Well At Village Bhiwadi , Very Near, Bhiwadi To Bhiwadi Industrial Area, Bhiwadi, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.06,None,29.0,,7.0,1580.0,,2.063,7.0,11.0,
+1713,"Well At Village Gattal, Near, Bhiwadi To Bhiwadi Industrial Area, Bhiwadi, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.35,None,30.0,,6.75,905.0,,3.3745,39.5,63.5,
+1715,"Hand Pump Near Secondary School About 300Mt. From Kansua Nallah Kota, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.08,None,27.5,,7.9,835.0,,1.482,9.0,15.5,
+1723,"Hand Pump Of Vidhani Village Goner Road Jaipur, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.06,None,27.5,,7.55,6000.0,,3.5735,6.5,10.5,
+1724,"Well Of Goojaron Ki Talai, Mohana Road Sanganer Jaipur, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.08,None,30.5,,7.85,1000.0,,2.4505,8.5,17.5,
+1725,"Public Hand Pump Before Sanganer Pulia, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.07,None,28.0,,7.3,2135.0,,2.592,6.5,17.0,
+2015,"Pabupura Road Near Civil Air Port, Jodhpur (Mangilal Rathor)",Groundwater,RAJASTHAN,2020,Safe,0.06,None,34.0,,8.1,2700.0,,4.1,7.0,11.0,
+2017,"Village Vinayakia, Jodhpur (Badri Kumhar)",Groundwater,RAJASTHAN,2020,Safe,0.04,None,33.5,,7.85,2150.0,,3.7,4.0,7.0,
+2018,"Village Vinayakia, Jodhpur (Hukum Singh Rathore)",Groundwater,RAJASTHAN,2020,Safe,0.05,None,33.5,,7.65,6350.0,,4.25,6.0,10.5,
+2019,"Near Uit Bridge, Udaipur",Groundwater,RAJASTHAN,2020,Safe,0.05,None,22.5,,7.15,1535.0,,1.998,5.0,9.0,
+2020,"New Fatehpura, 200 Ft.From Panchwati Nallah, Udaipur",Groundwater,RAJASTHAN,2020,Safe,0.03,None,23.0,,6.95,2100.0,,2.144,3.5,8.0,
+2021,"Near Arvind General Store, Aloo Factory, Kacchi Basti, Sardarpura, Udaipur",Groundwater,RAJASTHAN,2020,Safe,0.03,None,22.5,,6.95,1770.0,,1.962,3.0,7.0,
+2022,"Near Rana Pratap Nagar, Railway Station, Udaipur",Groundwater,RAJASTHAN,2020,Safe,0.03,None,23.0,,7.0,1755.0,,1.812,3.5,5.5,
+2023,"Hotel Orient Place, Subhas Nagar, Udaipur",Groundwater,RAJASTHAN,2020,Safe,0.05,None,23.5,,7.3,1245.0,,1.212,5.0,9.0,
+2028,"Near Samshan Vishwakarma Nagar,",Groundwater,RAJASTHAN,2020,Safe,0.04,None,27.0,,7.85,680.0,,1.131,5.0,8.5,
+2029,"Near Gandhi Bhwan, Ajmer",Groundwater,RAJASTHAN,2020,Safe,0.03,None,28.0,,7.8,840.0,,1.94,3.0,11.0,
+2031,"Near 9 No. Petrol Pump, Near Adarsh Nagar Gate, Ajmer",Groundwater,RAJASTHAN,2020,Safe,0.05,None,26.5,,7.75,990.0,,3.7245,5.5,9.0,
+2032,"Near Khanpura Talab, Ajmer",Groundwater,RAJASTHAN,2020,Safe,0.1,None,26.5,,8.05,390.0,,3.294,11.5,17.5,
+2960,"Well Infront Of Singhana Police Station, Singhana, Jhunjhunu, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.11,None,25.5,,7.8,4600.0,,1.604,12.5,19.5,
+2961,"Well Of Sh Mnagal Chand Meena, Manpur Macheri, Jaipur, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.04,None,34.0,,7.75,645.0,,1.632,4.0,7.0,
+2962,"Well Of Sh Mool Chand Raiger, Manpur Macheri, Jaipur, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.05,None,33.0,,8.0,1780.0,,5.7235,5.5,7.5,
+2963,"Well Of Riico At Leather Complex, Manpur Macheri, Jaipur, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.04,None,31.5,,7.95,1960.0,,3.924,5.0,8.5,
+2964,"Well At India Public School, Manpur Macheri, Jaipur, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.04,None,32.0,,7.75,1390.0,,3.423,5.0,7.5,
+2965,"Shri Girdhari Singh Choudhary Near Bandi Bridge, Pali Bye Pass Road, Pali, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.67,None,24.0,,8.0,5400.0,,3.7525,78.5,110.5,
+2966,"Shri Girdhari Singh Rajpurohit Near Village Punayata, Jodhpur- Sumerpur Bye Pass Road, Pali, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.04,None,23.0,,8.3,4800.0,,3.3645,4.0,8.0,
+2967,"Sh. Pol Singh Purohit, Village Punayata, Pali, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.04,None,24.0,,7.75,6750.0,,4.1765,4.0,7.0,
+2968,"Sh. Bhana Ram Kalal, Dharu Nagar, Near Main Mandia Road, Opp. Village Mandia, Pali, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.06,None,22.0,,8.2,2835.0,,2.9325,6.5,14.5,
+2969,"M/S Specialty Silica Ltd., Mia Alwar Agro Food Park, Alwar, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.06,None,28.5,,6.8,815.0,,1.042,6.0,14.0,
+2970,"Riico Tube Well, Ria, Behror, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.05,None,30.5,,7.1,1290.0,,2.0635,6.0,10.5,
+2971,"Riico Tube Well, Ria, Neemrana, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.07,None,31.5,,7.1,2400.0,,3.1515,6.5,17.0,
+2972,"Riico Tube Well, Ria, Sotanala, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.12,None,31.5,,6.8,3350.0,,0.9625,13.5,24.0,
+2973,"Riico Tube Well, Ria, Shahjahanpur, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.12,None,29.5,,7.0,2500.0,,1.682,12.0,28.0,
+2974,"Village Agyara, Tehsil- Ramgarh, Alwar, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.11,None,29.5,,7.2,1625.0,,1.3425,12.5,17.5,
+2975,"Village Bager Meo, Tehsil- Ramgarh, Alwar, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.07,None,29.5,,7.25,3050.0,,1.9845,6.0,23.0,
+2976,"Sujan Ganga, Bharatpur, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,2.68,None,29.5,,8.05,5200.0,,4.3365,276.5,625.0,
+2977,"Well Of Ram Chandra Dewra, Village- Sangaria, Jodhpur, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.06,None,33.5,,7.5,14000.0,,4.2,6.5,10.5,
+2982,"Well Of Birma Ram Patel, Salawas, Jodhpur, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.05,None,33.5,,7.85,16500.0,,4.75,5.5,11.0,
+2985,"Well Of Girdhari Ram Meghwal, Village- Nandwan, Jodhpur, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.05,None,33.5,,7.7,13750.0,,5.05,5.5,11.5,
+2986,"Tube Well Of Girdhari Lal, Bhituja, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.04,None,25.0,,7.7,9650.0,,2.394,3.5,11.0,
+2988,"Well Of Pema Ram Mali, Bhituja, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.04,None,25.0,,7.4,7400.0,,2.105,4.0,7.0,
+2991,"Well Of Bhag Ji Laxman Ram Mali, Sakarna Bera, Balotra, Jodhpur, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.06,None,25.0,,7.5,12300.0,,3.719,6.5,9.0,
+2993,"Well Of Choutha Ram Pusa Pam, Left Side Of Bridge Luni, Balotra, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.09,None,25.0,,8.15,3250.0,,2.8745,10.5,16.0,
+2999,"Bore Well Sh. Prem Chand, Village Phalsha Mode Ria Chopnadi, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,2.3,None,27.5,,7.25,1420.0,,2.8375,233.5,555.5,
+3000,"Bore Well Sh. Umesh Kumar S/O Sh. Horidwari Ram 3A-16 Uit, Bhiwadi, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.03,None,28.5,,7.2,880.0,,2.7045,4.0,5.5,
+3001,"Bore Well Sh. Bhram Jeet Service Station, Bhiwadi, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,1.23,None,29.0,,7.6,1390.0,,11.804,93.0,460.0,
+3002,"Bore Well M/S R.C. Palace Hotel, Bhiwadi, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.98,None,30.5,,7.1,920.0,,2.0645,122.0,124.5,
+3003,"Bore Well Office Of Raj. Housing Board, Bhiwadi, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.05,None,29.5,,7.35,1245.0,,6.0545,5.5,12.5,
+3004,"Bore Well Of M/S Modern Public School, Bhiwadi, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,0.03,None,29.5,,7.05,1330.0,,2.224,3.5,6.5,
+3005,"Bore Well Of M/S Kundan Edible Food Product, Khuskhera, Rajasthan",Groundwater,RAJASTHAN,2020,Safe,2.28,None,28.5,,7.6,820.0,,2.2545,232.0,553.5,
+3006,"Hand Pump Near Nevta Tiraha, Nevta",Groundwater,RAJASTHAN,2020,Safe,0.03,None,26.5,,8.0,2300.0,,3.5615,3.5,7.0,
+4176,"Hand Pump Near Riico Inustrial Area, Aajoliyon Ka Khera, Gangrar, Chittorgarh",Groundwater,RAJASTHAN,2020,Safe,0.1,None,24.0,,7.55,2050.0,,1.6225,12.0,17.5,
+4180,"Borewell Of Jyoti Uchch Madhymic Vidhyalaya, Nayagaon, Rampur Mundana, Bhiwadi",Groundwater,RAJASTHAN,2020,Safe,0.74,None,30.0,,7.3,1350.0,,12.312,93.0,93.0,
+4181,"Borewell In The House Akram Khan, Amlaki, Kharganj Indl Area, Tijara, Alwar",Groundwater,RAJASTHAN,2020,Safe,0.37,None,25.5,,7.1,2600.0,,1.666,42.0,67.0,
+4182,"Borewell At Ro Of Rspcb, Bhiwadi, Tijara, Alwar",Groundwater,RAJASTHAN,2020,Safe,0.03,None,29.0,,6.65,3300.0,,1.808,4.0,5.5,
+4183,"Borewell At Star Hospital, Infront Of Stp, Bhiwadi, Tijara, Alwar",Groundwater,RAJASTHAN,2020,Safe,2.29,None,28.0,,6.75,1850.0,,5.1665,232.0,555.5,
+4184,"Borewell In Cetp Premises, Bhiwadi, Tijara, Alwar",Groundwater,RAJASTHAN,2020,Safe,0.04,None,28.0,,7.2,1965.0,,2.3795,4.0,8.0,
+4759,"Handpump In Front Of Urban Improvement Trust, Civil Lines, Ajmer",Groundwater,RAJASTHAN,2020,Safe,0.04,None,27.0,,7.5,2500.0,,5.334,3.5,10.0,
+4760,"Handpump Within Premises Of Nagar Parishad Office, Old City Road, Deshwali Mohalla, Krishangarh",Groundwater,RAJASTHAN,2020,Safe,0.04,None,27.0,,7.75,1295.0,,3.656,4.0,7.0,
+4761,"Tube Well Of M/S Balotra Water Pollution Control And Research Foundation Trust (Cetp) Khed Road, Balotra",Groundwater,RAJASTHAN,2020,Safe,0.09,None,25.0,,7.35,44000.0,,2.3075,10.5,17.0,
+4763,"Borewell Of Shri Pemaram Mali/Dhudaram Mali, Bithuja, Balotra",Groundwater,RAJASTHAN,2020,Safe,0.03,None,25.0,,7.9,5050.0,,2.0835,3.5,8.0,
+4764,"M/S Abhishek Kothari, Nakoda Road Mewa Nagar, Jasol, Pachpadra,",Groundwater,RAJASTHAN,2020,Safe,0.03,None,25.0,,7.7,2800.0,,3.2865,3.5,8.0,
+4765,"Borewell Of Ajanta Textiles Nakoda Road, Jasol,",Groundwater,RAJASTHAN,2020,Safe,0.02,None,25.0,,7.35,25000.0,,3.7785,3.0,3.0,
+4766,"Borewell Of Amritlal S/O Bacharaj & Joint Krishi Form Kh. No. 66/15, Bithuja",Groundwater,RAJASTHAN,2020,Safe,0.03,None,25.0,,7.55,11450.0,,3.405,3.0,4.0,
+4767,"Open Well Of Sagnaram Mali S/O Rajaram Mali, Khasra No. 9, Sindri",Groundwater,RAJASTHAN,2020,Safe,0.04,None,26.0,,7.5,10500.0,,2.371,4.0,7.0,
+4768,"Openwell Of Shri Ishwar Singh Mali S/O Bhurji Mali, Dhanna Ki Dhani Bilasar,",Groundwater,RAJASTHAN,2020,Safe,0.49,None,25.0,,7.55,14850.0,,4.0395,48.5,123.5,
+4774,"Riico Tubwell No. 1, Located Near Ganpati Tubes & Fabrication (P) Ltd Sp-A-53(A), Ria, Bhiwadi, Opposite To Wheel'O City At T- Point, Tehsil- Tijara",Groundwater,RAJASTHAN,2020,Safe,2.28,None,30.0,,7.15,1655.0,,2.198,231.5,553.5,
+4775,"Riico Tubewell No. 3 Located On Road Side Close To Indag Rubber And Opposite To Honda Showroom, Neelam Chowk, Bhiwadi, Tehsil-Tijara",Groundwater,RAJASTHAN,2020,Safe,0.33,None,29.0,,7.1,1585.0,,2.3335,41.0,43.0,
+4776,"Riico Tubwell No. 27 Located Opposite To Megatech International, G- 1428, Phase-V, Rampur Mundana In Riico Open Area, Bhiwadi, Tehsil- Tijara",Groundwater,RAJASTHAN,2020,Safe,0.04,None,28.0,,7.1,1050.0,,2.068,4.0,11.0,
+4777,"Riico Tubewell No. 31, Located Near Bkl Lifestyle, Plot No. 1228, Ria, Bhiwadi, Opp. To Acro Paints-Ii, Tijara",Groundwater,RAJASTHAN,2020,Safe,0.03,None,29.5,,7.0,1240.0,,2.3945,4.0,5.5,
+4778,"Riico Tubewell No. 34, Located On Road Side Of 220 Kva Power Station, Close To Bkt(Esi Hospital), Rampur Mundana Ris Bhiwadi, Tijara,",Groundwater,RAJASTHAN,2020,Safe,0.06,None,28.5,,7.15,1230.0,,3.55,6.5,10.5,
+4782,"Office Of Assistant Engineer, Jaipur, Vidhut Vitran Nigam Ltd, Riico Ind. Area, Bagru, Tehsil- Sanganer,",Groundwater,RAJASTHAN,2020,Safe,0.04,None,27.5,,7.6,4600.0,,2.7635,4.0,9.0,
+4783,"Jhalana Forest Park, Near Malviya Nagar Ind. Area, Malviya Nagar Jaipur",Groundwater,RAJASTHAN,2020,Safe,0.03,None,28.0,,7.25,780.0,,1.8305,3.0,4.0,
+4784,"Well Of Shri Hazari Singh Gehlot, Near Patwar Bhawan, Salawas Jodhpur",Groundwater,RAJASTHAN,2020,Safe,0.04,None,33.5,,8.25,2550.0,,3.25,5.0,7.5,
+4785,"Well Of Shri Tilaram, Nandwan, Jodhpur",Groundwater,RAJASTHAN,2020,Safe,0.05,None,33.5,,7.8,5550.0,,4.0,5.5,9.0,
+4786,"Well Of Shri Devaram, Heer Khera, Jodhpur",Groundwater,RAJASTHAN,2020,Safe,0.08,None,33.0,,7.2,6100.0,,3.1,9.0,14.0,
+4788,"Well Of Shri Magaram, Nandwan, Jodhpur",Groundwater,RAJASTHAN,2020,Safe,0.06,None,33.0,,6.8,15800.0,,2.2,7.0,11.0,
+4791,"Handpump Near M/S Chamble Fertilizer & Chemicals, Gadepan",Groundwater,RAJASTHAN,2020,Safe,0.04,None,26.5,,7.85,540.0,,2.143,5.0,7.5,
+4792,"Handpump Near M/S Rajasthan Textile Mills, Bhawani Mandi",Groundwater,RAJASTHAN,2020,Safe,0.1,None,27.5,,7.65,3850.0,,1.7635,11.5,17.0,
+4793,"Public Tubewell, Village-Nami, Tehsil",Groundwater,RAJASTHAN,2020,Safe,0.04,None,27.5,,8.2,1365.0,,1.632,4.0,7.0,
+4794,"Tubewell Of Hariprasad Pannalal, Bada Talab, Vill-Nani, Tehsil",Groundwater,RAJASTHAN,2020,Safe,0.06,None,27.0,,8.5,940.0,,1.3225,7.0,12.5,
+4796,"Open Well Of Saras Dairy, Vilas, Nh-08, Udaipur",Groundwater,RAJASTHAN,2020,Safe,0.03,None,21.5,,7.35,900.0,,1.218,3.5,8.0,
+4797,"Borewell Near Main Gate, City Palace, Near Sheetla Mata Temple, Udaipur",Groundwater,RAJASTHAN,2020,Safe,0.04,None,22.5,,7.45,1365.0,,1.294,5.0,7.5,
+4798,"Borewell Of Bsnl Office, Sector-03, Hiran Marg, Udaipur",Groundwater,RAJASTHAN,2020,Safe,3.38,None,23.0,,7.3,1465.0,1.2,1.548,8.0,12.5,
+4799,"District Collector, Baran",Groundwater,RAJASTHAN,2020,Safe,0.04,None,28.0,,7.75,1520.0,,2.4335,4.0,10.0,
+4800,"District Collector, Churu",Groundwater,RAJASTHAN,2020,Safe,0.06,None,27.0,,8.25,2700.0,,1.4415,6.5,11.5,
+4801,"District Collector, Dausa",Groundwater,RAJASTHAN,2020,Safe,0.05,None,27.5,,7.5,3550.0,,2.8325,5.5,10.0,
+4802,"District Collector, Karauli",Groundwater,RAJASTHAN,2020,Safe,0.06,None,28.0,,7.75,1660.0,,2.623,7.0,12.5,
+4803,"Shahid Capt, Chandra Choudhary Park, Bikaner",Groundwater,RAJASTHAN,2020,Safe,0.04,None,24.6,,7.7,4650.0,,2.5525,4.0,7.0,
+4806,"Shri Babual Sopatra, Shekho Ki Ddhani Pali",Groundwater,RAJASTHAN,2020,Safe,0.05,None,24.0,,8.5,2950.0,,2.9445,5.0,10.5,
+4807,"Shri Mukesh Rajpurohit, Infornt Of Gs-197-A, Punayata Industry Road, Near By National Highway Pali-Jodhpur, Cetp-Iv, Pali",Groundwater,RAJASTHAN,2020,Safe,0.03,None,24.0,,8.4,8000.0,,3.5435,3.5,7.5,
+4808,"Shri Khum Singh Rajpurohit, Near Sbi Bank, Riico Phase I&Ii Ind. Area, Pali",Groundwater,RAJASTHAN,2020,Unsafe,1.6,pH Out of Range,24.5,,8.9,2400.0,,2.106,4.0,7.0,
+4809,"Shri Ranaram, Near Bhanwar Singh Mandli From House Nh-Pali-Sumerpur",Groundwater,RAJASTHAN,2020,Safe,0.05,None,23.0,,8.15,965.0,,1.246,5.0,9.0,
+1285,"Pichola Lake At Udaipur (Water Intake Point), Rajasthan",Canal,RAJASTHAN,2020,Unsafe,20.05,High BOD,,24.5,7.75,8.4,500.0,1.95,1.92,48.0,89.0
+1286,Udaisagar Lake At Udaipur (Intake Pt.) Rajasthan,Canal,RAJASTHAN,2020,Unsafe,21.79,"pH Out of Range, High BOD",,23.0,5.95,8.2,500.0,2.5,2.375,107.0,180.0
+1414,"Pushkar Lake, Rajasthan",Canal,RAJASTHAN,2020,Unsafe,29.28,"pH Out of Range, High BOD",,26.0,3.5,8.3,375.0,3.4,3.135,44.5,119.0
+1481,"Fateh Sagar Lake At Udaipur Intake Point Of Phed, Rajasthan",Canal,RAJASTHAN,2020,Unsafe,20.07,High BOD,,25.0,7.9,8.55,500.0,1.95,1.45,78.5,135.0
+1716,"Nakki Lake, Mt. Abu, Rajasthan",Canal,RAJASTHAN,2020,Unsafe,23.6,"pH Out of Range, High BOD",,21.0,5.35,8.0,280.0,1.7,1.885,66.0,142.5
+2935,"Jet Sagar Lake, Bundi, Rajasthan",Pond/Tank,RAJASTHAN,2020,Unsafe,27.04,"pH Out of Range, High BOD",,25.0,4.25,8.25,410.0,2.2,1.605,139.5,267.5
+2937,"Siliserh Lake, Alwar, Rajasthan",Pond/Tank,RAJASTHAN,2020,Unsafe,21.56,"pH Out of Range, High BOD",,26.0,6.0,7.65,245.0,1.85,0.92,18.5,42.5
+2938,"Rajsamand Lake , Rajsamand- Point No. 1, Rajsamand, Rajasthan",Pond/Tank,RAJASTHAN,2020,Unsafe,23.62,"pH Out of Range, High BOD",,19.5,5.35,8.5,470.0,2.2,1.51,94.5,157.5
+2939,"Rajsamand Lake , Rajsamand- Point No. 2, Rajsamand, Rajasthan",Pond/Tank,RAJASTHAN,2020,Unsafe,23.35,"pH Out of Range, High BOD",,19.5,5.45,8.6,500.0,1.8,1.58,139.5,262.0
+2940,"Gape- Sagar Lake, Dungarpur, Rajasthan",Pond/Tank,RAJASTHAN,2020,Unsafe,20.59,"pH Out of Range, High BOD",,23.5,6.35,8.45,500.0,2.55,1.915,152.0,610.0
+2941,"Jaisamand Lake, Salumber, Udaipur, Point No. 1, Rajasthan",Pond/Tank,RAJASTHAN,2020,Unsafe,20.04,High BOD,,24.0,8.1,8.6,495.0,1.65,1.45,49.0,94.5
+2942,"Jaisamand Lake, Salumber, Udaipur, Point No. 2, Rajasthan",Pond/Tank,RAJASTHAN,2020,Unsafe,20.04,High BOD,,24.0,7.9,8.45,500.0,1.85,1.93,43.5,92.0
+2943,"Lodha Talab, Banswara- Dungarpur Road, Banswara, Rajasthan",Pond/Tank,RAJASTHAN,2020,Unsafe,29.76,"pH Out of Range, High BOD",,26.5,3.4,7.85,500.0,3.0,2.56,267.5,1275.0
+4177,Swaroop Sagar Lake,Pond/Tank,RAJASTHAN,2020,Unsafe,21.0,"pH Out of Range, High BOD",,23.0,6.2,8.65,500.0,1.7,1.875,82.0,240.5
+4178,"Goverdhan Sagar, Udaipur",Pond/Tank,RAJASTHAN,2020,Unsafe,25.76,"pH Out of Range, High BOD",,23.0,4.7,8.5,500.0,2.75,1.82,262.0,610.0
+4795,"Nela Talab, Sector-14 Hiran Marg, Udaipur",Pond/Tank,RAJASTHAN,2020,Unsafe,27.34,"pH Out of Range, High BOD",,23.0,4.15,8.3,500.0,2.75,1.945,121.5,195.0
+4179,"Badi Ka Talab, Udaipur",Pond/Tank,RAJASTHAN,2020,Unsafe,20.04,High BOD,,25.0,8.0,8.25,395.0,1.65,1.42,42.0,79.5
+2933,"Gang Canal At Khakka Hear Near Hindumal Kot, Ganganagar, Rajasthan",Canal,RAJASTHAN,2020,Safe,3.03,None,23.65,6.45,7.85,240.0,1.305,1.513,24.0,49.0,16.0
+2934,Masitawala Head Hanumangarh,Canal,RAJASTHAN,2020,Safe,3.25,None,23.35,5.9,7.9,255.0,1.4,1.511,24.0,53.5,11.5
+30022,Indira Gandhi Canal At Sirsa Hanumangarh (Rajasthan),Canal,RAJASTHAN,2020,Unsafe,45.22,"High Fecal Coliform, High Total Coliform",,7.35,7.7,302.5,2.35,0.7,12010.0,800039.5,14.0
+4773,"Indira Gandhi Feeder At Rajasthan Border, Tehsil- Tibi,",Canal,RAJASTHAN,2020,Safe,3.24,None,23.75,6.05,8.0,260.0,1.4,1.383,23.0,44.5,14.5
+2947,"River Jawai Dam, Sirohi, Rajasthan",River,RAJASTHAN,2020,Safe,4.37,None,23.5,5.3,8.3,1895.0,1.8,1.605,70.0,119.0,
+2948,"River Hemawas Dam, Pali, Rajasthan",River,RAJASTHAN,2020,Safe,3.41,None,20.0,5.7,8.25,520.0,1.3,1.63,93.0,195.0,
+2949,"River Ranakpur Dam, Ranakpur, Pali, Rajasthan",River,RAJASTHAN,2020,Safe,4.59,None,22.5,5.7,8.35,380.0,1.95,1.345,49.0,79.5,
+4790,"River Piplaad Dam, Bhawani Mandi",River,RAJASTHAN,2020,Safe,5.3,None,24.0,6.0,8.5,480.0,2.25,1.435,57.0,92.0,
+2953,Rajasthan,River,RAJASTHAN,2020,Unsafe,6.33,Low DO,24.5,4.9,8.4,465.0,2.6,1.45,26.5,69.5,17.0
+2956,"Kali Sindh At Barod Road Bridge, Kota",River,RAJASTHAN,2020,Unsafe,6.93,Low DO,23.5,4.5,8.5,455.0,2.15,1.45,29.5,51.5,21.0
+2950,"Dhanari Dam, Near Swaroopganj, Sirohi,",River,RAJASTHAN,2020,Safe,4.93,None,21.25,5.25,8.0,300.0,2.1,1.54,47.5,92.0,
+2951,"Bisulpur Dam, Tonk, Rajasthan",River,RAJASTHAN,2020,Safe,5.93,None,26.5,5.35,8.1,345.0,2.6,1.43,29.5,51.5,
+2952,"Near Newta Dam, Jaipur, Rajasthan",River,RAJASTHAN,2020,Unsafe,24.89,"Low DO, pH Out of Range, High BOD",26.5,3.8,8.95,1330.0,8.15,2.7,166.5,335.0,
+2945,"Chhapi Dam Upstream , Jhalawar,",River,RAJASTHAN,2020,Safe,4.82,None,25.5,6.0,8.3,315.0,2.1,1.28,30.0,46.0,17.5
+2946,Rajasthan,River,RAJASTHAN,2020,Safe,3.6,None,25.5,5.15,8.25,280.0,1.5,1.21,44.5,119.0,33.5
+2955,Rajasthan,River,RAJASTHAN,2020,Safe,6.35,None,25.0,5.95,8.15,320.0,2.7,49.4,57.0,157.5,
+2954,Rajasthan,River,RAJASTHAN,2020,Safe,4.25,None,24.5,5.55,8.4,535.0,1.8,1.341,47.5,74.0,20.5
+1232,Rajasthan,River,RAJASTHAN,2020,Safe,7.88,None,25.5,5.45,8.4,460.0,2.9,1.585,244.0,587.5,93.0
+1229,"Mahi Near Rajasthan Border At Kadana Dam,",River,RAJASTHAN,2020,Safe,0.04,None,28.5,7.95,8.0,380.0,,0.63,3.0,22.5,

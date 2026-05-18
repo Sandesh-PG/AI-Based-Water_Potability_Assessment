@@ -1,0 +1,40 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+GEN-8D8818,2017,River,RAJASTHAN,2018,Unsafe,42.67,"High BOD, High Fecal Coliform",,,,22.0,18.4,100.0,1400.65,2.1,2.65
+GEN-EA6B2E,2019,River,RAJASTHAN,2018,Unsafe,40.67,"High BOD, High Fecal Coliform",,,,18.0,13.4,100.0,1100.35,1.95,2.9
+GEN-5531A5,2023,River,RAJASTHAN,2018,Unsafe,38.01,"High BOD, High Fecal Coliform",,,,20.0,14.6,100.0,700.65,2.1,2.9
+GEN-093B60,2029,River,RAJASTHAN,2018,Unsafe,36.71,"High BOD, High Fecal Coliform",,,,26.0,17.4,100.0,505.65,1.95,2.75
+GEN-2D579D,2030,River,RAJASTHAN,2018,Unsafe,44.01,"High BOD, High Fecal Coliform",,,,26.0,17.05,100.0,1600.7,2.1,2.9
+GEN-535269,2032,River,RAJASTHAN,2018,Unsafe,36.91,"High BOD, High Fecal Coliform",,,,26.0,17.9,100.0,535.75,1.7,2.55
+GEN-6DB291,2970,River,RAJASTHAN,2018,Unsafe,38.47,"High BOD, High Fecal Coliform",,,,28.0,19.0,100.0,770.35,2.0,3.0
+GEN-AF44C4,2971,River,RAJASTHAN,2018,Unsafe,41.34,"High BOD, High Fecal Coliform",,,,28.0,18.5,100.0,1200.85,2.05,2.75
+GEN-0F21F0,2972,River,RAJASTHAN,2018,Unsafe,42.67,"High BOD, High Fecal Coliform",,,,28.0,18.65,100.0,1400.65,2.1,3.0
+GEN-A209CA,2976,River,RAJASTHAN,2018,Unsafe,63.09,"High BOD, High Fecal Coliform",,,,28.0,19.45,100.0,4459.15,19.0,82.7
+GEN-AE1D2C,2987,River,RAJASTHAN,2018,Unsafe,62.34,"High BOD, High Fecal Coliform",,,,24.0,15.9,100.0,4350.9,1.8,2.9
+GEN-FAA453,2988,River,RAJASTHAN,2018,Unsafe,51.67,"High BOD, High Fecal Coliform",,,,24.0,15.8,100.0,2750.65,1.8,2.9
+GEN-E46BC0,4168,Groundwater,RAJASTHAN,2018,Unsafe,56.16,"High BOD, High Fecal Coliform, High Total Coliform",,,,,17.0,12.25,2853.75,2850.65,
+GEN-219289,4169,Groundwater,RAJASTHAN,2018,Unsafe,38.09,"High BOD, High Fecal Coliform",,,,,18.0,14.15,573.8,695.6,
+GEN-ADC8CA,4170,Groundwater,RAJASTHAN,2018,Unsafe,38.65,"High BOD, High Fecal Coliform",,,,,18.0,14.65,648.9,740.4,
+GEN-13B919,4177,Groundwater,RAJASTHAN,2018,Unsafe,35.72,High BOD,,,,,16.0,20.15,294.3,315.3,
+GEN-155841,4178,Groundwater,RAJASTHAN,2018,Unsafe,37.71,"High BOD, High Fecal Coliform",,,,,16.0,20.1,529.3,635.55,
+GEN-7A6741,1414,Canal,RAJASTHAN,2018,Safe,0.12,None,,,,,,18.0,,29.0,2.3
+GEN-91F573,4179,Pond/Tank,RAJASTHAN,2018,Safe,0.12,None,,,,,,16.0,,30.0,6.2
+1717,"Kodra Dam, Mount Abu, Rajasthan",River,RAJASTHAN,2018,Safe,4.37,None,18.5,5.95,7.8,690.0,1.95,2.385,6.5,17.5,
+1718,"Kodra Dam, Mount Abu, Rajasthan",River,RAJASTHAN,2018,Safe,5.56,None,25.3,5.5,7.5,540.0,2.4,1.76,28.0,150.0,
+1719,"Kodra Dam, Mount Abu, Rajasthan",River,RAJASTHAN,2018,Unsafe,6.94,Low DO,26.6,4.3,7.4,490.0,1.8,2.06,20.0,75.0,
+2947,"Jawai Dam, Sirohi, Rajasthan",River,RAJASTHAN,2018,Safe,3.5,None,20.5,5.5,7.95,405.0,1.55,2.44,9.0,28.0,
+2949,"Ranakpur Dam, Ranakpur, Pali, Rajasthan",River,RAJASTHAN,2018,Unsafe,25.1,"pH Out of Range, High BOD",,19.75,4.85,8.4,500.0,1.4,2.455,12.0,28.0
+GEN-1BD36C,4171,River,RAJASTHAN,2018,Unsafe,50.0,High BOD,,,,,13.5,28.5,,0.7,4.3
+"RIVER NARMADA MAIN CANAL
+(BEFORE ENTERING IN RAJASTHAN
+STATE), TEHSIL SANCHORE,
+JALORE, RAJASTHAN",Rajasthan,River,RAJASTHAN,2018,Safe,4.11,None,24.0,5.59,8.01,320.0,1.805,2.31,13.5,57.0,
+"GANG CANAL AT KHAKKA HEAR
+NEAR HINDUMAL KOT, GANGA",Rajasthan,River,RAJASTHAN,2018,Safe,4.18,None,24.3,5.415,7.78,375.0,1.835,1.94,16.0,50.0,
+"MASITAWALA HEAD
+HANUMANGARH",Rajasthan,River,RAJASTHAN,2018,Safe,4.6,None,25.05,22.205,7.65,375.0,2.03,2.29,14.0,47.5,
+2955,River Chambal Entering In Rajasthan At Gandhi Saga,River,RAJASTHAN,2018,Safe,4.17,None,24.0,5.45,7.8,350.0,1.85,2.29,10.5,24.0,
+1289,"Chambal At Kota D/S (2 Km. From City), Rajasthan",River,RAJASTHAN,2018,Safe,4.29,None,25.5,5.0,7.95,585.0,1.85,2.565,18.5,137.0,
+2954,River Parvati Before Meeting River Chambal At Khat,River,RAJASTHAN,2018,Safe,5.96,None,24.0,5.7,8.1,475.0,2.65,2.335,14.5,24.0,
+2951,"Bisulpur Dam, Tonk, Rajasthan",River,RAJASTHAN,2018,Safe,4.82,None,25.0,6.5,7.75,650.0,2.15,2.57,9.0,19.5,
+2945,"Upstream Of Chhapi Dam, Jhalawar, Rajasthan",River,RAJASTHAN,2018,Safe,3.6,None,24.5,5.6,7.9,300.0,1.6,2.14,9.0,19.5,
+2946,"Upstream Of Bhim Sagar Dam, Jhalawar, Rajasthan",River,RAJASTHAN,2018,Safe,4.5,None,24.5,6.1,7.8,345.0,2.0,2.17,10.5,17.5,

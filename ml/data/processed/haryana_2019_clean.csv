@@ -1,0 +1,22 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+1349,Brahmsarovar Lake At Kurukshetra,Pond/Tank,HARYANA,2019,Unsafe,25.86,"pH Out of Range, High BOD, High Total Coliform",,24.0,6.35,8.25,456.5,5.4,0.105,6750.0,81050.0
+1392,"Kausshalaya Lake, Pinjore, Panchkula",Pond/Tank,HARYANA,2019,Unsafe,44.31,"pH Out of Range, High BOD, High Total Coliform",,23.5,5.1,7.7,459.5,3.15,1.055,78500.0,175210.0
+3033,Sohna Lake,Pond/Tank,HARYANA,2019,Unsafe,25.38,"pH Out of Range, High BOD",,7.5,6.4,7.65,500.0,12.0,0.0,,
+1109,Western Yamuna Canal Wc-1(Y.Nagar)100M D/S After Receiving Ind.&Sew.Effl,Canal,HARYANA,2019,Unsafe,22.42,"pH Out of Range, High BOD",,23.0,6.3,7.55,500.0,2.9,1.405,2250.0,80750.0
+1110,Western Yamuna Canal Wc-2 (Near Karna Lake)G.T.Road Karnal,Canal,HARYANA,2019,Unsafe,22.35,"pH Out of Range, High BOD, High Total Coliform",,26.0,6.45,7.7,242.5,2.5,0.055,2750.0,27850.0
+1113,"Western Yamuna Canal Wc-5 Sirsa Branch At Road Bridge, Karnal",Canal,HARYANA,2019,Unsafe,21.36,High BOD,,25.0,6.95,7.6,316.0,1.85,0.065,1700.0,16000.0
+1114,Western Yamuna Canal Wc-6 Sirsa Branch At Rd.Bridge Jind Kaithal Road,Canal,HARYANA,2019,Unsafe,24.03,"pH Out of Range, High BOD",,22.0,5.7,7.9,500.0,13.2,2.16,1956.0,176605.0
+1419,"Gurgaon Canal, Gc-1, (Near Badarpur Border)",CANAL,HARYANA,2019,Unsafe,62.06,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",,3.25,7.65,1165.0,25.0,4.5,3765.0,186365.0,
+1886,Western Yamuna Canal At Tajewala,CANAL,HARYANA,2019,Unsafe,44.55,"High Fecal Coliform, High Total Coliform",23.5,7.7,7.85,1145.5,2.05,0.935,6600.0,25200.0,
+2056,Western Yamuna Canal At Damla D/S Of Yamuna Nagar,CANAL,HARYANA,2019,Unsafe,14.11,"High Fecal Coliform, High Total Coliform",25.0,7.7,7.8,240.5,2.5,0.05,800.0,6700.0,
+3047,Water Works- Gurgaon,Canal,HARYANA,2019,Unsafe,35.32,High BOD,,,,7.3,265.5,2.5,0.56,1485.0,8165.0
+30017,Ghaggar At Sirsa Dabwali Road (Haryana),River,HARYANA,2019,Unsafe,43.2,"Low DO, High BOD, High Fecal Coliform",,1.6,7.8,1240.0,19.0,1.45,2000.0,2000.0,
+30018,Ghaggar At Chandrapur Siphon (Haryana),River,HARYANA,2019,Unsafe,75.0,"High BOD, High Fecal Coliform, High Total Coliform",,,7.1,1430.0,206.0,1.81,20000.0,68000.0,
+30020,Ghaggar At Ottu Weir (Haryana),River,HARYANA,2019,Unsafe,49.0,"High BOD, High Fecal Coliform, High Total Coliform",,,7.9,1420.0,94.0,1.14,4000.0,4000.0,
+1025,"Ghaggar Gh-1 At Road Brdg. Sirsa, Debwali Road",River,HARYANA,2019,Unsafe,64.06,"Low DO, pH Out of Range, High BOD, High Fecal Coliform, High Total Coliform",18.0,4.25,8.95,9118.5,46.0,17.03,126100.0,423900.0,
+1026,Ghaggar Gh-2 At Chandarpur Syphen,River,HARYANA,2019,Unsafe,65.19,"Low DO, pH Out of Range, High BOD, High Fecal Coliform, High Total Coliform",,3.85,8.75,8850.0,38.0,,96250.0,340000.0,
+1884,Ghaggar At Kala Amb D/S Markanda,River,HARYANA,2019,Unsafe,64.78,"Low DO, pH Out of Range, High BOD, High Fecal Coliform, High Total Coliform",23.5,4.65,5.4,1961.0,33.5,0.615,181000.0,2780500.0,
+1885,River Ghaggar At D/S Of Surajpur,River,HARYANA,2019,Unsafe,52.77,"High BOD, High Fecal Coliform, High Total Coliform",22.5,6.4,7.7,495.5,5.75,1.505,477000.0,1799000.0,
+1887,Ghaggar Before Ottu Weir (Before Mixing Of Satluj Canal Water),River,HARYANA,2019,Unsafe,69.05,"Low DO, pH Out of Range, High BOD, High Fecal Coliform, High Total Coliform",,3.15,9.2,11191.0,43.0,22.0,103800.0,370000.0,
+2625,Markanda D/S Kala Amb/ Boundary Of Haryana,River,HARYANA,2019,Safe,2.89,None,22.5,8.0,7.7,485.0,1.2,0.38,30.0,127.0,
+1119,Yamuna At Sonepat,River,HARYANA,2019,Unsafe,60.0,"High BOD, High Fecal Coliform, High Total Coliform",,8.7,8.0,497.0,11.0,1.5,47011.5,47011.5,

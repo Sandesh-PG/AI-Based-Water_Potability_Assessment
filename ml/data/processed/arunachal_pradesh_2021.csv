@@ -1,0 +1,4 @@
+stn_code,monitoring_location,water_body_type,state,year,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+3095,"RIVER GANGA AT CHANDRAPUR, ITANAGAR,",River,ARUNACHAL PRADESH,2021,19.05,3.75,7.75,393.5,1.9,,,,
+3096,"RIVER DIKRONG AT NIRJULI,",River,ARUNACHAL PRADESH,2021,22.0,3.4,7.4,143.0,1.8,,,,
+3103,"RIVER PACHIN AT NAHARLAGUN (BELOW BARAPANI BRIDGE),",River,ARUNACHAL PRADESH,2021,22.3,3.55,7.35,128.0,1.0,,,,

@@ -1,0 +1,47 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+15,Well At Kuyyura,Groundwater,TELANGANA,2018,Safe,6.37,None,29.0,,7.3,880.0,2.0,0.65,24.0,700.0,
+GEN-C74D97,16,Groundwater,TELANGANA,2018,Unsafe,36.37,High BOD,,,,,28.0,18.45,373.45,413.0,
+GEN-02E74F,27,Groundwater,TELANGANA,2018,Unsafe,37.38,High BOD,,,,,26.0,16.7,346.1,1304.5,
+GEN-59E0B2,1794,Groundwater,TELANGANA,2018,Unsafe,37.69,"High BOD, High Fecal Coliform",,,,,26.0,17.6,536.15,583.5,
+GEN-FB8E51,4267,Groundwater,TELANGANA,2018,Unsafe,42.53,"High BOD, High Fecal Coliform",,,,,29.0,18.0,1021.9,1786.5,
+GEN-18A010,4277,Groundwater,TELANGANA,2018,Unsafe,62.46,"High BOD, High Fecal Coliform, High Total Coliform",,,,,28.0,19.25,2973.35,6980.0,
+GEN-97E484,4278,Groundwater,TELANGANA,2018,Unsafe,41.8,"High BOD, High Total Coliform",,,,,28.0,19.75,402.55,4340.0,
+GEN-F54962,3068,Pond/Tank,TELANGANA,2018,Safe,0.13,None,,,,,,26.0,,32.0,5.1
+GEN-5DCD0D,4229,Pond/Tank,TELANGANA,2018,Safe,0.12,None,,,,,,25.0,,29.0,0.0
+GEN-D095A9,2357,Pond/Tank,TELANGANA,2018,Safe,0.14,None,,,,,,26.0,,36.0,1.0
+GEN-D69116,2359,Pond/Tank,TELANGANA,2018,Safe,0.14,None,,,,,,26.0,,34.0,0.0
+GEN-C91330,1464,Pond/Tank,TELANGANA,2018,Safe,0.12,None,,,,,,18.0,,31.0,4.9
+GEN-D20BE7,2358,Pond/Tank,TELANGANA,2018,Safe,0.12,None,,,,,,26.0,,30.0,0.0
+"OUTLET OF ASH POND EFFLUENTS OF
+M/S.NTPC, RAMAGUND",Telangana,River,TELANGANA,2018,Unsafe,17.3,"Low DO, pH Out of Range, High BOD",27.5,4.25,10.69,945.5,4.0,7.85,14.0,258.5,
+"TREATED EFFLUENTS OF 339 MLD
+STP, AMBERPET, HYDERA",Telangana,River,TELANGANA,2018,Unsafe,37.98,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",29.5,3.65,7.405,1468.0,24.5,21.8,501.0,13225.0,
+"OUTLET OF STP, LANGARHOUSE
+LAKE, RANGA REDDY, A.P.",Telangana,River,TELANGANA,2018,Unsafe,36.58,"Low DO, High BOD, High Total Coliform",29.0,3.8,6.96,1612.0,34.5,,63.5,14406.5,
+"OUTLET OF STP, NAGOLE ON RIVER
+MUSI, RANGA REDDY,",Telangana,River,TELANGANA,2018,Unsafe,27.83,"High BOD, High Total Coliform",28.5,5.25,7.265,1325.5,24.5,,151.0,9031.5,
+"OUTLET OF STP, KHAIRATABAD ON
+HUSSAINSAGAR LAKE, R",Telangana,River,TELANGANA,2018,Unsafe,37.09,"Low DO, High BOD, High Total Coliform",28.0,3.5,7.25,1249.0,20.5,,7.5,13825.5,
+"OUTLET OF STP, SAFILGUDA LAKE,
+RANGA REDDY, A.P.",Telangana,River,TELANGANA,2018,Unsafe,25.58,"Low DO, High BOD, High Total Coliform",28.5,4.4,7.405,1938.0,42.0,,2.0,3969.0,
+"OUTLET OF STP, DURGAM CHERUVU,
+RANGAREDDY, A.P.",Telangana,River,TELANGANA,2018,Unsafe,36.84,"Low DO, High BOD, High Total Coliform",27.0,4.25,7.585,1054.5,33.0,,313.5,15731.5,
+"OUTLET OF STP, NALLACHERUVU ON
+MUSI, RANGAREDDY, A",Telangana,River,TELANGANA,2018,Unsafe,31.05,"Low DO, High BOD, High Total Coliform",27.5,4.7,7.51,1996.0,25.0,,2.0,12300.0,
+"OUTLET OF STP, SAROOR NAGAR,
+RANGAREDDY, A.P.",Telangana,River,TELANGANA,2018,Unsafe,39.41,"Low DO, High BOD, High Total Coliform",26.5,3.4,7.72,1575.5,19.5,,38.5,16075.0,
+"OUTLET OF STP ON RIVER GODAVARI
+AT MANCHERIAL, ADI",Telangana,River,TELANGANA,2018,Unsafe,40.91,"Low DO, High BOD",29.0,0.03,7.87,1554.5,21.0,45.5,65.0,963.5,
+"OUTLET OF 4MLD STP ON RIVER
+GODAVARI AT RAMAGUNDAM",Telangana,River,TELANGANA,2018,Unsafe,37.89,"Low DO, High BOD",28.0,0.8,7.765,1086.5,24.0,9.0,111.0,810.0,
+"OUTLET OF 14MLD STP ON
+GODAVARI, RAMAGUNDAM, KARIM",Telangana,River,TELANGANA,2018,Unsafe,39.4,"Low DO, High BOD",28.0,0.45,7.53,1053.0,24.0,21.0,136.0,815.0,
+"OUTLET OF STP ON GODAVARI,
+BHADRACHALAM, KHAMMAM,",Telangana,River,TELANGANA,2018,Unsafe,35.68,"Low DO, High BOD",28.0,1.13,7.62,1074.5,20.0,30.3,2.0,243.0,
+2361,"Godavari At Mancherial, Near Rly Bdg B/C Of Rallav",River,TELANGANA,2018,Unsafe,8.06,High BOD,27.5,5.3,8.05,511.5,3.5,1.25,21.0,260.5,
+2362,"Godavari At Ramagundam D/S, Near Fci Intake Well,",River,TELANGANA,2018,Safe,6.94,None,27.5,5.1,8.1,599.5,3.0,2.1,13.0,283.5,
+2366,Godavari At Kamalpur D/S At M/S. Ap Rayons Ltd. Di,River,TELANGANA,2018,Unsafe,7.9,High BOD,29.0,5.95,7.95,348.5,3.5,0.65,13.0,97.0,
+2369,"Godavari At Burgampahad, Khammam, A.P",River,TELANGANA,2018,Unsafe,20.8,High BOD,30.5,5.15,7.85,399.0,18.5,0.6,13.5,932.0,
+GEN-A8240C,1157,River,TELANGANA,2018,Unsafe,50.01,High BOD,,,,,25.0,31.0,,5.6,8.0
+1215,"Maner At Warangal U/S, A.P.",River,TELANGANA,2018,Unsafe,9.08,High BOD,26.5,5.65,7.7,310.0,4.0,1.2,15.0,180.5,
+1158,"Maner At Somnapalli, A.P.",River,TELANGANA,2018,Unsafe,24.08,"Low DO, High BOD",27.5,4.05,7.2,480.0,16.5,2.15,14.0,282.5,

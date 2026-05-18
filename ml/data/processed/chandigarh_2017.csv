@@ -1,0 +1,10 @@
+stn_code,monitoring_location,water_body_type,state,year,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg,total_dissolved_solids_avg,fluoride_avg,arsenic_avg
+2039,"SECTOR 15, CHANDIGARH",Groundwater,CHANDIGARH,2017,28.0,,6.6,846.5,1.0,2.0,2.0,2.0,,4.65,,
+2040,"SECTOR 22, CHANDIGARH",Groundwater,CHANDIGARH,2017,27.0,,6.95,738.0,3.0,2.0,2.0,1.0,,,,
+2043,"PALSORA VILLAGE, CHANDIGARH",Groundwater,CHANDIGARH,2017,25.5,,7.0,986.0,4.0,2.0,3.0,0.85,,,,
+2044,"DHANAS VILLAGE, CHANDIGARH",Groundwater,CHANDIGARH,2017,26.0,,7.15,611.0,3.0,7.5,11.5,0.85,,,,
+2045,"DADU MAJRA, CHANDIGARH",Groundwater,CHANDIGARH,2017,27.0,,7.1,604.5,2.5,2.0,2.0,1.2,,,,
+2046,"SUKHNA LAKE, CHANDIGARH",Pond/Tank,CHANDIGARH,2017,,23.0,7.4,7.9,190.5,103.0,2.74,105001.0,270001.0,,,
+1392,"SUKHNA LAKE, CHANDIGARH",Pond/Tank,CHANDIGARH,2017,,,5.8,,8.8,7.1,,8.2,281.0,,,
+,2048,River,CHANDIGARH,2017,,,,,,25.0,3.55,7.2,840.0,,,
+,2049,River,CHANDIGARH,2017,,,,,,24.0,1.2,7.45,868.5,,,

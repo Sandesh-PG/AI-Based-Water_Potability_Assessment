@@ -1,0 +1,15 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg
+GEN-06A81A,1593,Groundwater,LAKSHADWEEP,2018,Unsafe,39.58,"High BOD, High Fecal Coliform",,,,29.0,18.65,612.85,1619.0
+GEN-0EBCC7,1594,Groundwater,LAKSHADWEEP,2018,Unsafe,43.11,"High BOD, High Fecal Coliform",,,,30.0,18.35,1028.8,2190.0
+GEN-D88518,1595,Groundwater,LAKSHADWEEP,2018,Unsafe,38.44,"High BOD, High Fecal Coliform",,,,30.0,18.3,524.75,1206.0
+GEN-309FEE,1596,Groundwater,LAKSHADWEEP,2018,Unsafe,41.13,"High BOD, High Fecal Coliform",,,,30.0,18.35,806.85,1810.0
+GEN-87EC2F,1597,Groundwater,LAKSHADWEEP,2018,Unsafe,37.24,High BOD,,,,30.0,18.55,420.05,833.0
+GEN-9C19A2,1598,Groundwater,LAKSHADWEEP,2018,Unsafe,37.11,High BOD,,,,30.0,18.35,399.85,836.0
+GEN-83E8EF,1599,Groundwater,LAKSHADWEEP,2018,Unsafe,38.25,"High BOD, High Fecal Coliform",,,,29.0,18.15,522.3,1078.0
+GEN-9E984C,1600,Groundwater,LAKSHADWEEP,2018,Unsafe,38.92,"High BOD, High Fecal Coliform",,,,30.0,18.1,588.25,1250.0
+GEN-C559DA,1601,Groundwater,LAKSHADWEEP,2018,Unsafe,41.5,"High BOD, High Fecal Coliform",,,,30.0,18.95,740.7,2420.0
+GEN-1BC024,1602,Groundwater,LAKSHADWEEP,2018,Unsafe,38.67,"High BOD, High Fecal Coliform",,,,30.0,18.4,556.75,1220.0
+GEN-F31739,1603,Groundwater,LAKSHADWEEP,2018,Unsafe,50.4,"High BOD, High Fecal Coliform, High Total Coliform",,,,30.0,18.8,1553.6,5030.0
+GEN-A368B0,1604,Groundwater,LAKSHADWEEP,2018,Unsafe,63.3,"High BOD, High Fecal Coliform, High Total Coliform",,,,30.0,18.85,3003.45,7460.0
+GEN-F18A6D,1605,Groundwater,LAKSHADWEEP,2018,Unsafe,42.19,"High BOD, High Fecal Coliform",,,,29.0,18.9,854.15,2370.0
+GEN-495DAB,1606,Groundwater,LAKSHADWEEP,2018,Unsafe,37.95,High BOD,,,,30.0,18.95,476.35,1080.0

@@ -1,0 +1,121 @@
+monitoring_location,stn_code,latitude,longitude,geocode_query,geocoded
+At Raipur Region,1620,,,,False
+At Bilaspur Region,1622,,,,False
+"Hand Pump Water 17/10 Nepali Mohlla, Shankar Nagar, Heavy Industrial Area, Bhilai",3171,21.2120677,81.3732849,"bhilai, Chhattisgarh, India",True
+"Borewell/ Handpump In Rogbahri Village, Korba",3172,22.5198217,82.6350029,"korba, Chhattisgarh, India",True
+"Borewell/ Handpump In Parsabhata, Balco, Korba",3173,22.4014258,82.7449711,"balco korba, Chhattisgarh, India",True
+"Borewell/ Handpump In Dhanras, Ntpc, Korba",3174,22.4165784,82.6581713,"ntpc korba, Chhattisgarh, India",True
+Mahanadi At Sihawa,1851,20.3106555,81.9154404,"sihawa, Chhattisgarh, India",True
+Mahanadi U/S Rudri Dhamtori Reservoir,1264,21.1525541,81.3762847,"reservoir, Chhattisgarh, India",True
+Mahanadi U/S Of Rajim,1099,20.9684716,81.8796833,"rajim, Chhattisgarh, India",True
+"Mahanadi At Arrang, Raipur",1852,21.2380912,81.6336993,"raipur, Chhattisgarh, India",True
+Mahanadi At Kharad,1100,,,,False
+Mahanadi At Sheorinarayan Village,1282,,,,False
+Mahanadi A/C With Mand,1467,22.4624216,83.2352189,"mand, Chhattisgarh, India",True
+Mahanadi At Interstate Boundry,1101,,,,False
+"Hasdeo 100 Meter D/S A/C Of Dengur Nallah Nera C.S.E.B. East Guest House, Korba",3165,22.5198217,82.6350029,"korba, Chhattisgarh, India",True
+Hasdeo D/S Near Urga Village Korba,3168,22.2732386,82.731236,"urga korba, Chhattisgarh, India",True
+Hasdeo U/S Korba,1105,22.4141467,82.6810319,"hasdeo korba, Chhattisgarh, India",True
+Hasdeo U/S Of Champa,1106,22.00443,82.6035365,"hasdeo champa, Chhattisgarh, India",True
+"Hasdeo, Drinking Water Intake Well Of Municipal Co. Korba (Before Treatment) At Kohadia Village",3169,,,,False
+"Hasdeo, Drinking Water Intake Well Of Municipal Co. Korba (After Treatment) At Kohadia Village",3170,,,,False
+Kharoon U/S Raipur,1265,21.2380912,81.6336993,"raipur, Chhattisgarh, India",True
+Kharoon River A/C Khapri Drain,1846,,,,False
+"Kharoon B/C Khapri Drain, Durg, Raipur Road Bridge",1847,21.0882551,81.6843347,"durg raipur, Chhattisgarh, India",True
+"Kharoon Bundri, Raipur",1853,21.2380912,81.6336993,"raipur, Chhattisgarh, India",True
+Arpa D/S Of Bilaspur,1848,22.0766125,82.0759755,"arpa bilaspur, Chhattisgarh, India",True
+Kelo U/S Of Raigarh,1849,22.0645338,83.4478871,"kelo raigarh, Chhattisgarh, India",True
+Kelo D/S Of Raigarh,1850,22.0645338,83.4478871,"kelo raigarh, Chhattisgarh, India",True
+Seonath U/S Rajnandgaon,1107,21.0684425,80.7970779,"rajnandgaon, Chhattisgarh, India",True
+Seonath At Shimga A/C. With R. Kharoon,1266,,,,False
+"Seonath Water Supply Well, Durg",1845,21.1982964,81.4007922,"durg, Chhattisgarh, India",True
+"Sheonath At Jhinghri Village, A/C Of Samoda Nalla",3166,,,,False
+"Sheonath At Rajnandgaon, D/S At Mohad, Rajnandgaon",3167,21.0684425,80.7970779,"rajnandgaon, Chhattisgarh, India",True
+"Indravati A/C Dantewada Nelsonnar, Dantewada",1854,18.8640648,81.3833947,"dantewada, Chhattisgarh, India",True
+Shankni A/C Dankani Dantewada,1856,18.8640648,81.3833947,"dantewada, Chhattisgarh, India",True
+"At Raipur Region, Chhatisgarh.",1620,,,,False
+"At Bilaspur Region, Chhatisgarh.",1622,,,,False
+"Borewell/ Handpump In Rogbahri Village, Korba, Chhatisgarh.",3172,,,,False
+"Borewell/ Handpump In Dhanras, Ntpc, Korba, Chhatisgarh.",3174,,,,False
+"Nehru Nagar Talab, Bhilai, Chhatisgarh.",3164,,,,False
+1621,GEN-4462BF,21.4514204,81.8574359,"1621, Chhattisgarh, India",True
+1622,GEN-C7AF09,21.4514204,81.8574359,"1622, Chhattisgarh, India",True
+1623,GEN-FC5285,21.4514204,81.8574359,"1623, Chhattisgarh, India",True
+"Mahanadi At Arrang, Raipur, Chhatisgarh.",1852,,,,False
+"Mahanadi At Sheorinarayan Village, Chhatisgarh.",1282,,,,False
+"Mahanadi After Confl. With River Mand, Chhatisgarh",1467,,,,False
+"Mahanadi At Interstate Boundry, Chhatisgarh.",1101,,,,False
+"Seonath River Water Supply Well, Durg, Chhatisgarh",1845,,,,False
+"Sheonath At Jhinghri Village, A/C Of Samoda Nalla,",3166,,,,False
+"Kharoon River B/C Khapri Drain, Durg, Raipur Road",1847,21.0882551,81.6843347,"durg raipur, Chhattisgarh, India",True
+Downstream Of Hasdeo River Near Urga Village Korba,3168,22.2732386,82.731236,"urga korba, Chhattisgarh, India",True
+Drinking Water Intake Well Of Municipal Co. Korba,3170,22.5198217,82.6350029,"korba, Chhattisgarh, India",True
+"Ground Water At Raipur Region, Chhatisgarh.",1621,,,,False
+"Ground Water At Bilaspur Region, Chhatisgarh.",1622,,,,False
+"Hand Pump Water 17/10 Nepali Mohlla, Shankar Nagar, Heavy Industrial Area, Bhilai, Chhatisgarh.",3171,,,,False
+"Borewell/ Handpump In Parsabhata, Balco, Korba, Chhatisgarh.",3173,,,,False
+"Hitkasa Tailing Dam, Rajhara, Chhatisgarh.(Dalli Rajhara Iron Ore Mines, Dalli Rajhara)",3163,20.5875745,81.0684519,"dalli rajhara, Chhattisgarh, India",True
+"Mahanadi At Sihawa, Chhatisgarh.",1851,,,,False
+"Mahanadi At Rudri U/S At Dhamtori Reservoir, Chhatisgarh.",1264,,,,False
+"Mahanadi At U/S Of Rajim, Chhatisgarh.",1099,,,,False
+"Mahanadi At Kharad, Chhatisgarh.",1100,,,,False
+"Mahanadi After Confl. With River Mand, Chhatisgarh.",1467,,,,False
+"Mahanadi At Downstream Of Hasdeo River Near Urga Village Korba, Chhatisgarh.",3168,,,,False
+"Seonath At U/S Rajnandgaon,",1107,21.0684425,80.7970779,"rajnandgaon, Chhattisgarh, India",True
+"Seonath At Shimga After Confl. With R. Kharoon,",1266,,,,False
+"Seonath River Water Supply Well, Durg, Chhatisgarh.",1845,,,,False
+"Seonath At Jhinghri Village, A/C Of Samoda Nalla, Chhatisgarh.",3166,,,,False
+"Seonath At Rajnandgaon, D/S At Mohad, Rajnandgaon, Chhatisgarh.",3167,,,,False
+"Kharoon At Raipur U/S, Chhatisgarh.",1265,,,,False
+"Kharoon River A/C Khapri Drain, Chhatisgarh.",1846,,,,False
+"Kharoon River B/C Khapri Drain, Durg, Raipur Road Bridge, Chhatisgarh.",1847,,,,False
+"Kharoon River Bundri, Raipur, Chhatisgarh.",1853,,,,False
+"Hasdeo At U/S Korba,",1105,22.4141467,82.6810319,"hasdeo korba, Chhattisgarh, India",True
+Hasdeo At U/S Of Champa,1106,22.00443,82.6035365,"hasdeo champa, Chhattisgarh, India",True
+"Hasdeo River 100 Meter Downstream After Confluence Of Dengur Nallah Nera C.S.E.B. East Guest House, Korba,",3165,22.5198217,82.6350029,"korba, Chhattisgarh, India",True
+"Hasdeo At Drinking Water Intake Well Of Municipal Co. Korba (Before Treatment) At Kohadia Village, Chhatisgarh.",3169,,,,False
+"Hasdeo At Drinking Water Intake Well Of Municipal Co. Korba (After Treatment) At Kohadia Village, Chhatisgarh.",3170,,,,False
+"Arpa River D/S Of Bilaspur, Chhatisgarh.",1848,,,,False
+"Kelo River U/S Of Raigarh, Chhatisgarh.",1849,,,,False
+"Kelo River D/S Of Raigarh, Chhatisgarh.",1850,,,,False
+"Indravati River A/C Dantewada River, Nelsonnar, Dantewada, Chhatisgarh.",1854,,,,False
+"Indravati River B/C Godavari At Bhopalpatnam, Dantewada, Chhatisgarh.",1855,,,,False
+"Shankni River A/C Dankani River Dantewada, Chhatisgarh.",1856,,,,False
+"Ground Water At Janta Colony, Station Road, Raipur Region, Chhatisgarh.",1620,,,,False
+Chhattisgarh,1264,21.2893519,81.7229167,"chhattisgarh, Chhattisgarh, India",True
+"Seonath At U/S Rajnandgaon, Chhatisgarh.",1107,,,,False
+"Hasdeo At U/S Korba, Chhatisgarh.",1105,,,,False
+"Hasdeo At U/S Of Champa, Chhatisgarh.",1106,,,,False
+"Ground Water At Govind Nagar Bilaspur Region, Chhatisgarh.",1622,,,,False
+Bore Well Water Sample Near Tifra I.A. Bilaspur,1622,22.1638486,82.1365923,"bilaspur, Chhattisgarh, India",True
+Bore Well Water Sample From Bec Fertilizer Outside Of Factory Premises (Near Banak Chowk),1623,21.1996822,81.3369471,"chowk, Chhattisgarh, India",True
+"Hand Pump Water 14/10 Nepali Mohlla, Shankar",3171,21.2468638,81.5974324,"shankar, Chhattisgarh, India",True
+"River Mahanadi At Sihawa, Origin Point Of River Mahanadi",1851,21.4274622,81.8390314,"mahanadi, Chhattisgarh, India",True
+"River Mahanadi At Rudri Reservoir U/S At Rudri,Dhamtari",1264,20.5326259,81.7155987,"dhamtari, Chhattisgarh, India",True
+"River Mahanadi At Rajim,Near Road Bridge.",1099,20.9684716,81.8796833,"rajim, Chhattisgarh, India",True
+"River Mahanadi At Arrang, Near Gandhi Bridge",1852,21.2420552,81.6534664,"gandhi, Chhattisgarh, India",True
+River Mahanadi At Kharod,1100,21.7434761,82.5793361,"kharod, Chhattisgarh, India",True
+River Mahanadi At Sheorinarayan Village D/S Near Road Bridge,1282,,,,False
+"River Mahanadi After Confl. Of River Mand,Near Balpur Village.",1467,22.0932152,82.6901865,"balpur, Chhattisgarh, India",True
+"River Mahanadi At Interstate Boundry, Near Surjgarh Village",1101,,,,False
+"River Seonath At U/S Rajnandgaon,",1107,21.0684425,80.7970779,"rajnandgaon, Chhattisgarh, India",True
+River Seonath At Shimga Near Road Bridge,1266,,,,False
+"River Seonath Water Supply Well, Durg, Chhatisgarh.",1845,,,,False
+"River Seonath At Jhinghri Village, A/C Of Samoda Nalla, Chhatisgarh.",3166,,,,False
+"River Seonath At Mohad, Rajnandgaon",3167,21.0684425,80.7970779,"rajnandgaon, Chhattisgarh, India",True
+River Kharoon At Bhatagaon Near Water Supply Intakewell Raipur,1265,21.2380912,81.6336993,"raipur, Chhattisgarh, India",True
+"River Kharoon B/C Khapri Nahla Raipur Road,Chhattisgarh",1846,21.256146,81.5788694,"raipur chhattisgarh, Chhattisgarh, India",True
+"River Kharoon A/C Khapri Nahla,Chhattisgarh",1847,21.2893519,81.7229167,"chhattisgarh, Chhattisgarh, India",True
+"River Kharoon At Village Bendri, Near Water Supply Intakewell",1853,,,,False
+River Hasdeo Up Stream Of Hasdeo Bango Hydel Power Station Station Machadoli Korba,1105,22.5198217,82.6350029,"korba, Chhattisgarh, India",True
+River Hasdeo At U/S Of Champa,1106,22.00443,82.6035365,"hasdeo champa, Chhattisgarh, India",True
+"River Hasdeo 100 Meter Downstream After Confluence Of Dengur Nallah Nera C.S.E.B. East Guest House, Korba",3165,22.5198217,82.6350029,"korba, Chhattisgarh, India",True
+"River Hasdeo At Drinking Water Intank Well Of Municipal Co. Korba (Before Treatment ) At Lohadia Village,",3169,,,,False
+River Hasdeo Drinking Water Intake Well Of Municipal Co. Korba After Treatment Plant At Village Kohadia Korba,3170,22.5198217,82.6350029,"korba, Chhattisgarh, India",True
+"River Arpa D/S Of Bilaspur City At Check Dam Outlet Near Deori Khurd, Bilaspur",1848,22.1638486,82.1365923,"bilaspur, Chhattisgarh, India",True
+River Kelo U/S Urdana Village,1849,,,,False
+River Kelo D/S Lahangapali Bridge Midmida Village,1850,,,,False
+River Hasdeo Down Stream Of Hasdeo River Near Village Urga Korba,3168,22.2732386,82.731236,"urga korba, Chhattisgarh, India",True
+"River Indravati Nelsonnar,A/C Of Dantewada",1854,18.8640648,81.3833947,"dantewada, Chhattisgarh, India",True
+"River Indravati,Pandemurga B/C Of Godavari River",1855,18.3699912,80.9080371,"river, Chhattisgarh, India",True
+"River Shankni Dantewada,A/C Of Dankani River",1856,18.3699912,80.9080371,"river, Chhattisgarh, India",True

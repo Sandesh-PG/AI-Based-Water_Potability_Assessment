@@ -1,0 +1,178 @@
+stn_code,monitoring_location,water_body_type,state,year,safety_label,pollution_score,violated_params,temperature_avg,do_avg,ph_avg,conductivity_avg,bod_avg,nitrate_avg,fecal_coliform_avg,total_coliform_avg,fecal_streptococci_avg
+4818,"Alwarthirunagari Ã‚Â– Veterinary Dispensary, West Car Street Near Over Head Tank Of Bore Well",Groundwater,TAMIL NADU,2021,Safe,4.22,None,29.0,,7.35,241.5,1.5,0.3,6.5,24.0,
+4816,Author Ã‚Â– Mukkani Agragaram Street Infront Of Thiru N. Samuthrapandi House Bore Well,Groundwater,TAMIL NADU,2021,Safe,6.29,None,26.0,,8.0,894.5,2.25,3.35,5.0,16.5,
+4912,"Bore Well At Vanniarvalasu Village, Near Elementary School, Thoppampatti Panchayat Union, Palani Taluk, Dindigul Dist",Groundwater,TAMIL NADU,2021,Safe,2.79,None,36.0,,6.7,1909.0,1.0,0.3,2.0,8.0,
+4811,"Borewell Located At M/S. Phoenix Textile Processors, Vendipalayam, Erode",Groundwater,TAMIL NADU,2021,Safe,2.79,None,30.0,,6.9,4165.0,1.0,0.305,2.0,5.0,
+4821,Borewell Near Kambarasampettai Intake Well (Trichy Upstream),Groundwater,TAMIL NADU,2021,Safe,4.89,None,28.5,,7.4,760.5,1.75,0.355,2.0,26.5,
+4822,Borewell Near Thogur Intake Well (Trichy Downstream),Groundwater,TAMIL NADU,2021,Safe,5.93,None,26.0,,7.05,777.5,1.8,0.315,116.0,353.0,
+4817,Eral Ã‚Â– Charmam Arunachala Swamy Temple West Of Bore Well,Groundwater,TAMIL NADU,2021,Safe,2.79,None,28.0,,8.4,320.0,1.0,0.3,2.0,5.0,
+4814,"House Of Thiru Murugan, S/O. Esakki, No.16B, Meenakshipuram, Anna Nagar, Tirunelveli",Groundwater,TAMIL NADU,2021,Safe,6.39,None,29.0,,7.3,796.0,2.3,0.41,2.0,2.0,
+4907,"Kombupallam, Sathyamangalam",Groundwater,TAMIL NADU,2021,Safe,5.72,None,31.0,,6.7,199.0,2.0,0.3,21.0,63.0,
+4825,"M. Kaliappan, Sangilimuniyappan Kovil, Erikkadu, Mettur",Groundwater,TAMIL NADU,2021,Safe,2.94,None,28.5,,6.95,1810.5,1.0,0.3,26.5,33.5,
+4815,"Municipal Corporation Bore Well Located In Perumalpuram Street, Naranammalpuram, Tirunelveli",Groundwater,TAMIL NADU,2021,Safe,6.39,None,30.0,,7.5,766.0,2.3,1.74,2.0,2.0,
+4824,"Paramasivam Water Service Station, Block No.13 Bsnl Exchange Opposite, Mettur Dam Ã‚Â– 636 402.",Groundwater,TAMIL NADU,2021,Safe,2.91,None,28.0,,6.6,1864.5,1.0,0.3,18.5,44.0,
+4826,"Sakthi Nagar, Near Municipality Sewage Treatment Plant, Kompurankadu, Mettur",Groundwater,TAMIL NADU,2021,Safe,2.8,None,28.0,,7.15,763.5,1.0,0.3,3.0,8.0,
+4819,Srivaikundam Ã‚Â– Block Development Office Ã‚Â– Open Well,Groundwater,TAMIL NADU,2021,Safe,5.56,None,29.0,,7.3,1684.0,2.0,0.3,2.0,4.0,
+4820,Srivaikundam Ã‚Â– Tneb Sub Station 33 Kva Opposite To Tirunelveli Main Road Open Well,Groundwater,TAMIL NADU,2021,Safe,4.18,None,29.0,,7.75,253.5,1.5,0.3,2.0,3.0,
+4810,"Suriyampalayam Borewell (Hand Pump) Owned By Erode Corporation Loated Opposite To M/S. Pioneer Processing India Pvt. Ltd., Bhavani Main Road, R.N. Pudur Post, Erode",Groundwater,TAMIL NADU,2021,Safe,4.25,None,32.5,,7.0,1563.5,1.5,0.3,11.5,27.5,
+4909,"Thalavaipettai, Bhavani",Groundwater,TAMIL NADU,2021,Safe,3.05,None,31.0,,6.8,378.0,1.0,0.3,33.0,110.0,
+32,"Well At Musiri, Tamil Nadu",Groundwater,TAMIL NADU,2021,Safe,7.14,None,28.0,,7.4,951.5,2.5,0.6,22.5,92.5,
+5064,Ennore Creek,CREEK,TAMIL NADU,2021,Unsafe,37.0,"High BOD, High Fecal Coliform",29.0,5.75,7.6,,11.0,,2400.0,,
+5065,Tiruvottiyur,"SEA
+WATER",TAMIL NADU,2021,Unsafe,23.1,"High BOD, High Fecal Coliform",28.5,5.55,7.95,,4.0,,2400.0,,
+5066,Chennai Port Trust,"SEA
+WATER",TAMIL NADU,2021,Unsafe,31.45,High BOD,28.0,6.6,7.5,,8.5,,,,
+5067,Santhome Beach,"SEA
+WATER",TAMIL NADU,2021,Safe,5.77,None,27.5,5.55,7.7,,2.0,,45.0,,
+5068,Injambakkam,"SEA
+WATER",TAMIL NADU,2021,Safe,0.52,None,,5.8,8.1,,,,78.0,,
+5069,Mamallapuram,"SEA
+WATER",TAMIL NADU,2021,Safe,0.9,None,,5.65,7.95,,,,170.0,45.0,
+5070,Kalpakkam,"SEA
+WATER",TAMIL NADU,2021,Safe,0.81,None,,6.0,8.15,,,,140.0,110.0,
+5071,Alamparaikuppam,"SEA
+WATER",TAMIL NADU,2021,Safe,0.0,None,,5.75,7.95,,,,,,
+5072,Thalngadu,"SEA
+WATER",TAMIL NADU,2021,Safe,0.0,None,28.0,5.85,7.9,,,,,,
+5073,Kottakuppam,"SEA
+WATER",TAMIL NADU,2021,Safe,0.0,None,27.5,5.8,8.2,,,,,,
+5074,Cuddalore,"SEA
+WATER",TAMIL NADU,2021,Unsafe,0.66,pH Out of Range,27.0,5.85,8.65,,,,11.0,,
+5075,Pichavaram,"SEA
+WATER",TAMIL NADU,2021,Safe,0.08,None,24.5,5.85,8.2,,,,12.0,,
+5076,Kollidam,"SEA
+WATER",TAMIL NADU,2021,Safe,11.1,None,27.5,5.8,8.1,,3.0,,,,
+5077,Tharangambadi Beach,BEACH,TAMIL NADU,2021,Safe,7.4,None,30.0,5.8,8.45,,2.0,,,,
+5078,Nagapattinam,"SEA
+WATER",TAMIL NADU,2021,Unsafe,25.07,High BOD,25.5,5.8,8.4,,16.0,,14.0,,
+5079,Vellankanni,BEACH,TAMIL NADU,2021,Unsafe,25.04,High BOD,28.0,5.9,7.55,,10.5,,7.15,,
+5080,Muthupettai,"SEA
+WATER",TAMIL NADU,2021,Unsafe,25.03,High BOD,28.0,5.8,8.4,,16.0,,6.8,,
+5081,Lagoon Nearby The Coast Line,"SEA
+WATER",TAMIL NADU,2021,Unsafe,25.1,High BOD,,5.85,8.5,,21.0,,20.15,,
+5082,Adiramapattinam,"SEA
+WATER",TAMIL NADU,2021,Unsafe,15.59,High BOD,,6.15,7.2,,7.0,,8.55,18.0,
+5083,Kezhathottam,"SEA
+WATER",TAMIL NADU,2021,Unsafe,12.37,High BOD,27.0,6.2,6.95,,5.5,,37.8,13.1,
+5084,Mallipatanam,"SEA
+WATER",TAMIL NADU,2021,Unsafe,13.38,High BOD,28.0,6.0,6.95,,6.0,,11.0,17.5,
+5085,Kottaipattinam,"SEA
+WATER",TAMIL NADU,2021,Unsafe,15.58,High BOD,28.0,6.4,7.35,,7.0,,6.8,13.5,
+5086,Rmeswaram,"SEA
+WATER",TAMIL NADU,2021,Unsafe,8.72,Low DO,,4.4,7.05,,2.0,,33.5,,
+5087,Erwadi,"SEA
+WATER",TAMIL NADU,2021,Safe,5.73,None,,5.8,7.2,,2.0,,37.0,,
+5088,Tuticorin,"SEA
+WATER",TAMIL NADU,2021,Unsafe,23.68,High BOD,,6.2,7.7,,8.25,,157.0,,
+5089,Thiruchendur,"SEA
+WATER",TAMIL NADU,2021,Unsafe,21.02,High BOD,,7.3,7.95,,7.5,,40.5,,
+5090,Punnakayal,"SEA
+WATER",TAMIL NADU,2021,Unsafe,21.48,High BOD,,6.3,7.85,,7.6,,78.5,,
+5091,Vembar,"SEA
+WATER",TAMIL NADU,2021,Unsafe,16.31,High BOD,,6.35,7.4,,5.75,,70.5,,
+5092,Uvari,"SEA
+WATER",TAMIL NADU,2021,Unsafe,17.03,High BOD,,6.25,7.5,,6.05,,48.5,,
+5093,Koodankulam,"SEA
+WATER",TAMIL NADU,2021,Safe,8.88,None,,6.5,7.65,,3.0,,112.0,,
+5094,Kanyakumari,"SEA
+WATER",TAMIL NADU,2021,Unsafe,14.04,High BOD,,6.35,7.85,,5.0,,32.6,,
+5095,Keezhamanakudy,"SEA
+WATER",TAMIL NADU,2021,Unsafe,15.38,High BOD,,6.3,8.0,,5.45,,50.5,,
+5096,Colachel,"SEA
+WATER",TAMIL NADU,2021,Unsafe,16.36,High BOD,,6.3,7.45,,5.65,,136.0,,
+5097,Thangapattinam,"SEA
+WATER",TAMIL NADU,2021,Unsafe,15.64,High BOD,,6.2,7.7,,5.5,,76.0,,
+1420,"Kodai Kanal Lake, Tamilnadu",Pond/Tank,TAMIL NADU,2021,Unsafe,20.02,High BOD,,22.5,6.5,7.1,121.5,2.5,0.635,25.0,60.5
+3008,"Poondi Lake At Thiruvallur, Tamilnadu",Pond/Tank,TAMIL NADU,2021,Unsafe,20.0,High BOD,,33.0,7.45,7.55,500.0,2.5,0.42,2.0,35.0
+3010,"Porur Lake At Thiruvallur, Tamilnadu",Pond/Tank,TAMIL NADU,2021,Unsafe,20.03,High BOD,,32.0,6.5,7.65,500.0,3.0,0.47,40.0,117.0
+3011,"Pulicate Lake At Thiruvallur, Tamilnadu",Pond/Tank,TAMIL NADU,2021,Unsafe,21.71,"pH Out of Range, High BOD",,30.5,5.95,7.55,500.0,3.0,0.91,23.5,117.0
+3009,"Redd Hills At Thiruvallur, Tamilnadu",Pond/Tank,TAMIL NADU,2021,Unsafe,21.24,"pH Out of Range, High BOD",,29.0,6.1,7.3,500.0,3.0,0.47,11.0,101.0
+1421,"Udhagamadalem Lake (Ooty), Tamilnadu",Pond/Tank,TAMIL NADU,2021,Unsafe,20.22,"pH Out of Range, High BOD",,24.0,6.45,6.6,415.5,2.75,0.325,79.0,225.0
+3007,"Veeranam Lake At Cuddalore, Tamilnadu",Pond/Tank,TAMIL NADU,2021,Unsafe,20.95,"pH Out of Range, High BOD",,26.5,6.2,7.35,500.0,2.0,0.57,34.5,89.0
+1452,"Yercaud Lake, Salem, Tamilnadu",Pond/Tank,TAMIL NADU,2021,Unsafe,21.14,"pH Out of Range, High BOD",,25.0,6.15,6.9,306.5,1.6,0.325,75.5,185.0
+4823,"Over Head Tank At Tirur Village, Tiruvallur Taluk, Tiruvallur Panchayat Un",Pond/Tank,TAMIL NADU,2021,Unsafe,22.01,"pH Out of Range, High BOD",,32.0,5.85,7.1,500.0,3.0,0.75,11.0,56.0
+10049,Chennai Waterways At Captain Cotton Canal (Erukanjeri),TAMIL NADU,TAMIL NADU,2021,Unsafe,29.6,"Low DO, High BOD",30.0,3.0,7.1,1377.0,22.0,0.95,267.5,665.0,
+10050,Chennai Waterways At Cc X Bc Confluence (Kodungaiyur),TAMIL NADU,TAMIL NADU,2021,Unsafe,34.34,"Low DO, High BOD",29.0,1.9,7.05,1695.0,37.5,0.45,284.0,1000.0,
+10054,Chennai Waterways At Buckingham Canal (Ice House),Canal,TAMIL NADU,2021,Unsafe,35.78,"Low DO, High BOD",29.0,1.5,6.9,1645.5,47.5,0.45,284.0,810.0,
+1450,"River Palar At Vaniyambadi Water Supply Head Work, Tamilnadu",River,TAMIL NADU,2021,Safe,7.03,None,24.5,6.1,7.7,653.0,2.5,0.47,231.0,701.0,
+1330,"River Tambiraparani At Arumuganeri, Tamilnadu",River,TAMIL NADU,2021,Unsafe,10.49,High BOD,26.0,7.25,7.4,379.0,4.5,0.87,70.5,270.0,
+1159,"River Tambiraparani At Bdg.Nr. Madura Coats Ltd.Papavinasam, Tamilnadu",River,TAMIL NADU,2021,Safe,4.45,None,25.5,7.0,7.25,62.0,2.0,0.32,2.0,7.0,
+1160,"River Tambiraparani At Cheranmadevi, Cause Way, Tamilnadu",River,TAMIL NADU,2021,Safe,4.51,None,26.5,7.05,7.2,161.5,2.0,0.42,11.0,34.0,
+3025,"River Tambiraparani At Eral, Thothukudi, Tamilnadu",River,TAMIL NADU,2021,Unsafe,11.03,High BOD,27.0,6.55,7.3,841.0,4.75,3.37,78.0,222.0,
+3026,"River Tambiraparani At Kallidai Kurichi, Tirunelveli, Tamilnadu",River,TAMIL NADU,2021,Safe,4.5,None,25.5,7.5,7.0,147.5,2.0,0.61,9.5,30.0,
+1162,"River Tambiraparani At Murappanadu, Tamilnadu",River,TAMIL NADU,2021,Safe,5.84,None,27.5,7.4,7.25,539.5,2.5,0.44,43.5,145.0,
+1328,"River Tambiraparani At Pappankulam, Tamilnadu",River,TAMIL NADU,2021,Safe,4.04,None,26.0,6.8,7.1,80.0,1.8,0.57,7.5,23.0,
+1329,"River Tambiraparani At Rail Bdg. Nr. Ambasamudam, Tamilnadu",River,TAMIL NADU,2021,Safe,4.47,None,26.0,7.2,7.05,76.5,2.0,0.505,5.0,13.0,
+3029,"River Tambiraparani At Sivalaperi, Confluence Point Of Kuttralam Falls, D/S Of Palayamkottai, Tirunelveli, Tamilnadu",River,TAMIL NADU,2021,Safe,5.89,None,26.5,7.1,7.25,265.0,2.5,0.37,52.5,160.0,
+3027,"River Tambiraparani At Srivaikuntam, D/S Of Sk Anaicut, Tirunelveli, Tamilnadu",River,TAMIL NADU,2021,Safe,5.9,None,27.0,7.0,7.7,256.5,2.5,0.58,52.5,171.5,
+1161,"River Tambiraparani At Tirunelveli, Collectorate, Tamilnadu.",River,TAMIL NADU,2021,Safe,5.82,None,27.0,7.0,7.05,151.5,2.5,0.32,41.0,133.5,
+3028,"River Tambiraparani At Vellakoil, Tirunelveli, Tamilnadu",River,TAMIL NADU,2021,Safe,6.0,None,30.0,6.6,7.15,177.5,2.6,2.735,33.5,117.5,
+10062,River Tamrabarani At Tirunelveli D/S,River,TAMIL NADU,2021,Safe,5.97,None,26.5,6.85,7.4,213.0,2.5,0.56,63.5,204.0,
+20038,Erode-2,Drain/STP/WTP,TAMIL NADU,2021,Unsafe,22.54,High BOD,28.0,,8.5,8.6,8.0,,40.0,137.5,
+20043,Tirchirappallli- Srirangam,Drain/STP/WTP,TAMIL NADU,2021,Unsafe,25.3,High BOD,31.0,,7.0,6.9,22.5,,35.0,130.0,
+20044,Thanjavur,Drain/STP/WTP,TAMIL NADU,2021,Unsafe,39.48,"Low DO, High BOD",28.0,0.3,7.5,7.55,15.0,,86.0,415.0,
+20041,Karur,Drain/STP/WTP,TAMIL NADU,2021,Unsafe,39.02,"Low DO, High BOD",29.0,0.3,7.5,7.3,11.5,,2.0,260.5,
+20032,Chennai-1 Nesapakkam (Zone-Iv),Drain/STP/WTP,TAMIL NADU,2021,Unsafe,25.34,High BOD,28.0,,8.0,7.5,10.0,,40.0,140.0,
+20034,Chennai- 3Kodungaiyur (Zone I&Ii),Drain/STP/WTP,TAMIL NADU,2021,Unsafe,38.11,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",29.5,3.15,7.5,7.2,41.0,1.755,1705.0,4860.0,
+20035,Chennai-4 Koyambedu (Zone- Iii),Drain/STP/WTP,TAMIL NADU,2021,Unsafe,40.43,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",32.0,3.15,7.0,7.05,127.0,1.54,2385.0,4365.0,
+20042,Mayiladuthurai,Pond/Tank,TAMIL NADU,2021,Unsafe,30.48,"Low DO, High BOD, High Fecal Coliform",26.5,3.45,7.5,7.45,36.5,1.62,711.5,1789.5,
+20045,Tirunelveli,Pond/Tank,TAMIL NADU,2021,Unsafe,41.48,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",30.0,3.85,7.5,7.25,48.5,1.5,3000.0,6100.0,
+20047,Kumbakonam,Pond/Tank,TAMIL NADU,2021,Unsafe,37.92,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",29.0,3.6,7.5,7.05,37.5,0.97,2220.0,4300.0,
+20033,Chennai-2 Perungadi(Zone-V),Pond/Tank,TAMIL NADU,2021,Unsafe,75.0,"High BOD, High Fecal Coliform, High Total Coliform",,,7.5,7.6,16.15,,11300.0,34500.0,
+20036,Bhawani,Pond/Tank,TAMIL NADU,2021,Unsafe,46.01,"Low DO, High BOD, High Fecal Coliform, High Total Coliform",29.0,3.75,7.5,7.1,77.0,1.36,3951.0,6510.0,
+50,River Cauvery At Mettur,River,TAMIL NADU,2021,Safe,3.55,None,29.0,6.5,7.35,420.0,1.5,0.485,35.5,91.5,
+51,River Cauvery At Pallippalayam,River,TAMIL NADU,2021,Safe,3.12,None,26.0,6.35,7.25,538.0,1.1,14.485,118.0,261.5,
+1320,"River Cauvery At Erode Near Chirapalayam, Tamilnadu",River,TAMIL NADU,2021,Safe,3.65,None,30.5,6.35,7.5,613.0,1.55,0.345,36.0,80.0,
+1323,"River Cauvery At Velore Near Kattipalayam, Tamilnadu",River,TAMIL NADU,2021,Safe,3.11,None,28.5,6.3,7.35,802.5,1.0,0.38,149.5,360.0,
+3015,"River Cauvery At Pugalur, Karur, Tamilnadu",River,TAMIL NADU,2021,Safe,6.76,None,31.5,5.5,7.05,917.5,2.6,0.355,164.0,410.0,
+1324,"River Cauvery At Mohanur Near Pattaipalayam, Tamilnadu",River,TAMIL NADU,2021,Safe,4.76,None,27.5,6.4,7.35,921.5,1.7,0.345,171.5,375.0,
+1451,"River Cauvery At Thirumukkudal-Confl. Pt.Of R. Amravati, Tamilnadu",River,TAMIL NADU,2021,Safe,6.53,None,32.1,6.15,7.2,768.0,2.5,0.53,164.0,400.0,
+31,River Cauvery At Musiri,River,TAMIL NADU,2021,Safe,4.61,None,28.0,6.9,7.35,719.5,2.0,0.59,25.5,87.5,
+3016,"River Cauvery At Pettaivaithalai, Trichy, Tamilnadu",River,TAMIL NADU,2021,Safe,4.82,None,29.5,7.1,7.3,876.5,2.0,0.695,63.0,162.0,
+1202,"River Cauvery At Tiruchirappalli U/S, Tamilnadu",River,TAMIL NADU,2021,Safe,4.72,None,29.5,6.85,7.2,837.5,2.0,0.54,47.5,111.0,2.0
+1325,"River Cauvery At Tiruchirappalli D/S, Tamilnadu",River,TAMIL NADU,2021,Safe,7.56,None,29.0,6.8,7.2,870.0,2.5,0.765,345.0,790.0,
+1203,"River Cauvery At Trichy, Grand Anaicut, Tamilnadu",River,TAMIL NADU,2021,Safe,4.79,None,27.0,6.95,7.5,760.0,2.0,0.805,50.5,189.0,
+1206,"River Cauvery At Thanjavur, Tamilnadu",River,TAMIL NADU,2021,Safe,5.66,None,29.5,7.0,7.55,875.5,2.5,0.835,17.5,56.0,2.0
+3018,"River Cauvery At Mayiladuthurai, Nagapattinam, Tamilnadu",River,TAMIL NADU,2021,Safe,4.73,None,26.0,6.3,7.55,1278.0,2.0,0.37,50.0,116.0,
+3012,"River Cauvery At Komarapalayam, Namakal, Tamilnadu",River,TAMIL NADU,2021,Safe,2.9,None,29.5,5.95,7.05,560.5,1.0,0.555,117.0,269.5,
+3013,"River Cauvery At Urrachikottai, Erode, Tamilnadu",River,TAMIL NADU,2021,Safe,3.86,None,31.5,6.45,7.3,318.5,1.5,0.325,86.0,229.5,
+3014,"River Cauvery At Vairapalayam, Namakal, Tamilnadu",River,TAMIL NADU,2021,Safe,3.56,None,30.5,6.25,7.15,462.0,1.5,0.505,39.5,93.0,
+4827,River Locations At Kumarapalayam,River,TAMIL NADU,2021,Safe,2.73,None,29.5,6.3,7.05,476.0,1.15,0.84,29.0,71.5,
+3017,"River Cauvery At Kumbakonam, Thanjavur, Tamilnadu",River,TAMIL NADU,2021,Safe,5.14,None,28.5,6.9,7.5,647.0,2.0,0.505,98.0,385.0,
+1326,"River Cauvery At Coleroon, Tamilnadu",River,TAMIL NADU,2021,Safe,2.67,None,24.0,5.9,7.7,897.0,1.0,5.12,79.0,170.0,
+1327,"River Cauvery At Pitchavaram, Tamilnadu",River,TAMIL NADU,2021,Safe,7.21,None,23.0,6.2,6.8,427.0,3.0,2.78,94.0,220.0,
+1322,"River Cauvery At 1Km. D/S Of Bhavani Confl., Tamilnadu",River,TAMIL NADU,2021,Safe,6.48,None,30.5,5.95,7.7,476.5,2.8,0.325,45.5,106.5,
+10064,River Cauvery At Bhawani D/S,River,TAMIL NADU,2021,Safe,4.41,None,32.0,6.2,7.4,415.0,1.7,0.405,114.0,225.0,
+10065,River Cauvery At Erode U/S,River,TAMIL NADU,2021,Unsafe,11.02,Low DO,31.5,3.45,7.65,408.0,2.0,0.325,68.0,140.0,
+10067,River Cauvery At Kumarapalayam U/S,River,TAMIL NADU,2021,Safe,3.78,None,29.5,5.85,7.15,451.0,1.5,0.79,75.5,181.5,
+10070,River Cauvery At Pallipalayam D/S,River,TAMIL NADU,2021,Safe,4.06,None,26.0,6.35,7.25,496.5,1.5,0.935,128.0,276.5,
+10073,River Cauvery At Karur U/S,River,TAMIL NADU,2021,Safe,7.39,None,27.5,6.3,7.4,796.5,3.0,0.465,125.5,287.0,
+10078,River Cauvery At Mayiladuthurai D/S,River,TAMIL NADU,2021,Safe,6.02,None,26.0,6.3,7.4,2064.0,2.5,0.42,80.0,189.0,
+1205,"River Bhavani At Bhavani, Tamilnadu",River,TAMIL NADU,2021,Safe,4.16,None,31.5,6.4,7.4,524.5,1.5,0.34,50.5,785.5,
+1201,"River Bhavani At Pathirakaliamman Koil, Tamilnadu",River,TAMIL NADU,2021,Safe,3.59,None,26.0,6.6,6.8,419.0,1.5,0.355,44.0,100.5,
+1204,"River Bhavani At Sirumugai, Tamilnadu",River,TAMIL NADU,2021,Safe,4.22,None,25.0,6.55,6.95,198.0,1.85,0.455,17.0,53.0,
+1321,"River Bhavani At Bhavani Sagar, Tamilnadu",River,TAMIL NADU,2021,Unsafe,10.39,Low DO,29.5,3.4,7.0,189.5,1.75,0.38,16.5,50.5,
+3019,"River Bhavani At D/S Of Bhavanisagar, Sathyamangalam, Erode, Tamilnadu",River,TAMIL NADU,2021,Safe,3.49,None,30.0,6.3,7.0,214.5,1.5,0.37,27.5,61.5,
+3020,"River Bhavani At U/S Of Kalingarayan Canal (B5), Erode, Tamilnadu",River,TAMIL NADU,2021,Safe,3.64,None,32.0,6.5,7.55,479.0,1.5,0.335,53.5,114.0,
+3021,"River Bhavani At D/S Of Kalingarayan Canal (B10), Erode, Tamilnadu",River,TAMIL NADU,2021,Safe,5.04,None,30.0,6.35,7.8,485.5,2.0,0.335,108.0,210.0,
+3022,"River Thirumanimuthar At Salem, D/S Of Sago & Textile Dying Industries, Tamilnadu",River,TAMIL NADU,2021,Unsafe,27.93,"Low DO, High BOD",26.0,3.65,7.55,2727.5,27.5,1.16,421.0,1052.0,
+3023,"River Vasista At Salem, D/S Of Sago Indusries Effluent, Tamilnadu",River,TAMIL NADU,2021,Unsafe,28.05,"Low DO, High BOD",25.5,3.45,7.2,4796.0,30.5,0.59,351.0,552.0,
+1319,River Amravati At 1Km D/S From Eff.Dis. Pt. At Madhuthukkulam,River,TAMIL NADU,2021,Safe,3.93,None,30.0,6.4,7.05,459.0,1.55,0.58,86.0,178.0,
+4812,River Located On The Southern Bank Of Amaravathi And Downstream Side Of Karur Dyeing Cluster,River,TAMIL NADU,2021,Safe,3.35,None,30.7,6.25,6.85,3755.0,1.5,0.42,3.5,8.0,
+4813,River Located Adjacent To Karu Msw Dump Site And On The Northern Bank Of Amaravathi And Downstream Side Of Karu Dyeing Cluster,River,TAMIL NADU,2021,Safe,5.56,None,32.15,6.4,7.05,5254.0,2.5,3.145,2.0,4.0,
+3024,"River Sarabanga At Salem, D/S Of Textile Dyeing Industries Effluent, Tamilnadu",River,TAMIL NADU,2021,Safe,6.08,None,29.0,5.4,7.6,1934.0,2.0,2.44,316.0,471.0,
+10033,River Adyar At Nandambakkam,River,TAMIL NADU,2021,Unsafe,30.17,"Low DO, High BOD",32.0,2.75,7.5,1756.5,12.5,1.31,136.0,780.0,
+10034,River Adyar At Ekkattuthangal,River,TAMIL NADU,2021,Unsafe,31.64,"Low DO, High BOD",29.0,2.35,7.1,1199.5,15.0,3.66,137.5,615.0,
+10035,River Adyar At Jaferkhanpet,River,TAMIL NADU,2021,Unsafe,30.38,"Low DO, High BOD",29.0,2.8,6.95,1220.0,15.0,3.76,255.0,705.0,
+10036,River Adyar At Maraimalai Bridge,River,TAMIL NADU,2021,Unsafe,29.62,"Low DO, High BOD",28.0,2.85,7.2,1178.0,14.0,3.16,127.5,635.0,
+10038,River Adyar At Kotturpuram Bridge,River,TAMIL NADU,2021,Unsafe,31.51,"Low DO, High BOD",27.0,2.5,7.35,3056.0,16.0,2.16,190.0,935.0,
+10039,River Adyar Near Boat Club,River,TAMIL NADU,2021,Unsafe,33.39,"Low DO, High BOD",27.0,2.1,7.4,2661.5,18.5,1.265,284.0,815.0,
+10040,River Cooum At Anna Nagar,River,TAMIL NADU,2021,Unsafe,35.81,"Low DO, High BOD, High Fecal Coliform",30.0,1.8,7.15,1552.5,99.5,0.66,509.0,1215.0,
+10041,River Cooum At Arumbakkam,River,TAMIL NADU,2021,Unsafe,36.62,"Low DO, High BOD",30.0,1.6,7.2,1546.5,165.5,5.8,492.5,1315.0,
+10042,River Cooum At Amanjikarai,River,TAMIL NADU,2021,Unsafe,39.92,"Low DO, High BOD, High Fecal Coliform",29.0,0.95,7.2,1621.0,176.5,15.31,605.0,1630.0,
+10043,River Cooum At Poonamalle,River,TAMIL NADU,2021,Unsafe,38.2,"Low DO, High BOD, High Fecal Coliform",29.0,1.5,7.4,1739.0,46.5,4.16,684.0,1835.0,
+10044,River Cooum At Collage Road,River,TAMIL NADU,2021,Unsafe,38.88,"Low DO, High BOD",28.0,0.9,7.4,1554.5,58.0,0.9,396.0,1122.5,
+10045,River Cooum Near Central Jail,River,TAMIL NADU,2021,Unsafe,41.86,"Low DO, High BOD, High Fecal Coliform",30.0,0.6,7.25,1830.5,70.0,0.72,765.0,1495.0,
+10046,River Cooum At Napier Bridge,River,TAMIL NADU,2021,Unsafe,39.22,"Low DO, High BOD, High Fecal Coliform",29.5,1.2,7.35,20718.0,94.0,1.02,689.0,1575.0,
+10059,River Vaigai At Madurai U/S,River,TAMIL NADU,2021,Safe,5.61,None,26.0,5.8,7.55,672.0,2.5,1.51,9.5,24.0,
+10060,River Vaigai At Madurai D/S,River,TAMIL NADU,2021,Safe,4.45,None,25.0,5.6,7.45,955.5,2.0,0.565,2.0,6.0,
