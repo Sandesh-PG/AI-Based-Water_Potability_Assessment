@@ -533,9 +533,20 @@ def extract_rows_from_page(page, water_body_type: str, schema: str) -> list[dict
     return rows_out
 
 
-def extract_from_pdf(pdf_path: str, year: int) -> dict[str, list]:
-    """Extract all rows from a single PDF file and return a mapping
-    state_name -> list[row_dict].
+def extract_from_pdf(
+    pdf_path: str,
+    year: int,
+    state_filter: str | None = None,
+) -> "pd.DataFrame | dict[str, list]":
+    """Extract all rows from a single PDF file.
+
+    Args:
+        pdf_path:     Path to the PDF.
+        year:         Data year to tag each row with.
+        state_filter: If provided (e.g. ``"KARNATAKA"``), only rows belonging to
+                      that state are returned as a flat ``pd.DataFrame``.
+                      If ``None``, returns a ``dict[state_name -> list[row_dict]]``
+                      containing all detected states (used by the CLI pipeline).
     """
     default_water_body_type = detect_water_body_type(pdf_path)
 
@@ -544,7 +555,9 @@ def extract_from_pdf(pdf_path: str, year: int) -> dict[str, list]:
 
     print(f"  Processing: {os.path.basename(pdf_path)} [{default_water_body_type}]")
 
+    target_state = state_filter.strip().upper() if state_filter else None
     rows_by_state: dict[str, list] = {}
+
     with pdfplumber.open(pdf_path) as pdf:
         for page_number, page in enumerate(pdf.pages, start=1):
             text = page.extract_text() or ""
@@ -559,16 +572,26 @@ def extract_from_pdf(pdf_path: str, year: int) -> dict[str, list]:
                 state = r.get("state")
                 if not state:
                     continue
+                # Skip rows that don't match the requested state
+                if target_state and state.upper() != target_state:
+                    continue
                 r["year"] = year
                 rows_by_state.setdefault(state, []).append(r)
 
     if not rows_by_state:
-        print(f"    → No state data found in PDF.")
+        print(f"    No {'Karnataka ' if target_state else ''}data found in PDF.")
     else:
         total = sum(len(v) for v in rows_by_state.values())
-        print(f"    → {total} rows extracted across {len(rows_by_state)} state(s): {', '.join(sorted(rows_by_state.keys()))}")
+        print(f"    {total} rows extracted across {len(rows_by_state)} state(s): {', '.join(sorted(rows_by_state.keys()))}")
 
+    # When a state filter is active, return a flat DataFrame (batch pipeline usage)
+    if target_state is not None:
+        karnataka_rows = rows_by_state.get(target_state, [])
+        return pd.DataFrame(karnataka_rows) if karnataka_rows else pd.DataFrame()
+
+    # Otherwise return the full dict (CLI / run_extraction usage)
     return rows_by_state
+
 
 
 # ─── Main Pipeline ────────────────────────────────────────────────────────────
@@ -576,77 +599,80 @@ def extract_from_pdf(pdf_path: str, year: int) -> dict[str, list]:
 def run_extraction(year: int, data_dir: str, out_dir: str):
     """
     Main entry point. Scans all PDFs for a given year, extracts state data,
-    merges them, and saves to a CSV.
+    merges them, and saves to a CSV. Skips states whose CSV already exists.
     """
     raw_dir = Path(data_dir) / str(year)
+    out_path = Path(out_dir)
+    out_path.mkdir(parents=True, exist_ok=True)
 
     if not raw_dir.exists():
         raise FileNotFoundError(f"Raw data directory not found: {raw_dir}")
 
     pdf_files = sorted(raw_dir.glob("*.pdf"))
     if not pdf_files:
-        # Also check for .html files (some datasets come as HTML)
         pdf_files = sorted(raw_dir.glob("*.html"))
 
     if not pdf_files:
         raise FileNotFoundError(f"No PDF files found in {raw_dir}")
 
     print(f"\n{'='*60}")
-    print(f"Extracting all states for year {year}")
-    print(f"Found {len(pdf_files)} files in {raw_dir}")
+    print(f"Checking extraction status for year {year}")
     print(f"{'='*60}")
 
-    all_dfs = []
-    # Accumulate rows per state across all PDFs
+    # OPTIONAL CHECK: If you want to check which states are already processed
+    # We can pre-scan or check state filenames inside the loop.
+    # Let's collect rows, but check before writing or skip PDF parsing if all states exist.
+    
     combined_by_state: dict[str, list] = {}
+    summaries = []
+    
+    # We will process PDFs to find states
     for pdf_path in pdf_files:
         rows_map = extract_from_pdf(str(pdf_path), year)
         for state, rows in rows_map.items():
+            # Check if this state's CSV already exists on disk for this year
+            state_filename = state.lower().replace(" ", "_").replace("&", "and")
+            target_csv = out_path / f"{state_filename}_{year}.csv"
+            
+            if target_csv.exists():
+                print(f"  ⏩ Skipping extraction for {state} ({year}): {target_csv.name} already exists.")
+                continue
+                
             combined_by_state.setdefault(state, []).extend(rows)
 
-
     if not combined_by_state:
-        print(f"\n⚠  No data found for any state in {year}.")
+        print(f"\n✨ All state files for year {year} already exist. Skipping extraction.")
         return
 
-    out_path = Path(out_dir)
-    out_path.mkdir(parents=True, exist_ok=True)
-
-    # For each detected state, create a DataFrame and save
-    summaries = []
+    # For each newly extracted state, create a DataFrame and save
     for state, rows in combined_by_state.items():
+        if not rows:
+            continue
         merged_df = pd.DataFrame(rows)
 
         # Reorder columns
         existing_cols = [c for c in FINAL_COLUMNS if c in merged_df.columns]
         merged_df = merged_df[existing_cols]
 
-        # Drop completely empty parameter rows (all params are None)
+        # Drop completely empty parameter rows
         param_cols = [c for c in existing_cols if c.endswith("_avg")]
         merged_df = merged_df.dropna(subset=param_cols, how="all")
 
-        # Normalize state name for filename
         state_filename = state.lower().replace(" ", "_").replace("&", "and")
         out_file = out_path / f"{state_filename}_{year}.csv"
         merged_df.to_csv(out_file, index=False)
 
         summaries.append((state, len(merged_df), out_file))
 
-    # Print short summary
-    print(f"\n{'='*60}")
-    total_rows = sum(n for _, n, _ in summaries)
-    print(f"✓ Done! Total rows across states: {total_rows}")
-    for state, n, path in summaries:
-        print(f"✓ {state}: {n} rows -> {path}")
-    print(f"{'='*60}\n")
-
-    # Water body breakdown sample for first state
-    first_df = pd.DataFrame(next(iter(combined_by_state.values())))
-    if "water_body_type" in first_df.columns:
-        print("Water body breakdown (sample state):")
-        print(first_df["water_body_type"].value_counts().to_string())
-        print("\nSample output:")
-        print(first_df.head(5).to_string(index=False))
+    if summaries:
+        print(f"\n{'='*60}")
+        total_rows = sum(n for _, n, _ in summaries)
+        print(f"✓ Done! Newly processed states & rows: {total_rows}")
+        for state, n, path in summaries:
+            print(f"✓ {state}: {n} rows -> {path}")
+        print(f"{'='*60}\n")
+    else:
+        print("\n✨ No new states needed processing.")
 
     return combined_by_state
 
