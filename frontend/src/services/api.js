@@ -136,6 +136,22 @@ export async function sendBatchPredict(files, year) {
   return response.json();
 }
 
+export async function addBatchToDataset(results) {
+  const response = await fetch('http://127.0.0.1:8000/batch/add-to-dataset', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ results }),
+  });
+
+  if (!response.ok) {
+    const err = await response.json().catch(() => ({}));
+    throw new Error(err.detail || 'Failed to add to dataset');
+  }
+
+  return response.json();
+}
+
+
 export async function fetchSuggestedQuestions(stationId = null, year = null, violatedParams = [], safetyStatus = null) {
   const body = {
     station_id: stationId,
@@ -153,4 +169,27 @@ export async function fetchSuggestedQuestions(stationId = null, year = null, vio
   if (!res.ok) return [];
   const payload = await res.json();
   return payload.suggestions || [];
+}
+
+export async function fetchForecastInsights(stationId, stationName, trend, pollutionScore) {
+  const prompt =
+    `Analyze the water quality at station "${stationName || stationId}". ` +
+    `The forecast shows a ${trend || 'Stable'} trend with a projected pollution score of ${pollutionScore != null ? pollutionScore.toFixed(2) : 'N/A'} out of 10. ` +
+    `Provide: (1) the most likely pollution causes at this station, (2) specific health risks for residents if water is consumed untreated, ` +
+    `and (3) a concise trend analysis with recommended actions. ` +
+    `Be specific to this station's actual parameter data. Respond in JSON only.`;
+
+  const res = await fetch('http://127.0.0.1:8000/chat/', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      message: prompt,
+      station_id: stationId,
+      history: [],
+      year: null,
+    }),
+  });
+
+  if (!res.ok) return null;
+  return res.json();
 }

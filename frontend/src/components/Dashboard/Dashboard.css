@@ -30,9 +30,40 @@
   overflow: hidden;
 }
 
-.forecast-container > * {
+.forecast-content {
   flex: 1;
   min-height: 0;
+}
+
+.forecast-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 100%;
+  min-height: 34px;
+  padding: 6px 14px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--panel-soft);
+  color: var(--text);
+  font: inherit;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.forecast-toggle:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.forecast-collapsed .map-container {
+  flex: 1;
+}
+
+.forecast-collapsed .forecast-container {
+  flex: 0 0 34px;
 }
 
 @media (max-width: 900px) {

@@ -1,4 +1,4 @@
-﻿import PropTypes from 'prop-types';
+import PropTypes from 'prop-types';
 import { useEffect, useMemo, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import AlertsPanel from '../components/Dashboard/AlertsPanel.jsx';

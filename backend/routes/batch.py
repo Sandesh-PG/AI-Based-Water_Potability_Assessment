@@ -18,6 +18,7 @@ from ml.pipeline.pollution import (
     compute_pollution_score,
     compute_safety_and_violations,
 )
+from backend.data_loader import append_to_cache
 
 router = APIRouter(prefix="/batch", tags=["batch"])
 
@@ -162,7 +163,7 @@ async def predict_batch(
             pdf_path.write_bytes(await uploaded_file.read())
 
             try:
-                extracted_df = extract_from_pdf(str(pdf_path), state_filter="KARNATAKA", year=year)
+                extracted_df = extract_from_pdf(str(pdf_path), year=year, state_filter="KARNATAKA")
             except Exception as exc:  # pragma: no cover - defensive guard for pipeline failures
                 raise HTTPException(
                     status_code=500,
@@ -220,3 +221,42 @@ async def predict_batch(
         raise HTTPException(status_code=500, detail=f"Pipeline failure: {exc}") from exc
     finally:
         shutil.rmtree(temp_dir, ignore_errors=True)
+
+
+# ── Add-to-dataset endpoint ───────────────────────────────────────────────────
+
+class AddToDatasetRequest(BaseModel):
+    """Body for POST /batch/add-to-dataset."""
+    results: list[dict]
+
+
+@router.post(
+    "/add-to-dataset",
+    responses={
+        400: {"description": "No results provided"},
+        500: {"description": "Merge failure"},
+    },
+)
+def add_to_dataset(body: AddToDatasetRequest) -> dict:
+    """Merge batch results into the running in-memory dataset.
+
+    The data immediately becomes visible to /locations/, /stats/overview, and
+    all other API routes for this server process.  No file is written — on
+    the next server restart the cache reloads from the original CSV only,
+    so the added rows are automatically discarded.
+    """
+    if not body.results:
+        raise HTTPException(status_code=400, detail="No results to add")
+
+    try:
+        new_df = pd.DataFrame(body.results)
+        added = append_to_cache(new_df)
+        return {
+            "added": added,
+            "message": (
+                f"Added {added} rows to the in-memory dataset. "
+                "Visible on Map and Dashboard until server restart."
+            ),
+        }
+    except Exception as exc:
+        raise HTTPException(status_code=500, detail=f"Merge failed: {exc}") from exc

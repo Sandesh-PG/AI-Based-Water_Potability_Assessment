@@ -39,3 +39,21 @@ def get_data() -> pd.DataFrame:
 
 	return df
 
+
+def append_to_cache(new_df: pd.DataFrame) -> int:
+	"""Merge new_df into the running in-memory cache (no disk write).
+
+	The added rows are visible to all API endpoints for the lifetime of this
+	server process.  When the server restarts the cache is cold and only the
+	original CSV is loaded — so the data is automatically discarded.
+
+	Returns the number of rows actually appended.
+	"""
+	global df
+	base = get_data()          # ensure the base data is loaded first
+	df = pd.concat([base, new_df], ignore_index=True)
+	print(f"[data_loader] In-memory append: +{len(new_df)} rows "
+	      f"(total={len(df)}, ephemeral — resets on restart)")
+	return len(new_df)
+
+# coords patched: 15 stations now geocoded (2026-06-16)

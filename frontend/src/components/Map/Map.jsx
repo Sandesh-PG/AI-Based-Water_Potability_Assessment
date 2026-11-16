@@ -87,7 +87,13 @@ function WaterQualityMap({ locations = [], selectedLocationId, onLocationSelect 
         lon: Number(location.lon),
       }));
 
-    return Array.from(new Map(normalized.map((item) => [item.id, item])).values());
+    const unique = Array.from(new Map(normalized.map((item) => [item.id, item])).values());
+
+    // Render Safe (green) dots last so they appear on top of Unsafe (red) dots
+    return [
+      ...unique.filter((l) => l.safety_label !== 'Safe'),
+      ...unique.filter((l) => l.safety_label === 'Safe'),
+    ];
   }, [locations]);
 
   useEffect(() => {
@@ -107,12 +113,16 @@ function WaterQualityMap({ locations = [], selectedLocationId, onLocationSelect 
         zoomControl={true}
         attributionControl={true}
       >
-        <TileLayer
+        {/* <TileLayer
           url="https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png"
           attribution='&copy; <a href="https://carto.com/">CARTO</a>'
           maxZoom={19}
+        /> */}
+        <TileLayer
+          url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+          attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+          maxZoom={19}
         />
-
         {uniqueLocations.map((location) => (
           <Marker
             key={location.id}
@@ -121,6 +131,7 @@ function WaterQualityMap({ locations = [], selectedLocationId, onLocationSelect 
               String(location.id) === String(selectedLocationId),
               location.safety_label,
             )}
+            zIndexOffset={location.safety_label === 'Safe' ? 1000 : 0}
             eventHandlers={
               onLocationSelect
                 ? {

@@ -1,7 +1,7 @@
 from __future__ import annotations
 from dotenv import load_dotenv
 from pathlib import Path
-load_dotenv(Path(__file__).resolve().parents[2] / "ml" / "analysis" / ".env")
+load_dotenv(Path(__file__).resolve().parents[1] / ".env")
 
 import json
 from typing import Any

@@ -1,5 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
-import { sendBatchPredict } from '../services/api.js';
+import PropTypes from 'prop-types';
+import { sendBatchPredict, addBatchToDataset } from '../services/api.js';
+import { useBatch } from '../contexts/BatchContext.jsx';
 import './BatchView.css';
 
 const YEAR_MIN = 2016;
@@ -73,24 +75,48 @@ function buildCsv(rows) {
   ].join('\n');
 }
 
-function BatchView() {
+function BatchView({ onDatasetUpdated }) {
   const fileInputRef = useRef(null);
-  const [year, setYear] = useState('2022');
+
+  // Persistent state (survives navigation) via BatchContext
+  const {
+    results, setResults,
+    summary, setSummary,
+    fileMeta, setFileMeta,
+    year, setYear,
+    error, setError,
+    addedToDataset, setAddedToDataset,
+    clearAll,
+  } = useBatch();
+
+  // File objects must stay in local state — they can't be serialized.
+  // We restore display from fileMeta (name/valid/warning) on remount.
   const [files, setFiles] = useState([]);
   const [warning, setWarning] = useState('');
   const [loading, setLoading] = useState(false);
+  const [addingToDataset, setAddingToDataset] = useState(false);
   const [stageIndex, setStageIndex] = useState(0);
-  const [error, setError] = useState('');
-  const [results, setResults] = useState([]);
-  const [summary, setSummary] = useState({ totalRows: 0, safeCount: 0, unsafeCount: 0, geocodedCount: 0 });
   const [guideOpen, setGuideOpen] = useState(false);
+
+  // Restore file display from context metadata on remount
+  useEffect(() => {
+    if (fileMeta.length > 0 && files.length === 0) {
+      // Show names from last session as display-only entries (no File object)
+      setFiles(fileMeta.map((m) => ({ file: { name: m.name }, valid: m.valid, warning: m.warning, restored: true })));
+    }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   const stageMessages = useMemo(
     () => ['Extracting data from PDFs...', 'Computing pollution scores...', 'Geocoding locations...'],
     [],
   );
 
-  const validFiles = useMemo(() => files.filter((entry) => entry.valid).map((entry) => entry.file), [files]);
+  // Files that have a real File object (not restored display entries)
+  const validFiles = useMemo(
+    () => files.filter((entry) => entry.valid && !entry.restored).map((entry) => entry.file),
+    [files],
+  );
   const canRun = Boolean(year) && validFiles.length > 0 && !loading;
 
   useEffect(() => {
@@ -115,13 +141,19 @@ function BatchView() {
         warning: valid
           ? ''
           : `Invalid filename: ${file.name}. Must match the NWMP naming convention for year ${year}.`,
+        restored: false,
       };
     });
 
     setFiles((current) => {
-      const existingNames = new Set(current.map((entry) => entry.file.name));
+      // Replace any restored (display-only) entry with a real File entry
+      const withoutRestored = current.filter((e) => !e.restored);
+      const existingNames = new Set(withoutRestored.map((entry) => entry.file.name));
       const uniqueNewEntries = nextEntries.filter((entry) => !existingNames.has(entry.file.name));
-      return [...current, ...uniqueNewEntries];
+      const next = [...withoutRestored, ...uniqueNewEntries];
+      // Persist metadata to context
+      setFileMeta(next.map((e) => ({ name: e.file.name, valid: e.valid, warning: e.warning })));
+      return next;
     });
 
     const invalid = nextEntries.filter((entry) => !entry.valid);
@@ -147,7 +179,11 @@ function BatchView() {
   };
 
   const handleRemoveFile = (fileName) => {
-    setFiles((current) => current.filter((entry) => entry.file.name !== fileName));
+    setFiles((current) => {
+      const next = current.filter((entry) => entry.file.name !== fileName);
+      setFileMeta(next.map((e) => ({ name: e.file.name, valid: e.valid, warning: e.warning })));
+      return next;
+    });
     setWarning('');
     setError('');
   };
@@ -177,6 +213,26 @@ function BatchView() {
     } finally {
       setLoading(false);
     }
+  };
+
+  const handleAddToDataset = async () => {
+    if (!results.length || addedToDataset || addingToDataset) return;
+    setAddingToDataset(true);
+    try {
+      await addBatchToDataset(results);
+      setAddedToDataset(true);
+      if (typeof onDatasetUpdated === 'function') onDatasetUpdated();
+    } catch (err) {
+      setError(err instanceof Error ? err.message : 'Failed to add to dataset.');
+    } finally {
+      setAddingToDataset(false);
+    }
+  };
+
+  const handleNewAnalysis = () => {
+    clearAll();
+    setFiles([]);
+    setWarning('');
   };
 
   const handleExportCsv = () => {
@@ -287,10 +343,31 @@ function BatchView() {
         <section className="batch-results-section">
           <div className="batch-results-header">
             <h2 className="batch-results-title">Results</h2>
-            <button type="button" className="batch-secondary-btn" onClick={handleExportCsv}>
-              Export CSV
-            </button>
+            <div className="batch-results-actions">
+              <button type="button" className="batch-secondary-btn" onClick={handleExportCsv}>
+                Export CSV
+              </button>
+              <button
+                type="button"
+                className={`batch-primary-btn batch-add-btn ${addedToDataset ? 'added' : ''}`}
+                onClick={handleAddToDataset}
+                disabled={addedToDataset || addingToDataset}
+              >
+                {addingToDataset ? 'Adding…' : addedToDataset ? '✓ Added to Map' : '＋ Add to Map & Dashboard'}
+              </button>
+              {addedToDataset && (
+                <button type="button" className="batch-secondary-btn" onClick={handleNewAnalysis}>
+                  Run New Analysis
+                </button>
+              )}
+            </div>
           </div>
+
+          {addedToDataset && (
+            <div className="batch-added-banner">
+              ✓ Data added to Map and Dashboard for this session. Resets automatically on server restart.
+            </div>
+          )}
 
           <div className="batch-summary-grid">
             <div className="batch-summary-card">
@@ -380,5 +457,7 @@ function BatchView() {
     </section>
   );
 }
+
+BatchView.propTypes = {};
 
 export default BatchView;

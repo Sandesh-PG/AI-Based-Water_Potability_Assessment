@@ -147,9 +147,11 @@ A system that transforms raw water quality data into meaningful insights, enabli
 - Run backend API (FastAPI):
 
 ```bash
-cd backend
-uvicorn app.main:app --reload --port 8000
+uvicorn backend.main:app --reload --port 8000
 ```
+
+Run this command from the repository root so Python can resolve the
+`backend` package.
 
 - Run frontend (Vite/React):
 
@@ -171,4 +173,3 @@ npm run dev
 ## Contact
 
 - Maintainer: Project team (add email or GitHub handle)
-

@@ -126,6 +126,9 @@ def overview(year: Annotated[int | None, Query()] = None) -> OverviewStats:
         .last()
     )
 
+    # Only count stations that are actually visible on the map (have geocoordinates)
+    latest_per_station = latest_per_station.dropna(subset=["latitude", "longitude"])
+
     (
         total_stations,
         safe_count,

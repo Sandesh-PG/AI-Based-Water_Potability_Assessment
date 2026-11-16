@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import PropTypes from 'prop-types';
 import WaterQualityMap from '../Map/Map.jsx';
 import Forecast from '../Forecast/Forecast.jsx';
@@ -13,8 +14,10 @@ function Dashboard({
   theme,
   onThemeToggle,
 }) {
+  const [isForecastOpen, setIsForecastOpen] = useState(true);
+
   return (
-    <main className="app-main" data-theme={theme}>
+    <main className={`app-main ${isForecastOpen ? '' : 'forecast-collapsed'}`} data-theme={theme}>
       <Topbar
         selectedLocation={selectedLocation}
         locationsLoading={locationsLoading}
@@ -32,7 +35,20 @@ function Dashboard({
       </div>
 
       <div className="forecast-container">
-        <Forecast selectedLocationId={selectedLocationId} />
+        <button
+          type="button"
+          className="forecast-toggle"
+          aria-expanded={isForecastOpen}
+          onClick={() => setIsForecastOpen((open) => !open)}
+        >
+          <span>{isForecastOpen ? 'Hide Forecast' : 'Show Forecast'}</span>
+          <span aria-hidden="true">{isForecastOpen ? '⌄' : '⌃'}</span>
+        </button>
+        {isForecastOpen && (
+          <div className="forecast-content">
+            <Forecast selectedLocationId={selectedLocationId} />
+          </div>
+        )}
       </div>
     </main>
   );
