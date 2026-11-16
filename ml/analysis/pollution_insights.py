@@ -8,7 +8,9 @@ Groq (llama3-8b-8192) to produce structured JSON with:
 
 from __future__ import annotations
 from dotenv import load_dotenv
-load_dotenv()
+from pathlib import Path
+
+load_dotenv(Path(__file__).resolve().parents[2] / "backend" / ".env")
 
 import json
 import os
@@ -23,7 +25,7 @@ except ImportError:
     from rag_pipeline import query_knowledge_base
 
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
-GROQ_MODEL = "llama-3.1-8b-instant"
+GROQ_MODEL = "llama-3.3-70b-versatile"
 
 
 def _normalize_violated_params(violated_params: str | list[str]) -> list[str]:
